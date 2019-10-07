@@ -58,7 +58,6 @@ Full assignment criteria covered in later lectures
 <!doctype>
 <html>
   <head>
-    <!-- stuff for the browser -->
     <title>my page name</title>
     <!-- get CSS in head section before page load: -->
     <link rel="stylesheet" href="mystyles.css">
@@ -115,7 +114,7 @@ get input from others with an online tool:
 
 at the next stage, you will use **HTML5 tags** to **mark up** the basic areas for:
 
-- each **kind** of page you have or…
+- each **kind** of page you have or...
 - for one long **scrolling** page
 
 ---
@@ -129,7 +128,7 @@ inside the `body` tag, use **HTML5 semantic tags** ([read more at W3Schools](htt
 - `main`
 - `footer` (optional)
 
-*avoid div tags* and don’t make up tags!
+*avoid div tags* and don't make up tags!
 
 HTML5 semantic tags for **content** come later
 
@@ -151,7 +150,7 @@ CSS **media queries** can respond to many factors:
 - speech
 - hover
 - light-level
-- many more…
+- many more...
 
 Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
@@ -188,17 +187,17 @@ do **general** and **mobile** styles first, at the top
 your CSS file should be arranged like this e.g.:
 
 ```css
-/* all general/mobile styles first… */
+/* all general/mobile styles first... */
 
 body { background: rgb(220,230,210); }
 a:link, a:visisted { color: #003; }
-/* etc… */
+/* etc... */
 
 /* first breakpoint above mobile */
 
 @media only screen and (min-width: 600px) {
   a:hover { color: #225; }
-  /* override mobile styles here…
+  /* override mobile styles here...
   and set styles for larger widths */
 }
 ```
