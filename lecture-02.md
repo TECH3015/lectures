@@ -187,13 +187,13 @@ do **general** and **mobile** styles first, at the top
 your CSS file should be arranged like this e.g.:
 
 ```css
-/* all general/mobile styles first... */
+/* all general/mobile styles first: */
 
 body { background: rgb(220,230,210); }
 a:link, a:visisted { color: #003; }
 /* etc... */
 
-/* first breakpoint above mobile */
+/* first breakpoint above mobile: */
 
 @media only screen and (min-width: 600px) {
   a:hover { color: #225; }
@@ -216,7 +216,7 @@ What do you want to cover next week? E.g.
 
 - design sketches and wireframes
 - CSS flexbox and grid
-- more o media queries Repsonsive Web Design (RWD)
+- more on media queries/Responsive Web Design
 - CSS animation
 - JavaScript ES6 syntax
 - Progressive Web Apps (PWAs)
