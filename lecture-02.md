@@ -79,7 +79,7 @@ gather all the **content** for your site:
 
 - images
 - movies
-- text
+- text (see [Writing for the Web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html))
 - audio
 - choosing data from APIs
 
@@ -103,11 +103,11 @@ Resources from [usability.gov](https://www.usability.gov/):
 
 ## Planning your site 03
 
-you can get input from others with an online tool:
+get input from others with an online tool:
 
-[Online card sorting software](https://www.optimalworkshop.com/optimalsort)
+[Online card sorting software](https://www.optimalworkshop.com/optimalsort): [free plan](https://www.optimalworkshop.com/register)
 
-sign up to the [free plan](https://www.optimalworkshop.com/register)
+- [Card Sorting (usability.gov)](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
 ---
 
