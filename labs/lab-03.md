@@ -1,6 +1,6 @@
 # TECH3015 Lab 3
 
-![alt](imgs/html-css-js-500.png)
+![alt](/imgs/html-css-js-500.png)
 
 ---
 
