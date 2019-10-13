@@ -1,6 +1,6 @@
 # TECH3015 Lab 3
 
-![alt](/imgs/html-css-js-500.png)
+![alt](https://github.com/DaveEveritt/TECH3015/blob/master/imgs/html-css-js-500.png)
 
 ---
 
