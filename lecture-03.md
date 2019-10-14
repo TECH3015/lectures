@@ -226,9 +226,7 @@ the information backbone of a website:
 ## IA: 08
 <!-- .slide: class="crammed" -->
 
-What is Architecture?
-
-Condensed from Cal Henderson, [Building Scalable Web Sites](http://shop.oreilly.com/product/9780596102357.do) (2006)
+What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http://shop.oreilly.com/product/9780596102357.do))
 
 > **if buildings were like software**, the architect would be involved in the actual building process, from … foundations … to … fixtures. …starting with a couple of rooms and basic amenities, **people would… start living there before the building was complete**. When the building work was about to finish …more people would turn up and start living there, too.
 
