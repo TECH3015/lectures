@@ -250,6 +250,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ---
 
 ## IA 09
+<!-- .slide: class="left-align" -->
 
 Minimize effort
 
