@@ -250,13 +250,13 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ---
 
 ## IA 09
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="smalltext left-align" -->
 
 Minimize effort
 
-We're **not going to get anything right first time**. In the [scaling](https://www.nngroup.com/articles/scaling-user-interfaces/ "Scaling User Interfaces: An Information-Processing Approach to Multi-Device Design") of a typical application, **every aspect and feature** is probably going to be **revisited and [refactored](http://www.refactoring.com/ "a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior")**.
-
-That's fine—the task of an application architect is to **minimize the time it takes to [refactor](https://sourcemaking.com/refactoring "A big site about refactoring") each component**, through **careful initial and ongoing design**.
+> You're **not going to get everything right first time**. In the [scaling](https://www.nngroup.com/articles/scaling-user-interfaces/ "Scaling User Interfaces: An Information-Processing Approach to Multi-Device Design") of a typical website, **every aspect and feature** is probably going to be **revisited and [refactored](http://www.refactoring.com/ "a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior")**.
+> 
+> That's fine—the task of an application architect is to **minimize the time it takes to [refactor](https://sourcemaking.com/refactoring "A big site about refactoring") each component**, through **careful initial and ongoing design**.
 
 <!-- INFORMATION ARCHITECTURE END -->
 
