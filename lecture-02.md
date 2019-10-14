@@ -190,7 +190,7 @@ your CSS file should be arranged like this e.g.:
 /* all general/mobile styles first: */
 
 body { background: rgb(220,230,210); }
-a:link, a:visisted { color: #003; }
+a:link, a:visited { color: #003; }
 /* etc... */
 
 /* first breakpoint above mobile: */
