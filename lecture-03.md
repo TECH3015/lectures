@@ -70,6 +70,7 @@ Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-
 ---
 
 ## Accessibility 03
+<!-- .slide: class="crammed" -->
 
 **Accessibility** was **built into the web from the start**  
 W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php)
