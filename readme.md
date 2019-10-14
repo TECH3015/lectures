@@ -6,3 +6,4 @@ Presentations slides are can be found here:
 
 - [Lecture 1](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-01)
 - [Lecture 2](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-02)
+- [Lecture 3](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-03)
