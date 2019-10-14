@@ -270,20 +270,27 @@ questions?
 
 ## Wireframes 01
 
-## **MOBILE FIRST** DESIGN
+Content Preparation
 
-- assemble your **content** in a separate folder
+- assemble raw **content** in a separate folder
 - store written content in **plain text files**
 - keep **unsized images** outside your web folder
-- design your **mobile screens** first
-- **think visually** before diving into code
 - **map your content** onto your wireframes
-- let your content form the **menu structure**
-- how will **users navigate** through your site?
 
 ---
 
-<!--  .slide class="big-pic small-head crammed" -->
+## Wireframes 02
+
+Mobile First Design
+
+- design your **mobile screens** first
+- let your content form the **menu structure**
+- how will **users navigate** through your site?
+- **think visually** before diving into code
+
+---
+
+<!-- .slide class="big-pic crammed" -->
 
 From simple **hand-drawn sketches**…
 
@@ -304,7 +311,8 @@ To complete **visual mock-ups**…
 
 ---
 
-## Wireframes 02
+<!-- .slide: class="crammed" -->
+## Wireframes 03
 
 Useful wireframe references - view the top one first:
 
