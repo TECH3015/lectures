@@ -265,31 +265,31 @@ questions?
 - let your content form the **menu structure**
 - how will **users navigate** through your site?
 
----
+<section data-markdown class="big-pic small-head crammed">
 
 From simple **hand-drawn sketches**…
 
-![sketches of mobile wireframes](images/sketched-wireframes-01.png)
+![sketches of mobile wireframes](https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/sketched-wireframes-01.png)
 
----
+</section>
 
-![sketches of mobile wireframes](images/sketched-wireframes-02.jpg)
+![sketches of mobile wireframes](https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/sketched-wireframes-02.jpg)
 
 ---
 
 To complete **visual mock-ups**…
 
-![digital mobile wireframes](images/mobile-wireframe-userflow-01.jpg)
+![digital mobile wireframes](https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/mobile-wireframe-userflow-01.jpg)
 
 ---
 
 …for **complex interfaces** in fine detail
 
-![digital mobile wireframes](images/mobile-wireframe-userflow-02.jpg)
+![digital mobile wireframes](https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/mobile-wireframe-userflow-02.jpg)
 
 ---
 
-# Wireframes 07
+# Wireframes 02
 
 Useful wireframe references - view the top one first:
 
@@ -302,9 +302,11 @@ Useful wireframe references - view the top one first:
 
 **DO NOT** be tempted by any "website template" adverts!! Templates (and "build a responsive website" tutorials) may look fine, but **will not produce a good project**. Your **own code** is more impressive :-)
 
+<!-- WIREFRAMES END -->
+
 ---
 
-## Wirefrsmes
+## Wireframes
 
 questions?
 
