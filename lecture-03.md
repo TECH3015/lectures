@@ -202,14 +202,8 @@ Information Architecture uses **Cognitive Psychology**
 	<li><strong>Context</strong>: business model, aim of website, cultural background, constraints</li>
 </ul>
 
----
 
-## Classic Information Architecture infographic by Louis Rosenfeld
-
-<!-- .slide: 
-data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" 
-data-background-size="70%" -->
-
+<section title="Classic Informaiton Architecture infographic by Louis Rosenfeld" data-background-image="images/ia/rosenfeld-users-content-context.png" data-background-size="80%"><div>&nbsp;</div></section>
 
 ---
 
