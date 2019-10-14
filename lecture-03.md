@@ -50,7 +50,7 @@ Full assignment criteria covered in later lectures
 
 <!-- ACCESSIBILITY: SHARED CTEC3905.04/MEDS2007.02 -->
 
-# Accessibility 01
+## Accessibility 01
 
 > “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect”
 
@@ -59,7 +59,7 @@ Tim Berners-Lee (1997)
 
 ---
 
-# Accessibility 02
+## Accessibility 02
 
 > **the web is a mess**… accessibility options tend to be forgotten or stripped away, …though accessible websites and apps can… still be beautiful, innovative… user-friendly.
 >
@@ -69,7 +69,7 @@ Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-
 
 ---
 
-# Accessibility 03
+## Accessibility 03
 
 **Accessibility** was **built into the web from the start**  
 W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php)
@@ -81,7 +81,7 @@ The **Disability Equality Act (2010)** is law—you could be [sued for discrimin
 
 ---
 
-# Accessibility 04
+## Accessibility 04
 
 How you can address **web access**:
 
@@ -94,7 +94,7 @@ How you can address **web access**:
 
 ---
 
-# Accessibility 05
+## Accessibility 05
 
 Resources and research
 
@@ -107,14 +107,14 @@ Resources and research
 
 <!-- INFORMATION ARCHITECTURE: SHARED CTEC3905.04/MEDS2007.02 -->
 
-# Information Architecture (IA): 01
+## Information Architecture (IA): 01
 
 > If you’ve ever tried to use something and thought, “where am I supposed to go next?” or “this doesn’t make any sense,” you are encountering an issue with an information architecture.  
 —[What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 
 ---
 
-# IA: 02
+## IA: 02
 
 Information Architecture is:
 
@@ -138,7 +138,7 @@ Known as <em>The Polar Bear Book</em> it is considered to be <strong>the</strong
 
 ---
 
-# IA: 04
+## IA: 04
 
 Information Architecture has origins in **library science**
 
@@ -186,7 +186,7 @@ Information Architecture uses **Cognitive Psychology** research
 	}
 </style>
 
-<h1>IA: 06</h1>
+<h2>IA: 06</h2>
 
 <div class="ia-diagram">
 	<div style="left: 76px; top: 8px; background: rgba(256,100,100,0.5); line-height: 170px;">Users</div>
@@ -212,7 +212,7 @@ data-background-size="70%" -->
 
 ---
 
-# IA: 07
+## IA: 07
 
 ## the information backbone of a website
 
@@ -227,7 +227,7 @@ Jennifer Cardello: [The Difference Between IA and Navigation](https://www.nngrou
 
 ---
 
-# IA: 08
+## IA: 08
 
 ## What is Architecture?
 
@@ -268,7 +268,7 @@ questions?
 
 <!-- WIREFRAMES: SHARED CTEC3905.04/MEDS2007.02 -->
 
-# Wireframes 01
+## Wireframes 01
 
 ## **MOBILE FIRST** DESIGN
 
@@ -305,7 +305,7 @@ To complete **visual mock-ups**…
 
 ---
 
-# Wireframes 02
+## Wireframes 02
 
 Useful wireframe references - view the top one first:
 
