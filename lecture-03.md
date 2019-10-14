@@ -244,8 +244,11 @@ The key… is **planning for all this from the start**. If thean architect start
 
 If extending our house (website) takes too long, **people might move elsewhere**. We need start at the right scale and design things to be **extended as easily as possible**.
 
+---
 
-## Minimize effort
+## IA 09
+
+Minimize effort
 
 We're **not going to get anything right first time**. In the [scaling](https://www.nngroup.com/articles/scaling-user-interfaces/ "Scaling User Interfaces: An Information-Processing Approach to Multi-Device Design") of a typical application, **every aspect and feature** is probably going to be **revisited and [refactored](http://www.refactoring.com/ "a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior")**.
 
