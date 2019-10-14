@@ -208,7 +208,11 @@ Information Architecture uses **Cognitive Psychology** research
 <!-- .slide: 
 data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" -->
 
-<!-- .slide: style="background-size:cover" -->
+<style>
+  .slide {
+    background-size: cover;
+  }
+</style>
 
 ---
 
