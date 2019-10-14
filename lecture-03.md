@@ -159,6 +159,8 @@ Information Architecture has origins in **library science**
 
 So it's a kind of cognitive and visual **data structure**
 
+---
+
 <section class="crammed">
 <h2>IA: 05</h2>
 
@@ -172,6 +174,8 @@ Information Architecture uses **Cognitive Psychology** research
 
 [Complete Beginners Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/ "A summary of the above findings")
 </section>
+
+---
 
 <style>
 	.ia-diagram {
