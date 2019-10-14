@@ -38,15 +38,6 @@ Full assignment criteria covered in later lectures
 
 ---
 
-## Handbook: update still coming!
-
-don't worry, marking criteria will be in a coming lecture
-
-- [link on BlackBoard](https://thomcorah.github.io/dmu-multimedia/tech3015/module-handbook.html)
-- see reading/resources list
-
----
-
 ## Where we are
 
 - web programming refreshers
@@ -61,18 +52,6 @@ don't worry, marking criteria will be in a coming lecture
 
 # Accessibility 01
 
-> Whatever your needs or preferences, there’s almost certainly a way to access the web. **Theoretically**.
-
-> In reality, **the web is a mess**… accessibility options tend to be forgotten or stripped away, …though accessible websites and apps can… still be beautiful, innovative… user-friendly.
->
-> …**This is a human rights issue**. Disabled people *need* these options in order to access the web.”
-
-Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32)  
-
----
-
-# Accessibility 02
-
 > “The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect”
 
 Tim Berners-Lee (1997)  
@@ -80,9 +59,19 @@ Tim Berners-Lee (1997)
 
 ---
 
+# Accessibility 02
+
+> **the web is a mess**… accessibility options tend to be forgotten or stripped away, …though accessible websites and apps can… still be beautiful, innovative… user-friendly.
+>
+> …**This is a human rights issue**. Disabled people *need* these options in order to access the web.”
+
+Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32)  
+
+---
+
 # Accessibility 03
 
-**Accessibility** has been **built into the web from the start**  
+**Accessibility** was **built into the web from the start**  
 W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php)
 
 > “the **duty to make reasonable adjustments** requires providers to **ensure disabled people can access services**. Service providers should **anticipate the needs** of potential disabled customers…”  
@@ -96,12 +85,12 @@ The **Disability Equality Act (2010)** is law—you could be [sued for discrimin
 
 How you can address **web access**:
 
-- Code accessibly, from `alt` image attributes to **semantic structure**
+- accessible code from `alt` image attributes to **semantic structure**
 - needs **incorporating from the start** of a project
-- Good **IA and navigation** help accessibility
+- good **IA and navigation** help accessibility
 - HTML5 **semantic elements** are crucial
 - **valid HTML5** code is important
-- Use **[form field types](https://www.w3schools.com/html/html_form_input_types.asp)** and the `label` tag
+- use **[form field types](https://www.w3schools.com/html/html_form_input_types.asp)** and the `label` tag
 
 ---
 
@@ -113,7 +102,6 @@ Resources and research
 - [Accessible Rich Internet Applications (ARIA)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see the [1st to 5th](https://www.w3.org/TR/using-aria/#rule1) rules!
 - [How to Use ARIA Effectively with HTML5](https://www.sitepoint.com/how-to-use-aria-effectively-with-html5/)
-
 
 ---
 
@@ -128,10 +116,10 @@ Resources and research
 
 # IA: 02
 
-## What is **Information Architecture**?
+Information Architecture is:
 
-- The **art and science** of structuring and classifying websites/intranets/apps to help people find and manage information
-- A **discipline** and community of practice bringing principles of design and architecture to online development
+- the **art and science** of structuring and classifying websites/intranets/apps to help people find and manage information
+- a **discipline** and community of practice bringing principles of design and architecture to online development
 
 Entire university courses cover Information Architecture—[search for "library science and information architecture"](https://www.google.co.uk/search?q=librry+science+and+information+archtectre&oq=librry+science+and+information+archtectre&aqs=chrome..69i57.7711j0j7&sourceid=chrome&ie=UTF-8#q=library+science+and+information+architecture)
 
