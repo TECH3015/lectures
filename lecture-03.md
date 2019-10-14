@@ -209,7 +209,7 @@ Information Architecture uses **Cognitive Psychology**
 
 ## IA: 07
 
-## the information backbone of a website
+the information backbone of a website:
 
 - **Content inventory/audit**  
 	locate and identify and check site content
@@ -224,7 +224,7 @@ Jennifer Cardello: [The Difference Between IA and Navigation](https://www.nngrou
 
 ## IA: 08
 
-## What is Architecture?
+What is Architecture?
 
 Condensed from Cal Henderson, [Building Scalable Web Sites](http://shop.oreilly.com/product/9780596102357.do) (2006)
 
