@@ -206,12 +206,6 @@ Information Architecture uses **Cognitive Psychology**
 <!-- .slide class="crammed nopadding" -->
 ![Classic Informaiton Architecture infographic by Louis Rosenfeld](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png)<!-- .element: class="nomargin" -->
 
-
-![Classic Informaiton Architecture infographic by Louis Rosenfeld](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png)<!-- .element: class="stretch" -->
-
-
-<!-- .slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="contain" -->
-
 ---
 
 ## IA: 07
@@ -256,7 +250,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ---
 
 ## IA 09
-<!-- .slide: class="smalltext" -->
+<!-- .slide: class="crammed" -->
 
 Minimize effort
 
