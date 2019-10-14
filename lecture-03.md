@@ -231,6 +231,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 > **if buildings were like software**, the architect would be involved in the actual building process, from … foundations … to … fixtures. …starting with a couple of rooms and basic amenities, **people would… start living there before the building was complete**. When the building work was about to finish …more people would turn up and start living there, too.
 
 
+<!-- .slide: class="crammed" -->
 ## Building around users
 
 > …new residents need **new features**. The architect would design these, augmenting the original design. But the **current residents** would **continue using the house** while it was extended, all the time complaining about the building work.
@@ -238,6 +239,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 > In fact… **more people would move in** while extensions were being built. When the modifications were complete, the the newcomers would **request more changes**.
 
 
+<!-- .slide: class="crammed" -->
 ## Plan from the start
 
 > The key… is **planning for all this from the start**. If thean architect started out by building a huge, complex house, it would be **overkill**. By the time it was ready, the residents **would have gone elsewhere** to live in a smaller house built in a fraction of the time.
