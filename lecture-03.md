@@ -130,7 +130,7 @@ Entire university courses cover Information Architecture—[search for "library 
 
 <img style="float:left;" src="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/information-architecture-book.jpg" alt="Information Architecture book cover">
 
-<p style="width: 58%; float: right; margin-top: .2em;">In 1998 Peter Morville and co-author Louis Rosenfeld wrote <a href="https://wordery.com/information-architecture-louis-rosenfeld-9781491911686?currency=GBP" title="Cheapest copy of 'Information Architecture' we could find">Information Architecture for the World Wide Web</a>
+<p style="width: 58%; float: right; margin-top: .2em;">In 1998 Peter Morville and co-author Louis Rosenfeld wrote <a href="https://www.amazon.co.uk/Information-Architecture-Beyond-Louis-Rosenfeld/dp/1491911689/">Information Architecture for the World Wide Web</a>
 <br>
 (4th edition 2015)
 <br>
@@ -201,6 +201,9 @@ Information Architecture uses **Cognitive Psychology**
 	<li><strong>Content</strong>: volume, format, metadata, structure, labels (e.g. menus)</li>
 	<li><strong>Context</strong>: business model, aim of website, cultural background, constraints</li>
 </ul>
+
+
+<!-- .slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="contain" -->
 
 
 <!-- .slide class="crammed nopadding" -->
