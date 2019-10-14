@@ -148,18 +148,18 @@ Information Architecture has origins in **library science**
 
 So it's a kind of cognitive and visual **data structure**
 
+…now pick a number from one to 10…
+
 ---
 
 ## IA: 05
-<!-- .slide: class="crammed smalltext" -->
+<!-- .slide: class="crammed" -->
 
 Information Architecture uses **Cognitive Psychology**
 
-- **Cognitive load**: how much information we can process at any time—avoiding information overload ([rule of 7](http://neuromavin.com/cognitive-limits-social-networks-and-dunbars-number/)).
+- **Cognitive load**: how much information we can process at any time—avoiding information overload ([rule of 7](http://neuromavin.com/cognitive-limits-social-networks-and-dunbars-number/), [The Magical Number Seven… George A. Miller (1956)](http://psychclassics.yorku.ca/Miller/ "…Plus or Minus Two: Some Limits on our Capacity for Processing Information. A classic text.")).
 - **Mental models**: the assumptions users have—information is easier to discover in familiar places.
 - **Decision making**: the cognitive process of making a choice or selecting an option—IA helps make decisions by providing contextual information at key points.
-
-[The Magical Number Seven… George A. Miller (1956)](http://psychclassics.yorku.ca/Miller/ "…Plus or Minus Two: Some Limits on our Capacity for Processing Information. A classic text.")
 
 [Complete Beginners Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/ "A summary of the above findings")
 
@@ -218,7 +218,8 @@ the information backbone of a website:
 - **Taxonomy development**  
 	a controlled vocabulary throughout  
 
-[The Difference Between IA and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)—Jennifer Cardello
+[The Difference Between IA and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)  
+—Jennifer Cardello
 
 ---
 
