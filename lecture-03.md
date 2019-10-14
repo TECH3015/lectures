@@ -139,7 +139,7 @@ Entire university courses cover Information Architecture—[search for "library 
 
 <h2>IA: 03 - How did <strong>IA</strong> begin?</h2>
 
-<img style="float:left;" src="https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/information-architecture-book.jpg" alt="Information Architecture book cover">
+<img style="float:left;" src="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/information-architecture-book.jpg" alt="Information Architecture book cover">
 
 <p style="width: 58%; float: right; margin-top: .2em;">In 1998 Peter Morville and co-author Louis Rosenfeld wrote <a href="https://wordery.com/information-architecture-louis-rosenfeld-9781491911686?currency=GBP" title="Cheapest copy of 'Information Architecture' we could find">Information Architecture for the World Wide Web</a>
 <br>
@@ -214,7 +214,7 @@ Information Architecture uses **Cognitive Psychology** research
 
 ---
 
-<section title="Classic Information Architecture infographic by Louis Rosenfeld" data-background-image="https://github.com/DaveEveritt/TECH3015/blob/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="800px"><div>&nbsp;</div></section>
+<section title="Classic Information Architecture infographic by Louis Rosenfeld" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="800px"><div>&nbsp;</div></section>
 
 ---
 
