@@ -149,8 +149,8 @@ So it's a kind of cognitive and visual **data structure**
 
 ---
 
-<section class="crammed">
-<h2>IA: 05</h2>
+## IA: 05
+<!-- .slide: class="crammed" -->
 
 Information Architecture uses **Cognitive Psychology** research
 
@@ -161,7 +161,6 @@ Information Architecture uses **Cognitive Psychology** research
 [The Magical Number Seven… George A. Miller (1956)](http://psychclassics.yorku.ca/Miller/ "…Plus or Minus Two: Some Limits on our Capacity for Processing Information. A classic text.")
 
 [Complete Beginners Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/ "A summary of the above findings")
-</section>
 
 ---
 
@@ -204,7 +203,12 @@ Information Architecture uses **Cognitive Psychology** research
 
 ---
 
-<section title="Classic Information Architecture infographic by Louis Rosenfeld" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="800px"><div>&nbsp;</div></section>
+## Classic Information Architecture infographic by Louis Rosenfeld
+
+<!-- .slide: 
+data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" 
+data-background-size="70%" -->
+
 
 ---
 
