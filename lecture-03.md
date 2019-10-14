@@ -78,7 +78,7 @@ W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/acce
 > “the **duty to make reasonable adjustments** requires providers to **ensure disabled people can access services**. Service providers should **anticipate the needs** of potential disabled customers…”  
 —adapted from [Disabled access to websites under UK law](http://www.out-law.com/page-330)
 
-The **Disability Equality Act (2010)** is law—you could be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails to meet [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources)
+**Disability Equality Act (2010)**—you can be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails to meet [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources)
 
 ---
 
@@ -101,7 +101,7 @@ Resources and research
 
 - [WebAim](http://webaim.org/intro/)—**see this site first!**
 - [Accessible Rich Internet Applications (ARIA)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-- [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see the [1st to 5th](https://www.w3.org/TR/using-aria/#rule1) rules!
+- [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see rules [1–5](https://www.w3.org/TR/using-aria/#rule1) rules!
 - [How to Use ARIA Effectively with HTML5](https://www.sitepoint.com/how-to-use-aria-effectively-with-html5/)
 
 ---
@@ -347,7 +347,7 @@ What do you want to cover next week? E.g.
 
 ---
 
-## Questions?
+## Final Questions?
 
-Ask now, no crowding around  
-the podium after, please!
+No crowding around the  
+podium after, please!
