@@ -311,8 +311,8 @@ To complete **visual mock-ups**…
 
 ---
 
-<!-- .slide: class="crammed" -->
 ## Wireframes 03
+<!-- .slide: class="crammed" -->
 
 Useful wireframe references - view the top one first:
 
@@ -320,7 +320,7 @@ Useful wireframe references - view the top one first:
 - [HealthConnect – Responsive Website Design (case study)](https://britzerbo.wordpress.com/2013/06/10/healthconnect-responsive-website-design/)—Brit Zerbo, 2013
 - [15 Beautiful Examples of Mobile App Wireframe Sketching](https://1stwebdesigner.com/mobile-app-wireframe-sketching/)—Ben Bate, 2017
 
-**DO NOT** be tempted by any "website template" adverts!! Templates (and "build a responsive website" tutorials) may look fine, but **will not produce a good project**. Your **own code** is more impressive :-)
+**DO NOT** be tempted by "website template" adverts!! Templates (and "build a responsive website" tutorials) may look fine, but your **own code** will make **a better project**
 
 <!-- WIREFRAMES END -->
 
