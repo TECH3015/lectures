@@ -118,8 +118,8 @@ Resources and research
 
 Information Architecture is:
 
-- the **art and science** of structuring and classifying websites/intranets/apps to help people find and manage information
-- a **discipline** and community of practice bringing principles of design and architecture to online development
+- the **art and science** of structuring and classifying websites to help people find and manage information
+- a **discipline** and community bringing principles of design and architecture to online development
 
 Entire university courses cover Information Architecture—[search for "library science and information architecture"](https://www.google.co.uk/search?q=librry+science+and+information+archtectre&oq=librry+science+and+information+archtectre&aqs=chrome..69i57.7711j0j7&sourceid=chrome&ie=UTF-8#q=library+science+and+information+architecture)
 
