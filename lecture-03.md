@@ -206,8 +206,9 @@ Information Architecture uses **Cognitive Psychology** research
 ## Classic Information Architecture infographic by Louis Rosenfeld
 
 <!-- .slide: 
-data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" 
-data-background-size="800px" style="background-size:cover"-->
+data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" -->
+
+<!-- .slide: style="background-size:cover" -->
 
 ---
 
