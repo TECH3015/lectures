@@ -78,7 +78,7 @@ W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/acce
 > “the **duty to make reasonable adjustments** requires providers to **ensure disabled people can access services**. Service providers should **anticipate the needs** of potential disabled customers…”  
 —adapted from [Disabled access to websites under UK law](http://www.out-law.com/page-330)
 
-The **Disability Equality Act (2010)** is law—you could be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails to meet [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources) <!-- p: class="smalltext" -->
+The **Disability Equality Act (2010)** is law—you could be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails to meet [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources)
 
 ---
 
@@ -151,9 +151,9 @@ So it's a kind of cognitive and visual **data structure**
 ---
 
 ## IA: 05
-<!-- .slide: class="crammed" -->
+<!-- .slide: class="crammed smalltext" -->
 
-Information Architecture uses **Cognitive Psychology** research
+Information Architecture uses **Cognitive Psychology**
 
 - **Cognitive load**: how much information we can process at any time—avoiding information overload ([rule of 7](http://neuromavin.com/cognitive-limits-social-networks-and-dunbars-number/)).
 - **Mental models**: the assumptions users have—information is easier to discover in familiar places.
