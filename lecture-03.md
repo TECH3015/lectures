@@ -162,7 +162,7 @@ So it's a kind of cognitive and visual **data structure**
 ---
 
 <section class="crammed">
-# IA: 05
+<h2>IA: 05</h2>
 
 Information Architecture uses **Cognitive Psychology** research
 
