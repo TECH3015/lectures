@@ -7,10 +7,8 @@ Presentations slides are can be found here:
 - [Lecture 1](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-01)
 - [Lecture 2](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-02)
 - [Lecture 3](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-03)
+- [Lecture 4](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-04)
 
+## Resources
 
-<!--
-![Classic Informaiton Architecture infographic by Louis Rosenfeld](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png)<!-- .element: class="stretch"
-
-.slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="contain"
--->
+- figma.com free wireframes
