@@ -135,7 +135,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-01.png" data-background-size="contain" -->	
 
 
-<!-- .slide: data-background-image="ttps://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-02.png" data-background-size="contain" -->	
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-02.png" data-background-size="contain" -->	
 
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-03.png" data-background-size="contain" -->	
