@@ -21,7 +21,7 @@ Email: deveritt@dmu.ac.uk
 
 ## Module structure
 
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources, **recap web languages**
+- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
 ---
@@ -53,22 +53,32 @@ Full assignment criteria covered in later lectures
 
 What you need to hand in:
 
-- a brief for your website
-- complete set of wireframes
-- mood board and/or rough designs
-- evidence of initial user feedback
-- your own supporting research
-- references to relevant learning materials
+* a brief outline explaining what your website is about
+* wireframes (mobile, tablet, desktop)
+* design sketches and finished design
+* evidence of user feedback
+* commentary and/or annotations on images
+* critical analysis
 
----
 
 ## Assignment 1: 02
 
-Marking criteria:
+* site map
+* content inventory
+* user stories / user profiles
+* moodboard, colour theme, font choices, etc.
+* consistent formatted references
 
-- criterion 1
-- criterion 2
-- criterion …
+
+## Assignment 1: 03
+
+**5 marking crietria @ 20% each**
+
+Information Architecture  
+Responsiveness  
+Design & Interaction  
+Accessibility  
+Critical Analaysis  
 
 ---
 
