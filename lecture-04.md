@@ -100,6 +100,7 @@ Four basic principles:
 
 [BBC iPlayer website](http://www.bbc.co.uk/iplayer): **proximity** and **style** group related items
 
+---
 
 <section title="a screenshot of the Guardian website" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="80%"><div>&nbsp;</div></section>
 
@@ -118,6 +119,7 @@ Four basic principles:
 
 A strict use of **alignment** on a former version of the Oslo-based design agency Heydays website gives a pleasing sense of **coherence and simplicity**.
 
+---
 
 <section title="An obvious example of a grid-based website" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/heydays.jpg" data-background-size="800px"><div>&nbsp;</div></section>
 
@@ -130,6 +132,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 - **The core text** on the history and use of grids in design is: Khoi Vinh and Mark Boulton (2007) [Grids Are Good](http://www.slideshare.net/huer1278ft/grids-are-good-right)
 - Also see Vitaly Friedman (2007) [Designing With Grid-Based Approach](https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/), Smashing Magazine
 
+---
 
 <section title="Wireframe: stage 1" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-01.png" data-background-size="70%"><div>&nbsp;</div></section>
 
@@ -156,6 +159,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 
 Use: global **style rules** at the **top** of your CSS **before `@media` query breakpoints** to *style elements consistently* e.g. **colours**, image **widths** (not height), matching **heading** styles…
 
+---
 
 <section title="An example of repetition in heading style" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/karl-anders.png" data-background-size="50%"><div>&nbsp;</div></section>
 
@@ -165,6 +169,7 @@ Use: global **style rules** at the **top** of your CSS **before `@media` query b
 ---
 
 # DESIGN: **05**
+<!-- .slide: class="crammed" -->
 
 **CONTRAST**
 
@@ -177,6 +182,7 @@ There are many ways to create contrast. For example:
 - Javascript plugin site [unheap.com](http://www.unheap.com/) uses **bold colours**
 - A previous design for agency [Touch](http://www.thetouchagency.co.uk/) used nice **hover transitions** (the current site is slow and annoying!)
 
+---
 
 <section title="A striking use of multiple kinds of contrast" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/unheap.png" data-background-size="900px"><div>&nbsp;</div></section>					
 
