@@ -75,7 +75,7 @@ Marking criteria:
 <!-- NEW -->
 <!-- DESIGN PRINCIPLES: SHARED MEDS2007.02/CTEC3905.04-->
 
-# DESIGN: **01**
+## DESIGN: **01**
 
 Four basic principles:
 
@@ -88,7 +88,7 @@ Four basic principles:
 
 ---
 
-# DESIGN: **02**
+## DESIGN: **02**
 <!-- .slide: class="crammed" -->
 
 **PROXIMITY** sets up *visual cues* that group similar items, suggesting how to ‘read’ content.
@@ -103,6 +103,7 @@ Four basic principles:
 
 
 <!-- .slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="contain" -->
+.
 
 
 <section title="a screenshot of the Guardian website" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="80%"><div>&nbsp;</div></section>
@@ -112,7 +113,7 @@ Four basic principles:
 
 ---
 
-# DESIGN: **03**
+## DESIGN: **03**
 <!-- .slide: class="crammed" -->
 
 **ALIGNMENT** makes page elements seem **part of a whole**, creating a **holistic feel** to the various pieces of information.
@@ -128,7 +129,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 
 ---
 
-# DESIGN: **03a**
+## DESIGN: **03a**
 
 **ALIGNMENT**: **grids** are the **primary method** for achieving **alignment**.
 
@@ -153,7 +154,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 
 ---
 
-# DESIGN: **04**
+## DESIGN: **04**
 
 **REPETITION** provides visual and cognitive **consistency** across common design elements
 
@@ -171,7 +172,7 @@ Use: global **style rules** at the **top** of your CSS **before `@media` query b
 
 ---
 
-# DESIGN: **05**
+## DESIGN: **05**
 <!-- .slide: class="crammed" -->
 
 **CONTRAST**
