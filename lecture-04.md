@@ -196,7 +196,7 @@ There are many ways to create contrast. For example:
 <!-- SIMPLICITY QUOTES -->
 
 ### SIMPLICITY
-<!-- .slide: class="crammed" -->
+<!-- .slide: class="crammed smalltext" -->
 
 **“Simplicity is the ultimate form of sophistication.”** —Leonardo da Vinci
 
@@ -209,7 +209,9 @@ There are many ways to create contrast. For example:
 
 **“The main goal is not to complicate the already difficult life of the consumer.”** —Raymond Loewy
 
+
 ### DESIGN
+<!-- .slide: class="crammed smalltext" -->
 
 **“White space is to be regarded as an active element, not a passive background.”** —Jan Tschichold
 
@@ -232,17 +234,6 @@ Online **colour scheme** chooser: [Paletton](http://paletton.com/)
 Online **wireframe** creator: [Figma.com](https://www.figma.com/)
 
 ![Paletton.com colour scheme designer](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/figma-wireframe-design.png)
-
----
-
-<!--
-
-<h2>Title</h2>
-
-<img style="float:left;" src="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/img_name.jpg" alt="text">
-
-.slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="contain"
--->
 
 ---
 
@@ -271,3 +262,14 @@ What do you want to cover next week? E.g.
 
 No crowding around the  
 podium after, please!
+
+<!--
+
+<h2>Title</h2>
+
+<img style="float:left;" src="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/img_name.jpg" alt="text">
+
+.slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png" data-background-size="contain"
+
+-->
+
