@@ -220,7 +220,7 @@ Online **colour scheme** chooser: [Paletton](http://paletton.com/)
 ![Paletton.com colour scheme designer](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/paletton.png)
 
 
-<!-- .slide: data-background-iframe="http://paletton.com" -->
+<!-- .slide: data-background-iframe="http://paletton.com" data-background-interactive data-background-size="contain" -->
 
 ---
 
