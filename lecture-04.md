@@ -180,10 +180,10 @@ There are many ways to create contrast. For example:
 - A previous design for agency [Touch](http://www.thetouchagency.co.uk/) used nice **hover transitions** (the current site is slow and annoying!)
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/unheap.png" data-background-size="contain" -->	
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/unheap.png" data-background-size="contain" --> 
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/touch-website.png" data-background-size="contain" -->	
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/touch-website.png" data-background-size="contain" -->
 
 ---
 
