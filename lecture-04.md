@@ -97,7 +97,7 @@ Four basic principles:
 - Display **related items** together
 - Use **common styles** to connect similar items
 
-[Guardian website](https://www.theguardian.com/uk): “most viewed” news **grouped** together, a **common menu style** with varying **section colours**
+[Guardian website](https://www.theguardian.com/uk): “most viewed” news **grouped** together, **common menu style** has **section colours**
 
 [BBC iPlayer website](http://www.bbc.co.uk/iplayer): **proximity** and **style** group related items
 
