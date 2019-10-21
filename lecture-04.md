@@ -102,8 +102,7 @@ Four basic principles:
 [BBC iPlayer website](http://www.bbc.co.uk/iplayer): **proximity** and **style** group related items
 
 
-<!-- .slide data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="contain" -->
-.
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="contain" -->
 
 
 <section title="a screenshot of the Guardian website" data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="80%"><div>&nbsp;</div></section>
