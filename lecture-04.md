@@ -203,9 +203,7 @@ There are many ways to create contrast. For example:
 
 **“The main goal is not to complicate the already difficult life of the consumer.”** —Raymond Loewy
 
-
 ### DESIGN
-<!-- .slide: class="crammed smalltext" -->
 
 **“White space is to be regarded as an active element, not a passive background.”** —Jan Tschichold
 
