@@ -49,7 +49,6 @@ Full assignment criteria covered in later lectures
 ---
 
 ## Assignment 1: 01
-<!-- .slide: class="crammed" -->
 
 What you need to hand in:
 
@@ -63,6 +62,8 @@ What you need to hand in:
 
 ## Assignment 1: 02
 
+Also:
+
 * site map
 * content inventory
 * user stories / user profiles
@@ -72,7 +73,7 @@ What you need to hand in:
 
 ## Assignment 1: 03
 
-**5 marking crietria @ 20% each**
+**5 marking criteria @ 20% each**
 
 Information Architecture  
 Responsiveness  
