@@ -89,6 +89,7 @@ Four basic principles:
 ---
 
 # DESIGN: **02**
+<!-- .slide: class="crammed" -->
 
 **PROXIMITY** sets up *visual cues* that group similar items, suggesting how to ‘read’ content.
 
@@ -96,7 +97,7 @@ Four basic principles:
 - Display **related items** together
 - Use **common styles** to connect similar items
 
-[Guardian website](https://www.theguardian.com/uk): “most viewed” news is **grouped** together, and there‘s a **common menu style** with varying **section colours**
+[Guardian website](https://www.theguardian.com/uk): “most viewed” news **grouped** together, a **common menu style** with varying **section colours**
 
 [BBC iPlayer website](http://www.bbc.co.uk/iplayer): **proximity** and **style** group related items
 
