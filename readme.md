@@ -12,7 +12,7 @@ Presentations slides are can be found here:
 ## Module materials
 
 - [Coursework 1 specification](https://github.com/DaveEveritt/TECH3015/blob/master/coursework-1.md)
-- [Coursework 2 specification](https://github.com/DaveEveritt/TECH3015/blob/master/coursework-2.md)
+<!-- - [Coursework 2 specification](https://github.com/DaveEveritt/TECH3015/blob/master/coursework-2.md) -->
 - [Module Handbook](https://github.com/DaveEveritt/TECH3015/blob/master/module-handbook.md)
 
 <!--
