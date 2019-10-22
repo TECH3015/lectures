@@ -1,17 +1,5 @@
 ![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1 )
 
-<style>
-  .new {
-    color: crimson;
-    background: yellow;
-  }
-  .old {
-    color: white;
-    background: red;
-    text-decoration: line-through;
-  }
-</style>
-
 ### Leicester Media School
 
 # TECH3015: Multimedia III
@@ -27,10 +15,10 @@
 <tr><td><b>This coursework item is:</b></td><td>Summative / <del>Formative</del></td></tr>
 <tr><td colspan='2'><b>The learning outcomes that are assessed by this coursework are:</b></td></tr>
 <tr><td colspan='2'>
-  <ul class="new">
+  <ul>
 		<li>to understand Information Architecture and plan a website according to its principles</li>
 		<li>to understand the concept of responsive website design and use this knowledge to plan a fully responsive website</li>
-    <li>to understand principles of design and user interaction and </li>
+    <li>to understand principles of design and user interaction</li>
     <li>to build an awareness of web accessibility issues and incorporate appropriate measures into the planning of your own site</li>
     <li>to critically evaluate your planning process, your skills, your needs, any user feedback, and any of the above points</li>
 	</ul>
@@ -42,7 +30,7 @@
 <tr><td><b>Your marked coursework and feedback will be available to you on:</b></td><td>Monday 20th January 2020</td></tr>
 <tr><td colspan='2'>If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.<br>Note that you should normally receive feedback on your coursework by <b>no later than 20 University working days after the formal hand-in date</b>, provided that you have met the submission deadline.</td></tr>
 <tr><td colspan='2'><b>When completed you are required to submit your coursework to</b></td></tr>
-<tr><td colspan='2' class="new">The report should be submitted through the Turnitin link in the Assessments section of the TECH3015 Blackboard page.<br><br><b>If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.</b></td></tr>
+<tr><td colspan='2'>A PDF of your report should be submitted through the Turnitin link in the Assessments section of the TECH3015 Blackboard page (<a href="#deliverables">see deliverables below</a>).<br><br><b>If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.</b></td></tr>
 <tr><td colspan='2'><b>Late submission of coursework policy</b></td></tr>
 <tr><td colspan='2'>Late submissions will be processed in accordance with current University regulations which state: “the time period during which a student may submit a piece of work late without authorisation and have the work capped at 40% [50% at PG level] if passed is 14 calendar days. Work submitted unauthorised more than 14 calendar days after the original submission date will receive a mark of 0%.  These regulations apply to a student’s first attempt at coursework. Work submitted late without authorisation which constitutes reassessment of a previously failed piece of coursework will always receive a mark of 0%.”</td></tr>
 <tr><td colspan='2'><b>Academic Offences and Bad Academic Practices</b></td></tr>
@@ -57,9 +45,7 @@
 
 ## Overview
 
-<p class="new">
-  Coursework 1 will see you tackle the specification and design of a multimedia webpage. You will also submit documentation that details what your webpage is and does, your design process, and justification for your design choices.  
-</p>
+Worth **40%** of the module total, your first coursework will see you produce an individual piece of work. This will involve planning and designing a responsive website, this should include wireframe sketches, final designs including navigation, mood board, content inventory, testing from card-sorting in the labs and interaction design (what changes, how and why). You also need to explain how you will prepare media types and text content for web delivery.
 
 The submission deadline for this work is midday (12pm) on Friday 13th December 2019. You are encouraged to seek feedback from your lab tutor throughout the first semester on your ongoing work.
 
@@ -72,41 +58,34 @@ Your first job is to decide what your page is going to be. Although you are goin
 
 However, there are a number of points that your page should satisfy: 
  
-<div class="new">
-
 * uses or presents multimedia content
-* animates the user interface
+* uses animation in the user interface
 * is accessible
-* is mobile-first and adapts to desktop
+* is mobile-first, then adapts to any screen size
 * is valid HTML
-* contains four pages/sections
-
-</div>
-  
+* contains multiple pages/sections
+ 
 If you’re stuck for an idea, you’ll find some suggestions at the end of this brief, so feel free to use one of them.  
 
-<div class="new">
+Once you know what your website is going to be all about you can start planning it all out:
 
-Once you know what your website is going to be all about you can start planning it all out.
-
-1. draw out some rough pencil sketches on paper
-1. collect media content (i.e. images, videos, audio, icons, fonts, etc.)
-1. start writing out any text content you might need
-1. think about your menu structure (and possibly do some card sorting with some friends)
-1. experiment with different colour schemes and fonts
-1. produce more details designs (use Photoshop or similar)
-1. get some feedback from friends about alternative designs
-1. make sure any media content is resized, compressed, etc. for the web
-1. experiment with different layouts, especially for different screen sizes
+- draw out some rough pencil sketches and wireframes (you can start on paper)
+- collect media content (i.e. images, videos, audio, icons, fonts, etc.)
+- start writing out any text content you need (in plain text)
+- think about your menu structure (and possibly do some card sorting with some friends)
+- experiment with different colour schemes and fonts
+- produce more detailed designs (use Photoshop or similar or an online service)
+- get feedback from friends and others and keep a record of their comments
+- make sure your media content is resized, compressed, etc. for the web
+- experiment with different layouts, especially for different screen sizes
 
 Finally, make sure you read the marking criteria and fill in any gaps that you haven't addressed already.
 
-</div>
-
+<a name='deliverables'></a>
 
 ## What to Submit / Deliverables
 
-Your final submission will be **a single compiled report of ~1200 words** plus imagery and references, preferably as a PDF.
+Your final submission will be **a single compiled report of around 1200 words** plus imagery and references, as a PDF (you can generate a PDF from e.g. Word).
 
 The report should contain:
 

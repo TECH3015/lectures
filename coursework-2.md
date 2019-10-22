@@ -59,10 +59,10 @@
 	<td><b>This coursework is:</b></td><td> Individual / <del>Group</del></td>
 </tr>
 <tr>
-	<td><b>Date set:</b></td><td> 6th January 2020 </td>
+	<td><b>Date set:</b></td><td> 6th January 2020</td>
 </tr>
 <tr>
-	<td><b>Date and time due:</b></td><td> 12pm (midday) on Friday 3rd April 2020 </td>
+	<td><b>Date and time due:</b></td><td> 12pm (midday) on Friday 3rd April 2020</td>
 </tr>
 <tr>
 	<td><b>Your marked coursework and feedback will be available to you on:</b></td><td>Thursday 7th May 2020 </td>
