@@ -1,3 +1,12 @@
+---
+title: Coursework 1 Specification
+author: 
+- Fania Raczinski
+- Dave Everitt
+date: 2019-10-22
+...
+
+
 ![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1 )
 
 ### Leicester Media School
@@ -8,46 +17,55 @@
 
 ## Coursework 1 - Specification
 
-<table>
-<tr><td><b>Module Name:</b></td><td>Multimedia III</td></tr>
-<tr><td><b>Module Code:</b></td><td>TECH3015</td></tr>
-<tr><td><b>Title of Assessment:</b></td><td>Coursework 1</td></tr>
-<tr><td><b>This coursework item is:</b></td><td>Summative / <del>Formative</del></td></tr>
-<tr><td colspan='2'><b>The learning outcomes that are assessed by this coursework are:</b></td></tr>
-<tr><td colspan='2'>
-  <ul>
-		<li>to understand Information Architecture and plan a website according to its principles</li>
-		<li>to understand the concept of responsive website design and use this knowledge to plan a fully responsive website</li>
-    <li>to understand principles of design and user interaction</li>
-    <li>to build an awareness of web accessibility issues and incorporate appropriate measures into the planning of your own site</li>
-    <li>to critically evaluate your planning process, your skills, your needs, any user feedback, and any of the above points</li>
-	</ul>
-	</td></tr>
-<tr><td colspan='2'><b>This coursework constitutes 40% of the overall module mark.</b></td></tr>
-<tr><td><b>This coursework is:</b></td><td>Individual / <del>Group</del></td></tr>
-<tr><td><b>Date set:</b></td><td>30th September 2019</td></tr>
-<tr><td><b>Date and time due:</b></td><td> 12pm (midday) on Friday 13th December 2019</td></tr>
-<tr><td><b>Your marked coursework and feedback will be available to you on:</b></td><td>Monday 20th January 2020</td></tr>
-<tr><td colspan='2'>If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.<br>Note that you should normally receive feedback on your coursework by <b>no later than 20 University working days after the formal hand-in date</b>, provided that you have met the submission deadline.</td></tr>
-<tr><td colspan='2'><b>When completed you are required to submit your coursework to</b></td></tr>
-<tr><td colspan='2'>A PDF of your report should be submitted through the Turnitin link in the Assessments section of the TECH3015 Blackboard page (<a href="#deliverables">see deliverables below</a>).<br><br><b>If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.</b></td></tr>
-<tr><td colspan='2'><b>Late submission of coursework policy</b></td></tr>
-<tr><td colspan='2'>Late submissions will be processed in accordance with current University regulations which state: “the time period during which a student may submit a piece of work late without authorisation and have the work capped at 40% [50% at PG level] if passed is 14 calendar days. Work submitted unauthorised more than 14 calendar days after the original submission date will receive a mark of 0%.  These regulations apply to a student’s first attempt at coursework. Work submitted late without authorisation which constitutes reassessment of a previously failed piece of coursework will always receive a mark of 0%.”</td></tr>
-<tr><td colspan='2'><b>Academic Offences and Bad Academic Practices</b></td></tr>
-<tr><td colspan='2'>These include plagiarism, cheating, collusion, copying work and reuse of your own work, poor referencing or the passing off of somebody else's ideas as your own. If you are in any doubt about what constitutes an academic offence or bad academic practice you must check with your tutor. Further information and details of how DSU can support you, if needed, is available from the Academic Support Office:
-  <ul>
-    <li><a href='http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx'>Academic Offences</a></li>
-    <li><a href='http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx'>Bad Academic Practice</a></li>
-  </ul></td></tr>
-</table>
+|                          |                                |
+|:-------------------------|-------------------------------:|
+| Module Name:             | **Multimedia III**             | 
+| Module Code:             | **TECH3015**                   |
+| Title of Assessment:     | **Coursework 1**               |
+| This coursework item is: | **Summative / ~~Formative~~**  |
 
-***
+The learning outcomes that are assessed by this coursework are:
+
+- to understand Information Architecture and plan a website according to its principles
+- to understand the concept of responsive website design and use this knowledge to plan a fully responsive website
+- to understand principles of design and user interaction
+- to build an awareness of web accessibility issues and incorporate appropriate measures into the planning of your own site
+- to critically evaluate your planning process, your skills, your needs, any user feedback, and any of the above points
+	
+This coursework constitutes 40% of the overall module mark.
+
+|                          |                                                |
+|:-------------------------|-----------------------------------------------:|
+| This coursework is:      | **Individual / ~~Group~~**                     | 
+| Date set:                | **30th September 2019**                        |
+| Date and time due:       | **12pm (midday) on Friday 13th December 2019** |
+| Your marked coursework and feedback due: | **Monday 20th January 2020**   |
+
+If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
+
+Note that you should normally receive feedback on your coursework by no later than 20 University working days after the formal hand-in date, provided that you have met the submission deadline.
+
+**When completed you are required to submit your coursework to:**  
+A PDF of your report should be submitted through the Turnitin link in the Assessments section of the TECH3015 Blackboard page (<a href="#deliverables">see deliverables below</a>).<br><br>If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.
+
+**Late submission of coursework policy**  
+Late submissions will be processed in accordance with current University regulations which state: 
+> “the time period during which a student may submit a piece of work late without authorisation and have the work capped at 40% [50% at PG level] if passed is 14 calendar days. Work submitted unauthorised more than 14 calendar days after the original submission date will receive a mark of 0%.  These regulations apply to a student’s first attempt at coursework. Work submitted late without authorisation which constitutes reassessment of a previously failed piece of coursework will always receive a mark of 0%.”
+
+**Academic Offences and Bad Academic Practices**  
+These include plagiarism, cheating, collusion, copying work and reuse of your own work, poor referencing or the passing off of somebody else's ideas as your own. If you are in any doubt about what constitutes an academic offence or bad academic practice you must check with your tutor. Further information and details of how DSU can support you, if needed, is available from the Academic Support Office:
+
+- [Academic Offences](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx)
+- [Bad Academic Practice](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx)
+
+
+---
 
 ## Overview
 
 Worth **40%** of the module total, your first coursework will see you produce an individual piece of work. This will involve planning and designing a responsive website, this should include wireframe sketches, final designs including navigation, mood board, content inventory, testing from card-sorting in the labs and interaction design (what changes, how and why). You also need to explain how you will prepare media types and text content for web delivery.
 
-The submission deadline for this work is midday (12pm) on Friday 13th December 2019. You are encouraged to seek feedback from your lab tutor throughout the first semester on your ongoing work.
+The submission deadline for this work is **midday (12pm) on Friday 13th December 2019**. You are encouraged to seek feedback from your lab tutor throughout the first semester on your ongoing work.
 
 This design and specification can form the basis of what you produce for coursework 2 (but does not have to be), so this is a great opportunity to get some thorough feedback before moving onto production for the second coursework.
 

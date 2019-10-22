@@ -1,3 +1,12 @@
+---
+title: Coursework 2 Specification
+author: 
+- Fania Raczinski
+- Dave Everitt
+date: 2019-10-22
+...
+
+
 ![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1 )
 
 <style>
