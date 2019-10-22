@@ -6,6 +6,7 @@ author:
 date: 2019-10-22
 ...
 
+# NOTE: YET TO BE FINALISED!
 
 ![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1 )
 
