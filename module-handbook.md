@@ -15,9 +15,9 @@ https://daveeveritt.github.io/tech3015/module-handbook.md
 
 **Level:** 6
 
-**Session:** 2019/20
+**Session:** 2019/2020
+
 <div style="page-break-after: always;"></div>
-<a name='toc'></a>
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ Throughout the module please get in touch if you have anything to say on the con
 
 Thom Corah - Module Leader
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Module Tutors
@@ -57,7 +57,7 @@ Email: <fania.raczinski@dmu.ac.uk>
 **Dave Everitt** (lectures only)  
 Email: <deveritt@dmu.ac.uk>
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Module Description
@@ -68,7 +68,7 @@ You will build on your technical understanding of the languages of the web: HTML
 
 Throughout the module you are encouraged to undertake your own research into the software and practices we undertake. You should develop the ability to solve problems encountered in your work in an independent fashion, though your lab tutor will step in if necessary.
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Learning Outcomes
@@ -81,7 +81,7 @@ At the end of the module, you will be able to:
 * Develop strategies for the effective design and planning of a multimedia production.  
 * Research, synthesise and adapt solutions to technical problems
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Key Topics
@@ -96,7 +96,7 @@ This module will develop your understanding and engagement with:
 
 There is some flexibility with what we cover. As we progress through the year, if there's any topic you would like covered in more detail, or a different topic introduced, please email the module tutor or discuss this in labs and lectures.
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Module Reading
@@ -162,7 +162,7 @@ A well-taught course on JavaScript.
 - **[Udacity.com: Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)**  
 The above Udacity course is recommended for this module.
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Blackboard Virtual Learning Environment
@@ -177,7 +177,7 @@ This module makes use of Blackboard – De Montfort University’s Virtual Learn
 
 Log into Blackboard at: [blackboard.dmu.ac.uk](https://www.blackboard.dmu.ac.uk)
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Plagiarism
@@ -195,7 +195,7 @@ If you have any questions regarding plagiarism and other academic practice offen
 - Simon Walsh <simon.walsh@dmu.ac.uk>  
 - Helen Ackerley <hackerley@dmu.ac.uk>  
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
 
 
 ## Assessment
@@ -229,4 +229,4 @@ To reiterate:
 - **All written work through Turnitin**
 - **All practical work uploaded to your public server space**
 
-[Back to the Contents](#toc)
+[Back to the Contents](#table-of-contents)
