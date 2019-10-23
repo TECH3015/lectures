@@ -152,16 +152,16 @@ Available from: [abookapart.com/products/progressive-web-apps](https://abookapar
 **NOTE:** learn to filter what you find and check the date as some resources (including W3Schools) contain outdated information. For HTML that could be (e.g.) `<div class="header">` instead of `<header>` and for JavaScript, using (e.g.) `var`, when `let` and `const` are current practice.
 
 - **[stackoverflow.com](http://stackoverflow.com)**  
-Question and answer site perhaps used by every developer ever. If you put a web development question into Google, chances are the answer will come up here. Check the date of any answer and ask your tutor if unsure!
+Question and answer site perhaps used by every developer ever. If you put a web development question into Google, chances are the answer will come up here. Check the date of answers and ask your tutor if unsure—some answers are not the best solutions!
 - **[w3schools.com](http://www.w3schools.com)**  
-Amazing resource with mini tutorials and a great reference section for HTML, CSS, and JavaScript. NOTE: check with your tutor that any JavaScript examples you want to use are current good practice.
+Detailed resource with mini tutorials and a great reference section for HTML, CSS, and JavaScript. NOTE: check with your tutor that any JavaScript examples you want to use are current good practice, as not all the code is up-to-date.
 - **[css-tricks.com](https://css-tricks.com)**  
 Really great website with loads of posts on stying your webpages and sites, all very well-explained.
-- **[codecademy.com](https://www.codecademy.com)**  Free online courses, although only the following are recommended for this module:
+- **[codecademy.com](https://www.codecademy.com)**  Free high-quality online courses, although only the following (on the three front-end web languages) are recommended for this module:
   - [Learn How to Build Websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
-  - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
-  - [Learn CSS](https://www.codecademy.com/learn/learn-css)
-  - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript).
+  - [Introduction to **HTML**](https://www.codecademy.com/learn/learn-html)
+  - [Learn **CSS**](https://www.codecademy.com/learn/learn-css)
+  - [Introduction to **JavaScript**](https://www.codecademy.com/learn/introduction-to-javascript).
 - **[learn.freecodecamp.org](https://learn.freecodecamp.org/)**  
 A complete free front-end course, including responsive webapps.
 - **[WatchAndCode.com: Practical Javascript](https://watchandcode.com/p/practical-javascript)**  
@@ -179,7 +179,7 @@ This module makes use of Blackboard – De Montfort University’s Virtual Learn
 
 * General notices and announcements
 * Lab activities and exercises
-* Lecture notes and recordings
+* Lecture slides and recordings
 * Assessments
 * Your assessment feedback
 
@@ -191,17 +191,18 @@ Log into Blackboard at: [blackboard.dmu.ac.uk](https://www.blackboard.dmu.ac.uk)
 
 ## Plagiarism
 
-DMU defines plagiarism as “the deliberate attempt to gain advantage by presenting any work, data or concepts (including drafts and work in progress) that are not the student’s own as if they were”. The University takes a very serious stance against copying other people’s work without giving the proper credit. 
+DMU defines plagiarism as **“the deliberate attempt to gain advantage by presenting any work, data or concepts (including drafts and work in progress) that are not the student’s own as if they were”**. The University takes a very serious stance against copying other people’s work without giving the proper credit. 
 
-You can read more about plagiarism and other acedemic offences in Chapter 4 of the student regulations: <https://www.dmu.ac.uk/documents/dmu-students/academic-support-office/student-regulations/chapter-4-17.18.pdf>
+You can read more about plagiarism and other acedemic offences in [Chapter 4 of the student regulations](https://www.dmu.ac.uk/documents/dmu-students/academic-support-office/student-regulations/chapter-4-17.18.pdf).
 
-If you use somebody else’s work, either as research or directly, always attribute the author/artist/musician etc in the proper way. In this module we use the Harvard Referencing style. Directions on the use of the Harvard referencing system can be found through the library website: <http://www.library.dmu.ac.uk/Images/Selfstudy/Harvard.pdf>
+If you use somebody else’s work, either as research or directly, always attribute the author/artist/musician etc in the proper way. In this module we use the Harvard Referencing style. Directions on the use of the Harvard referencing system can be found through the [DMU library website](http://www.library.dmu.ac.uk/Images/Selfstudy/Harvard.pdf)
 
 If you are found to of copied work without crediting the source you are likely to face a disciplinary panel and could see your mark reduced to 0, or worse in extreme cases.
 
 If you have any questions regarding plagiarism and other academic practice offences, you can email either of the Leicester Media School's Academic Practice Officers:  
-Simon Walsh <simon.walsh@dmu.ac.uk>  
-Helen Ackerley <hackerley@dmu.ac.uk>  
+
+- Simon Walsh <simon.walsh@dmu.ac.uk>  
+- Helen Ackerley <hackerley@dmu.ac.uk>  
 
 [Back to the Contents](#toc)
 
