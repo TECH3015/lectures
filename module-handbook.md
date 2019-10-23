@@ -21,34 +21,31 @@ https://daveeveritt.github.io/tech3015/module-handbook.md
 
 ## Table of Contents
 
-[Welcome to Multimedia II](#welcome)  
-[Module Tutors](#tutors)  
-[Module Description](#description)  
-[Learning Outcomes](#outcomes)  
-[Key Topics](#topics)  
-[Module Reading](#reading)  
-[Blackboard - Virtual Learning Environment](#blackboard)   
+[Welcome to Multimedia II](#welcome-to-multimedia-iii)  
+[Module Tutors](#module-tutors)  
+[Module Description](#module-description)  
+[Learning Outcomes](#learning-outcomes)  
+[Key Topics](#key-topics)  
+[Module Reading](#module-reading)  
+[Blackboard Virtual Learning Environment](#blackboard-virtual-learning-environment)   
 [Plagiarism](#plagiarism)   
 [Assessment](#assessment)  
 
 <div style="page-break-after: always;"></div>
 
-<a name='welcome'></a> 
-
 ## Welcome to Multimedia III
 
 I hope you enjoy studying this module through your final year and find that you learn many valuable skills from it. It is a modern reality that many creative disciplines can be enhanced with at least a working knowledge of how the web works. An incredible amount of content is now delivered over the Internet, from short form videos to full blockbusters, from amateur audio clips to platinum albums, images, radio, applications and more. Whether you’re a videographer, sound engineer, animator or editor, an understanding of the web should be a key component of your skillset. 
 
-Throughout the module please get in touch if you have anything to say on the content or the way we teach it. We’re very open to both positive and negative feedback — it helps to shape and improve the module. Similarly, if you’re having problems keeping up or don’t understand a particular concept, please let us know as soon as possible so we can help you as soon as possible. 
-
+Throughout the module please get in touch if you have anything to say on the content or the way we teach it. We’re very open to both positive and negative feedback — it helps to shape and improve the module. Similarly, if you’re having problems keeping up or don’t understand a particular concept, please let us know as soon as possible so we can help you as soon as possible.
 
 Thom Corah - Module Leader
 
 [Back to the Contents](#toc)
 
-<a name='tutors'></a>
 
 ## Module Tutors
+
 **Thom Corah** (Module Leader)  
 Location: GH6.62  
 Email: <tcorah@dmu.ac.uk>   
@@ -62,7 +59,6 @@ Email: <deveritt@dmu.ac.uk>
 
 [Back to the Contents](#toc)
 
-<a name='description'></a>
 
 ## Module Description
 
@@ -74,7 +70,6 @@ Throughout the module you are encouraged to undertake your own research into the
 
 [Back to the Contents](#toc)
 
-<a name='outcomes'></a>
 
 ## Learning Outcomes
 
@@ -88,7 +83,6 @@ At the end of the module, you will be able to:
 
 [Back to the Contents](#toc)
 
-<a name='topics'></a>
 
 ## Key Topics
 
@@ -104,7 +98,6 @@ There is some flexibility with what we cover. As we progress through the year, i
 
 [Back to the Contents](#toc)
 
-<a name='reading'></a>
 
 ## Module Reading
 
@@ -171,9 +164,8 @@ The above Udacity course is recommended for this module.
 
 [Back to the Contents](#toc)
 
-<a name='blackboard'></a>
 
-## Blackboard – Virtual Learning Environment
+## Blackboard Virtual Learning Environment
 
 This module makes use of Blackboard – De Montfort University’s Virtual Learning Environment. It is important that you access Blackboard regularly to keep up to date with:
 
@@ -187,7 +179,6 @@ Log into Blackboard at: [blackboard.dmu.ac.uk](https://www.blackboard.dmu.ac.uk)
 
 [Back to the Contents](#toc)
 
-<a name="plagiarism"></a>
 
 ## Plagiarism
 
@@ -206,7 +197,6 @@ If you have any questions regarding plagiarism and other academic practice offen
 
 [Back to the Contents](#toc)
 
-<a name='assessment'></a>
 
 ## Assessment
 
