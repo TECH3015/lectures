@@ -65,7 +65,7 @@ planning and designing your site:
 
 ## THE WEBSITE PROCESS
 
-IA, research, wireframes, coding etc. are all within five areas:
+IA, research, wireframes, coding etc. fall into five areas:
 
 - planning
 - content
@@ -80,7 +80,7 @@ IA, research, wireframes, coding etc. are all within five areas:
 
 ## STYLE GUIDES **01**
 
-Many organisations have a **style guide document** so _all_ printed and web materials are maintained in the organisation’s style
+A **style guide document** keeps an organisation’s printed and web materials within their style
 
 - layout
 - graphics
@@ -105,14 +105,15 @@ Many organisations have a **style guide document** so _all_ printed and web mate
 Download PDFs of these three style guides:
 
 - [NUS Brand Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/nus-guidelines-oct13.pdf)
-- [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/nus-guidelines-oct13.pdf)
+- [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/ug-2012-campaign-guidelines.pdf)
 - [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/dmu-brand-guidelines-june-2017.pdf)
 
 ---
 
 ## STYLE GUIDES **03**
+<!-- .slide: class="crammed" -->
 
-[The Student SwitchOff Campaign Eergy Dashboard](https://switchoff.nus.org.uk/) had to follow the NUS branding guidelines, although this allowed a lot of freedom
+[The NUS SwitchOff Campaign Energy Dashboard](https://switchoff.nus.org.uk/) followed NUS branding guidelines, which allowed a lot of freedom
 
 ![NUS energy dashboard screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-oct2019.png)
 
@@ -129,26 +130,29 @@ Download PDFs of these three style guides:
 
 ## STYLE GUIDES **04**
 
-The three big software companies each have **interface guidelines**
+three big tech companies have **interface guidelines**
 
 - [Google Material Design](https://material.io/design/introduction/)
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
-These are long, detailed and technical in places, so scan through first
+They’re long, detailed and technical so just scan through
 
 
+<!-- .slide: class="crammed" -->
 [Google Material Design](https://material.io/design/introduction/)
 
 ![Google Material Design, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png)
 
 
+<!-- .slide: class="crammed" -->
 [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 ![Apple Human Interface Guidelines, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png)
 
 
-- [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
+<!-- .slide: class="crammed" -->
+[Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
 ![Microsoft User Interface Principles, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png)
 
