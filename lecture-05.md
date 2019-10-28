@@ -26,25 +26,41 @@ Email: deveritt@dmu.ac.uk
 
 ---
 
+## MODULE HANDOOK
+
+Updated and revised [Module Handbook now online](https://daveeveritt.github.io/TECH3015/module-handbook.html)
+
+No big changes, just cleaner, simpler and (hopefully) easier to understand.
+
+The [Assignment 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) is also online
+
+These are also links on Blackboard
+
+---
+
 ## ASSIGNMENT DEADLINES
 
 - **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
+midday (12pm) on Friday 13 December 2019  
+[Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) available online  
+See the the Module Handbook for [general assessment information](https://daveeveritt.github.io/TECH3015/module-handbook.html#assessment)
 
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-Full assignment criteria covered in later lectures
+Full assignment 2 criteria covered in later lectures
 
 ---
 
 ## WHERE WE ARE
 
-- progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
+planning and designing your site:
+
+  - gather your site [content](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/20)
+  - revise [accessibility](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/5)
+  - draw up your [wireframes](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/21)
+  - mock up your [designs](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-04#/6)
+  - get some feedback!
 
 ---
 
