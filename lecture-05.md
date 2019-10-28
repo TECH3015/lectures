@@ -156,10 +156,10 @@ These are long, detailed and technical in places, so scan through first
 
 ## DESIGN TRENDS **01**
 
-UXPin have some great resources:
+[UXPin Studio](https://www.uxpin.com/studio/) have some great resources:
 
-- a free Design Trends publicatio each year
-- a guide to creating style guides
+- [free design e-books](https://www.uxpin.com/studio/ebooks/)
+- a [guide to creating style guides](https://www.uxpin.com/studio/blog/everything-content-styleguides/)
 - articles on:
     - [web design](https://www.uxpin.com/studio/blog/category/web-design/)
     - [User Experience (UX) design](https://www.uxpin.com/studio/blog/category/ux-design/)
