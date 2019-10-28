@@ -1,10 +1,10 @@
----
+<!-- ---
 title: Coursework 1 Specification
 author: 
 - Fania Raczinski
 - Dave Everitt
 date: 2019-10-22
----
+--- -->
 
 ![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1)
 
@@ -60,7 +60,6 @@ These include plagiarism, cheating, collusion, copying work and reuse of your ow
 - [Academic Offences](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx)
 - [Bad Academic Practice](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx)
 
----
 
 ## Overview
 
