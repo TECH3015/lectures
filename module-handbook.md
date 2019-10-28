@@ -75,11 +75,12 @@ Throughout the module you are encouraged to undertake your own research into the
 
 At the end of the module, you will be able to:
 
-* Deploy and critically evaluate an interactive web-based project incorporating dynamic multimedia content.  
-* Understand and evaluate complex issues related to browser platforms, accessibility, usability and mobile access when developing dynamic and animated content on the web. 
-* Collect, evaluate, and analyse feedback from users at various points in the development cycle of a Multimedia application. 
-* Develop strategies for the effective design and planning of a multimedia production.  
-* Research, synthesise and adapt solutions to technical problems
+- Develop strategies for the effective design and planning of a multimedia production.
+- Gain an understanding of current good practice in the three front-end web languages: HTML5, CSS3 and JavaScript.
+- Research, select, critically filter and adapt solutions to technical problems.
+- Deploy and critically evaluate an interactive web-based project incorporating dynamic multimedia content.
+- Understand and evaluate complex issues related to browser platforms, accessibility, usability and mobile access when developing dynamic and animated content on the web.
+- Collect, evaluate, and analyse feedback from users at various points in the development cycle of a Multimedia application.
 
 [Back to the Contents](#table-of-contents)
 
@@ -90,7 +91,7 @@ This module will develop your understanding and engagement with:
 
 * Wireframing, prototyping and mobile-first planning
 * Designing and developing for any device with Responsive Web Design (RWD)
-* SVG vector graphics for the web  
+* Scalable vector graphics (SVG) for the web  
 * Accessing other websites' data using APIs
 * Persisting data using local database storage
 
