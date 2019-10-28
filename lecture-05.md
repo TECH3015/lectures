@@ -156,44 +156,38 @@ These are long, detailed and technical in places, so scan through first
 
 ## DESIGN TRENDS **01**
 
-UXPin issue a free Design Trends publicatio each year
+UXPin have some great resources:
+
+- a free Design Trends publicatio each year
+- a guide to creating style guides
+- articles on:
+    - [web design](https://www.uxpin.com/studio/blog/category/web-design/)
+    - [User Experience (UX) design](https://www.uxpin.com/studio/blog/category/ux-design/)
+    - [User research](https://www.uxpin.com/studio/blog/category/user-research/)
+
+(you can by-pass promotional material for the IXPin interface builder)
 
 ---
 
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
+## DESIGN TRENDS **02**
 
-## TITLE **00**
+Download PDFs of these three style guides:
 
-text for initial slide here,
-
-then 2 spaces after each for the image slides:
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+- [Web design trends 2015-16](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2015-16.pdf)
+- [Web design trends 2018](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2018.pdf)
+- [Web design trends 2019](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2019.pdf)
 
 ---
 
-<!-- BIG IMAGE EXAMPLE -->
+## QUESTIONS
 
-Description: [link to website](URL)
-
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
-
----
-
-## TITLE
-<!-- .slide: class="crammed" -->
-
-Any questions about Design For the Web?
+Any questions about style guides and Design For the Web?
 
 ---
 
 ## WHAT YOU WANT NEXT
 
-What do you want to cover next week? E.g.
+Examples for next week:
 
 - more design resources?
 - typography for the web?
