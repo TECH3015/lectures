@@ -63,11 +63,24 @@ planning and designing your site:
 
 ---
 
+## THE WEBSITE PROCESS
+
+IA, research, wireframes, coding etc. are all within five areas:
+
+- planning
+- content
+- design
+- development
+- deployment
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/website-process.png" data-background-size="contain" -->
+
+---
+
 ## DESIGN FOR THE WEB **01**
 
-Many organisations have a **style guide document**
-
-This is a detailed guide covering:
+Many organisations have a **style guide document** so _all_ printed and web materials are maintained in the organisation’s style
 
 - layout
 - graphics
@@ -77,10 +90,10 @@ This is a detailed guide covering:
 - photos
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/nus-style-guide.png" data-background-size="contain" -->
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/IMAGE_NAME" data-background-size="contain" -->
 
 ---
 
@@ -92,19 +105,37 @@ The three big software companies each have **interface guidelines**
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
-These are long, detailed and technical in places so scan through first
+These are long, detailed and technical in places, so scan through first
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+[Google Material Design](https://material.io/design/introduction/)
+
+![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+
+![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+
+
+[Google Material Design](https://material.io/design/introduction/)
+
+![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png" data-background-size="contain" -->
 
 ---
 
 ## DESIGN FOR THE WEB **03**
 
-The m
+A BIT HERE ON EACH
 
 ---
 
@@ -133,7 +164,7 @@ then 2 spaces after each for the image slides:
 
 Description: [link to website](URL)
 
-![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
 ---
 
