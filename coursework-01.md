@@ -224,8 +224,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 * user stories / user profiles
 * moodboard, colour theme, font choices, etc.
 
-<!-- https://www.dmu.ac.uk/policies/accessibility/accessibility-guidelines.aspx -->
-<!-- Consider using the [Web Accessiblity Evaluation Tool (WAVE)](https://wave.webaim.org/). -->
+Consider using the [Web Accessiblity Evaluation Tool (WAVE)](https://wave.webaim.org/)
 
 
 ### Critical Analysis
