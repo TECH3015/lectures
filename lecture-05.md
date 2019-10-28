@@ -208,6 +208,3 @@ Examples for next week:
 
 No crowding around the  
 podium after, please!
-
-
-
