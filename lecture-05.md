@@ -110,8 +110,8 @@ Download PDFs of these three style guides:
 
 ---
 
-## STYLE GUIDES **03**
 <!-- .slide: class="crammed" -->
+## STYLE GUIDES **03**
 
 [The NUS SwitchOff Campaign Energy Dashboard](https://switchoff.nus.org.uk/) followed NUS branding guidelines, which allowed a lot of freedom
 
@@ -158,6 +158,7 @@ They’re long, detailed and technical so just scan through
 
 ---
 
+<!-- .slide: class="crammed" -->
 ## DESIGN TRENDS **01**
 
 [UXPin Studio](https://www.uxpin.com/studio/) have some great resources:
@@ -169,7 +170,7 @@ They’re long, detailed and technical so just scan through
     - [User Experience (UX) design](https://www.uxpin.com/studio/blog/category/ux-design/)
     - [User research](https://www.uxpin.com/studio/blog/category/user-research/)
 
-(you can by-pass promotional material for the IXPin interface builder)
+(you can by-pass promotional material for the UXPin interface builder)
 
 ---
 
