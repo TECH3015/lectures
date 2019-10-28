@@ -78,7 +78,7 @@ IA, research, wireframes, coding etc. are all within five areas:
 
 ---
 
-## DESIGN FOR THE WEB **01**
+## STYLE GUIDES **01**
 
 Many organisations have a **style guide document** so _all_ printed and web materials are maintained in the organisation’s style
 
@@ -93,11 +93,41 @@ Many organisations have a **style guide document** so _all_ printed and web mate
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/nus-style-guide.png" data-background-size="contain" -->
 
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/IMAGE_NAME" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-ug-campaign-2012.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-style-guide-2017.png" data-background-size="contain" -->
 
 ---
 
-## DESIGN FOR THE WEB **02**
+## STYLE GUIDES **02**
+
+Download PDFs of these three style guides:
+
+- [NUS Brand Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/nus-guidelines-oct13.pdf)
+- [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/nus-guidelines-oct13.pdf)
+- [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/dmu-brand-guidelines-june-2017.pdf)
+
+---
+
+## STYLE GUIDES **03**
+
+[The Student SwitchOff Campaign Eergy Dashboard](https://switchoff.nus.org.uk/) had to follow the NUS branding guidelines, although this allowed a lot of freedom
+
+![NUS energy dashboard screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-oct2019.png)
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-amiresponsive.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-bigscreen-amiresponsive.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-amiresponsive-nov2017.png" data-background-size="contain" -->
+
+---
+
+## STYLE GUIDES **04**
 
 The three big software companies each have **interface guidelines**
 
@@ -110,37 +140,23 @@ These are long, detailed and technical in places, so scan through first
 
 [Google Material Design](https://material.io/design/introduction/)
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![Google Material Design, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png)
 
 
 [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![Apple Human Interface Guidelines, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png)
 
 
-[Google Material Design](https://material.io/design/introduction/)
+- [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png" data-background-size="contain" -->
+![Microsoft User Interface Principles, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png)
 
 ---
 
-## DESIGN FOR THE WEB **03**
+## DESIGN TRENDS **01**
 
-A BIT HERE ON EACH
-
----
-
-## TTTLE
-<!-- .slide: class="crammed" -->
+UXPin issue a free Design Trends publicatio each year
 
 ---
 
@@ -169,6 +185,7 @@ Description: [link to website](URL)
 ---
 
 ## TITLE
+<!-- .slide: class="crammed" -->
 
 Any questions about Design For the Web?
 
