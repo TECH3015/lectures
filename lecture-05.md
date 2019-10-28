@@ -30,11 +30,11 @@ Email: deveritt@dmu.ac.uk
 
 Updated and revised [Module Handbook now online](https://daveeveritt.github.io/TECH3015/module-handbook.html)
 
-No big changes, just cleaner, simpler and (hopefully) easier to understand.
+No big changes, just cleaner, simpler and (hopefully) easier to understand
 
 The [Assignment 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) is also online
 
-These are also links on Blackboard
+Links to these are also on Blackboard
 
 ---
 
@@ -43,11 +43,10 @@ These are also links on Blackboard
 - **Assignment 1 (40%):**  
 midday (12pm) on Friday 13 December 2019  
 [Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) available online  
-See the the Module Handbook for [general assessment information](https://daveeveritt.github.io/TECH3015/module-handbook.html#assessment)
+Module Handbook has [general assessment info](https://daveeveritt.github.io/TECH3015/module-handbook.html#assessment)
 
 - **Assignment 2 (60%):**  
-midday (12pm) Friday 3rd April 2020
-
+midday (12pm) Friday 3rd April 2020  
 Full assignment 2 criteria covered in later lectures
 
 ---
@@ -64,47 +63,53 @@ planning and designing your site:
 
 ---
 
-## ASSIGNMENT 1 **01**
+## DESIGN FOR THE WEB **01**
 
-What you need to hand in:
+Many organisations have a **style guide document**
 
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
+This is a detailed guide covering:
 
----
+- layout
+- graphics
+- colours
+- fonts
+- logo
+- photos
 
-## ASSIGNMENT 1 **02**
 
-Also:
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
 ---
 
-## ASSIGNMENT 1 **03**
+## DESIGN FOR THE WEB **02**
 
-**5 marking criteria @ 20% each**
+The three big software companies each have **interface guidelines**
 
-- Information Architecture
-- - Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+- [Google Material Design](https://material.io/design/introduction/)
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
+
+These are long, detailed and technical in places so scan through first
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
 ---
 
-## TITLE **00**
+## DESIGN FOR THE WEB **03**
+
+The m
+
+---
+
+## TTTLE
 <!-- .slide: class="crammed" -->
-
-For slides that need more text, use the above class in a comment
 
 ---
 
@@ -134,7 +139,7 @@ Description: [link to website](URL)
 
 ## TITLE
 
-Any questions about TOPIC?
+Any questions about Design For the Web?
 
 ---
 
@@ -142,7 +147,10 @@ Any questions about TOPIC?
 
 What do you want to cover next week? E.g.
 
-- list here
+- more design resources?
+- typography for the web?
+- more code examples?
+- assignment 2 specification?
 
 ---
 
