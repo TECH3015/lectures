@@ -136,13 +136,15 @@ There are five marking criteria, each worth an equal 20% of the total coursework
 
 This means that each deliverable might contribute to several or all of the marking criteria and vice-versa. 
 
-<!-- For example your wireframes might show:
+<!--
+For example your wireframes might show:
 
 - a clear difference in design for mobile and desktop sizes
 - some critical thinking in your annotations and testing of different design options if you show some alternatives or earlier iterations
 - how you plan to organise your content
 - how you plan on addressing accessibility in your site
-- perhaps how certain elements will change based on user input -->
+- showing how certain elements will change based on user input
+-->
 
 
 ### Information Architecture
