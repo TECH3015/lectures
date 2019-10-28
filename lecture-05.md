@@ -113,7 +113,7 @@ Download PDFs of these three style guides:
 <!-- .slide: class="crammed" -->
 ## STYLE GUIDES **03**
 
-The [SwitchOff Campaign Energy Dashboard](https://switchoff.nus.org.uk/) used NUS guidelines
+The [Campaign Energy Dashboard](https://switchoff.nus.org.uk/) used NUS guidelines
 
 ![NUS energy dashboard screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-oct2019.png)
 
