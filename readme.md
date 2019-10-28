@@ -13,5 +13,5 @@ Lecture slides:
 ## Module materials
 
 - [Module Handbook](module-handbook.md)
-- [Coursework 1 Specification](coursework-1.md)
+- [Coursework 1 Specification](coursework-01.md)
 <!-- - [Coursework 2 specification](coursework-2.md) -->
