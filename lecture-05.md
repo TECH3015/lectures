@@ -186,7 +186,10 @@ Download PDFs of these three style guides:
 
 ## QUESTIONS
 
-Any questions about style guides and Design For the Web?
+Any questions about:
+
+- style guides
+- design For the web
 
 ---
 
