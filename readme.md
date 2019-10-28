@@ -12,6 +12,6 @@ Lecture slides:
 
 ## Module materials
 
-- [Coursework 1 specification](https://github.com/DaveEveritt/TECH3015/blob/master/coursework-1.md)
-<!-- - [Coursework 2 specification](https://github.com/DaveEveritt/TECH3015/blob/master/coursework-2.md) -->
-- [Module Handbook](https://github.com/DaveEveritt/TECH3015/blob/master/module-handbook.md)
+- [Module Handbook](module-handbook.md)
+- [Coursework 1 Specification](coursework-1.md)
+<!-- - [Coursework 2 specification](coursework-2.md) -->
