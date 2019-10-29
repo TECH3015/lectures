@@ -40,7 +40,7 @@ This coursework constitutes **40% of the overall module mark**.
 | Date and time due:       | **12pm (midday) Friday 13th December 2019** |
 | Your marked coursework and feedback due: | **Monday 20th January 2020**   |
 
-If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
+If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
 
 Note that you should normally receive feedback on your coursework by no later than 20 University working days after the formal hand-in date, provided that you have met the submission deadline.
 
