@@ -56,7 +56,6 @@ midday (12pm) Friday 3rd April 2020
 - mobile tap targets
 - mobile thumb reach
 - Google mobile UX
-- content strategy
 - Maeda's Laws of Simplicity
 - good webapp icon examples
 
@@ -67,7 +66,7 @@ midday (12pm) Friday 3rd April 2020
 
 > “when you’re designing a website, you should think about your content first.”
 > 
-> “we often created sites without thinking about strategy at all … we would first design a site that looked nice and matched our branding. Next, we made a list of all the stuff we had that we wanted to put on the site (content), and then we tried to fit all of our stuff into the newly designed site.”
+> “we often created sites without thinking about strategy at all … we would first design a site that looked nice and matched our branding. Next, we made a list of all the stuff we wanted to put on the site (content), and then tried to fit all of our stuff into the newly designed site.”
 
 Clarissa Peterson 2014, [Learning Responsive Web Design: A Beginner’s Guide](http://www.learningrwd.com/)
 
@@ -85,13 +84,16 @@ Clarissa Peterson 2014, [Learning Responsive Web Design: A Beginner’s Guide](h
 ## CONTENT STRATEGY **03**
 <!-- .slide: class="crammed" -->
 
-Word count:
+Writing text content:
 
 - some sites need long, detailed copy 
 - others must be stripped to the bare minimum 
 - or you can strike a balance between the two
+- up-front simplicity, more detail on request
 
 Use **subheadings** and **brief paragraphs**!
+
+More on readability next week
 
 ---
 
@@ -113,10 +115,12 @@ The [Google SEO Starter Guide](https://support.google.com/webmasters/answer/7451
 
 Are your audience:
 
-- Educated and/or sophisticated?
-- Down to earth?
-- University-level?
-- Predominately female/male/gay/trans etc.?
+- **Educated** and/or sophisticated?
+- Have **specific interests** or focus?
+- Are just **casually browsing**?
+- Are from a certain **demographix/gender/nationality**?
+
+> Make every design decision align with your website strategy
 
 ---
 
@@ -126,22 +130,21 @@ Are your audience:
 Getting your message across:
 
 - What is the **most important** thing to convey?
-- The *least* important?
-- What needs to be said *first* (the hook)?
-- What leads visitors to click a *call to action*?
+- The **least** important?
+- What needs to be said **first** (the hook)?
+- What leads visitors to click a **call to action**?
 
 ---
 
 ## CONTENT STRATEGY **07**
 <!-- .slide: class="crammed" -->
 
-Call to action
+Call to action—when visitors make a decision
 
-- What do you **want people to do** when visiting your website?
-- What will the precise **call to action wording** be?
+- What do you actually **want people to do** when visiting your website?
+- Is yuour call to action **clearly available** from anywhere on your site?
+- What is the precise **call to action wording**?
 - What emotional/mental factors will **motivate people** to click through?
-
-> Make every decision align with your website strategy
 
 ---
 
@@ -159,9 +162,9 @@ Time to be realistic!
 
 ## CONTENT STRATEGY **09**
 
-> When Steve Jobs returned to Apple in 1997, Apple was selling sixteen to eighteen models of Macintosh computer. Jobs told an interviewer that even he couldn’t give clear advice to a friend on which Mac model she should buy for her home. He … cut the number of models to four: two desktop computers and two laptops. The product line still reflects this strategic focus on real user needs and a meaningful product differentiation.
+> When Steve Jobs returned to Apple in 1997, there were sixteen to eighteen models of computer—he said even he couldn’t give clear advice to a friend on which Mac model she should buy. He **cut the number of models to four**: two desktop and two laptop computers. The product line still reflects this **strategic focus on real user needs** and a meaningful product differentiation.
 
-<small>— Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
+<small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
 ---
 
