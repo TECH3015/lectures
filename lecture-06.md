@@ -111,13 +111,13 @@ Writing **text content**:
 <small>(More on **readability** next week)</small>
 
 
-<!-- .slide: data-background-image="imgs/ui/spotify-drill-down-tree.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/spotify-drill-down-tree.jpg" data-background-size="contain" -->
 <!-- https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/ -->
 
 
 Simple In-Place Drill Down:
 
-![In-place drill down example](imgs/ui/ux_in_place_drill_down.gif)
+![In-place drill down example](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/ux_in_place_drill_down.gif)
 
 <small>[Appian UX Design Guide](https://docs.appian.com/suite/help/19.3/drilldown-pattern.html)</small>
 
@@ -234,22 +234,22 @@ Any questions about **content strategy**?
 
 Tapping, screen size, thumb reach affect mobile navigation
 
-![In-place drill down example](imgs/ui/mobile-finger-thumb.png)
+![In-place drill down example](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/mobile-finger-thumb.png)
 
 <small>[Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? (2019)](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)</small>
 
 
-<!-- .slide: data-background-image="imgs/ui/mobile-thumb-reach-01.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/mobile-thumb-reach-01.png" data-background-size="contain" -->
 
 
-<!-- .slide: data-background-image="imgs/ui/mobile-thumb-reach-02.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/mobile-thumb-reach-02.png" data-background-size="contain" -->
 
 ---
 
 ## MOBILE NAVIGATION **02**
 <!-- .slide: class="crammed" -->
 
-![Bottom navigation bar](imgs/ui/mobile-bottom-nav.png)
+![Bottom navigation bar](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/mobile-bottom-nav.png)
 
 Bottom navigation bars (iOS Tab Bar, Android Bottom Nav) stay in place and should be limited to five items
 
@@ -262,7 +262,7 @@ Bottom navigation bars (iOS Tab Bar, Android Bottom Nav) stay in place and shoul
 
 Optimal button size:
 
-![Optimal button size](imgs/ui/optimal-button-size.png)
+![Optimal button size](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/optimal-button-size.png)
 
 > users had the **lowest touch accuracy** on buttons **less than 42 pixels**. Buttons **over 72 pixels** also had low accuracy.
 
@@ -279,7 +279,7 @@ Optimal button size:
 
 Optimal button spacing:
 
-![Optimal button spacing](imgs/ui/optimal-button-spacing.png)
+![Optimal button spacing](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/optimal-button-spacing.png)
 
 <small>[Optimal Size and Spacing for Mobile Buttons (UX Movement, 2019)](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)</small>
 
