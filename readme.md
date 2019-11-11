@@ -9,6 +9,7 @@ Lecture slides:
 - [Lecture 3](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-03)
 - [Lecture 4](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-04)
 - [Lecture 5](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-05)
+- [Lecture 6](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-06)
 
 ## Module materials
 

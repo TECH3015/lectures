@@ -1,4 +1,4 @@
-# TECH3015 Lecture 00
+# TECH3015 Lecture 06
 
 2019-2020
 
@@ -34,66 +34,31 @@ midday (12pm) on Friday 13 December 2019
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-Full assignment criteria covered in later lectures
+[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria) (Assignment 2 criteria to follow)
 
 ---
 
 ## WHERE WE ARE
 
 - progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
-
----
-
-## ASSIGNMENT 1 **01**
-
-What you need to hand in:
-
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
-
----
-
-## ASSIGNMENT 1 **02**
-
-Also:
-
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
-
----
-
-## ASSIGNMENT 1 **03**
-
-**5 marking criteria @ 20% each**
-
-- Information Architecture
-- Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+  - prepare your content for the web
+  - correct file types
+  - optimise images/videos/audio
+  - written content in plain text
+  - finished designs and wireframes
+- web programming refreshers?
 
 ---
 
 ## TOPICS **00**
 
-- tap targets
-- thumb reach
+- content strategy
+- mobile tap targets
+- mobile thumb reach
 - Google mobile UX
-- content management see below
-- RWD vs PWA
+- content strategy
 - Maeda's Laws of Simplicity
-- good icons and link
+- good webapp icon examples
 
 ---
 
@@ -108,16 +73,16 @@ Clarissa Peterson 2014, [Learning Responsive Web Design: A Beginner’s Guide](h
 
 ---
 
-## CONTENT STRATEGY **01**
+## CONTENT STRATEGY **02**
 <!-- .slide: class="crammed" -->
 
 - **Project manager:** We need a landing page for client X
-- **Designer:** I can’t start the design until I see some content
-- **Writer:** I can’t start writing until I see a design.
+- **Designer:** I can’t start the design until I see some content!
+- **Writer:** I can’t start writing until I see a desig…
 
 ---
 
-## CONTENT STRATEGY **02**
+## CONTENT STRATEGY **03**
 <!-- .slide: class="crammed" -->
 
 Word count:
@@ -125,11 +90,12 @@ Word count:
 - some sites need long, detailed copy 
 - others must be stripped to the bare minimum 
 - or you can strike a balance between the two
-- optimum line length for readablity SEE https://baymard.com/blog/line-length-readability
+
+Use **subheadings** and **brief paragraphs**!
 
 ---
 
-## CONTENT STRATEGY **03**
+## CONTENT STRATEGY **04**
 <!-- .slide: class="crammed" -->
 
 Search Engine Optimisation
@@ -142,57 +108,80 @@ The [Google SEO Starter Guide](https://support.google.com/webmasters/answer/7451
 
 ---
 
-## CONTENT STRATEGY **02**
+## CONTENT STRATEGY **05**
 <!-- .slide: class="crammed" -->
 
-Your audience are they:
+Are your audience:
 
-- sophisticated? 
-- Down to earth? 
-- University-level? 
-- Predominately female/male/trans etc.?
+- Educated and/or sophisticated?
+- Down to earth?
+- University-level?
+- Predominately female/male/gay/trans etc.?
 
 ---
 
-## CONTENT STRATEGY **0i**
+## CONTENT STRATEGY **06**
 <!-- .slide: class="crammed" -->
 
-Messaging priorities:
+Getting your message across:
 
-- What is the most important point to convey? 
-- The least important? 
-- What needs to be said first (the hook)?
-- What needs to be said just leading up to the call to action?
+- What is the **most important** thing to convey?
+- The *least* important?
+- What needs to be said *first* (the hook)?
+- What leads visitors to click a *call to action*?
 
 ---
 
-## CONTENT STRATEGY **0i**
+## CONTENT STRATEGY **07**
 <!-- .slide: class="crammed" -->
 
 Call to action
 
-- What will the precise wording be? 
-- What emotional and intellectual factors will motivate the visitor to click through?
+- What do you **want people to do** when visiting your website?
+- What will the precise **call to action wording** be?
+- What emotional/mental factors will **motivate people** to click through?
+
+> Make every decision align with your website strategy
 
 ---
 
-## CONTENT STRATEGY **0i**
+## CONTENT STRATEGY **08**
+
+Time to be realistic!
+
+> Strategy is the art of sensible planning to marshal your resources toward their most efficient and effective use, over a significant period of time.
+> 
+> A good strategy is flexible, and shows proper humility in the face of challenges. It does not pretend that miracles are possible or even desirable.
+
+<small>— Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
+
+---
+
+## CONTENT STRATEGY **09**
+
+> When Steve Jobs returned to Apple in 1997, Apple was selling sixteen to eighteen models of Macintosh computer. Jobs told an interviewer that even he couldn’t give clear advice to a friend on which Mac model she should buy for her home. He … cut the number of models to four: two desktop computers and two laptops. The product line still reflects this strategic focus on real user needs and a meaningful product differentiation.
+
+<small>— Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
+
+---
+
+## CONTENT STRATEGY **10**
 <!-- .slide: class="crammed" -->
 
-all above from:
+Read more from these articles:
 
-—[Content Strategy Within The Design Process](https://www.ceros.com/resources/content-strategy-within-design-process/)
+- [Content Strategy Within The Design Process](https://www.ceros.com/resources/content-strategy-within-design-process/)
+- [Web Style Guide, Chapter 1: "Strategy"](https://webstyleguide.com/1-strategy.html)
 
----
+<!-- ---
 
 ## RESOURCES **00**
 
 EXTRACT FROM THESE
 
 - http://maxdesign.com.au/articles/em/
-- https://webstyleguide.com/
 - https://uxmovement.com/
-- https://uxmovement.com/category/mobile/
+- https://uxmovement.com/category/mobile/ -->
 
 ---
 
@@ -207,6 +196,22 @@ UX Movement: [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.co
 <!-- .slide: class="crammed" -->
 
 Google: [Is your web page mobile-friendly?](https://search.google.com/test/mobile-friendly)
+
+---
+
+## ANY QUESTIONS
+
+Any questions about what we've covered today?
+
+---
+
+## WHAT YOU WANT NEXT
+
+What do you want to cover next week?
+
+- typography and readability!
+- more on design and UX?
+- an gentle reminder of code?
 
 ---
 
@@ -231,27 +236,3 @@ then 2 spaces after each for the image slides:
 Description: [link to website](URL)
 
 ![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
-
----
-
-## TITLE
-
-Any questions about TOPIC?
-
----
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week? E.g.
-
-- list here
-
----
-
-## FINAL QUESTIONS?
-
-No crowding around the  
-podium after, please!
-
-
-

@@ -34,54 +34,31 @@ midday (12pm) on Friday 13 December 2019
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-Full assignment criteria covered in later lectures
+[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria) (Assignment 2 criteria to follow)
 
 ---
 
 ## WHERE WE ARE
 
 - progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
+  - prepare your content for the web
+  - correct file types
+  - optimise images/videos/audio
+  - written content in plain text
+  - finished designs and wireframes
+- web programming refreshers?
 
 ---
 
-## ASSIGNMENT 1 **01**
+## include
 
-What you need to hand in:
-
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
-
----
-
-## ASSIGNMENT 1 **02**
-
-Also:
-
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
-
----
-
-## ASSIGNMENT 1 **03**
-
-**5 marking criteria @ 20% each**
-
-- Information Architecture
-- - Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+- RWD vs PWA
+- [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+- [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
+- [Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)
+- [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
+- [Ideal line length for content](http://maxdesign.com.au/articles/em/)
+- [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
 
 ---
 
