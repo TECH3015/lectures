@@ -29,32 +29,30 @@ Email: deveritt@dmu.ac.uk
 ## ASSIGNMENT DEADLINES
 
 - **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
+midday (12pm) on Friday 13 December 2019  
+[Coursework 1 full marking criteria](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
 
 - **Assignment 2 (60%):**  
-midday (12pm) Friday 3rd April 2020
-
-[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria) (Assignment 2 criteria to follow)
+midday (12pm) Friday 3rd April 2020  
+(Assignment 2 criteria to follow)
 
 ---
 
 ## WHERE WE ARE
 
-- progress with planning your site:
-  - prepare your content for the web
-  - correct file types
-  - optimise images/videos/audio
-  - written content in plain text
-  - finished designs and wireframes
-- web programming refreshers?
+- **planning your site**:
+  - **prepare** your content for the web
+  - correct **file types**
+  - **optimise** images/videos/audio
+  - written content in **plain text**
+  - finished **designs** and **wireframes**
 
 ---
 
-## TOPICS **00**
+## TOPICS
 
 - content strategy
-- mobile tap targets
-- mobile thumb reach
+- mobile tap targets and thumb reach
 - Google mobile UX
 - Maeda's Laws of Simplicity
 - good webapp icon examples
@@ -68,43 +66,73 @@ midday (12pm) Friday 3rd April 2020
 > 
 > “we often created sites without thinking about strategy at all … we would first design a site that looked nice and matched our branding. Next, we made a list of all the stuff we wanted to put on the site (content), and then tried to fit all of our stuff into the newly designed site.”
 
-Clarissa Peterson 2014, [Learning Responsive Web Design: A Beginner’s Guide](http://www.learningrwd.com/)
+<small>Clarissa Peterson (2014), [Learning Responsive Web Design](http://www.learningrwd.com/)</small>
 
 ---
 
 ## CONTENT STRATEGY **02**
 <!-- .slide: class="crammed" -->
 
+The infinite "chicken and egg" loop:
+
 - **Project manager:** We need a landing page for client X
 - **Designer:** I can’t start the design until I see some content!
-- **Writer:** I can’t start writing until I see a desig…
+- **Programmer:** I can’t code the design without a style guide
+- **Writer:** I can’t start writing until I know the strategy
+- **Project manager:** (stressed) we need a landing page…
+
+Content strategy is the chicken *and* the egg…
+
+---
+
+## CONTENT STRATEGY **03**
+
+labels, headings and URLs…
+
+> There are only two hard things in Computer Science: cache invalidation and **naming things**
+
+<small>—Phil Karlton (Netscape engineer)</small>
 
 ---
 
 ## CONTENT STRATEGY **03**
 <!-- .slide: class="crammed" -->
 
-Writing text content:
+Writing **text content**:
 
+- use **subheadings** and **brief paragraphs**!
 - some sites need long, detailed copy 
 - others must be stripped to the bare minimum 
-- or you can strike a balance between the two
-- up-front simplicity, more detail on request
+- or you can strike a balance between the two:
+  - up-front **simplicity** > **details** on request
 
-Use **subheadings** and **brief paragraphs**!
+**drill down**: a user-interface *design pattern*—users see a summary but can view more detail—you write text for both
 
-More on readability next week
+<small>(More on **readability** next week)</small>
+
+
+<!-- .slide: data-background-image="imgs/ui/spotify-drill-down-tree.jpg" data-background-size="contain" -->
+<!-- https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/ -->
+
+
+Simple In-Place Drill Down:
+
+![In-place drill down example](imgs/ui/ux_in_place_drill_down.gif)
+
+<small>[Appian UX Design Guide](https://docs.appian.com/suite/help/19.3/drilldown-pattern.html)</small>
 
 ---
 
 ## CONTENT STRATEGY **04**
 <!-- .slide: class="crammed" -->
 
-Search Engine Optimisation
+Search Engine Optimisation (**SEO**)
 
-- at least one descriptive `h1` tag per page or section
-- semantic HTML5 tags are essential
-- structured content (subheadings, lists, tables…)
+> Never, ever pay for SEO when you can build it in
+
+- **tiered headings**: one `h1` tag per page, `h2` for each section
+- **semantic HTML5 tags** are essential
+- **structured content** (subheadings, lists, tables…)
 
 The [Google SEO Starter Guide](https://support.google.com/webmasters/answer/7451184) is excellent!
 
@@ -120,7 +148,7 @@ Are your audience:
 - Are just **casually browsing**?
 - Are from a certain **demographix/gender/nationality**?
 
-> Make every design decision align with your website strategy
+> Make every design and content decision align with your overall website strategy
 
 ---
 
@@ -134,21 +162,21 @@ Getting your message across:
 - What needs to be said **first** (the hook)?
 - What leads visitors to click a **call to action**?
 
----
 
 ## CONTENT STRATEGY **07**
 <!-- .slide: class="crammed" -->
 
-Call to action—when visitors make a decision
+**Call to action**—when visitors make a decision
 
-- What do you actually **want people to do** when visiting your website?
-- Is yuour call to action **clearly available** from anywhere on your site?
+- What do you **want people to do** when visiting your site?
+- Is your call to action **clearly prominent** on your site?
 - What is the precise **call to action wording**?
-- What emotional/mental factors will **motivate people** to click through?
+- What emotional/mental factors **motivate people** to act?
 
 ---
 
 ## CONTENT STRATEGY **08**
+<!-- .slide: class="crammed" -->
 
 Time to be realistic!
 
@@ -161,8 +189,9 @@ Time to be realistic!
 ---
 
 ## CONTENT STRATEGY **09**
+<!-- .slide: class="crammed" -->
 
-> When Steve Jobs returned to Apple in 1997, there were sixteen to eighteen models of computer—he said even he couldn’t give clear advice to a friend on which Mac model she should buy. He **cut the number of models to four**: two desktop and two laptop computers. The product line still reflects this **strategic focus on real user needs** and a meaningful product differentiation.
+> When Steve Jobs returned to Apple in 1997, there were **sixteen to eighteen models** of computer—he said even he couldn’t give clear advice to a friend on which Mac model she should buy. He **cut the number of models to four**: two desktop and two laptop computers. The Apple product line still reflects this **strategic focus on real user needs** and a meaningful product differentiation.
 
 <small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
@@ -171,40 +200,111 @@ Time to be realistic!
 ## CONTENT STRATEGY **10**
 <!-- .slide: class="crammed" -->
 
-Read more from these articles:
+> There’s no such thing as “mobile content.” What all readers and users need is **good content**, available **wherever and whenever** they need it, **on any device**. If some of your content looks superfluous on a mobile device, it’s certainly superfluous for desktop users as well. **Get rid of the useless fluff!**
 
+
+> **Do not overwrite**. Small is good. A concise, high-quality site is much better than a big contraption full of broken links. Produce the **minimum necessary** to achieve an **excellent result**.
+
+<small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
+
+---
+
+## CONTENT STRATEGY **11**
+<!-- .slide: class="crammed" -->
+
+Read more from these articles and sites:
+
+- [UX Movement has helpful menus](https://uxmovement.com/)
 - [Content Strategy Within The Design Process](https://www.ceros.com/resources/content-strategy-within-design-process/)
 - [Web Style Guide, Chapter 1: "Strategy"](https://webstyleguide.com/1-strategy.html)
 
-<!-- ---
-
-## RESOURCES **00**
-
-EXTRACT FROM THESE
-
-- http://maxdesign.com.au/articles/em/
-- https://uxmovement.com/
-- https://uxmovement.com/category/mobile/ -->
+The *Web Style Guide* also has a good section on  
+**Social Media Strategy**
 
 ---
 
-## MOBILE TAP TARGETS **00**
+## ANY QUESTIONS?
+
+Any questions about **content strategy**?
+
+---
+
+## MOBILE NAVIGATION **01**
 <!-- .slide: class="crammed" -->
 
-UX Movement: [Optimal Size and Spacing for Mobile Buttons](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)
+Tapping, screen size, thumb reach affect mobile navigation
+
+![In-place drill down example](imgs/ui/mobile-finger-thumb.png)
+
+<small>[Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? (2019)](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)</small>
+
+
+<!-- .slide: data-background-image="imgs/ui/mobile-thumb-reach-01.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="imgs/ui/mobile-thumb-reach-02.png" data-background-size="contain" -->
 
 ---
 
-## MOBILE FRIENDLY TEST **00**
+## MOBILE NAVIGATION **02**
 <!-- .slide: class="crammed" -->
 
-Google: [Is your web page mobile-friendly?](https://search.google.com/test/mobile-friendly)
+![Bottom navigation bar](imgs/ui/mobile-bottom-nav.png)
+
+Bottom navigation bars (iOS Tab Bar, Android Bottom Nav) stay in place and should be limited to five items
+
+<small>[Design for Mobile (DZone 2016)](https://dzone.com/articles/design-for-mobile-app-ui-best-practices-part-2)</small>
 
 ---
 
-## ANY QUESTIONS
+## MOBILE NAVIGATION **03**
+<!-- .slide: class="crammed" -->
 
-Any questions about what we've covered today?
+Optimal button size:
+
+![Optimal button size](imgs/ui/optimal-button-size.png)
+
+> users had the **lowest touch accuracy** on buttons **less than 42 pixels**. Buttons **over 72 pixels** also had low accuracy.
+
+
+> The **highest accuracy** was found with buttons **between 42-72 pixels** — 42 pixels is the minimum and 72 pixels is the maximum button size.
+
+
+> The **most preferred button size was 60 pixels**, which is about the middle of the range. The 72 pixel button produced the **highest touch accuracy** and was **preferred by older users**.
+
+---
+
+## MOBILE NAVIGATION **04**
+<!-- .slide: class="crammed" -->
+
+Optimal button spacing:
+
+![Optimal button spacing](imgs/ui/optimal-button-spacing.png)
+
+<small>[Optimal Size and Spacing for Mobile Buttons (UX Movement, 2019)](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)</small>
+
+---
+
+## MOBILE NAVIGATION **05**
+
+For **good** and **bad** examples of **mobile navigation**
+
+see [Design for Mobile: App UI Best Practices: Part I](https://dzone.com/articles/design-for-mobile-app-ui-best-practices-part-1)
+
+---
+
+## MOBILE FRIENDLY TEST
+<!-- .slide: class="crammed" -->
+
+Once your website is live, for a deeper dive into  
+mobile-freindly design and building, check it with  
+Google's [Is your web page mobile-friendly?](https://search.google.com/test/mobile-friendly)
+
+---
+
+## ANY QUESTIONS?
+
+Any questions about **mobile navigation**?
 
 ---
 
@@ -214,28 +314,4 @@ What do you want to cover next week?
 
 - typography and readability!
 - more on design and UX?
-- an gentle reminder of code?
-
----
-
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
-
-## TITLE **00**
-
-text for initial slide here,
-
-then 2 spaces after each for the image slides:
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
----
-
-<!-- BIG IMAGE EXAMPLE -->
-
-Description: [link to website](URL)
-
-![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+- a gentle reminder of code?
