@@ -146,7 +146,7 @@ Are your audience:
 - **Educated** and/or sophisticated?
 - Have **specific interests** or focus?
 - Are just **casually browsing**?
-- Are from a certain **demographix/gender/nationality**?
+- Are from a certain **demographic/gender/nationality**?
 
 > Make every design and content decision align with your overall website strategy
 
