@@ -52,10 +52,17 @@ midday (12pm) Friday 3rd April 2020
 
 ## include
 
+- Google mobile UX
+- Maeda's [Laws of Simplicity](http://lawsofsimplicity.com/)
+- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
+- [Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
+- [Adobe XD](https://www.adobe.com/uk/products/xd.html#scroll)
+- good webapp icon examples
 - RWD vs PWA
 - [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
 - [Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)
+- [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
 - [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
 - [Ideal line length for content](http://maxdesign.com.au/articles/em/)
 - [optimum line length for readablity](https://baymard.com/blog/line-length-readability)

@@ -53,9 +53,6 @@ midday (12pm) Friday 3rd April 2020
 
 - content strategy
 - mobile tap targets and thumb reach
-- Google mobile UX
-- Maeda's Laws of Simplicity
-- good webapp icon examples
 
 ---
 
