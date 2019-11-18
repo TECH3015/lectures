@@ -38,13 +38,15 @@ midday (12pm) Friday 3rd April 2020
 
 ## WHERE WE ARE
 
-th
+stuff
 
 ---
 
 ## Layout
 
-gjghj
+- natural/normal flow
+- floats
+- positioning
 
 ---
 
@@ -92,7 +94,7 @@ E.g. `<a>,<span>,<code>,<button>,<strong>,<img>,<video>,<input>`
 There are many different [display types](https://developer.mozilla.org/en-US/docs/Web/CSS/display):
 
 - `none, inline, block, inline-block, table, list-item, flex, grid`
-- **flex** and **grid** are for slightly more advanced layouts
+- **flex** and **grid** are for more advanced layouts
 
 [W3Schools Try "The Display Property"](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_display)
 
@@ -129,17 +131,17 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ## Customising Flow
 
 - by default items are in natural flow of html elements
-- take them out of that flow using these options:
-  * **floating** or
-  * **positioning**.
+- take them out of that flow by **floating** or **positioning**
 
 [MDN In Flow and Out of Flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/In_Flow_and_Out_of_Flow)
 
+---
 
 ### Floating Elements
 
 > "places an element on the left or right side of its container, allowing text and inline elements to wrap around it" [*]
 
+- used mainly for **page layout** (images within text)
 - turns inline elements into **block**-level elements
 - `left, right, none`
 
@@ -152,6 +154,18 @@ img {
 [*]: https://developer.mozilla.org/en-US/docs/Web/CSS/float
 
 
+### Clearing Floats
+
+- stops element after float from moving around
+- `left, right, both`
+
+```css
+.clearfix {
+  clear: both;
+}
+```
+
+
 ### Float Examples
 
 **float 2 images right**  
@@ -162,23 +176,117 @@ img {
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
 
 
-**clear floats**  
+**clear right floats**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
 
+---
 
 ### Positioning Elements
 
-TODO
+- used for more varied uses than floats
+- elements can be positioned in one of 5 ways
+- `static, relative, absolute, fixed, sticky`
+- you might need `top, bottom, left, right` too
+
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
+
+[W3Schools The position Property](https://www.w3schools.com/css/css_positioning.asp)  
+[MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) + [MDN Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+
+
+### Static
+
+- default
+- *not* affected by `top, bottom, left, right`
+
+```css
+div {
+  position: static;
+}
+```
+
+
+### Relative
+
+- position relative to **original location**
+- affected by `top, bottom, left, right`
+- leaves original space empty
+
+```css
+div {
+  position: relative;
+  bottom: 0;
+  right: 0;
+}
+```
+
+
+### Absolute
+
+- position relative to **nearest positioned ancestor**
+- if no ancestor, then body is used
+- **ancestor also needs to be positioned**
+- moves with page when scrolling
+- affected by `top, bottom, left, right`
+
+```css
+button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+```
+
+
+### Fixed
+
+- position relative to the **viewport**
+- stays fixed even when scrolling
+- affected by `top, bottom, left, right`
+
+```css
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+```
+
+
+### Sticky
+
+- position relative to **user's scroll position**
+- stays fixed after scrolling to sticky point
+- affected by `top, bottom, left, right`
+
+```css
+nav {
+  position: sticky;
+  top: 0;
+}
+```
+
+
+### Examples
+<iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/position.html" style="background:#ccc"></iframe>
+
+[MDN CSS Demo: position](https://interactive-examples.mdn.mozilla.net/pages/css/position.html)
 
 ---
 
 ## Examples / Refernces
 
-https://internetingishard.com/html-and-css/responsive-design/
+https://internetingishard.com/html-and-css/
 
 https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
 
 ---
+
+## Next Week
+
+- flexbox
+- grids
+
 
 ## WHAT YOU WANT NEXT
 
