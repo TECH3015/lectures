@@ -103,16 +103,13 @@ then 2 spaces after each for the image slides:
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
 ---
 
 <!-- BIG IMAGE EXAMPLE -->
 
 Description: [link to website](URL)
 
-![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
 ---
 

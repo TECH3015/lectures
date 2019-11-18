@@ -294,9 +294,12 @@ What do you want to cover next week? E.g.
 
 - list here
 
+<<<<<<< HEAD
+=======
 ---
 
 ## FINAL QUESTIONS?
 
 No crowding around the  
 podium after, please!
+>>>>>>> 03f77bce7a2e857794f000d780f329155fe929d3
