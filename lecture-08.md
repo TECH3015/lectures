@@ -17,14 +17,12 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
 
 ## ASSIGNMENT DEADLINES
 
@@ -40,48 +38,23 @@ Full assignment criteria covered in later lectures
 
 ## WHERE WE ARE
 
-- progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
+- see last week
 
 ---
 
-## ASSIGNMENT 1 **01**
+## KINDS OF WEBSITE **01**
+<!-- .slide: class="crammed" -->
 
-What you need to hand in:
-
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
+- dynamic
+- static
+- responsive (RWD)
+- progressive (PWA)
 
 ---
 
-## ASSIGNMENT 1 **02**
+## ARRANING CONTENT
 
-Also:
-
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
-
----
-
-## ASSIGNMENT 1 **03**
-
-**5 marking criteria @ 20% each**
-
-- Information Architecture
-- - Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+code stuff
 
 ---
 
@@ -103,13 +76,16 @@ then 2 spaces after each for the image slides:
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+
 ---
 
 <!-- BIG IMAGE EXAMPLE -->
 
 Description: [link to website](URL)
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
 ---
 
@@ -124,13 +100,4 @@ Any questions about TOPIC?
 What do you want to cover next week? E.g.
 
 - list here
-
----
-
-## FINAL QUESTIONS?
-
-No crowding around the  
-podium after, please!
-
-
 

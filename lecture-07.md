@@ -17,14 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+
 
 ## ASSIGNMENT DEADLINES
 
@@ -40,70 +40,252 @@ midday (12pm) Friday 3rd April 2020
 
 ## WHERE WE ARE
 
-as last week, but more work please on **designs**!
+As last week, but more work please on **designs**!
 
 - finished **designs** and **wireframes**
 - **prepare** your content for the web
 - correct **file types**
-- **optimise** images/videos/audio
 - written content in **plain text**
+- collect and **optimise** images/videos/audio
 
 ---
 
-## EXTRAS
+## EXTRA RESOURCES **01**
+<!-- .slide: class="crammed" -->
 
-- Google mobile UX
-- [Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
-- [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+![Job Stories diagram](imgs/ui/job-story.png)
+
+Are **Job Stories** the new **User Stories**?
+
+[Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
+
+
+## EXTRA RESOURCES **02**
+<!-- .slide: class="crammed" -->
+
+![toggles with and without icons](imgs/ui/check-status.png)
+
+Accessibility and colour contrast e.g. **icons** help color-blind users distinguish **selected status**
+
+[The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+
+
+## EXTRA RESOURCES **03**
+<!-- .slide: class="crammed" -->
+
+![Information Design examples](imgs/ui/information-design-pinterest.png)
+
+[Pinterest: Information Design](https://www.pinterest.com/search/pins/?q=information%20design&rs=typed)
+
+
+## EXTRA RESOURCES **04**
+<!-- .slide: class="crammed" -->
+
+![Information Design examples](imgs/ui/information-design-pinterest.png)
+
+[Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
+
+
+## EXTRA RESOURCES **05**
+<!-- .slide: class="crammed" -->
+
+![Adobe XD screenshot](imgs/ui/adobe-xd.png)
+
+[Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll)
 
 ---
 
-## TYPOGRAPHY **00**
+## INFORMATION DESIGN **01**
+<!-- .slide: class="crammed" -->
+
+> Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is complex or unstructured, a **visual representation** can express its meaning more clearly
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest-daniel.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png" data-background-size="contain" -->
+
+---
+
+## TYPOGRAPHY **01**
 <!-- .slide: class="crammed" -->
 
 - [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
 - [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
+
+---
+
+## TYPOGRAPHY **02**
+<!-- .slide: class="crammed" -->
+
 - [Ideal line length for content](http://maxdesign.com.au/articles/em/)
 - [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
-- https://baymard.com/blog/line-length-readability
-- https://www.viget.com/articles/the-line-length-misconception/
-- https://www.paulolyslager.com/optimal-text-layout-line-length/
-- https://uxmovement.com/content/how-sans-serif-typeface-styles-affect-readability/
-- https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344
+- [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/)
+- [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
+- [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
+
+---
+
+## TYPOGRAPHY **03**
+<!-- .slide: class="crammed" -->
+
+- [How Sans Serif Typeface Styles Affect Readability](https://uxmovement.com/content/how-sans-serif-typeface-styles-affect-readability/)
+
+---
+
+## TYPOGRAPHY **04**
+<!-- .slide: class="crammed" -->
+
 - [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
 
 ---
 
-## DARK UI **01**
+## TYPOGRAPHY **05**
+<!-- .slide: class="crammed" -->
 
-> For many years, telling someone in everyday settings that you worked on user interface design or human-computer interaction would produce puzzled looks and require more explanation. With the rise of design and interaction associated with the proliferation of interactive devices, these terms became much more familiar to people outside the discipline. 
+---
+
+## TYPOGRAPHY **01**
+<!-- .slide: class="crammed" -->
+
+---
+
+## TYPOGRAPHY **01**
+
+Any questions about **typography**?
+
+---
+
+## DARK UI **01**
+<!-- .slide: class="crammed" -->
+
+> For many years, telling someone you worked on **user interface design** or **human-computer interaction** would produce puzzled looks and require explanation. With the rise of design and interaction for interactive devices, these terms became **much more familiar** to people outside the discipline…
 
 
 
 ## DARK UI **02**
+<!-- .slide: class="crammed" -->
 
-> Lately, though, there has been a second shift. Lately, if you tell someone that you work on interactive systems, or make interaction effective and enjoyable, it is likely to evoke a skeptical or mistrustful response. In light of a series of scandals—over user data management, online profiling, user tracking, targeted manipulation, digital addiction… user experience professionals and researchers have found themselves facing new questions about our work and its consequences. —Dourish, Paul (2019) [user-experience-as-legitimacy-trap](http://interactions.acm.org/archive/view/november-december-2019/user-experience-as-legitimacy-trap)
+> …but lately, it is likely to evoke a **skeptical** or **mistrustful** response. The series of scandals—over **userdata management**, **online profiling**, **user tracking**, **targeted manipulation**, **digital addiction**… means user experience professionals face **new questions**.
+
+<small>condensed from Dourish, Paul (2019)  
+[User Experience As Legitimacy Trap](http://interactions.acm.org/archive/view/november-december-2019/user-experience-as-legitimacy-trap)</small>
 
 ---
 
 ## DARK UI **03**
-
-
-
-- [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
-- [dark UI patterns](https://www.darkpatterns.org/)
-- [Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)
-- [How You Can Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)
-- Information Design
-
----
-## KINDS OF WEBSITE **01**
 <!-- .slide: class="crammed" -->
 
-- dynamic
-- static
-- responsive (RWD)
-- progressive (PWA)
+> **Dark Patterns** are UI tricks that make you do things you didn't mean to, like **opting in** or **signing up**.
+>
+> …because you **skim read** and **make assumptions**… companies take advantage by **tricking you** into doing things, e.g. by making page elements **appear** to say one thing when they **really** mean another.  
+>
+> **Defend yourself** by learning about Dark Patterns.
+
+<small>condensed from [DarkPatterns.org](https://www.darkpatterns.org/), Harry Brignull (2019)</small>
+
+---
+
+## DARK UI **04**
+
+A brief explanation with examples:
+
+<iframe width="740" height="416" src="https://www.youtube.com/embed/kxkrdLI6e6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## DARK UI **05**
+<!-- .slide: class="crammed" -->
+
+- [**Trick Questions**](https://www.darkpatterns.org/types-of-dark-pattern/trick-questions) - giving answers you didn't mean
+- [**Sneak into Basket**](https://www.darkpatterns.org/types-of-dark-pattern/sneak-into-basket) - additional items on checkout
+- [**Crap Hotel**](https://www.darkpatterns.org/types-of-dark-pattern/roach-motel) - you can't easily get out of something
+- [**Privacy Zuckering**](https://www.darkpatterns.org/types-of-dark-pattern/privacy-zuckering) - tricked into sharing information
+- [**Price comparison**](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention) - hard to compare a price with others
+- [**Misdirection**](https://www.darkpatterns.org/types-of-dark-pattern/misdirection) - a highlighted thing distracts from another
+
+
+## DARK UI **06**
+<!-- .slide: class="crammed" -->
+
+- [**Hidden Costs**](https://www.darkpatterns.org/types-of-dark-pattern/hidden-costs) - the final checkout has unexpected charges
+- [**Bait and Switch**](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch) - doing one thing makes another happen
+- [**Confirmshaming**](https://www.darkpatterns.org/types-of-dark-pattern/confirmshaming) - guilts you into opting in
+- [**Disguised Ads**](https://www.darkpatterns.org/types-of-dark-pattern/disguised-ads) - ads disguised as content or navigation
+- [**Forced Continuity**](https://www.darkpatterns.org/types-of-dark-pattern/forced-continuity) - no-warning charges after a free trial
+- [**Friend Spam**](https://www.darkpatterns.org/types-of-dark-pattern/friend-spam) - email/permissions then spam your contacts
+
+<small>[Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)</small>
+
+---
+
+## DARK UI **07**
+<!-- .slide: class="crammed" -->
+
+[@darkpatterns Twitter feed](https://twitter.com/darkpatterns) collects examples!
+
+![DarkPatterns on Twitter](imgs/ui/dark-patterns-twitter.png)
+
+
+**MISDIRECTION 1**
+
+![](imgs/ui/dark-ui-allow-all.jpg)
+
+
+**MISDIRECTION 2**
+
+![](imgs/ui/dark-ui-buy-now.jpg)
+
+
+**PRE-SELECTED CONFUSING OPTIONS**
+
+![](imgs/ui/dark-ui-confusing-cookies.jpg)
+
+
+**ARE YOU SURE?**
+
+![](imgs/ui/dark-ui-jump-hoops.jpg)
+
+
+**DON'T MISS OUT!**
+
+![](imgs/ui/dark-ui-miss-out.jpg)
+
+
+**NO MEANS YES**
+
+![](imgs/ui/dark-ui-no-yes.jpg)
+
+
+**shhh… opt out**
+
+![](imgs/ui/dark-ui-opt-out.jpg)
+
+
+**PANIC!**
+
+![](imgs/ui/dark-ui-panic.png)
+
+
+**SHAME…**
+
+![](imgs/ui/dark-ui-shame.jpg)
+
+---
+
+## DARK UI **08**
+<!-- .slide: class="crammed" -->
+
+- [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
+- [Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)
+- [Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)
+
+---
+
+## DARK UI **04**
+
+Any questions about **Dark UI Patterns**?
 
 ---
 
@@ -112,59 +294,12 @@ as last week, but more work please on **designs**!
 
 - Maeda's [Laws of Simplicity](http://lawsofsimplicity.com/)
 - [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
-- [Adobe XD](https://www.adobe.com/uk/products/xd.html#scroll)
 
 ---
 
-## TITLE **00**
-<!-- .slide: class="crammed" -->
+## WHAT'S NEXT
 
-For slides that need more text, use the above class in a comment
+- **laying out** your HTML pages
+- with CSS and HTML **examples**
 
----
-
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
-
-## TITLE **00**
-
-text for initial slide here,
-
-then 2 spaces after each for the image slides:
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
----
-
-<!-- BIG IMAGE EXAMPLE -->
-
-Description: [link to website](URL)
-
-![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
-
----
-
-## TITLE
-
-Any questions about TOPIC?
-
----
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week? E.g.
-
-- list here
-
----
-
-## FINAL QUESTIONS?
-
-No crowding around the  
-podium after, please!
-
-
-
+Anything else you want?
