@@ -162,7 +162,6 @@ Information **Design** is good *visual presentation*
 
 [Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
 
-
 ---
 
 ## INFORMATION DESIGN **08**
