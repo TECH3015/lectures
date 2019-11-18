@@ -102,27 +102,27 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ### Examples
 
 **Inline**  
-[![](imgs/layout/inline2.png)](https://codepen.io/faniae/pen/zYYyMEo)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline2.png)](https://codepen.io/faniae/pen/zYYyMEo)
 
 
 **Block**  
-[![](imgs/layout/block2.png)](https://codepen.io/faniae/pen/JjjweyN)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/block2.png)](https://codepen.io/faniae/pen/JjjweyN)
 
 
 **Inline + Block**  
-[![](imgs/layout/mix.png)](https://codepen.io/faniae/pen/yLLGRMx)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/mix.png)](https://codepen.io/faniae/pen/yLLGRMx)
 
 
 **Inline-Block**  
-[![](imgs/layout/inline-block.png)](https://codepen.io/faniae/pen/dyywQBj)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline-block.png)](https://codepen.io/faniae/pen/dyywQBj)
 
 
 **Images**  
-[![](imgs/layout/images.png)](https://codepen.io/faniae/pen/GRRPwrG)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/GRRPwrG)
 
 
 **Figures**  
-[![](imgs/layout/figures.png)](https://codepen.io/faniae/pen/WNNLaYg)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/figures.png)](https://codepen.io/faniae/pen/WNNLaYg)
 
 ---
 
@@ -155,15 +155,15 @@ img {
 ### Float Examples
 
 **float 2 images right**  
-[![](imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
 
 
 **float images differentely**  
-[![](imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
 
 
 **clear floats**  
-[![](imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
 
 
 ### Positioning Elements
