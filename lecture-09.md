@@ -52,32 +52,35 @@ Full assignment criteria covered in later lectures
 
 ---
 
-## ARRANING CONTENT
-
-code stuff
-
----
-
-## TITLE **00**
+## MOBILE APP ICONS
 <!-- .slide: class="crammed" -->
 
-For slides that need more text, use the above class in a comment
+- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
 
 ---
 
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
+## TYPOGRAPHY **01**
+<!-- .slide: class="crammed" -->
 
-## TITLE **00**
+- [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
 
-text for initial slide here,
+---
 
-then 2 spaces after each for the image slides:
+## TYPOGRAPHY **02**
+<!-- .slide: class="crammed" -->
 
+- [Ideal line length for content](http://maxdesign.com.au/articles/em/)
+- [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
+- [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/)
+- [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
+- [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+---
 
+## TYPOGRAPHY **04**
+<!-- .slide: class="crammed" -->
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+- [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
 
 ---
 
@@ -86,6 +89,12 @@ then 2 spaces after each for the image slides:
 Description: [link to website](URL)
 
 ![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+
+---
+
+<!-- FULL BACKGROUND IMAGE -->
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
 ---
 
