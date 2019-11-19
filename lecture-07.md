@@ -53,7 +53,7 @@ As last week, but more work please on **designs**!
 ## EXTRA RESOURCES **01**
 <!-- .slide: class="crammed" -->
 
-![Job Stories diagram](imgs/ui/job-story.png)
+![Job Stories diagram](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/job-story.png)
 
 Are **Job Stories** the new **User Stories**?
 
@@ -63,7 +63,7 @@ Are **Job Stories** the new **User Stories**?
 ## EXTRA RESOURCES **02**
 <!-- .slide: class="crammed" -->
 
-![toggles with and without icons](imgs/ui/check-status.png)
+![toggles with and without icons](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/check-status.png)
 
 Accessibility and colour contrast e.g. **icons** help color-blind users distinguish **selected status**
 
@@ -73,87 +73,109 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 ## EXTRA RESOURCES **03**
 <!-- .slide: class="crammed" -->
 
-![Information Design examples](imgs/ui/information-design-pinterest.png)
+> The measure of good editorial style is whether the content is useful… Content should meet real, carefully researched **user needs**. Too often corporate and institutional web teams produce content designed primarily around **internal** goals and **organization** charts, forgetting that **users couldn’t care less** what your mission statement is, or how you are organized.
 
-[Pinterest: Information Design](https://www.pinterest.com/search/pins/?q=information%20design&rs=typed)
+[Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
 
 
 ## EXTRA RESOURCES **04**
 <!-- .slide: class="crammed" -->
 
-![Information Design examples](imgs/ui/information-design-pinterest.png)
-
-[Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
-
-
-## EXTRA RESOURCES **05**
-<!-- .slide: class="crammed" -->
-
-![Adobe XD screenshot](imgs/ui/adobe-xd.png)
+![Adobe XD screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/adobe-xd.png)
 
 [Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll)
+
+---
+
+## EXTRA RESOURCES ??
+
+Any **Extra Resources** you'd like next?
 
 ---
 
 ## INFORMATION DESIGN **01**
 <!-- .slide: class="crammed" -->
 
-> Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is complex or unstructured, a **visual representation** can express its meaning more clearly
+We **forage** for information like we do for **resources**
 
+![food/information foraging comparison table](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-foraging.png)
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest-daniel.png" data-background-size="contain" -->
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png" data-background-size="contain" -->
+<small>[Information Foraging: A Theory of How People Navigate on the Web](https://www.nngroup.com/articles/information-foraging/)</small>
 
 ---
 
-## TYPOGRAPHY **01**
+## INFORMATION DESIGN **02**
 <!-- .slide: class="crammed" -->
 
-- [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
-- [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
+Information Architecture **makes foraging easier**  
+**Information Design** conveys *meaning*
+
+> Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
 
 ---
 
-## TYPOGRAPHY **02**
+## INFORMATION DESIGN **03**
+
+Information **Architecture** is *getting around*  
+Information **Design** is good *visual presentation*
+
+![Information Design diagram](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design.png)
+
+<small>[What is Information Design?](https://online-learning.com/information-design/)</small>
+
+---
+
+## INFORMATION DESIGN **04**
 <!-- .slide: class="crammed" -->
 
-- [Ideal line length for content](http://maxdesign.com.au/articles/em/)
-- [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
-- [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/)
-- [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
-- [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
+**Small changes**: give users a brief cue about what's in the text, **before they commit to reading** it, then use a **longer headline**
+
+![Eyebrow headline example](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/eyebrow-headline.png)
+
+<small>[Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)</small>
 
 ---
 
-## TYPOGRAPHY **03**
+## INFORMATION DESIGN **05**
 <!-- .slide: class="crammed" -->
 
-- [How Sans Serif Typeface Styles Affect Readability](https://uxmovement.com/content/how-sans-serif-typeface-styles-affect-readability/)
+**Vast information**: simple surface, drill-down for more
+
+![Periodic table](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/periodic-table.png)
+
+<small>[Interactive Period Table](https://ptable.com/)</small>
 
 ---
 
-## TYPOGRAPHY **04**
+## INFORMATION DESIGN **06**
 <!-- .slide: class="crammed" -->
 
-- [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
+![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png)
 
----
+[Pinterest: Information Design](https://www.pinterest.com/search/pins/?q=information%20design&rs=typed)
 
-## TYPOGRAPHY **05**
+
+## INFORMATION DESIGN **07**
 <!-- .slide: class="crammed" -->
 
+![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png)
+
+[Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
+
 ---
 
-## TYPOGRAPHY **01**
+## INFORMATION DESIGN **08**
 <!-- .slide: class="crammed" -->
 
+![Laws of Simplicity website](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/laws-of-simplicity.png)
+
+<small>[John Maeda's Laws of Simplicity](http://lawsofsimplicity.com/)</small>
+
 ---
 
-## TYPOGRAPHY **01**
+## INFORMATION DESIGN ??
 
-Any questions about **typography**?
+Any questions about **Information Design**?
 
 ---
 
@@ -205,6 +227,8 @@ A brief explanation with examples:
 - [**Price comparison**](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention) - hard to compare a price with others
 - [**Misdirection**](https://www.darkpatterns.org/types-of-dark-pattern/misdirection) - a highlighted thing distracts from another
 
+<small>Adapted from [Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)…</small>
+
 
 ## DARK UI **06**
 <!-- .slide: class="crammed" -->
@@ -216,7 +240,7 @@ A brief explanation with examples:
 - [**Forced Continuity**](https://www.darkpatterns.org/types-of-dark-pattern/forced-continuity) - no-warning charges after a free trial
 - [**Friend Spam**](https://www.darkpatterns.org/types-of-dark-pattern/friend-spam) - email/permissions then spam your contacts
 
-<small>[Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)</small>
+<small>…Adapted from [Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)</small>
 
 ---
 
@@ -225,75 +249,79 @@ A brief explanation with examples:
 
 [@darkpatterns Twitter feed](https://twitter.com/darkpatterns) collects examples!
 
-![DarkPatterns on Twitter](imgs/ui/dark-patterns-twitter.png)
+![DarkPatterns on Twitter](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-patterns-twitter.png)
 
 
 **MISDIRECTION 1**
 
-![](imgs/ui/dark-ui-allow-all.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-allow-all.jpg)
 
 
 **MISDIRECTION 2**
 
-![](imgs/ui/dark-ui-buy-now.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-buy-now.jpg)
 
 
 **PRE-SELECTED CONFUSING OPTIONS**
 
-![](imgs/ui/dark-ui-confusing-cookies.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-confusing-cookies.jpg)
 
 
 **ARE YOU SURE?**
 
-![](imgs/ui/dark-ui-jump-hoops.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-jump-hoops.jpg)
 
 
 **DON'T MISS OUT!**
 
-![](imgs/ui/dark-ui-miss-out.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-miss-out.jpg)
 
 
 **NO MEANS YES**
 
-![](imgs/ui/dark-ui-no-yes.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-no-yes.jpg)
 
 
 **shhh… opt out**
 
-![](imgs/ui/dark-ui-opt-out.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-opt-out.jpg)
 
 
 **PANIC!**
 
-![](imgs/ui/dark-ui-panic.png)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-panic.png)
 
 
 **SHAME…**
 
-![](imgs/ui/dark-ui-shame.jpg)
+![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-shame.jpg)
 
 ---
 
-## DARK UI **08**
+## ~DARK~ LIGHT UI **08**
 <!-- .slide: class="crammed" -->
 
-- [Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)
-- [Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)
-- [Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)
+A good adaptation to user scanning and presumptions:
+
+![left-to-right bias](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/signup-vs-signin.png)
+
+<small>[Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)</small>
+
+
+## ~DARK~ LIGHT UI **09**
+<!-- .slide: class="crammed" -->
+
+Left is *past*, right is *future*:
+
+![dialog box buttons](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/left-to-right-mapping.png)
+
+<small>[Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)</small>
 
 ---
 
-## DARK UI **04**
+## DARK UI ??
 
 Any questions about **Dark UI Patterns**?
-
----
-
-## RESOURCES **00**
-<!-- .slide: class="crammed" -->
-
-- Maeda's [Laws of Simplicity](http://lawsofsimplicity.com/)
-- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
 
 ---
 
