@@ -274,11 +274,56 @@ nav {
 
 ---
 
+## Centering Things
+
+- it's complicated
+
+![]()
+
+
+
+
+
+- depends on block / inline display
+- horizontal or vertical centering
+
+[How to Center in CSS](http://howtocenterincss.com/)
+
+
+> "When the element to be centered is an inline element we use text-align center on its parent. When the element is a block level element we give it a width and set the left and right margins to a value of auto." [*]
+
+[*]: https://vanseodesign.com/css/vertical-centering/
+
+
+https://vanseodesign.com/css/vertical-centering/
+
+---
+
 ## Examples / Refernces
 
 https://internetingishard.com/html-and-css/
 
 https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
+
+
+```html
+<nav>
+  <a href=""></a>
+  <a href=""></a>
+  <a href=""></a>
+</nav>
+```
+
+```js
+const blurb = querySelector("test");
+```
+
+```css
+nav {
+  position: sticky;
+  top: 0;
+}
+```
 
 ---
 
@@ -286,6 +331,8 @@ https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-
 
 - flexbox
 - grids
+
+https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/
 
 
 ## WHAT YOU WANT NEXT
