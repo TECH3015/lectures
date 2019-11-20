@@ -158,7 +158,7 @@ Information **Design** is good *visual presentation*
 ## INFORMATION DESIGN **07**
 <!-- .slide: class="crammed" -->
 
-![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png)
+![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest-daniel.png)
 
 [Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
 
