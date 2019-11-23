@@ -1,0 +1,5 @@
+- lecture-template
+- lecture-01
+- lecture-05
+- lecture-09
+- readme
