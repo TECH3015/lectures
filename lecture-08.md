@@ -58,7 +58,6 @@ stuff
 - if unsure inspect element in the browser
 
 
-
 ### Block-level elements
 
 > "A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can)." [*]<!-- .element: data-preview-link -->
@@ -166,7 +165,7 @@ img {
 ```
 
 
-### Float Examples
+### Examples
 
 **float 2 images right**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
@@ -276,26 +275,85 @@ nav {
 
 ## Centering Things
 
-- it's complicated
+***It's complicated !***
 
-![]()
+```css
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
+
+([How to Center in CSS](http://howtocenterincss.com/))
 
 
 
-
-
-- depends on block / inline display
-- horizontal or vertical centering
-
-[How to Center in CSS](http://howtocenterincss.com/)
-
+### Horizontal **1**
 
 > "When the element to be centered is an inline element we use text-align center on its parent. When the element is a block level element we give it a width and set the left and right margins to a value of auto." [*]
 
 [*]: https://vanseodesign.com/css/vertical-centering/
 
 
-https://vanseodesign.com/css/vertical-centering/
+### Horizontal **2**
+
+|                       |                               |
+|:----------------------|------------------------------:|
+| **text alignment**    | **positioning** of blocks     |
+| `text-align: center;` | `width: 50%; margin: 0 auto;` |
+| inline elements       | block elements                |
+| apply to parent       | apply to self                 |
+
+
+### Horizontal **3**
+<!-- .slide: class="crammed" -->
+
+```html
+<div>
+  Centered block, left-aligned text
+</div>
+<strong class="center">Inline, centered text (ignored)</strong>
+<div class="center">
+  Centered block, centered text
+</div>
+```
+
+[![](imgs/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
+
+```css
+div {
+  background: cyan;
+  width: 50%;
+  margin: 0 auto;
+}
+.center {
+  text-align: center;
+}
+```
+
+
+### Vertical **1**
+
+- vertical align text `vertical-align: middle;`
+
+https://codepen.io/faniae/pen/YzzMbGB
+
+
+### Vertical **2**
+
+TODO
+
+|                       |                               |
+|:---------------------:|:-----------------------------:|
+| **text alignment**    | **positioning** of blocks     |
+| `text-align: center;` | `width: 50%; margin: 0 auto;` |
+| inline elements       | block elements                |
+
+
+
+
+
 
 ---
 
