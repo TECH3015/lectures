@@ -32,27 +32,27 @@ midday (12pm) on Friday 13 December 2019
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria) (Assignment 2 criteria to follow)
+[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
+(Assignment 2 criteria to follow)
 
 ---
 
-## WHERE WE ARE
+## TOPICS TODAY
 
-stuff
-
----
-
-## TODAY
-
-- link to topic 1
-- link to topic 2
-- etc.
-
-make an index of all slides?
+- **natural flow** of `HTML` elements
+  * block / inline
+- **customizing** or taking elements *out of flow*
+  * floating
+  * **positioning**
+- **centering**
+  * horizontal / vertical
+  * flex
 
 ---
 
 ## Natural/Normal Flow
+
+**How does your <code>HTML</code> look without <code>CSS</code>?**
 
 - all html elements are either **block** or **inline**
 - inline elements wrap lines, just as text would
@@ -161,7 +161,7 @@ img {
 - `left, right, both`
 
 ```css
-.clearfix {
+p {
   clear: both;
 }
 ```
@@ -277,7 +277,7 @@ nav {
 
 ## Centering Things
 
-***It's complicated !***
+***It's complicated, BUT ...***
 
 ```css
 div {
@@ -312,98 +312,79 @@ div {
 <!-- .slide: class="crammed" -->
 
 ```html
-<div>
-  Centered block, left-aligned text
-</div>
+<div>Centered block, left-aligned text</div>
 <strong class="center">Inline, centered text (ignored)</strong>
-<div class="center">
-  Centered block, centered text
-</div>
+<div class="center">Centered block, centered text</div>
 ```
-
-[![](imgs/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
-
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
 ```css
 div {
   background: cyan;
   width: 50%;
   margin: 0 auto;
 }
-.center {
-  text-align: center;
-}
+.center { text-align: center; }
 ```
 
 
 ### Vertical **1**
 
-- vertical align text `vertical-align: middle;`
-
-https://codepen.io/faniae/pen/YzzMbGB
-
-
-### Vertical **2**
-
-TODO
-
-|                       |                               |
-|:---------------------:|:-----------------------------:|
-| **text alignment**    | **positioning** of blocks     |
-| `text-align: center;` | `width: 50%; margin: 0 auto;` |
-| inline elements       | block elements                |
+- `line-height` can be used for **one** line of text
+- flexbox's `align-items:center` best for everything
+- `vertical-align` only used for tables and images
 
 
+### Examples
+
+**one** line only `line-height` trick
+
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
 
 
-
-
----
-
-## Examples / Refernces
-
-https://internetingishard.com/html-and-css/
-
-https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
-
+`vertical-align` for **inline** image
 
 ```html
-<nav>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-</nav>
+<div>
+  Centered text with inline svg image <svg>cat</svg>
+</div>
 ```
-
-```js
-const blurb = querySelector("test");
-```
-
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical-align.png)](https://codepen.io/faniae/pen/MWWdxaQ)
 ```css
-nav {
-  position: sticky;
-  top: 0;
+div {
+  background: cyan;
+  line-height: 50px;
+  text-align: center;
+}
+div svg {
+  vertical-align: bottom;
 }
 ```
+
+
+<iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/vertical-align.html" style="background:#ccc"></iframe>
+
+[MDN CSS Demo: vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+
+
+**various vertical centering**  
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
 
 ---
 
 ## Next Week
 
-- flexbox
-- grids
-
-https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/
-
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week? E.g.
-
-- list here
+- page layouts
+- `display:flex` (a.k.a. flexbox)
+- `display:grid` (a.k.a. CSS grids)
+- **???**
 
 ---
 
-## FINAL QUESTIONS?
+## QUESTIONS?
 
-No crowding around the  
-podium after, please!
+<!-- 
+https://internetingishard.com/html-and-css/
+
+https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
+
+https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/ -->
