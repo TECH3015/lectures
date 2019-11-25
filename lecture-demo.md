@@ -1,5 +1,5 @@
 # Contents
 
-fania learning-materials natural-flow
-fania learning-materials floats
-fania learning-materials positioning
+fania learning-materials layout/natural-flow
+fania learning-materials layout/floats
+fania learning-materials layout/positioning
