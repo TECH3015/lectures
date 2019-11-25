@@ -42,11 +42,13 @@ stuff
 
 ---
 
-## Layout
+## TODAY
 
-- natural/normal flow
-- floats
-- positioning
+- link to topic 1
+- link to topic 2
+- etc.
+
+make an index of all slides?
 
 ---
 
