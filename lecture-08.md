@@ -121,7 +121,7 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 
 
 **Images**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/GRRPwrG)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/wvvRQPO)
 
 
 **Figures**  
