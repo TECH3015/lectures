@@ -32,31 +32,32 @@ midday (12pm) on Friday 13 December 2019
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria) (Assignment 2 criteria to follow)
+[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
+(Assignment 2 criteria to follow)
 
 ---
 
-## WHERE WE ARE
+## TOPICS TODAY
 
-stuff
-
----
-
-## Layout
-
-- natural/normal flow
-- floats
-- positioning
+- **natural flow** of `HTML` elements
+  * block / inline
+- **customizing** or taking elements *out of flow*
+  * floating
+  * **positioning**
+- **centering**
+  * horizontal / vertical
+  * flex
 
 ---
 
 ## Natural/Normal Flow
 
+**How does your <code>HTML</code> look without <code>CSS</code>?**
+
 - all html elements are either **block** or **inline**
 - inline elements wrap lines, just as text would
 - you can change the **display** property of elements
 - if unsure inspect element in the browser
-
 
 
 ### Block-level elements
@@ -120,7 +121,7 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 
 
 **Images**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/GRRPwrG)
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/wvvRQPO)
 
 
 **Figures**  
@@ -160,13 +161,13 @@ img {
 - `left, right, both`
 
 ```css
-.clearfix {
+p {
   clear: both;
 }
 ```
 
 
-### Float Examples
+### Examples
 
 **float 2 images right**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
@@ -276,74 +277,114 @@ nav {
 
 ## Centering Things
 
-- it's complicated
+***It's complicated, BUT ...***
 
-![]()
+```css
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
+
+([How to Center in CSS](http://howtocenterincss.com/))
 
 
 
-
-
-- depends on block / inline display
-- horizontal or vertical centering
-
-[How to Center in CSS](http://howtocenterincss.com/)
-
+### Horizontal **1**
 
 > "When the element to be centered is an inline element we use text-align center on its parent. When the element is a block level element we give it a width and set the left and right margins to a value of auto." [*]
 
 [*]: https://vanseodesign.com/css/vertical-centering/
 
 
-https://vanseodesign.com/css/vertical-centering/
+### Horizontal **2**
 
----
+|                       |                               |
+|:----------------------|------------------------------:|
+| **text alignment**    | **positioning** of blocks     |
+| `text-align: center;` | `width: 50%; margin: 0 auto;` |
+| inline elements       | block elements                |
+| apply to parent       | apply to self                 |
 
-## Examples / Refernces
 
-https://internetingishard.com/html-and-css/
-
-https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
-
+### Horizontal **3**
+<!-- .slide: class="crammed" -->
 
 ```html
-<nav>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-</nav>
+<div>Centered block, left-aligned text</div>
+<strong class="center">Inline, centered text (ignored)</strong>
+<div class="center">Centered block, centered text</div>
 ```
-
-```js
-const blurb = querySelector("test");
-```
-
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
 ```css
-nav {
-  position: sticky;
-  top: 0;
+div {
+  background: cyan;
+  width: 50%;
+  margin: 0 auto;
+}
+.center { text-align: center; }
+```
+
+
+### Vertical **1**
+
+- `line-height` can be used for **one** line of text
+- flexbox's `align-items:center` best for everything
+- `vertical-align` only used for tables and images
+
+
+### Examples
+
+**one** line only `line-height` trick
+
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
+
+
+`vertical-align` for **inline** image
+
+```html
+<div>
+  Centered text with inline svg image <svg>cat</svg>
+</div>
+```
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical-align.png)](https://codepen.io/faniae/pen/MWWdxaQ)
+```css
+div {
+  background: cyan;
+  line-height: 50px;
+  text-align: center;
+}
+div svg {
+  vertical-align: bottom;
 }
 ```
+
+
+<iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/vertical-align.html" style="background:#ccc"></iframe>
+
+[MDN CSS Demo: vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+
+
+**various vertical centering**  
+[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
 
 ---
 
 ## Next Week
 
-- flexbox
-- grids
-
-https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/
-
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week? E.g.
-
-- list here
+- page layouts
+- `display:flex` (a.k.a. flexbox)
+- `display:grid` (a.k.a. CSS grids)
+- **???**
 
 ---
 
-## FINAL QUESTIONS?
+## QUESTIONS?
 
-No crowding around the  
-podium after, please!
+<!-- 
+https://internetingishard.com/html-and-css/
+
+https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
+
+https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/ -->
