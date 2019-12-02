@@ -326,4 +326,7 @@ The HTML needs a **selector** e.g. `class="my-boxes"` for the CSS to **identify 
 
 Now for a demo…
 
-if you're **not here now** see the Panopto recording or [see the demo file code](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/layout.html)
+if you're **not here now** see the Panopto recording!
+
+- [see the demo code](https://github.com/DaveEveritt/TECH3015/blob/master/layout.html)
+- [see the demo in a browser](https://daveeveritt.github.io/TECH3015/layout.html)
