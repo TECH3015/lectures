@@ -1,4 +1,4 @@
-# TECH3015 Lecture 09
+# TECH3015 Lecture 10
 
 2019-2020
 
@@ -39,17 +39,18 @@ midday (12pm) Friday 3rd April 2020
 
 ## WHERE WE ARE
 
-- progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
+- finishing assignment 1:
+  - keep to the 1200 word limit (or a few humndred over)
+  - think 'bullet points'!
+  - can be informal, but include
+  - complete your finished designs and/or mockups
+  - collate user feedback and state number of users
+- revise any lectures you missed
 
----
 
 ## ASSIGNMENT 1 **01**
 
-What you need to hand in:
+Crucial - you **must** hand in:
 
 - a brief outline explaining what your website is about
 - wireframes (mobile, tablet, desktop)
@@ -58,11 +59,10 @@ What you need to hand in:
 - commentary and/or annotations on images
 - critical analysis
 
----
 
 ## ASSIGNMENT 1 **02**
 
-Also:
+Optional (you **can** include these):
 
 - site map
 - content inventory
@@ -70,7 +70,6 @@ Also:
 - moodboard, colour theme, font choices, etc.
 - consistent formatted references
 
----
 
 ## ASSIGNMENT 1 **03**
 
@@ -81,6 +80,25 @@ Also:
 - Design & Interaction
 - Accessibility
 - Critical Analaysis
+
+---
+
+## CONTENT
+
+<!-- https://github.com/CTEC3905/10-lecture -->
+
+Make the mobile design responsive
+
+- responsive web design:
+  - https://ctec3905.github.io/05-lecture/#/2
+  - https://ctec3905.github.io/09-lecture/#/2
+- breakpoints
+- basic HTML structure
+  - https://ctec3905.github.io/10-lecture/#/5
+  - 
+- quick CSS tips:
+  - https://ctec3905.github.io/10-lecture/#/6
+  - https://ctec3905.github.io/05-lecture/#/3/5
 
 ---
 
@@ -113,6 +131,3 @@ Description: [link to website](URL)
 ![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
 ---
-
-
-
