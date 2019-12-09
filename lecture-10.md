@@ -37,41 +37,47 @@ midday (12pm) Friday 3rd April 2020
 
 ---
 
-## WHERE WE ARE
-
-- finishing assignment 1:
-  - keep to the 1200 word limit (or a few humndred over)
-  - think 'bullet points'!
-  - can be informal, but include
-  - complete your finished designs and/or mockups
-  - collate user feedback and state number of users
-- revise any lectures you missed
-
-
 ## ASSIGNMENT 1 **01**
+<!-- .slide: class="crammed" -->
 
-Crucial - you **must** hand in:
+finishing assignment 1:
 
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
+- 1200 **word limit** (or few hundred over)
+- think **bullet points**!
+- can be **informal**, write how you like
+- **reference** any research/resources used
+- complete finished **designs/mockups**
+- **user feedback**:
+  - state number of users
+  - present in a table
+- **revise** any [lectures you missed](https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_550284_1&handle=announcements_entry&mode=view)
 
 
 ## ASSIGNMENT 1 **02**
 
-Optional (you **can** include these):
+Crucial—**you must hand these in**:
 
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
+- a brief **outline** explaining what your website is about
+- **wireframes** (*mobile*, *tablet*, *desktop*)
+- **design** sketches, finished design/mockup
+- evidence of **user feedback**
+- commentary/annotations for **images**
+- critical **analysis**
 
 
 ## ASSIGNMENT 1 **03**
+
+Optional—**also good to include**:
+
+- *site map*
+- *content* inventory
+- *user/task* stories and/or profiles
+- *moodboard*, colour theme, font choices, etc.
+- consistently-formatted *references*
+- other material that shows your *process*
+
+
+## ASSIGNMENT 1 **04**
 
 **5 marking criteria @ 20% each**
 
@@ -81,53 +87,166 @@ Optional (you **can** include these):
 - Accessibility
 - Critical Analaysis
 
----
-
-## CONTENT
-
-<!-- https://github.com/CTEC3905/10-lecture -->
-
-Make the mobile design responsive
-
-- responsive web design:
-  - https://ctec3905.github.io/05-lecture/#/2
-  - https://ctec3905.github.io/09-lecture/#/2
-- breakpoints
-- basic HTML structure
-  - https://ctec3905.github.io/10-lecture/#/5
-  - 
-- quick CSS tips:
-  - https://ctec3905.github.io/10-lecture/#/6
-  - https://ctec3905.github.io/05-lecture/#/3/5
+See the [full Marking Criteria](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)
 
 ---
 
-<!-- EXAMPLE SLIDE WITH A CLASS -->
+## LECTURE 10 CONTENT
 
-## TITLE **00**
-<!-- .slide: class="crammed" -->
-
-For slides that need more text, use the above class in a comment
-
----
-
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
-
-## TITLE **00**
-
-text for initial slide here,
-
-then 2 spaces after each for the image slides:
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+- [basic HTML structure](#/4)
+- [quick CSS tips](#/5)
+- [responsive web design basics](#/6)
+- [RWD breakpoint demo](#/7)
 
 ---
 
-<!-- BIG IMAGE EXAMPLE -->
+<!-- HTML5 REVISITED -->
+<!-- in: https://github.com/CTEC3905/10-lecture -->
 
-Description: [link to website](URL)
+## HTML5 SEMANTIC STRUCTURE **01**
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+- **header, footer**: optional within a **page or section**
+- use footer/header for **complex content** about the containing element e.g. *author*, *copyright*, links to *terms of use*, *contact* info.
+- **nav**: only for **major navigation links** - one only
+- **article, section** can **contain each other** e.g. newspaper: a *games section* can have *game articles* with *technical sections* in each one
+
+
+## HTML5 SEMANTIC STRUCTURE **02**
+
+Important, because **good semantic structure** addresses:
+
+- **access needs** for disabled users
+- is **good UI and IA** practice
+- enables **machine processing** of web-based content
+- improves **searchability** and [SEO](https://support.google.com/webmasters/answer/40349?hl=en "Search Engine Optimisation")
+
+
+## HTML5 SEMANTIC STRUCTURE **03**
+
+the distinction between `figure` and `aside`
+
+- `aside`: supplementary content **related** to surroundings e.g. boxout
+- `aside`: for content simply **related** but **not essential**
+- `figure`: for **essential** content where **position** in the flow of related text isn’t important
+
+[The figure & figcaption elements (2010)](http://html5doctor.com/the-figure-figcaption-elements/)  
+[Keep up-to-date: what's arrived/changed in HTML5](https://www.w3.org/TR/html/changes.html "W3C Recommendation, 1 November 2016")
+
+
+## HTML5 SEMANTIC STRUCTURE **04**
+
+HTML5 tags for **AUDIO & VIDEO**:
+
+- `video`: [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/video) and [W3Schools HTML video tag](http://www.w3schools.com/TAgs/tag_video.asp)
+- `audio`: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio) and [W3Schools HTML audio tag](http://www.w3schools.com/TAgs/tag_audio.asp)
+
+The `src` attribute can read media files  
+(e.g. .mpeg, .wav. .mp4…) hosted elsewhere.
+
+Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://medium.com/@yushulx/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
+
+
+## HTML5 SEMANTIC STRUCTURE **05**
+
+resources
+
+- [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) 
+- [Avoiding common HTML5 mistakes](http://html5doctor.com/avoiding-common-html5-mistakes/)
+
+<!-- END HTML5 REVISITED -->
 
 ---
+
+<!-- CSS TIPS/REVISITED -->
+<!-- https://ctec3905.github.io/10-lecture/#/6 -->
+
+## QUICK CSS TIPS **01**
+
+- **classes are reusable** in an HTML file, **IDs are unique**!
+  
+- you can use **more than one class** on one element:  
+  `class="mything myclass anotherclass"`
+
+
+## CSS REVISITED **02**
+
+- **don’t duplicate style rules** or whole **style blocks**…
+  
+- CSS rules in **breakpoints** should override  
+  *only* specific **mobile**/**global** styles
+
+
+## CSS REVISITED **02**
+
+**styles/my.css** needs a **path to find** images:
+
+- **NO**: looks for 'images/' in the CSS folder:  
+	`background: url('images/pic.jpg');`
+
+- **YES**: goes **up and out** of 'styles/' and **into** 'images/'  
+  `background: url('../images/pic.jpg');`
+
+<!-- END CSS TIPS/REVISITED -->
+
+---
+
+## RESPONSIVE WEB DESIGN **01**
+
+<!-- https://ctec3905.github.io/05-lecture/#/2 -->
+
+to get started, here’s **all you need**…
+
+- **mobile first** design using CSS (**top** of the .css file)
+- [**natural breakpoints**](https://stackoverflow.com/a/20350990 "Follow the links and go down the rabbit-hole in this StackOverflow answer") (**not** device-specific)
+- `min-width` up (**not** max-width) for **increasing widths**
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in the HTML `head`
+
+<!-- See the [responsive starter code](https://github.com/CTEC3905/starter-code)! -->
+<!-- See the [responsive starter code](https://github.com/DaveEveritt/starter-code)! -->
+
+
+## RESPONSIVE WEB DESIGN **02**
+
+A **mobile-first** CSS example:
+
+```css
+nav { display: flex; flex-direction: column; }
+main { padding: .75em 10px; }
+/* more mobile/global styles here < 599px */
+
+@media screen and (min-width: 600px) {
+  /* override mobile styles screens > 599px */
+  nav { display: flex; flex-direction: row; }
+}
+
+@media screen and (min-width: 1200px) {
+  /* override previous styles for screens > 1199px */
+  main { padding: 1em 16px; max-width: 960px; }
+}
+```
+
+
+## RESPONSIVE WEB DESIGN **03**
+
+### **NATURAL** BREAKPOINTS
+
+Design **mobile-first**,  resize the browser window to **increase the screen width**
+
+Add `min-width` **breakpoints** when the **design becomes “broken”** when the viewport width increases—  
+all content should **look good at any width/height**
+
+Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
+
+
+## RESPONSIVE WEB DESIGN **04**
+
+Now the second demo…
+
+Making the mobile design responsive
+
+if you're **not here now** see the Panopto recording!
+
+- [this week's demo: responsive](https://github.com/DaveEveritt/TECH3015/blob/master/layout-rwd.html)
+- [this week's demo in a browser](https://daveeveritt.github.io/TECH3015/layout-rwd.html)
+- [last week's demo: mobile-only](https://github.com/DaveEveritt/TECH3015/blob/master/layout.html)
+- [last week's demo in a browser](https://daveeveritt.github.io/TECH3015/layout.html)
