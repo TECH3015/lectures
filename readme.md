@@ -2,7 +2,7 @@
 
 This repository holds all lecture and lab material for this module.
 
-Lecture slides:
+## Lecture slides for term 1:
 
 - [Lecture 01](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-01)
 - [Lecture 02](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-02)
@@ -15,8 +15,15 @@ Lecture slides:
 - [Lecture 09](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-09)
 - [Lecture 10](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-10)
 
+## Lecture slides for term 2:
+
+- to follow
+
+<!-- - [Lecture 01](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-11) -->
+
 ## Module materials
 
 - [Module Handbook](https://daveeveritt.github.io/TECH3015/module-handbook.html)
 - [Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html)
-<!-- - [Coursework 2 specification](coursework-2.md) -->
+- Coursework 2 Specification to be released before January
+<!-- - [Coursework 2 Specification](https://daveeveritt.github.io/TECH3015/coursework-02.html) -->

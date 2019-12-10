@@ -1,143 +1,115 @@
----
-title: Coursework 2 Specification
+<!-- ---
+title: Coursework 1 Specification
 author: 
 - Fania Raczinski
 - Dave Everitt
-date: 2019-10-22
-...
+date: 2019-12-10
+--- -->
 
 # NOTE: YET TO BE FINALISED!
 
-![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1 )
-
-<style>
-  .new {
-    color: crimson;
-    background: yellow;
-  }
-  .old {
-    color: white;
-    background: red;
-    text-decoration: line-through;
-  }
-</style>
+![DMU logo](https://www.dropbox.com/s/71r1lkrzihjl4fn/DMU-Logo-768x329.png?raw=1)
 
 ### Leicester Media School
 
 # TECH3015: Multimedia III
 
-**Session:** 2019/20
+**Session:** 2019/20
 
 ## Coursework 2 - Specification
 
-<table>
-<tr>
-	<td><b>Module Name:</b></td><td> Multimedia III  </td>
-</tr>
-<tr>
-	<td><b>Module Code:</b></td><td> TECH3015  </td>
-</tr>
-<tr>
-	<td><b>Title of Assessment:</b></td><td> Coursework 2 </td>
-</tr>
-<tr>
-	<td><b>This coursework item is:</b></td><td> Summative / <del>Formative</del> </td>
-</tr>
-<tr>
-	<td colspan='2'><b>The learning outcomes that are assesses by this coursework are</b></td>
-</tr>
-<tr>
-	<td colspan='2'>
-	<ul class="old">
-		<li>Deploy and critically evaluate an interactive multimedia production incorporating dynamic content.</li>
-		<li>Understand and evaluate complex issues related to browser platforms, accessibility and usability when displaying dynamic and animated content on the Internet and for mobile devices</li>
-    <li>Source and synthesise solutions to technical problems.</li>
-    <li>Collect, evaluate, and analyse feedback from users at various points in the development cycle of a Multimedia application.</li> 
-	</ul>
-  <ul class="new">
-		<li>Deploy and critically evaluate an interactive multimedia production incorporating dynamic content.</li>
-		<li>Understand and evaluate complex issues related to browser platforms, accessibility and usability when displaying dynamic and animated content on the Internet and for mobile devices</li>
-    <li>Source and synthesise solutions to technical problems.</li>
-    <li>Collect, evaluate, and analyse feedback from users at various points in the development cycle of a Multimedia application.</li> 
-	</ul>
-	</td>
-</tr>
-<tr>
-	<td colspan='2'><b>This coursework constitutes 60% of the overall module mark.</b></td>
-</tr>
-<tr>
-	<td><b>This coursework is:</b></td><td> Individual / <del>Group</del></td>
-</tr>
-<tr>
-	<td><b>Date set:</b></td><td> 6th January 2020</td>
-</tr>
-<tr>
-	<td><b>Date and time due:</b></td><td> 12pm (midday) on Friday 3rd April 2020</td>
-</tr>
-<tr>
-	<td><b>Your marked coursework and feedback will be available to you on:</b></td><td>Thursday 7th May 2020 </td>
-</tr>
-<tr>
-	<td colspan='2'>If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback. <br />
-	Note that you should normally receive feedback on your coursework by <b>no later than 20 University working days after the formal hand-in date</b>, provided that you have met the submission deadline.</td>
-</tr>
-<tr>
-	<td colspan='2'><b>When completed you are required to submit your coursework to</b></td>
-</tr>
-<tr>
-	<td colspan='2' class="new">
-		<ol>
-			<li>The report should be submitted through the Turnitin link in the Assessments section of the TECH3015 Blackboard page</li>
-			<li> The website should be in your public_html folder (make sure the version you want to submit is in a suitably named folder - for example *TECH3015/coursework2/*)</li>
-		</ol>
-		<b>If you need any support or advice on completing this coursework please visit the Student Matters tab on the Faculty of Technology Blackboard page.</b>
-	</td>
-</tr>
-<tr>
-	<td colspan='2'><b>Late submission of coursework policy</b></td>
-</tr>
-<tr>
-	<td colspan='2'>
-	Late submissions will be processed in accordance with current University regulations which state: “the time period during which a student may submit a piece of work late without authorisation and have the work capped at 40% [50% at PG level] if passed is 14 calendar days. Work submitted unauthorised more than 14 calendar days after the original submission date will receive a mark of 0%.  These regulations apply to a student’s first attempt at coursework. Work submitted late without authorisation which constitutes reassessment of a previously failed piece of coursework will always receive a mark of 0%.”
-	</td>
-</tr>
-<tr>
-	<td colspan='2'><b>Academic Offences and Bad Academic Practices</b></td>
-</tr>
-<tr>
-	<td colspan='2'>
-	These include plagiarism, cheating, collusion, copying work and reuse of your own work, poor referencing or the passing off of somebody else's ideas as your own. If you are in any doubt about what constitutes an academic offence or bad academic practice you must check with your tutor. Further information and details of how DSU can support you, if needed, is available from the Academic Support Office:
-  <ul>
-    <li><a href='http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx'>Academic Offences</a></li>
-    <li><a href='http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx'>Bad Academic Practice</a></li>
-  </ul>
-	</td>
-</tr>
-</table>
+|                          |                                |
+|:-------------------------|-------------------------------:|
+| Module Name:             | **Multimedia III**             | 
+| Module Code:             | **TECH3015**                   |
+| Title of Assessment:     | **Coursework 2**               |
+| This coursework item is: | **Summative / ~~Formative~~**  |
 
-***
+The learning outcomes that are assessed by this coursework are:
 
-### Overview
+**TODO: EDIT THIS LIST**
 
-In semester 1 you designed and prototyped a modern web app or website. For this coursework you will go on to produce it using HTML, CSS and JavaScript. 
+- Deploy and critically evaluate an interactive multimedia website incorporating dynamic content
+- Understand and evaluate complex issues related to browser platforms, accessibility and usability when displaying dynamic and animated content on the Internet and for mobile devices
+- Source and synthesise solutions to technical problems
+- Collect, evaluate, and analyse feedback from users at various points in the development cycle of a Multimedia application.
+    
+This coursework constitutes **60% of the overall module mark**.
 
-You will first make any modifications to the design that you think are necessary following feedback from your tutor and peers. You will then let loose your webdev skills in realising your dream design. 
+|                                          |                                         |
+|:-----------------------------------------|----------------------------------------:|
+| This coursework is:                      | **Individual / ~~Group~~**              | 
+| Date set:                                | **6th January 2020**                    |
+| Date and time due:                       | **12pm (midday) Friday 3rd April 2020** |
+| Your marked coursework and feedback due: | **Thursday 7th May 2020**               |
 
-As well as your practical work, you will also submit a report documenting your updated design, production work, and evaluation of your finished project. 
+If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
 
-But what if you don't want to use your design from Coursework 1? That's fine, your tutor can provide you with a prototype on which to base your work, just as if it was done for the previous coursework.
+Note that you should normally receive feedback on your coursework by no later than 20 University working days after the formal hand-in date, provided that you have met the submission deadline.
 
-Some key points to consider:
+### Submitting your coursework
 
-* Make sure to pay attention to the marking criteria. A good mark for Coursework 1 doesn't automatically translate to a website that hits all the criteria for coursework 2 - you may need to adapt your design
-* Don't skimp on the testing - this is critically important and **will** get you a better mark. 
-* Stick to your (updated) design. If you need to differ from it, make sure to discuss this in your report.
+**When completed, you are required to submit your coursework as follows:**
+
+- Your **report** as a PDF, through the Turnitin link in the Assessments section of the TECH3015 Blackboard page** ([see deliverables below](#deliverables))
+- Your **website** should be in your **public_html**, in a folder named */TECH3015/coursework2/*—name the landing page 'home.html' (the usual 'index.html' makes it impossible for tutors to view the code and other files)
+
+**Late submission of coursework policy**  
+Late submissions will be processed in accordance with current University regulations which state: 
+> “the time period during which a student may submit a piece of work late without authorisation and have the work capped at 40% [50% at PG level] if passed is 14 calendar days. Work submitted unauthorised more than 14 calendar days after the original submission date will receive a mark of 0%.  These regulations apply to a student’s first attempt at coursework. Work submitted late without authorisation which constitutes reassessment of a previously failed piece of coursework will always receive a mark of 0%.”
+
+**Academic Offences and Bad Academic Practices**  
+These include plagiarism, cheating, collusion, copying work and reuse of your own work, poor referencing or the passing off of somebody else's ideas as your own. If you are in any doubt about what constitutes an academic offence or bad academic practice you must check with your tutor. Further information and details of how DSU can support you, if needed, is available from the Academic Support Office at these links:
+
+- [Academic Offences](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx)
+- [Bad Academic Practice](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx)
+
+
+## Overview
+
+Worth **60%** of the module total, your second coursework will see you produce an individual website or web-based work.
+
+You are encouraged to seek feedback about your ongoing work from your lab tutor throughout the second semester.
+
+### Website
+
+In semester 1 you designed and prototyped a modern web app or website. For this coursework you will create a responsive website—based on your work so far—using HTML, CSS and JavaScript.
+
+First, make any modifications to the design that you think are necessary after feedback from your tutor and ‘testers’. You can then use or further your web development skills to make your planned design come to life.
+
+If you decide to change your design or topic, cover this in the report.
+
+### Report
+
+The report must document your updated design (if modified), explain your media production work and knowledge of the code, and also make a critical evaluation of your finished project—what worked, what could be improved, explanations of decisions you made along the way, and how you might twant to ake the work further if you could.
+
+Make notes during the process of creating your website, so you can simply edit these before you submit the report rather than trying to remember your process retrospectively.
+
+If you don't want to use your design from Coursework 1, explain how and why you have readjusted your plans.
+
+
+
+---
+
+**TODO: EDIT, INTEGRATE AND CHECK FOR DUPLICATION**
+
+## Key points to consider:
+
+* Examine the [marking criteria](#marking-criteria) closely. A good mark for Coursework 1 doesn't automatically translate to a website that hits all the criteria for coursework 2 - you may need to adapt your design or prototype
+* Don't skimp on testing - this is critically important and **will** get you a better mark—validate your HTML, check for accessibility issues, and briefly document this process.
+* If you need to differ from your (possibly updated) design, mention the how and why in your report.
 
 Any content that is not yours (images, music, sound effects, etc.) should be appropriately referenced at a minimum in a list in the documentation (note that Google, or other search engines are not sources of information). Failure to do so is plagiarism and may effect your grade. This does not prevent you from getting your colleagues or tutor to criticise early drafts of your work before it is handed in / published.
 
 Any content you produce for your website such as an audio interview will be marked primarily on its suitability for web deployment rather than its own production value. For example, a video that is stored at a much larger size than it is displayed at would be a no no. You have other modules where you are keenly assessed on the production value of your digital output. Speak to your tutor if you have any questions about this.
 
 There are two main components to this coursework: the website itself and a portfolio of associated documentation. The website attracts 60% of the mark for this coursework, and the documentation 40%.
+
+---
+
+# REWRITE/REFORMAT FROM HERE
+
+---
 
 ### Documentation
 

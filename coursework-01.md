@@ -33,12 +33,12 @@ The learning outcomes that are assessed by this coursework are:
 	
 This coursework constitutes **40% of the overall module mark**.
 
-|                          |                                                |
-|:-------------------------|-----------------------------------------------:|
-| This coursework is:      | **Individual / ~~Group~~**                     | 
-| Date set:                | **30th September 2019**                        |
-| Date and time due:       | **12pm (midday) Friday 13th December 2019** |
-| Your marked coursework and feedback due: | **Monday 20th January 2020**   |
+|                                     |                                             |
+|:------------------------------------|--------------------------------------------:|
+| This coursework is:                 | **Individual / ~~Group~~**                  | 
+| Date set:                           | **30th September 2019**                     |
+| Date and time due:                  | **12pm (midday) Friday 13th December 2019** |
+| Marked coursework and feedback due: | **Monday 20th January 2020**                |
 
 If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
 
@@ -75,7 +75,7 @@ This design and specification can form the basis of what you produce for coursew
 Your first job is to decide what your website is going to be. Although you are going to carry this design forward into coursework 2, you can make changes between the two based on the feedback you’ll get, so don’t feel you have to commit to something that will satisfy CW2 right now. 
 
 However, there are a number of points that your plans should satisfy: 
- 
+
 * uses or presents multimedia content
 * uses animation in the user interface
 * is accessible
@@ -83,7 +83,7 @@ However, there are a number of points that your plans should satisfy:
 * is valid HTML
 * contains multiple pages/sections
  
-If you’re stuck for an idea, you’ll find some suggestions at the end of this brief, so feel free to use one of them.  
+If you’re stuck for an idea, you’ll find some [suggestions at the end of this brief](#example-website-ideas), so feel free to use one of them.  
 
 Once you know what your website is going to be all about you can start planning it all out:
 
