@@ -244,7 +244,7 @@ Now the second demo…
 
 Making the mobile design responsive
 
-if you're **not here now** see the Panopto recording!
+if you're **not here now** see the [Panopto recording](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-10#/)!
 
 - [this week's demo: responsive](https://github.com/DaveEveritt/TECH3015/blob/master/layout-rwd.html)
 - [this week's demo in a browser](https://daveeveritt.github.io/TECH3015/layout-rwd.html)
