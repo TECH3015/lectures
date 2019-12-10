@@ -67,11 +67,11 @@ These include plagiarism, cheating, collusion, copying work and reuse of your ow
 
 ## Overview
 
-Worth **60%** of the module total, your second coursework will see you produce an individual website or web-based work.
+The website and report together are worth **60%** of the overall module total, your second coursework will see you produce an individual website or web-based work.
 
 You are encouraged to seek feedback about your ongoing work from your lab tutor throughout the second semester.
 
-### Website
+### Website (60% of CW 2)
 
 In semester 1 you designed and prototyped a modern web app or website. For this coursework you will create a responsive website—based on your work so far—using HTML, CSS and JavaScript.
 
@@ -79,7 +79,7 @@ First, make any modifications to the design that you think are necessary after f
 
 If you decide to change your design or topic, cover this in the report.
 
-### Report
+### Report (40% of CW 2)
 
 The report must document your updated design (if modified), explain your media production work and knowledge of the code, and also make a critical evaluation of your finished project—what worked, what could be improved, explanations of decisions you made along the way, and how you might twant to ake the work further if you could.
 
@@ -88,22 +88,33 @@ Make notes during the process of creating your website, so you can simply edit t
 If you don't want to use your design from Coursework 1, explain how and why you have readjusted your plans.
 
 
-
----
-
-**TODO: EDIT, INTEGRATE AND CHECK FOR DUPLICATION**
-
 ## Key points to consider:
 
-* Examine the [marking criteria](#marking-criteria) closely. A good mark for Coursework 1 doesn't automatically translate to a website that hits all the criteria for coursework 2 - you may need to adapt your design or prototype
-* Don't skimp on testing - this is critically important and **will** get you a better mark—validate your HTML, check for accessibility issues, and briefly document this process.
-* If you need to differ from your (possibly updated) design, mention the how and why in your report.
+- Examine the [marking criteria](#marking-criteria) closely. A good mark for Coursework 1 doesn't automatically translate to a website that hits all the criteria for coursework 2 - you may need to adapt your design or prototype
+- Don't skimp on user testing - this is critically important and **will** get you a better mark
+- [validate your HTML](https://validator.w3.org/) (this is crucial) and at least run your [CSS through a validator](https://jigsaw.w3.org/css-validator/), and [check for accessibility issues](https://wave.webaim.org/) (although these can be advisory) and briefly document this process
+- Reference any content that’s not yours (images, music, sounds, online tutorial code not t included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google, or other search engines are not sources of information). Failure to do so is plagiarism and may effect your grade.
+- prepare your media: content such as audio interviews, videos, images will be marked primarily on its suitability for web deployment rather than its own production value. Prepare media for quick download on the web, and demonstrate your knowledge of this requirement. Other modules are keenly assessed on the production value of your digital output, so you can speak to your relevant tutor about this.
 
-Any content that is not yours (images, music, sound effects, etc.) should be appropriately referenced at a minimum in a list in the documentation (note that Google, or other search engines are not sources of information). Failure to do so is plagiarism and may effect your grade. This does not prevent you from getting your colleagues or tutor to criticise early drafts of your work before it is handed in / published.
 
-Any content you produce for your website such as an audio interview will be marked primarily on its suitability for web deployment rather than its own production value. For example, a video that is stored at a much larger size than it is displayed at would be a no no. You have other modules where you are keenly assessed on the production value of your digital output. Speak to your tutor if you have any questions about this.
+## Where to Start?
 
-There are two main components to this coursework: the website itself and a portfolio of associated documentation. The website attracts 60% of the mark for this coursework, and the documentation 40%.
+- explanation
+- list
+- process
+
+
+
+
+## Deliverables
+
+TO FOLLOW
+
+## Marking Criteria
+
+TO FOLLOW
+
+
 
 ---
 
