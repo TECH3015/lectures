@@ -29,7 +29,8 @@ Email: deveritt@dmu.ac.uk
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-[Full marking criteria for Coursework 2](https://daveeveritt.github.io/TECH3015/coursework-02.md#marking-criteria)
+- [Coursework 2 specification](https://daveeveritt.github.io/TECH3015/coursework-02.html)
+- [Marking criteria](https://daveeveritt.github.io/TECH3015/coursework-02.html#marking-criteria)
 
 ---
 
