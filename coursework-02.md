@@ -16,8 +16,6 @@ date: 2020-01-13
 
 ## Coursework 2 - Specification
 
-|                          |                                |
-|:-------------------------|-------------------------------:|
 | Module Name:             | **Multimedia III**             | 
 | Module Code:             | **TECH3015**                   |
 | Title of Assessment:     | **Coursework 2**               |
@@ -32,8 +30,6 @@ The learning outcomes that are assessed by this coursework are:
     
 This coursework constitutes **60% of the overall module mark**.
 
-|                                          |                                         |
-|:-----------------------------------------|----------------------------------------:|
 | This coursework is:                      | **Individual / ~~Group~~**              | 
 | Date set:                                | **6th January 2020**                    |
 | Date and time due:                       | **12pm (midday) Friday 3rd April 2020** |
@@ -94,7 +90,7 @@ If you don't want to use your design or topic from Coursework 1, explain how and
 - Examine the [marking criteria](#marking-criteria) closely. A good mark for Coursework 1 doesn't automatically translate to a website that meets the criteria for coursework 2 - you may need to adapt your design or prototype
 - Don't skimp on **user testing** - this is critically important and **will** get you a better mark
 - [validate your HTML](https://validator.w3.org/) (this is crucial) and at least run your [CSS through a validator](https://jigsaw.w3.org/css-validator/), and [check for accessibility issues](https://wave.webaim.org/) (although these can be advisory) and briefly document this process
-- **Reference any content** that’s not yours (images, music, sounds, online tutorial code not t included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google or other search engines themselves are *not* primary sources of information). Failure to do so is plagiarism and may effect your grade.
+- **Reference any content** that’s not yours (images, music, sounds, online tutorial code not included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google or other search engines themselves are *not* primary sources of information). Failure to do so is plagiarism and may effect your grade.
 - **prepare your media**: content such as audio interviews, videos, images will be marked primarily on its suitability for web deployment rather than its own production value. Prepare media for quick download on the web, and demonstrate your knowledge of this requirement. Other modules are keenly assessed on the production value of your digital output, so you can speak to your relevant tutor about this.
 
 ## Where to Start?
