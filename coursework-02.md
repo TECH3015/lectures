@@ -16,6 +16,8 @@ date: 2020-01-13
 
 ## Coursework 2 - Specification
 
+| General Details                                           ||
+|:-------------------------|-------------------------------:|
 | Module Name:             | **Multimedia III**             | 
 | Module Code:             | **TECH3015**                   |
 | Title of Assessment:     | **Coursework 2**               |
@@ -30,6 +32,8 @@ The learning outcomes that are assessed by this coursework are:
     
 This coursework constitutes **60% of the overall module mark**.
 
+| Key Dates                                                                           ||
+|:-----------------------------------------|----------------------------------------:|
 | This coursework is:                      | **Individual / ~~Group~~**              | 
 | Date set:                                | **6th January 2020**                    |
 | Date and time due:                       | **12pm (midday) Friday 3rd April 2020** |
