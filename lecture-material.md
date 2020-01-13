@@ -1,3 +1,9 @@
+
+---
+
+- Dense grid https://codepen.io/faniae/pen/QWWoZem
+- CSS filter https://codepen.io/faniae/pen/xBEZBz
+
 ---
 
 http://shouldiuseacarousel.com/
