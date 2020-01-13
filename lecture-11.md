@@ -77,9 +77,9 @@ You need to hand in:
 
 WEBSITE: 60% of the coursework mark
 
-- [Content](https://daveeveritt.github.io/TECH3015/coursework-02.md#content)
-- [Style](https://daveeveritt.github.io/TECH3015/coursework-02.md#responsiveness)
-- [Technical Skills](https://daveeveritt.github.io/TECH3015/coursework-02.md#technical-skills)
+- [Content](https://daveeveritt.github.io/TECH3015/coursework-02.html#content)
+- [Style](https://daveeveritt.github.io/TECH3015/coursework-02.html#responsiveness)
+- [Technical Skills](https://daveeveritt.github.io/TECH3015/coursework-02.html#technical-skills)
 
 
 ## ASSIGNMENT 2 **04**
@@ -90,9 +90,9 @@ WEBSITE: 60% of the coursework mark
 
 1500-2000 words, references and appendices not included in word count
 
-- [Design Process](https://daveeveritt.github.io/TECH3015/coursework-02.md#design-process)
-- [Production](https://daveeveritt.github.io/TECH3015/coursework-02.md#production)
-- [Evaluation](https://daveeveritt.github.io/TECH3015/coursework-02.md#evaluation)
+- [Design Process](https://daveeveritt.github.io/TECH3015/coursework-02.html#design-process)
+- [Production](https://daveeveritt.github.io/TECH3015/coursework-02.html#production)
+- [Evaluation](https://daveeveritt.github.io/TECH3015/coursework-02.html#evaluation)
 
 ---
 
