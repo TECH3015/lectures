@@ -79,7 +79,7 @@ You need to hand in:
 WEBSITE: 60% of the coursework mark
 
 - [Content](https://daveeveritt.github.io/TECH3015/coursework-02.html#content)
-- [Style](https://daveeveritt.github.io/TECH3015/coursework-02.html#responsiveness)
+- [Style](https://daveeveritt.github.io/TECH3015/coursework-02.html#style)
 - [Technical Skills](https://daveeveritt.github.io/TECH3015/coursework-02.html#technical-skills)
 
 
