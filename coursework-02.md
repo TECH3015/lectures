@@ -95,7 +95,7 @@ If you don't want to use your design or topic from Coursework 1, explain how and
 - Don't skimp on **user testing** - this is critically important and **will** get you a better mark
 - [validate your HTML](https://validator.w3.org/) (this is crucial) and at least run your [CSS through a validator](https://jigsaw.w3.org/css-validator/), and [check for accessibility issues](https://wave.webaim.org/) (although these can be advisory) and briefly document this process
 - **Reference any content** that’s not yours (images, music, sounds, online tutorial code not included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google or other search engines themselves are *not* primary sources of information). Failure to do so is plagiarism and may effect your grade.
-- **prepare your media**: content such as audio interviews, videos, images will be marked primarily on its suitability for web deployment rather than its own production value. Prepare media for quick download on the web, and demonstrate your knowledge of this requirement. Other modules are keenly assessed on the production value of your digital output, so you can speak to your relevant tutor about this.
+- **Prepare your media**: content such as audio interviews, videos, images will be marked primarily on its suitability for web deployment rather than its own production value. Prepare media for quick download and/or streaming on the web, and demonstrate your knowledge of this requirement. Other modules are keenly assessed on the production value of your digital output, so you can speak to your relevant tutor about this.
 
 ## Where to Start?
 
@@ -143,7 +143,7 @@ Your site should be accessible via your `public_html` folder. It should be locat
 
 ### Content
 
-Your website content should be fully funcional and robust (valid HTML, no missing images, JavaScript errors, etc.). This includes all text, graphics, images and any audio/video. You should use the correct HTML5 code to display these and ensure you have prepared your media for the web.
+Your website content should be fully functional and robust (valid HTML, no missing images, JavaScript errors, etc.). This includes all text, graphics, images and any audio/video. You should use the correct HTML5 code to display these and ensure you have prepared your media for the web.
 
 * HTML5 markup uses semantic tags appropriately
 * Text content has semantic structure e.g. headings, lists
@@ -156,11 +156,11 @@ Your website content should be fully funcional and robust (valid HTML, no missin
 Your website should appeal to your intended audience and be consistent with your mockups/designs. You should make efficient use of CSS in order to style and position elements for your site.
 
 * Style and layout reflect/have evolved from design
-* Coherent overall design, colour and font choices
+* Coherent overall design (following PARC principles), colour and font choices
 * Design and content matches the target audience
 * Skilful use of CSS to style and arrange site elements
-* no duplicate CSS, classes instead of IDs for selectors
-* well-ordered CSS: mobile-first followed by `min-width` breakpoints to be fully responsive at any screen width
+* No duplicate CSS, classes instead of IDs for selectors
+* Well-ordered CSS: mobile-first followed by `min-width` breakpoints to be fully responsive at any screen width
 
 ### Technical Skills 
 
@@ -173,7 +173,7 @@ Your web site should demonstrate your ability to apply the concepts you have lea
 * Use of at least two of:
 	* Local database storage
 	* Third-party APIs
-	* animation
+	* CSS Animation
 	* JavaScript user interaction and/or functionality
 
 [Back to top](#)
@@ -187,13 +187,10 @@ Your web site should demonstrate your ability to apply the concepts you have lea
 
 Your documentation should consist of the following components:
 
-### Overview of Designs
-
-**Weighting:** 10% of the coursework mark 
+### Design Process
  
-Include images of your final designs, whether updated or not, accompanied by a commentary addressing:
+Refer back to your mock-ups from assignment 1 and discuss:
 
-* what was strong about your design
 * what has changed and why
 * what you think your main challenge(s) were
 * what you consider to be the most important feature(s) of your design
@@ -202,8 +199,6 @@ This should be written in light of your own evaluation of your design from CW1, 
 
 ### Production
 
-**Weighting:** 10% of the coursework mark
-
 Offer some insight into the development of your website. Pick three individual components and discuss:
 
 * What you were trying to achieve
@@ -211,19 +206,16 @@ Offer some insight into the development of your website. Pick three individual c
 * Why you chose a certain approach
 * How successful the outcome was
 
-Examples of what is meant here by an individual component of your website include a slideshow, a dropdown menu, an accordian display, an animated transition between pages, etc.
+Examples of what is meant here by an individual component of your website include a slideshow, a dropdown menu, a social media feed, data stored in the browser, an accordian display, an animated transition between pages, etc.
 
 ### Evaluation
-
-**Weighting:** 20% of the coursework mark  
 
 Address the following points:
 
 * Evidence of code testing (e.g. all links work, media loads, the site is consistent across browsers) and the HTML has been validated.
 * Evidence and a breakdown of structured user testing and feedback.  
 * Evaluate your work, with reference to testing where appropriate, and user feedback, describing:  
-	* Your achievements, refer back to the original aims, explain any changes and why or how they were implemented.  
-	* Any limitations of your web site  
+	* Any limitations of your website  
 	* Any improvements you would make to the site and why  
 	* Any problems you encountered along the way, referencing any solutions you found or devised
 
