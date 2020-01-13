@@ -106,8 +106,8 @@ WEBSITE: 60% of the coursework mark
 [codepen.io/faniae/pen/dyPdpOo](https://codepen.io/faniae/pen/dyPdpOo)
 
 
-## LIVE DEMO **02**
 <!-- .slide: class="left-align" -->
+## LIVE DEMO **02**
 
 **CSS**:
 
