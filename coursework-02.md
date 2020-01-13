@@ -47,7 +47,7 @@ Note that you should normally receive feedback on your coursework by no later th
 
 **When completed, you are required to submit your coursework as follows:**
 
-- Your **report** as a PDF, through the Turnitin link in the Assessments section of the TECH3015 Blackboard page** ([see deliverables below](#deliverables))
+- Your **report** as a PDF, through the Turnitin link in the Assessments section of the TECH3015 Blackboard pag ([see deliverables below](#deliverables))
 - Your **website** should be in your **public_html**, in a folder named */TECH3015/coursework2/*—name the landing page 'home.html' (the usual 'index.html' makes it impossible for tutors to view the code and other files)
 
 **Late submission of coursework policy**  
@@ -61,14 +61,17 @@ These include plagiarism, cheating, collusion, copying work and reuse of your ow
 - [Academic Offences](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/academic-offences.aspx)
 - [Bad Academic Practice](http://www.dmu.ac.uk/dmu-students/the-student-gateway/academic-support-office/bad-academic-practice.aspx)
 
+---
 
 ## Overview
 
-The website and report together are worth **60%** of the overall module total, your second coursework will see you produce an individual website or web-based work.
+The website and report together are worth **60%** of the overall module total. For the second coursework you will produce an individual website or web-based work.
 
 You are encouraged to seek feedback about your ongoing work from your lab tutor throughout the second semester.
 
-### Website (60% of CW 2)
+---
+
+## Website (60% of CW 2)
 
 In semester 1 you designed and prototyped a modern web app or website. For this coursework you will create a responsive website—based on your work so far—using HTML, CSS and JavaScript.
 
@@ -76,14 +79,13 @@ First, decide on modifications to the design as a result of feedback from your �
 
 If you decide to change your design or topic, explain why and how in the report.
 
-### Report (40% of CW 2)
+## Report (40% of CW 2)
 
 The report must document your updated design (if modified), explain your media preparation and knowledge of code, and make a critical evaluation of your finished project—what worked, what could be improved, explanations of decisions you made along the way, and how you might want to take the work further in future.
 
 Make notes during the process of creating your website, so you can simply edit these before you submit the report rather than trying to remember your process retrospectively.
 
 If you don't want to use your design or topic from Coursework 1, explain how and why you have readjusted your plans.
-
 
 ---
 
@@ -92,9 +94,8 @@ If you don't want to use your design or topic from Coursework 1, explain how and
 - Examine the [marking criteria](#marking-criteria) closely. A good mark for Coursework 1 doesn't automatically translate to a website that meets the criteria for coursework 2 - you may need to adapt your design or prototype
 - Don't skimp on **user testing** - this is critically important and **will** get you a better mark
 - [validate your HTML](https://validator.w3.org/) (this is crucial) and at least run your [CSS through a validator](https://jigsaw.w3.org/css-validator/), and [check for accessibility issues](https://wave.webaim.org/) (although these can be advisory) and briefly document this process
-- **Reference any content** that’s not yours (images, music, sounds, online tutorial code not t included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google, or other search engines are not sources of information). Failure to do so is plagiarism and may effect your grade.
+- **Reference any content** that’s not yours (images, music, sounds, online tutorial code not t included in the learning materials etc.) e.g. in a list or appendix in the documentation (note: Google or other search engines themselves are *not* primary sources of information). Failure to do so is plagiarism and may effect your grade.
 - **prepare your media**: content such as audio interviews, videos, images will be marked primarily on its suitability for web deployment rather than its own production value. Prepare media for quick download on the web, and demonstrate your knowledge of this requirement. Other modules are keenly assessed on the production value of your digital output, so you can speak to your relevant tutor about this.
-
 
 ## Where to Start?
 
@@ -121,7 +122,7 @@ If you don't want to use your design or topic from Coursework 1, explain how and
 60% of the coursework mark
 
 - [Content](#content)
-- [Style](#responsiveness)
+- [Style](#style)
 - [Technical Skills](#technical-skills)
 
 ### Documentation
@@ -134,15 +135,13 @@ If you don't want to use your design or topic from Coursework 1, explain how and
 
 ---
 
-### Website
+## Website
 
-**Weighting:** 60% of the coursework mark, broken down as follows.  
+**Weighting:** 60% of the coursework mark, assessed on the three points outlined below, each weighted 20% of the mark for coursework 2.
 
-Your site should be accessible via your `public_html` folder. It should be located at `public_html > TECH3015 > coursework2 > website` - use 'home.html' rather than the standard 'index.html' so we can see the full file listing.
+Your site should be accessible via your `public_html` folder. It should be located at `public_html > TECH3015 > coursework2 > website` - use `home.html` rather than the standard `index.html` so we can see the full file listing.
 
-The website will be assessed on the following three points, each weighted 20% of the coursework mark:
-
-#### Content
+### Content
 
 Your website content should be fully funcional and robust (valid HTML, no missing images, JavaScript errors, etc.). This includes all text, graphics, images and any audio/video. You should use the correct HTML5 code to display these and ensure you have prepared your media for the web.
 
@@ -152,7 +151,7 @@ Your website content should be fully funcional and robust (valid HTML, no missin
 * Awareness of loading speed and disk space e.g. no huge images 
 * Your own original content is credited and any third-party content referenced (media from a single source can have just a single general credit/reference)
 
-#### Style
+### Style
 
 Your website should appeal to your intended audience and be consistent with your mockups/designs. You should make efficient use of CSS in order to style and position elements for your site.
 
@@ -163,7 +162,7 @@ Your website should appeal to your intended audience and be consistent with your
 * no duplicate CSS, classes instead of IDs for selectors
 * well-ordered CSS: mobile-first followed by `min-width` breakpoints to be fully responsive at any screen width
 
-#### Technical Skills 
+### Technical Skills 
 
 Your web site should demonstrate your ability to apply the concepts you have learnt in this module.
 
@@ -181,14 +180,14 @@ Your web site should demonstrate your ability to apply the concepts you have lea
 
 ---
 
-### Documentation
+## Documentation
 
 **Weighting:** 40% of the coursework mark, broken down as follows.  
 **Word Count:** 1500-2000 words with images. References and appendices not included in word count.
 
 Your documentation should consist of the following components:
 
-#### Overview of Designs
+### Overview of Designs
 
 **Weighting:** 10% of the coursework mark 
  
@@ -201,7 +200,7 @@ Include images of your final designs, whether updated or not, accompanied by a c
 
 This should be written in light of your own evaluation of your design from CW1, with your peer and tutor feedback.
 
-#### Production
+### Production
 
 **Weighting:** 10% of the coursework mark
 
@@ -214,7 +213,7 @@ Offer some insight into the development of your website. Pick three individual c
 
 Examples of what is meant here by an individual component of your website include a slideshow, a dropdown menu, an accordian display, an animated transition between pages, etc.
 
-#### Evaluation
+### Evaluation
 
 **Weighting:** 20% of the coursework mark  
 
