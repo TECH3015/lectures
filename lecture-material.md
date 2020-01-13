@@ -1,3 +1,9 @@
+---
+
+http://shouldiuseacarousel.com/
+
+---
+
 ## KINDS OF WEBSITE **01**
 <!-- .slide: class="crammed" -->
 
