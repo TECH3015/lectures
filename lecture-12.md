@@ -103,7 +103,7 @@ WEBSITE: 60% of the coursework mark
 - JavaScript `forEach()` and string literals with variable interpolation
 - Generating a gallery from data held in a JavaScript object
 
-[codepen.io/faniae/pen/dyPdpOo](https://codepen.io/faniae/pen/dyPdpOo)
+[Gallery from JS Object List](https://codepen.io/faniae/pen/dyPdpOo)
 
 
 <!-- .slide: class="left-align" -->
@@ -119,5 +119,6 @@ WEBSITE: 60% of the coursework mark
 - `for` loop
 - `appendChild`, `cloneNode`, `removeChild`
 
-[codepen.io/faniae/pen/dyPdpOo](https://codepen.io/faniae/pen/EGazKQ)
+[Image Modals](https://codepen.io/faniae/pen/EGazKQ)
+[Image Modals with Captions](https://codepen.io/faniae/pen/GRgGVwK)
 
