@@ -103,7 +103,7 @@ There are **parent**, **child** and **sibling** nodes
 
 ## JS **HOW IT WORKS**: 5
 
-![Document Object Model diagram with hand-drawn annotations](imgs/dom.png "From a JQuery course http://cs.wellesley.edu/~cs110/reading/DOM-JQ.html")
+![Document Object Model diagram with hand-drawn annotations](imgs/javascript/dom.png "From a JQuery course http://cs.wellesley.edu/~cs110/reading/DOM-JQ.html")
 
 
 ## JS **HOW IT WORKS**: 6
