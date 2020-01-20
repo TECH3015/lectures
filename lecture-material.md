@@ -58,23 +58,3 @@ Description: [link to website](URL)
 
 ![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
----
-
-<!-- FULL BACKGROUND IMAGE -->
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
----
-
-## TITLE
-
-Any questions about TOPIC?
-
----
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week? E.g.
-
-- list here
-
