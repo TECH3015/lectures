@@ -25,5 +25,4 @@ This repository holds all lecture and lab material for this module.
 
 - [Module Handbook](https://daveeveritt.github.io/TECH3015/module-handbook.html)
 - [Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html)
-- Coursework 2 Specification to be released before January
-<!-- - [Coursework 2 Specification](https://daveeveritt.github.io/TECH3015/coursework-02.html) -->
+- [Coursework 2 Specification](https://daveeveritt.github.io/TECH3015/coursework-02.html)
