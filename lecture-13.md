@@ -164,13 +164,13 @@ for(i=0; i < myLinks.length; i++){
 }
 ```
 
-See a [demo here that fades in link colour changes](https://front-end-materials.github.io/front-end-materials/js-change-element/)
+See a [demo here that fades in link colour changes](https://front-end-materials.github.io/js-simple-examples/js-change-element/)
 
 <small>MDN: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction "Mozilla Web Docs")</small>
 
 
 ## JS **HOW IT WORKS**: 10
 
-See a [demo for a simple mobile menu](https://front-end-materials.github.io/front-end-materials/js-mobile-menu/)
+See a [demo for a simple mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu/)
 
 <!-- TODO: SHARE WITH MEDS2007 LECTURE 04 -->
