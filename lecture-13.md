@@ -157,7 +157,7 @@ a.highlight {
 }
 ```
 ```js
-const myLinks = document.getElementsByClassName('a');
+const myLinks = document.getElementsByTagName('a');
 
 for(i=0; i < myLinks.length; i++){
  myLinks[i].classList.add("highlight");
