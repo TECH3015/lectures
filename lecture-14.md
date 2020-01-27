@@ -67,7 +67,7 @@ Blank console in Chrome:
 
 For example…
 
-![console log for experimenting with JavaScript](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/javascript/)
+![console log for experimenting with JavaScript](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/javascript/chrome-about-blank.png)
 
 
 ## JAVASCRIPT SYNTAX: **2**
