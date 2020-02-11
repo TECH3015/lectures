@@ -26,7 +26,7 @@ Winter break
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-12)
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-14)
-<!-- - [Lecture 15: JavaScript and local storage](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-15) -->
+- [Lecture 15: JavaScript and local storage](https://fania.github.io/presents?DaveEveritt_TECH3015_lecture-15)
 
 
 ## Module materials
@@ -40,3 +40,5 @@ Winter break
 ## TO DO:
 
 - [ ] remove and redirect layout-rwd.html and layout.html to front-end-materials orgnisation
+- [ ] fix `left-align` and `centre` styles in [github.com/fania/presents](https://github.com/fania/presents)
+- [ ] check through previous lectures after the above
