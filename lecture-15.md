@@ -66,7 +66,8 @@ In this module, we're using one of the storage functions: `localStorage`
 - it’s for **small amounts** of data (5Mb)
 - it stores data in **key value** pairs
 
-`localStorage` is **insecure** (so not good for ~~sensitive data~~ - see [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)). However, used correctly it’s **good for non-critical data**.
+`localStorage` is **insecure** (so not good for ~~sensitive data~~ - see [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)).  
+However, it’s still **good for non-critical data**.
 
 
 # LOCAL STORAGE: **2**
@@ -90,9 +91,10 @@ console.log(localStorage["name"]); // Fania
 # LOCAL STORAGE: **3**
 <!-- .slide: class="crammed" -->
 
-Instead of using *cookies*, many websites now use **local storage** to keep small amounts of **data between visits**.
+Instead of using *cookies*, many websites now use **local storage** to keep small amounts of **data between visits**. It can:
 
-It can **store preferences** or **personalise your next visit**.
+- **store user preferences** 
+- **personalise each visit**
 
 You can **see what a website stores** in your own browser:
 
@@ -105,9 +107,10 @@ You can **see what a website stores** in your own browser:
 
 **Facebook** uses `localStorage` for several settings:
 
-![Facebook local storage](![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/localstorage/local-storage-facebook.png)
+![Facebook local storage](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/localstorage/local-storage-facebook.png)
 
-No, we don’t know what most of those are! However, you can see **objects** (`{…}`) and **arrays** (`[…]`) stored above.
+You can see stored **objects** (`{…}`) and **arrays** (`[…]`)  
+We don’t know what most of those are!
 
 
 # LOCAL STORAGE: **4**
@@ -116,7 +119,8 @@ No, we don’t know what most of those are! However, you can see **objects** (`{
 Example: set a localStorage item from a **field value**:
 
 ```javascript
-let theName = document.getElementById("name-field");
+const theName = document.getElementById("name-field");
+
 localStorage.setItem("name", theName.value);
 
 myElement.innerText = localStorage.getItem("name");
@@ -126,48 +130,29 @@ myElement.innerText = localStorage.getItem("name");
 # LOCAL STORAGE: **5**
 <!-- .slide: class="crammed" -->
 
-You can **remove** an item from `localStorage` or **clear everything**:
+You can **remove** an item from `localStorage` or **clear all**:
 
 ```javascript
 localStorage.removeItem("name");
 localStorage.clear();
 ```
 
-And attach an `eventListener` to use the data on **another page**:
+Attach an `eventListener` to use the data on **another page**:
 
 ```javascript
 localStorage.addEventListener("change", myFunction);
 ```
 
-`myFunction` handles what you **do** with the `locaStorage` data  
+`myFunction` handles **actions** on the `localStorage` data.
+
 **NOTE** [browser support is still patchy for LocaStorage events](https://stackoverflow.com/a/6846158/123033)
 
 ---
 
-<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
+# DEMOS
 
-## BACKGROUND IMAGES AS SUBSECTIONS **00**
+- [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/js-local-storage-form/)  
+[view code](https://github.com/front-end-materials/local-storage/tree/master/js-local-storage-form)
 
-text for initial slide here, then 2 spaces after each slide:
-
-
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
-
----
-
-# DEMO
-
-- [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/js-local-storage-form/)
-- [code](https://github.com/front-end-materials/local-storage/js-local-storage-form)
-
-OR
-
-DEMO: store multiple names in localStorage??
-
----
-
-<!-- BIG IMAGE -->
-
-Description: [link to website](URL)
-
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+- [store multiple names in localStorage](https://front-end-materials.github.io/local-storage/local-storage-object/)  
+[view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-object)
