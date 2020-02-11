@@ -145,7 +145,7 @@ localStorage.addEventListener("change", myFunction);
 
 `myFunction` handles **actions** on the `localStorage` data.
 
-**NOTE** [browser support is still patchy for LocaStorage events](https://stackoverflow.com/a/6846158/123033)
+**NOTE** [browser support is still patchy for LocalStorage events](https://stackoverflow.com/a/6846158/123033)
 
 ---
 
