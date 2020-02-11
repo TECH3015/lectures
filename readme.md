@@ -1,5 +1,7 @@
 # Welcome to TECH3015
 
+<!-- https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-00 -->
+
 This repository holds all lecture and lab material for this module.
 
 ## Lecture slides, term 1:
