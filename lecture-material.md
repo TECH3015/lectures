@@ -1,3 +1,10 @@
+---
+
+## BAD UI
+
+https://www.mockplus.com/blog/post/bad-ui-design-examples
+
+https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706
 
 ---
 
@@ -49,12 +56,3 @@ http://shouldiuseacarousel.com/
 <!-- .slide: class="crammed" -->
 
 - [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
-
----
-
-<!-- BIG IMAGE EXAMPLE -->
-
-Description: [link to website](URL)
-
-![ttitle text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
-
