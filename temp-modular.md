@@ -103,7 +103,7 @@ Note the **layers** are **nested** just as in the **HTML**
 
 ![3D box model image](images/3dview.png)
 
----
+===
 
 <!-- BOX MODEL SYNTAX -->
 
@@ -220,7 +220,7 @@ a {
 - Learn about the box model with [exercises on W3Schools](http://www.w3schools.com/css/css_boxmodel.asp)
 - Adjust sliders on an [Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 
----
+===
 
 <!-- BOX MODEL BORDER -->
 
@@ -345,7 +345,7 @@ Reference: [W3Schools: CSS Borders](http://www.w3schools.com/css/css_border.asp)
 
 Or (if you like) play with [CSS shapes](https://css-tricks.com/examples/ShapesOfCSS/)
 
----
+===
 
 <!-- FLEXBOX -->
 

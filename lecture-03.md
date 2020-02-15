@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## Module Tutors
 
@@ -17,14 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
 ## Module structure
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+===
 
 ## Assignment deadlines:
 
@@ -36,7 +36,7 @@ midday (12pm) Friday 3rd April 2020
 
 Full assignment criteria covered in later lectures
 
----
+===
 
 ## Where we are
 
@@ -46,7 +46,7 @@ Full assignment criteria covered in later lectures
   - arrange your content into *logical groups*
   - get feedback from others ([online card sorting](https://www.optimalworkshop.com/optimalsort))
 
----
+===
 
 <!-- ACCESSIBILITY: SHARED CTEC3905.04/MEDS2007.02 -->
 
@@ -57,7 +57,7 @@ Full assignment criteria covered in later lectures
 Tim Berners-Lee (1997)  
 [Web Accessibility Initiative announcement](https://www.w3.org/Press/IPO-announce)
 
----
+===
 
 ## Accessibility 02
 
@@ -67,7 +67,7 @@ Tim Berners-Lee (1997)
 
 Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32)  
 
----
+===
 
 ## Accessibility 03
 <!-- .slide: class="crammed" -->
@@ -80,7 +80,7 @@ W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/acce
 
 **Disability Equality Act (2010)**—you can be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources)
 
----
+===
 
 ## Accessibility 04
 
@@ -93,7 +93,7 @@ How you can address **web access**:
 - **valid HTML5** code is important
 - use **[form field types](https://www.w3schools.com/html/html_form_input_types.asp)** and the `label` tag
 
----
+===
 
 ## Accessibility 05
 
@@ -104,7 +104,7 @@ Resources and research
 - [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see rules [1–5](https://www.w3.org/TR/using-aria/#rule1) rules!
 - [How to Use ARIA Effectively with HTML5](https://www.sitepoint.com/how-to-use-aria-effectively-with-html5/)
 
----
+===
 
 <!-- INFORMATION ARCHITECTURE: SHARED CTEC3905.04/MEDS2007.02 -->
 
@@ -113,7 +113,7 @@ Resources and research
 > If you’ve ever tried to use something and thought, “where am I supposed to go next?” or “this doesn’t make any sense,” you are encountering an issue with an information architecture.  
 —[What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 
----
+===
 
 ## IA: 02
 <!-- .slide: class="crammed" -->
@@ -127,7 +127,7 @@ Entire university courses cover IA—[search "library science and information ar
 
 More information: [Presenting Information Architecture](https://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
----
+===
 
 <h2>IA: 03 - How did <strong>IA</strong> begin?</h2>
 
@@ -140,7 +140,7 @@ More information: [Presenting Information Architecture](https://webstyleguide.co
 <br>
 Known as <em>The Polar Bear Book</em> it is considered to be <strong>the</strong> essential text on the subject.</p>
 
----
+===
 
 ## IA: 04
 
@@ -153,7 +153,7 @@ So it's a kind of cognitive and visual **data structure**
 
 …now pick a number from one to 10…
 
----
+===
 
 ## IA: 05
 <!-- .slide: class="crammed" -->
@@ -166,7 +166,7 @@ Information Architecture uses **Cognitive Psychology**
 
 [Complete Beginners Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/ "A summary of the above findings")
 
----
+===
 
 <style>
 	.ia-diagram {
@@ -205,11 +205,12 @@ Information Architecture uses **Cognitive Psychology**
 	<li><strong>Context</strong>: business model, aim of website, cultural background, constraints</li>
 </ul>
 
+---
 
 <!-- .slide class="crammed nopadding" -->
 ![Classic Informaiton Architecture infographic by Louis Rosenfeld](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png)<!-- .element: class="nomargin" -->
 
----
+===
 
 ## IA: 07
 
@@ -225,7 +226,7 @@ the information backbone of a website:
 [The Difference Between IA and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)  
 —Jennifer Cardello
 
----
+===
 
 ## IA: 08
 <!-- .slide: class="crammed" -->
@@ -234,6 +235,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 
 > **if buildings were like software**, the architect would be involved in the actual building process, from … foundations … to … fixtures. …starting with a couple of rooms and basic amenities, **people would… start living there before the building was complete**. When the building work was about to finish …more people would turn up and start living there, too.
 
+---
 
 <!-- .slide: class="crammed" -->
 ## Building around users
@@ -242,6 +244,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 >
 > In fact… **more people would move in** while extensions were being built. When the modifications were complete, the the newcomers would **request more changes**.
 
+---
 
 <!-- .slide: class="crammed" -->
 ## Plan from the start
@@ -250,7 +253,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 >
 > If extending our house (website) takes too long, **people might move elsewhere**. We need start at the right scale and design things to be **extended as easily as possible**.
 
----
+===
 
 ## IA 09
 <!-- .slide: class="crammed" -->
@@ -263,13 +266,13 @@ Minimize effort
 
 <!-- INFORMATION ARCHITECTURE END -->
 
----
+===
 
 ## INFORMATION ARCHITECTURE
 
 questions?
 
----
+===
 
 <!-- WIREFRAMES: SHARED CTEC3905.04/MEDS2007.02 -->
 
@@ -282,7 +285,7 @@ Content Preparation
 - keep **unsized images** outside your web folder
 - **map your content** onto your wireframes
 
----
+===
 
 ## Wireframes 02
 
@@ -293,7 +296,7 @@ Mobile First Design
 - how will **users navigate** through your site?
 - **think visually** before diving into code
 
----
+===
 
 <!-- .slide class="big-pic crammed" -->
 
@@ -301,20 +304,23 @@ From simple **hand-drawn sketches**…
 
 ![sketches of mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/sketched-wireframes-01.png)
 
+---
 
 ![sketches of mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/sketched-wireframes-02.jpg)
 
+---
 
 To complete **visual mock-ups**…
 
 ![digital mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/mobile-wireframe-userflow-01.jpg)
 
+---
 
 …for **complex interfaces** in fine detail
 
 ![digital mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/mobile-wireframe-userflow-02.jpg)
 
----
+===
 
 ## Wireframes 03
 <!-- .slide: class="crammed" -->
@@ -329,13 +335,13 @@ Useful wireframe references - view the top one first:
 
 <!-- WIREFRAMES END -->
 
----
+===
 
 ## Wireframes
 
 questions?
 
----
+===
 
 ## What you want next
 
@@ -350,7 +356,7 @@ What do you want to cover next week? E.g.
 - Progressive Web Apps (PWAs)
 - SVGs
 
----
+===
 
 ## Final Questions?
 

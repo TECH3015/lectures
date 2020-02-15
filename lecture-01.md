@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## Module Tutors
 
@@ -17,7 +17,7 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
 ## Handbook
 
@@ -25,7 +25,7 @@ Email: deveritt@dmu.ac.uk
 - **NOTE:** some details still being updated
 - see reading/resources list
 
----
+===
 
 ## Where we are
 
@@ -35,7 +35,7 @@ Questions:
 - what could be changed?
 - your expectations?
 
----
+===
 
 ## Module overview
 
@@ -43,14 +43,14 @@ Questions:
 
 - **term 2:** technical skills, building your project
 
----
+===
 
 ## Module structure
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+===
 
 ## Assignment deadlines:
 
@@ -62,7 +62,7 @@ midday (12pm) Friday 3rd April 2020
 
 Full assignment criteria covered in later lectures
 
----
+===
 
 ## What you want
 
@@ -77,7 +77,7 @@ Some topics:
 - JavaScript ES6 syntax
 - Progressive Web Apps (PWAs)
 
----
+===
 
 ## Questions?
 

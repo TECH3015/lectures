@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## Module Tutors
 
@@ -17,14 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
 ## Module structure
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+===
 
 ## Assignment deadlines:
 
@@ -36,21 +36,21 @@ midday (12pm) Friday 3rd April 2020
 
 Full assignment criteria covered in later lectures
 
----
+===
 
 ## Handbook: update coming!
 
 - [Module handbook](https://daveeveritt.github.io/TECH3015/module-handbook.html)
 - see reading/resources list
 
----
+===
 
 ## Where we are
 
 - planning your site
 - web programming refreshers
 
----
+===
 
 ## HTML5 structure
 
@@ -70,7 +70,7 @@ Full assignment criteria covered in later lectures
 </html>
 ```
 
----
+===
 
 ## Planning your site 01
 
@@ -82,7 +82,7 @@ gather all the **content** for your site:
 - audio
 - choosing data from APIs
 
----
+===
 
 ## Planning your site 02
 
@@ -98,7 +98,7 @@ Resources from [usability.gov](https://www.usability.gov/):
 - [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 - [Information Architecture](https://www.usability.gov/what-and-why/information-architecture.html)
 
----
+===
 
 ## Planning your site 03
 
@@ -108,7 +108,7 @@ get input from others with an online tool:
 
 - [Card Sorting (usability.gov)](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
----
+===
 
 ## Planning your site 04
 
@@ -117,7 +117,7 @@ at the next stage, you will use **HTML5 tags** to **mark up** the basic areas fo
 - each **kind** of page you have or...
 - for one long **scrolling** page
 
----
+===
 
 ## Planning your site 05
 
@@ -132,13 +132,13 @@ inside the `body` tag, use **HTML5 semantic tags** ([read more at W3Schools](htt
 
 HTML5 semantic tags for **content** come later
 
----
+===
 
 ## HTML5 semantic tags
 
 questions?
 
----
+===
 
 ## RWD: breakpoints 01
 
@@ -154,7 +154,7 @@ CSS **media queries** can respond to many factors:
 
 Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
----
+===
 
 ## RWD: breakpoints 02
 
@@ -170,7 +170,7 @@ Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/
 
 Some [examples of RWD (mediaqueri.es)](https://mediaqueri.es/)
 
----
+===
 
 ## RWD: breakpoints 03
 
@@ -180,7 +180,7 @@ do **general** and **mobile** styles first, at the top
 
 **above/before any media queries**
 
----
+===
 
 ## RWD: breakpoints 04
 
@@ -202,13 +202,13 @@ a:link, a:visited { color: #003; }
 }
 ```
 
----
+===
 
 ## Media queries and breakpoints
 
 questions?
 
----
+===
 
 ## What you want next
 
@@ -222,7 +222,7 @@ What do you want to cover next week? E.g.
 - Progressive Web Apps (PWAs)
 - SVGs
 
----
+===
 
 ## Questions?
 

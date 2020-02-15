@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** DONE!
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -32,7 +34,7 @@ midday (12pm) Friday 3rd April 2020
 - [Coursework 2 specification](https://daveeveritt.github.io/TECH3015/coursework-02.html)
 - [Marking criteria](https://daveeveritt.github.io/TECH3015/coursework-02.html#marking-criteria)
 
----
+===
 
 ## WHERE WE ARE
 
@@ -42,6 +44,7 @@ midday (12pm) Friday 3rd April 2020
   - think about interaction
 - use the recommended online resources
 
+---
 
 ## ONLINE RESOURCES
 
@@ -52,7 +55,7 @@ midday (12pm) Friday 3rd April 2020
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
----
+===
 
 <!-- .slide: class="crammed" -->
 ## ASSIGNMENT 2 **01**
@@ -65,6 +68,7 @@ Where to Start?
 - get a basic **responsive and mobile-first structure** up and running that follows your design
 - **upload** to your public_html folder as you go along and get some **feedback from testers**
 
+---
 
 ## ASSIGNMENT 2 **02**
 
@@ -73,6 +77,7 @@ You need to hand in:
 - **the website**, in your public_html folder
 - **the critical report**, in PDF format
 
+---
 
 ## ASSIGNMENT 2 **03**
 
@@ -82,6 +87,7 @@ WEBSITE: 60% of the coursework mark
 - [Style](https://daveeveritt.github.io/TECH3015/coursework-02.html#style)
 - [Technical Skills](https://daveeveritt.github.io/TECH3015/coursework-02.html#technical-skills)
 
+---
 
 ## ASSIGNMENT 2 **04**
 
@@ -95,7 +101,7 @@ WEBSITE: 60% of the coursework mark
 - [Production](https://daveeveritt.github.io/TECH3015/coursework-02.html#production)
 - [Evaluation](https://daveeveritt.github.io/TECH3015/coursework-02.html#evaluation)
 
----
+===
 
 <!-- .slide: class="left-align" -->
 ## LIVE DEMO **01**
@@ -105,6 +111,7 @@ WEBSITE: 60% of the coursework mark
 
 [Gallery from JS Object List](https://codepen.io/faniae/pen/dyPdpOo)
 
+---
 
 <!-- .slide: class="left-align" -->
 ## LIVE DEMO **02**

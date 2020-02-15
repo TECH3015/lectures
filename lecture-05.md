@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,14 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+===
 
 ## MODULE HANDOOK
 
@@ -36,7 +36,7 @@ The [Assignment 1 Specification](https://daveeveritt.github.io/TECH3015/coursewo
 
 Links to these are also on Blackboard
 
----
+===
 
 ## ASSIGNMENT DEADLINES
 
@@ -49,7 +49,7 @@ Module Handbook has [general assessment info](https://daveeveritt.github.io/TECH
 midday (12pm) Friday 3rd April 2020  
 Full assignment 2 criteria covered in later lectures
 
----
+===
 
 ## WHERE WE ARE
 
@@ -61,7 +61,7 @@ planning and designing your site:
   - mock up your [designs](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-04#/6)
   - get some feedback!
 
----
+===
 
 ## THE WEBSITE PROCESS
 
@@ -73,10 +73,11 @@ IA, research, wireframes, coding etc. fall into five areas:
 - development
 - deployment
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/website-process.png" data-background-size="contain" -->
 
----
+===
 
 ## STYLE GUIDES **01**
 
@@ -89,16 +90,19 @@ A **style guide document** keeps an organisation’s printed and web materials w
 - logo
 - photos
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/nus-style-guide.png" data-background-size="contain" -->
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-ug-campaign-2012.png" data-background-size="contain" -->
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-style-guide-2017.png" data-background-size="contain" -->
 
----
+===
 
 ## STYLE GUIDES **02**
 
@@ -108,7 +112,7 @@ Download PDFs of these three style guides:
 - [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/ug-2012-campaign-guidelines.pdf)
 - [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/dmu-brand-guidelines-june-2017.pdf)
 
----
+===
 
 <!-- .slide: class="crammed" -->
 ## STYLE GUIDES **03**
@@ -117,16 +121,19 @@ The [Campaign Energy Dashboard](https://switchoff.nus.org.uk/) used NUS guidelin
 
 ![NUS energy dashboard screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-oct2019.png)
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-amiresponsive.png" data-background-size="contain" -->
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-bigscreen-amiresponsive.png" data-background-size="contain" -->
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-amiresponsive-nov2017.png" data-background-size="contain" -->
 
----
+===
 
 ## STYLE GUIDES **04**
 
@@ -138,25 +145,28 @@ three big tech companies have **interface guidelines**
 
 They’re long, detailed and technical so just scan through
 
+---
 
 <!-- .slide: class="crammed" -->
 [Google Material Design](https://material.io/design/introduction/)
 
 ![Google Material Design, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png)
 
+---
 
 <!-- .slide: class="crammed" -->
 [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 ![Apple Human Interface Guidelines, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png)
 
+---
 
 <!-- .slide: class="crammed" -->
 [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
 ![Microsoft User Interface Principles, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png)
 
----
+===
 
 <!-- .slide: class="crammed" -->
 ## DESIGN TRENDS **01**
@@ -172,7 +182,7 @@ They’re long, detailed and technical so just scan through
 
 (you can by-pass promotional material for the UXPin interface builder)
 
----
+===
 
 ## DESIGN TRENDS **02**
 
@@ -182,7 +192,7 @@ Download PDFs of these three style guides:
 - [Web design trends 2018](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2018.pdf)
 - [Web design trends 2019](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2019.pdf)
 
----
+===
 
 ## QUESTIONS
 
@@ -191,7 +201,7 @@ Any questions about:
 - style guides
 - design For the web
 
----
+===
 
 ## WHAT YOU WANT NEXT
 
@@ -202,7 +212,7 @@ Examples for next week:
 - more code examples?
 - assignment 2 specification?
 
----
+===
 
 ## FINAL QUESTIONS?
 

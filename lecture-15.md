@@ -3,7 +3,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -18,12 +18,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** DONE!
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -32,7 +34,7 @@ midday (12pm) Friday 3rd April 2020
 
 [Full marking criteria for Coursework 2](https://daveeveritt.github.io/TECH3015/coursework-02.md#marking-criteria)
 
----
+===
 
 ## WE ARE STILL HERE
 
@@ -43,7 +45,7 @@ midday (12pm) Friday 3rd April 2020
   - think about **user interaction**
 - use the CodeCademy courses to revise…
 
----
+===
 
 ## ONLINE RESOURCES
 
@@ -54,7 +56,7 @@ midday (12pm) Friday 3rd April 2020
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
----
+===
 
 # LOCAL STORAGE: **1**
 <!-- .slide: class="crammed" -->
@@ -69,6 +71,7 @@ In this module, we're using one of the storage functions: `localStorage`
 `localStorage` is **insecure** (so not good for ~~sensitive data~~ - see [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)).  
 However, it’s still **good for non-critical data**.
 
+---
 
 # LOCAL STORAGE: **2**
 <!-- .slide: class="crammed" -->
@@ -87,6 +90,7 @@ localStorage["name"] = "Fania";
 console.log(localStorage["name"]); // Fania
 ```
 
+---
 
 # LOCAL STORAGE: **3**
 <!-- .slide: class="crammed" -->
@@ -101,9 +105,11 @@ You can **see what a website stores** in your own browser:
 - open the **web inspector**
 - select the **"Application" tab**…
 
+---
 
 ![local storage in the browser Application tab](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/localstorage//local-storage-application-tab.png)
 
+---
 
 **Facebook** uses `localStorage` for several settings:
 
@@ -112,6 +118,7 @@ You can **see what a website stores** in your own browser:
 You can see stored **objects** (`{…}`) and **arrays** (`[…]`)  
 We don’t know what most of those are!
 
+---
 
 # LOCAL STORAGE: **4**
 <!-- .slide: class="crammed" -->
@@ -126,6 +133,7 @@ localStorage.setItem("name", theName.value);
 myElement.innerText = localStorage.getItem("name");
 ```
 
+---
 
 # LOCAL STORAGE: **5**
 <!-- .slide: class="crammed" -->
@@ -147,7 +155,7 @@ localStorage.addEventListener("change", myFunction);
 
 **NOTE** [browser support is still patchy for LocalStorage events](https://stackoverflow.com/a/6846158/123033)
 
----
+===
 
 # DEMOS
 

@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -35,7 +37,7 @@ midday (12pm) Friday 3rd April 2020
 [Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)
 
----
+===
 
 ## ASSIGNMENT 1 **01**
 <!-- .slide: class="crammed" -->
@@ -52,6 +54,7 @@ finishing assignment 1:
   - present in a table
 - **revise** any [lectures you missed](https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_550284_1&handle=announcements_entry&mode=view)
 
+---
 
 ## ASSIGNMENT 1 **02**
 
@@ -64,6 +67,7 @@ Crucial—**you must hand these in**:
 - commentary/annotations for **images**
 - critical **analysis**
 
+---
 
 ## ASSIGNMENT 1 **03**
 
@@ -76,6 +80,7 @@ Optional—**also good to include**:
 - consistently-formatted *references*
 - other material that shows your *process*
 
+---
 
 ## ASSIGNMENT 1 **04**
 
@@ -89,7 +94,7 @@ Optional—**also good to include**:
 
 See the [full Marking Criteria](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)
 
----
+===
 
 ## LECTURE 10 CONTENT
 
@@ -98,7 +103,7 @@ See the [full Marking Criteria](https://daveeveritt.github.io/TECH3015/coursewor
 - [responsive web design basics](#/6)
 - [RWD breakpoint demo](#/7)
 
----
+===
 
 <!-- HTML5 REVISITED -->
 <!-- in: https://github.com/CTEC3905/10-lecture -->
@@ -110,6 +115,7 @@ See the [full Marking Criteria](https://daveeveritt.github.io/TECH3015/coursewor
 - **nav**: only for **major navigation links** - one only
 - **article, section** can **contain each other** e.g. newspaper: a *games section* can have *game articles* with *technical sections* in each one
 
+---
 
 ## HTML5 SEMANTIC STRUCTURE **02**
 
@@ -120,6 +126,7 @@ Important, because **good semantic structure** addresses:
 - enables **machine processing** of web-based content
 - improves **searchability** and [SEO](https://support.google.com/webmasters/answer/40349?hl=en "Search Engine Optimisation")
 
+---
 
 ## HTML5 SEMANTIC STRUCTURE **03**
 
@@ -132,6 +139,7 @@ the distinction between `figure` and `aside`
 [The figure & figcaption elements (2010)](http://html5doctor.com/the-figure-figcaption-elements/)  
 [Keep up-to-date: what's arrived/changed in HTML5](https://www.w3.org/TR/html/changes.html "W3C Recommendation, 1 November 2016")
 
+---
 
 ## HTML5 SEMANTIC STRUCTURE **04**
 
@@ -145,6 +153,7 @@ The `src` attribute can read media files
 
 Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://medium.com/@yushulx/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
 
+---
 
 ## HTML5 SEMANTIC STRUCTURE **05**
 
@@ -155,7 +164,7 @@ resources
 
 <!-- END HTML5 REVISITED -->
 
----
+===
 
 <!-- CSS TIPS/REVISITED -->
 <!-- https://ctec3905.github.io/10-lecture/#/6 -->
@@ -167,6 +176,7 @@ resources
 - you can use **more than one class** on one element:  
   `class="mything myclass anotherclass"`
 
+---
 
 ## CSS REVISITED **02**
 
@@ -175,6 +185,7 @@ resources
 - CSS rules in **breakpoints** should override  
   *only* specific **mobile**/**global** styles
 
+---
 
 ## CSS REVISITED **02**
 
@@ -188,7 +199,7 @@ resources
 
 <!-- END CSS TIPS/REVISITED -->
 
----
+===
 
 ## RESPONSIVE WEB DESIGN **01**
 
@@ -204,6 +215,7 @@ to get started, here’s **all you need**…
 <!-- See the [responsive starter code](https://github.com/CTEC3905/starter-code)! -->
 <!-- See the [responsive starter code](https://github.com/DaveEveritt/starter-code)! -->
 
+---
 
 ## RESPONSIVE WEB DESIGN **02**
 
@@ -225,6 +237,7 @@ main { padding: .75em 10px; }
 }
 ```
 
+---
 
 ## RESPONSIVE WEB DESIGN **03**
 
@@ -237,6 +250,7 @@ all content should **look good at any width/height**
 
 Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 
+---
 
 ## RESPONSIVE WEB DESIGN **04**
 

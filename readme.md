@@ -13,7 +13,7 @@ This repository holds all lecture and lab material for this module.
 - [Lecture 05: style guides, design trends](https://TECH3015.github.io/presents?lecture-05)
 - [Lecture 06: Content Strategy](https://TECH3015.github.io/presents?lecture-06)
 - [Lecture 07: extra resources, Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
-- [Lecture 08: HTML natural flow, manipulating and positioning elements](https:/TECH3015fania.github.io/presents?lecture-08)
+- [Lecture 08: HTML natural flow, manipulating and positioning elements](https:/TECH3015.github.io/presents?lecture-08)
 - [Lecture 09: HTML Box Model, CSS Flexbox](https://TECH3015.github.io/presents?lecture-09)
 - [Lecture 10: Assignment 1 details, HTML structure, CSS tips, responsive web design basics](https://TECH3015.github.io/presents?lecture-10)
 
@@ -25,17 +25,17 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https:/TECH3015fania.github.io/presents?lecture-12)
-- [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https:/TECH3015fania.github.io/presents?lecture-13)
+- [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https:/TECH3015.github.io/presents?lecture-12)
+- [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https:/TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
 
 
 ## Module materials
 
-- [Module Handbook](https://daveeveritt.github.io/TECH3015/module-handbook.html)
-- [Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html)
-- [Coursework 2 Specification](https://daveeveritt.github.io/TECH3015/coursework-02.html)
+- [Module Handbook](https://TECH3015.github.io/lectures/module-handbook.html)
+- [Coursework 1 Specification](https://TECH3015.github.io/lectures/coursework-01.html)
+- [Coursework 2 Specification](https://TECH3015.github.io/lectures/coursework-02.html)
 
 ---
 

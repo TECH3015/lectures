@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -35,7 +37,7 @@ midday (12pm) Friday 3rd April 2020
 [Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)
 
----
+===
 
 ## TOPICS TODAY
 
@@ -48,7 +50,7 @@ midday (12pm) Friday 3rd April 2020
   * horizontal / vertical
   * flex
 
----
+===
 
 ## Natural/Normal Flow
 
@@ -59,6 +61,7 @@ midday (12pm) Friday 3rd April 2020
 - you can change the **display** property of elements
 - if unsure inspect element in the browser
 
+---
 
 ### Block-level elements
 
@@ -74,6 +77,7 @@ E.g. `<header>,<nav>,<div>,<section>,<h1>,<p>,<ul>,<form>,<table>,<figure>,<foot
 
 [*]: https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
 
+---
 
 ### Inline elements
 
@@ -89,6 +93,7 @@ E.g. `<a>,<span>,<code>,<button>,<strong>,<img>,<video>,<input>`
 
 [*]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
 
+---
 
 ### Display Property
 
@@ -101,33 +106,39 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 
 [W3Schools Try "Inline-Block"](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
 
+---
 
 ### Examples
 
 **Inline**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline2.png)](https://codepen.io/faniae/pen/zYYyMEo)
 
+---
 
 **Block**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/block2.png)](https://codepen.io/faniae/pen/JjjweyN)
 
+---
 
 **Inline + Block**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/mix.png)](https://codepen.io/faniae/pen/yLLGRMx)
 
+---
 
 **Inline-Block**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline-block.png)](https://codepen.io/faniae/pen/dyywQBj)
 
+---
 
 **Images**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/wvvRQPO)
 
+---
 
 **Figures**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/figures.png)](https://codepen.io/faniae/pen/WNNLaYg)
 
----
+===
 
 ## Customising Flow
 
@@ -136,7 +147,7 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 
 [MDN In Flow and Out of Flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/In_Flow_and_Out_of_Flow)
 
----
+===
 
 ### Floating Elements
 
@@ -154,6 +165,7 @@ img {
 
 [*]: https://developer.mozilla.org/en-US/docs/Web/CSS/float
 
+---
 
 ### Clearing Floats
 
@@ -166,21 +178,24 @@ p {
 }
 ```
 
+---
 
 ### Examples
 
 **float 2 images right**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
 
+---
 
 **float images differentely**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
 
+---
 
 **clear right floats**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
 
----
+===
 
 ### Positioning Elements
 
@@ -194,6 +209,7 @@ p {
 [W3Schools The position Property](https://www.w3schools.com/css/css_positioning.asp)  
 [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) + [MDN Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
+---
 
 ### Static
 
@@ -206,6 +222,7 @@ div {
 }
 ```
 
+---
 
 ### Relative
 
@@ -221,6 +238,7 @@ div {
 }
 ```
 
+---
 
 ### Absolute
 
@@ -238,6 +256,7 @@ button {
 }
 ```
 
+---
 
 ### Fixed
 
@@ -253,6 +272,7 @@ nav {
 }
 ```
 
+---
 
 ### Sticky
 
@@ -267,13 +287,14 @@ nav {
 }
 ```
 
+---
 
 ### Examples
 <iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/position.html" style="background:#ccc"></iframe>
 
 [MDN CSS Demo: position](https://interactive-examples.mdn.mozilla.net/pages/css/position.html)
 
----
+===
 
 ## Centering Things
 
@@ -289,6 +310,7 @@ div {
 
 ([How to Center in CSS](http://howtocenterincss.com/))
 
+---
 
 
 ### Horizontal **1**
@@ -297,6 +319,7 @@ div {
 
 [*]: https://vanseodesign.com/css/vertical-centering/
 
+---
 
 ### Horizontal **2**
 
@@ -307,6 +330,7 @@ div {
 | inline elements       | block elements                |
 | apply to parent       | apply to self                 |
 
+---
 
 ### Horizontal **3**
 <!-- .slide: class="crammed" -->
@@ -326,6 +350,7 @@ div {
 .center { text-align: center; }
 ```
 
+---
 
 ### Vertical **1**
 
@@ -333,6 +358,7 @@ div {
 - flexbox's `align-items:center` best for everything
 - `vertical-align` only used for tables and images
 
+---
 
 ### Examples
 
@@ -340,6 +366,7 @@ div {
 
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
 
+---
 
 `vertical-align` for **inline** image
 
@@ -360,16 +387,18 @@ div svg {
 }
 ```
 
+---
 
 <iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/vertical-align.html" style="background:#ccc"></iframe>
 
 [MDN CSS Demo: vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
 
+---
 
 **various vertical centering**  
 [![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
 
----
+===
 
 ## Next Week
 
@@ -378,7 +407,7 @@ div svg {
 - `display:grid` (a.k.a. CSS grids)
 - **???**
 
----
+===
 
 ## QUESTIONS?
 

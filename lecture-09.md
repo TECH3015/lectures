@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -35,7 +37,7 @@ midday (12pm) Friday 3rd April 2020
 [Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)
 
----
+===
 
 <style>
   /* unique styles for this presentation */
@@ -86,6 +88,7 @@ All **HTML tags** create a box or `block`:
 
 ![A diagram of the box model](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/boxmodel.png)
 
+---
 
 ## BOX MODEL **2**
 
@@ -96,6 +99,7 @@ and the list elements: `ul`, `ol`, `dl`, `dd`.
 
 You can reset these with CSS.
 
+---
 
 ## BOX MODEL **3**
 
@@ -103,6 +107,7 @@ You can reset these with CSS.
 
 padding includes the **background colour** and **background image** of a box
 
+---
 
 ## BOX-MODEL **4**
 
@@ -118,6 +123,7 @@ main {
 
 width is 70% **+** 2em **+** 4px
 
+---
 
 ## BOX-MODEL **5**
 
@@ -135,6 +141,7 @@ main {
 `border-box` means width **remains 70%**  
 (not 70% + 2em + 4px)
 
+---
 
 ## BOX-MODEL **6**
 
@@ -147,6 +154,7 @@ img {
 }
 ```
 
+---
 
 ## BOX-MODEL **7**
 
@@ -162,6 +170,7 @@ img {
 }
 ```
 
+---
 
 ## BOX-MODEL **8**
 
@@ -179,6 +188,7 @@ img {
 }
 ```
 
+---
 
 <section class="borders radius-demo left-align">
 	<h2>BOX-MODEL <strong>9</strong></h2>
@@ -195,6 +205,7 @@ img {
 	</div>
 </section>
 
+---
 
 <section class="borders radius-demo left-align">
 	<h2>BOX-MODEL <strong>10</strong></h2>
@@ -211,7 +222,7 @@ img {
 	</div>
 </secton>
 
----
+===
 
 <!-- FLEXBOX -->
 
@@ -225,6 +236,7 @@ img {
 }
 ```
 
+---
 
 ## FLEXBOX **2**
 
@@ -236,6 +248,7 @@ img {
 - `space-between` **distribute** items: first/last are left/right others are equally between
 - `space-around` **distribute** and space items **evenly**
 
+---
 
 ## FLEXBOX **3**
 
@@ -247,6 +260,7 @@ img {
 - `baseline` across baseline
 - `stretch` space items or stretch item to fill
 
+---
 
 ## FLEXBOX **4**
 
@@ -257,6 +271,7 @@ img {
 - `column` stack top to bottom
 - `column-reverse` stack bottom to top
 
+---
 
 ## FLEXBOX **5**
 
@@ -272,6 +287,7 @@ contains several **child elements** to arrange:
 }
 ```
 
+---
 
 ## FLEXBOX **6**
 
@@ -285,6 +301,7 @@ The HTML needs a **selector** e.g. `class="my-boxes"` for the CSS to **identify 
 </section>
 ```
 
+---
 
 ## FLEXBOX **7**
 
@@ -316,11 +333,12 @@ The HTML needs a **selector** e.g. `class="my-boxes"` for the CSS to **identify 
 
 <p>Try the CSS game <a href="http://www.flexboxdefense.com/">Flexbox Defence</a>.</p>
 
+---
 
 
 [![flexbox cheat sheet](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/flexbox-cheat.png)](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
----
+===
 
 ## DEMO
 

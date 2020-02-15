@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** DONE!
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -31,7 +33,7 @@ midday (12pm) Friday 3rd April 2020
 
 [Full marking criteria for Coursework 2](https://daveeveritt.github.io/TECH3015/coursework-02.md#marking-criteria)
 
----
+===
 
 ## WHERE WE ARE
 
@@ -42,6 +44,7 @@ midday (12pm) Friday 3rd April 2020
   - think about **user interaction**
 - use the CodeCademy courses to revise…
 
+---
 
 ## ONLINE RESOURCES
 
@@ -52,7 +55,7 @@ midday (12pm) Friday 3rd April 2020
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
----
+===
 
 <!-- JAVASCRIPT: HOW IT WORKS -->
 
@@ -68,6 +71,7 @@ midday (12pm) Friday 3rd April 2020
 
 Try an empty browser tab (`about:blank` in the address bar) and e.g. type `this.innerWidth;` into the browser console
 
+---
 
 ## JS **HOW IT WORKS**: 2
 <!-- .slide: class="crammed" -->
@@ -81,6 +85,7 @@ Try an empty browser tab (`about:blank` in the address bar) and e.g. type `this.
 <small>The browser does things *asynchronously* (**rendering the page**, making **HTTP calls**, storing **user events** in the queue…) while JavaScript handles things *synchronously* (one at a time)…<br><br>
 …except for `async` (see [js Goes Async](https://www.sitepoint.com/javascript-goes-asynchronous-awesome/) and [MDN/async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function))</small>
 
+---
 
 ## JS **HOW IT WORKS**: 3
 
@@ -91,6 +96,7 @@ Some examples:
 - to add **user interaction** and **store preferences**
 - to fetch online JSON data (and **style the result**)
 
+---
 
 ## JS **HOW IT WORKS**: 4
 
@@ -100,11 +106,13 @@ There are **parent**, **child** and **sibling** nodes
 
 <small>From: [Document Object Model Structure](http://www.corelangs.com/js/dom/domtree.html) (corelangs.com)</small>
 
+---
 
 ## JS **HOW IT WORKS**: 5
 
 ![Document Object Model diagram with hand-drawn annotations](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/javascript/dom.png)
 
+---
 
 ## JS **HOW IT WORKS**: 6
 
@@ -116,6 +124,7 @@ In a browser, everything runs in an **event loop** so you use **event listeners*
 myElement.addEventListener("click", MyFunction);
 ```
 
+---
 
 ## JS **HOW IT WORKS**: 7
 
@@ -124,6 +133,7 @@ While **CSS** can be triggered by focus/hover/etc.
 
 See: [Web Event reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/Events)
 
+---
 
 <!-- .slide: class="crammed" -->
 ## JS **HOW IT WORKS**: 8
@@ -139,6 +149,7 @@ How is JavaScript used?
 - **games** with HTML5 canvas ([HTML5 Games website](http://html5games.com/Best/702b9531-c136-437a-ab97-0b209d893b55))
 - **[3D animations](https://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js)** with canvas and WebGL e.g. [cars](http://carvisualizer.plus360degrees.com/threejs/), [Aquarium](http://webglsamples.org/aquarium/aquarium.html)
 
+---
 
 ## QUESTIONS
 
@@ -146,6 +157,7 @@ Before the demos…
 
 Any **questions about JavaScript**?
 
+---
 
 <h2><strong>JS HOW IT WORKS</strong>: 9</h2>
 
@@ -168,6 +180,7 @@ See a [demo here that fades in link colour changes](https://front-end-materials.
 
 <small>MDN: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction "Mozilla Web Docs")</small>
 
+---
 
 ## JS **HOW IT WORKS**: 10
 

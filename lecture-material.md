@@ -1,4 +1,4 @@
----
+===
 
 ## BAD UI
 
@@ -6,16 +6,16 @@ https://www.mockplus.com/blog/post/bad-ui-design-examples
 
 https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706
 
----
+===
 
 - Dense grid https://codepen.io/faniae/pen/QWWoZem
 - CSS filter https://codepen.io/faniae/pen/xBEZBz
 
----
+===
 
 http://shouldiuseacarousel.com/
 
----
+===
 
 ## KINDS OF WEBSITE **01**
 <!-- .slide: class="crammed" -->
@@ -25,21 +25,21 @@ http://shouldiuseacarousel.com/
 - responsive (RWD)
 - progressive (PWA)
 
----
+===
 
 ## MOBILE APP ICONS
 <!-- .slide: class="crammed" -->
 
 - [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
 
----
+===
 
 ## TYPOGRAPHY **01**
 <!-- .slide: class="crammed" -->
 
 - [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
 
----
+===
 
 ## TYPOGRAPHY **02**
 <!-- .slide: class="crammed" -->
@@ -50,7 +50,7 @@ http://shouldiuseacarousel.com/
 - [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
 - [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
 
----
+===
 
 ## TYPOGRAPHY **04**
 <!-- .slide: class="crammed" -->

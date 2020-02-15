@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** DONE!
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -31,7 +33,7 @@ midday (12pm) Friday 3rd April 2020
 
 [Full marking criteria for Coursework 2](https://daveeveritt.github.io/TECH3015/coursework-02.md#marking-criteria)
 
----
+===
 
 ## WHERE WE ARE
 
@@ -42,6 +44,7 @@ midday (12pm) Friday 3rd April 2020
   - think about **user interaction**
 - use the CodeCademy courses to revise…
 
+---
 
 ## ONLINE RESOURCES
 
@@ -52,7 +55,7 @@ midday (12pm) Friday 3rd April 2020
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
----
+===
 
 <!-- JAVASCRIPT: SYNTAX -->
 ## JAVASCRIPT SYNTAX: **1**
@@ -64,11 +67,13 @@ Blank console in Chrome:
 - **shift-return**: new line without executing
 - hit **return** to run the code
 
+---
 
 For example…
 
 ![console log for experimenting with JavaScript](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/javascript/chrome-about-blank.png)
 
+---
 
 ## JAVASCRIPT SYNTAX: **2**
 <!-- .slide class="left-align" -->
@@ -84,6 +89,7 @@ const myArray = ["C", "C++", "Ruby", "R", "Go", "Rust"];
 ```
 [Array methods (W3Schools)](http://www.w3schools.com/js/js_array_methods.asp)
 
+---
 
 ## JAVASCRIPT SYNTAX: **3**
 
@@ -94,6 +100,7 @@ const myArray = ["C", "C++", "Ruby", "R", "Go", "Rust"];
 - JavaScript **works out the type** for a variable value
 - a `let` value can change from **one type to another**
 
+---
 
 ## JAVASCRIPT SYNTAX: **4**
 
@@ -115,6 +122,7 @@ myVar !== myVar01; // true if different
 `const` stores **immutable data types** (e.g. array, function), whose **elements** or **properties** can change.  
 We will see that `let` has **tighter scope** than `var`…
 
+---
 
 ## JAVASCRIPT SYNTAX: **5**
 
@@ -138,6 +146,7 @@ function demoFor() {
 ```
 […difference between using “let” and “var” for variables](http://stackoverflow.com/a/11444416/123033)
 
+---
 
 ## JAVASCRIPT SYNTAX: **6**
 
@@ -156,6 +165,7 @@ const multiplyNums = (x, y) => x * y;
 
 Nearly everything in JavaScript is an **object**, including functions which can be used _as variables_ **including function call parameters**. ([MDN functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions))
 
+---
 
 ## JAVASCRIPT SYNTAX: **7**
 
@@ -176,6 +186,7 @@ squares.map(num => square(num));
 
 [MDN arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
+---
 
 ## JAVASCRIPT SYNTAX: **8**
 
@@ -195,6 +206,7 @@ console.log(`This is not a ${square(4)}-bit laptop!`);
 // This is not a 16-bit laptop!
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **9**
 
@@ -217,6 +229,7 @@ upTo3.next(); // value: 3, done: false
 upTo3.next(); // value: undefined, done: true
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **10**
 
@@ -239,6 +252,7 @@ parseFloat(myNumber); parseInt(myNumber);
 [JavaScript Number Methods](http://www.w3schools.com/js/js_number_methods.asp),
 [JavaScript Type Conversion Table](http://www.w3schools.com/jsref/jsref_type_conversion.asp)
 
+---
 
 ## JAVASCRIPT SYNTAX: **11**
 
@@ -260,6 +274,7 @@ myArray[3](2, 2); // 4
 
 **omit trailing brackets()** in functions with **no parameters** when inside an array - pass them later
 
+---
 
 ## JAVASCRIPT SYNTAX: **12**
 
@@ -283,6 +298,7 @@ add a new key/value pair:
 myObject.key3 = Math.PI;
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **13**
 
@@ -305,6 +321,7 @@ var myObject = {
 };
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **14**
 
@@ -324,6 +341,7 @@ if (condition is true) {
 }
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **15**
 
@@ -346,6 +364,7 @@ for (let i = 0; i < myArray.length; i += 1) {
 myArray.map(i => console.log(i));
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **16**
 
@@ -366,6 +385,7 @@ do {
 while (condition); // …do it again IF condition is true
 ```
 
+---
 
 ## JAVASCRIPT SYNTAX: **17**
 
@@ -386,7 +406,7 @@ switch (new Date().getDay()) {
 
 [W3Schools switch statment](http://www.w3schools.com/js/js_switch.asp)
 
----
+===
 
 <!-- JAVASCRIPT/CSS: ANIMATED MOBILE MENU DEMOS -->
 

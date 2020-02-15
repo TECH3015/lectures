@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,6 +17,7 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 
 ## MODULE STRUCTURE
@@ -24,6 +25,7 @@ Email: deveritt@dmu.ac.uk
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 
 ## ASSIGNMENT DEADLINES
@@ -36,7 +38,7 @@ midday (12pm) on Friday 13 December 2019
 midday (12pm) Friday 3rd April 2020  
 (Assignment 2 criteria to follow)
 
----
+===
 
 ## WHERE WE ARE
 
@@ -48,7 +50,7 @@ As last week, but more work please on **designs**!
 - written content in **plain text**
 - collect and **optimise** images/videos/audio
 
----
+===
 
 ## EXTRA RESOURCES **01**
 <!-- .slide: class="crammed" -->
@@ -59,6 +61,7 @@ Are **Job Stories** the new **User Stories**?
 
 [Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
 
+---
 
 ## EXTRA RESOURCES **02**
 <!-- .slide: class="crammed" -->
@@ -69,6 +72,7 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 
 [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 
+---
 
 ## EXTRA RESOURCES **03**
 <!-- .slide: class="crammed" -->
@@ -77,6 +81,7 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 
 [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
 
+---
 
 ## EXTRA RESOURCES **04**
 <!-- .slide: class="crammed" -->
@@ -85,13 +90,13 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 
 [Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll)
 
----
+===
 
 ## EXTRA RESOURCES ??
 
 Any **Extra Resources** you'd like next?
 
----
+===
 
 ## INFORMATION DESIGN **01**
 <!-- .slide: class="crammed" -->
@@ -102,7 +107,7 @@ We **forage** for information like we do for **resources**
 
 <small>[Information Foraging: A Theory of How People Navigate on the Web](https://www.nngroup.com/articles/information-foraging/)</small>
 
----
+===
 
 ## INFORMATION DESIGN **02**
 <!-- .slide: class="crammed" -->
@@ -112,7 +117,7 @@ Information Architecture **makes foraging easier**
 
 > Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
 
----
+===
 
 ## INFORMATION DESIGN **03**
 
@@ -123,7 +128,7 @@ Information **Design** is good *visual presentation*
 
 <small>[What is Information Design?](https://online-learning.com/information-design/)</small>
 
----
+===
 
 ## INFORMATION DESIGN **04**
 <!-- .slide: class="crammed" -->
@@ -134,7 +139,7 @@ Information **Design** is good *visual presentation*
 
 <small>[Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)</small>
 
----
+===
 
 ## INFORMATION DESIGN **05**
 <!-- .slide: class="crammed" -->
@@ -145,7 +150,7 @@ Information **Design** is good *visual presentation*
 
 <small>[Interactive Period Table](https://ptable.com/)</small>
 
----
+===
 
 ## INFORMATION DESIGN **06**
 <!-- .slide: class="crammed" -->
@@ -154,6 +159,7 @@ Information **Design** is good *visual presentation*
 
 [Pinterest: Information Design](https://www.pinterest.com/search/pins/?q=information%20design&rs=typed)
 
+---
 
 ## INFORMATION DESIGN **07**
 <!-- .slide: class="crammed" -->
@@ -162,7 +168,7 @@ Information **Design** is good *visual presentation*
 
 [Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
 
----
+===
 
 ## INFORMATION DESIGN **08**
 <!-- .slide: class="crammed" -->
@@ -171,19 +177,20 @@ Information **Design** is good *visual presentation*
 
 <small>[John Maeda's Laws of Simplicity](http://lawsofsimplicity.com/)</small>
 
----
+===
 
 ## INFORMATION DESIGN ??
 
 Any questions about **Information Design**?
 
----
+===
 
 ## DARK UI **01**
 <!-- .slide: class="crammed" -->
 
 > For many years, telling someone you worked on **user interface design** or **human-computer interaction** would produce puzzled looks and require explanation. With the rise of design and interaction for interactive devices, these terms became **much more familiar** to people outside the discipline…
 
+---
 
 
 ## DARK UI **02**
@@ -194,7 +201,7 @@ Any questions about **Information Design**?
 <small>condensed from Dourish, Paul (2019)  
 [User Experience As Legitimacy Trap](http://interactions.acm.org/archive/view/november-december-2019/user-experience-as-legitimacy-trap)</small>
 
----
+===
 
 ## DARK UI **03**
 <!-- .slide: class="crammed" -->
@@ -207,7 +214,7 @@ Any questions about **Information Design**?
 
 <small>condensed from [DarkPatterns.org](https://www.darkpatterns.org/), Harry Brignull (2019)</small>
 
----
+===
 
 ## DARK UI **04**
 
@@ -215,7 +222,7 @@ A brief explanation with examples:
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/kxkrdLI6e6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+===
 
 ## DARK UI **05**
 <!-- .slide: class="crammed" -->
@@ -229,6 +236,7 @@ A brief explanation with examples:
 
 <small>Adapted from [Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)…</small>
 
+---
 
 ## DARK UI **06**
 <!-- .slide: class="crammed" -->
@@ -242,7 +250,7 @@ A brief explanation with examples:
 
 <small>…Adapted from [Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)</small>
 
----
+===
 
 ## DARK UI **07**
 <!-- .slide: class="crammed" -->
@@ -251,52 +259,61 @@ A brief explanation with examples:
 
 ![DarkPatterns on Twitter](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-patterns-twitter.png)
 
+---
 
 **MISDIRECTION 1**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-allow-all.jpg)
 
+---
 
 **MISDIRECTION 2**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-buy-now.jpg)
 
+---
 
 **PRE-SELECTED CONFUSING OPTIONS**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-confusing-cookies.jpg)
 
+---
 
 **ARE YOU SURE?**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-jump-hoops.jpg)
 
+---
 
 **DON'T MISS OUT!**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-miss-out.jpg)
 
+---
 
 **NO MEANS YES**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-no-yes.jpg)
 
+---
 
 **shhh… opt out**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-opt-out.jpg)
 
+---
 
 **PANIC!**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-panic.png)
 
+---
 
 **SHAME…**
 
 ![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-shame.jpg)
 
----
+===
 
 ## ~DARK~ LIGHT UI **08**
 <!-- .slide: class="crammed" -->
@@ -307,6 +324,7 @@ A good adaptation to user scanning and presumptions:
 
 <small>[Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)</small>
 
+---
 
 ## ~DARK~ LIGHT UI **09**
 <!-- .slide: class="crammed" -->
@@ -317,13 +335,13 @@ Left is *past*, right is *future*:
 
 <small>[Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)</small>
 
----
+===
 
 ## DARK UI ??
 
 Any questions about **Dark UI Patterns**?
 
----
+===
 
 ## WHAT'S NEXT
 

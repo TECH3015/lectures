@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## Module Tutors
 
@@ -17,14 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
 ## Module structure
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
----
+===
 
 ## Assignment deadlines:
 
@@ -36,7 +36,7 @@ midday (12pm) Friday 3rd April 2020
 
 Full assignment criteria covered in later lectures
 
----
+===
 
 ## Where we are
 
@@ -46,7 +46,7 @@ Full assignment criteria covered in later lectures
   - arrange your content into *logical groups*
   - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
 
----
+===
 
 ## Assignment 1: 01
 
@@ -59,6 +59,7 @@ What you need to hand in:
 * commentary and/or annotations on images
 * critical analysis
 
+---
 
 ## Assignment 1: 02
 
@@ -70,6 +71,7 @@ Also:
 * moodboard, colour theme, font choices, etc.
 * consistent formatted references
 
+---
 
 ## Assignment 1: 03
 
@@ -81,7 +83,7 @@ Design & Interaction
 Accessibility  
 Critical Analaysis  
 
----
+===
 
 <!-- NEW -->
 <!-- DESIGN PRINCIPLES: SHARED MEDS2007.02/CTEC3905.04-->
@@ -97,7 +99,7 @@ Four basic principles:
 
 (The reverse of ‘**CRAP**’)
 
----
+===
 
 ## DESIGN: **02**
 <!-- .slide: class="crammed" -->
@@ -112,13 +114,15 @@ Four basic principles:
 
 [BBC iPlayer website](http://www.bbc.co.uk/iplayer): **proximity** and **style** group related items
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guardian-230oct2018.png" data-background-size="contain" -->
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/bbc-iplayer-23oct2018.png" data-background-size="contain" -->			
 
----
+===
 
 ## DESIGN: **03**
 <!-- .slide: class="crammed" -->
@@ -130,10 +134,11 @@ Four basic principles:
 
 A strict use of **alignment** on a former version of the Oslo-based design agency Heydays website gives a pleasing sense of **coherence and simplicity**.
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/heydays.jpg" data-background-size="contain" -->		
 
----
+===
 
 ## DESIGN: **03a**
 
@@ -142,22 +147,27 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 - **The core text** on the history and use of grids in design is: Khoi Vinh and Mark Boulton (2007) [Grids Are Good](http://www.slideshare.net/huer1278ft/grids-are-good-right)
 - Also see Vitaly Friedman (2007) [Designing With Grid-Based Approach](https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/), Smashing Magazine
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-01.png" data-background-size="contain" -->	
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-02.png" data-background-size="contain" -->	
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-03.png" data-background-size="contain" -->	
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-04.png" data-background-size="contain" -->	
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/grids/wireframe-finished.png" data-background-size="contain" -->	
 
----
+===
 
 ## DESIGN: **04**
 
@@ -168,13 +178,15 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 
 Use: global **style rules** at the **top** of your CSS **before `@media` query breakpoints** to *style elements consistently* e.g. **colours**, image **widths** (not height), matching **heading** styles…
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/karl-anders.png" data-background-size="contain" -->	
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/creative-depart.jpg" data-background-size="contain" -->	
 
----
+===
 
 ## DESIGN: **05**
 <!-- .slide: class="crammed" -->
@@ -190,13 +202,15 @@ There are many ways to create contrast. For example:
 - Javascript plugin site [unheap.com](http://www.unheap.com/) uses **bold colours**
 - A previous design for agency [Touch](http://www.thetouchagency.co.uk/) used nice **hover transitions** (the current site is slow and annoying!)
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/unheap.png" data-background-size="contain" --> 
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/touch-website.png" data-background-size="contain" -->
 
----
+===
 
 <!-- SIMPLICITY QUOTES -->
 
@@ -222,7 +236,7 @@ There are many ways to create contrast. For example:
 
 <!-- /NEW -->
 
----
+===
 
 <!-- COLOUR SCHEME LINK -->
 
@@ -230,7 +244,7 @@ Online **colour scheme** chooser: [Paletton](http://paletton.com/)
 
 ![Paletton.com colour scheme designer](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/paletton.png)
 
----
+===
 
 <!-- WIREFRAME DESIGNER LINK -->
 
@@ -238,13 +252,13 @@ Online **wireframe** creator: [Figma.com](https://www.figma.com/)
 
 ![Paletton.com colour scheme designer](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/figma-wireframe-design.png)
 
----
+===
 
 ## Design
 
 Any questions about design?
 
----
+===
 
 ## What you want next
 
@@ -259,7 +273,7 @@ What do you want to cover next week? E.g.
 - Progressive Web Apps (PWAs)
 - SVGs
 
----
+===
 
 ## Final Questions?
 

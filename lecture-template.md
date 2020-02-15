@@ -2,7 +2,7 @@
 
 2019-2020
 
----
+===
 
 ## MODULE TUTORS
 
@@ -17,12 +17,14 @@ Email: fania.raczinski@dmu.ac.uk
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+---
 
 ## MODULE STRUCTURE
 
 - **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
+---
 
 ## ASSIGNMENT DEADLINES
 
@@ -35,7 +37,7 @@ midday (12pm) Friday 3rd April 2020
 [Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)
 
----
+===
 
 ## WHERE WE ARE
 
@@ -45,7 +47,7 @@ midday (12pm) Friday 3rd April 2020
   - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
 - web programming refreshers
 
----
+===
 
 ## ASSIGNMENT 1 **01**
 
@@ -58,7 +60,7 @@ What you need to hand in:
 - commentary and/or annotations on images
 - critical analysis
 
----
+===
 
 ## ASSIGNMENT 1 **02**
 
@@ -70,7 +72,7 @@ Also:
 - moodboard, colour theme, font choices, etc.
 - consistent formatted references
 
----
+===
 
 ## ASSIGNMENT 1 **03**
 
@@ -82,7 +84,7 @@ Also:
 - Accessibility
 - Critical Analaysis
 
----
+===
 
 <!-- EXAMPLE SLIDE WITH A CLASS -->
 
@@ -91,7 +93,7 @@ Also:
 
 For slides that need more text, use the above class in a comment
 
----
+===
 
 <!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
 
@@ -101,10 +103,11 @@ text for initial slide here,
 
 then 2 spaces after each for the image slides:
 
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
 
----
+===
 
 <!-- BIG IMAGE EXAMPLE -->
 
@@ -112,7 +115,8 @@ Description: [link to website](URL)
 
 ![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
 
----
+===
 
+---
 
 
