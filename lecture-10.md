@@ -258,9 +258,9 @@ Now the second demo…
 
 Making the mobile design responsive
 
-if you're **not here now** see the [Panopto recording](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-10#/)!
+if you're **not here now** watch the [Panopto recording](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f7f57a2-8b99-4674-9d95-ab1f00997b76)!
 
-- [this week's demo code: responsive](https://github.com/DaveEveritt/TECH3015/blob/master/layout-rwd.html)
-- [this week's demo in a browser](https://tech3015.github.io/lectures/layout-rwd.html)
-- [last week's demo code: mobile-only](https://github.com/DaveEveritt/TECH3015/blob/master/layout.html)
-- [last week's demo in a browser](https://tech3015.github.io/lectures/layout.html)
+- [demo: responsive layout (code)](https://github.com/front-end-materials/page-layouts/tree/master/responsive-page-outline)
+- [demo: in browser (use Chrome mobile view)](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
+- [last week's demo: simple mobile menu (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu)
+- [last week's demo: in browser (use Chrome mobile view)](https://front-end-materials.github.io/menus/js-mobile-menu/)

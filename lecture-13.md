@@ -184,6 +184,6 @@ See a [demo here that fades in link colour changes](https://front-end-materials.
 
 ## JS **HOW IT WORKS**: 10
 
-See a [demo for a simple mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu/)
+See the [demo for a simple mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu/)
 
 <!-- TODO: SHARE WITH MEDS2007 LECTURE 04 -->

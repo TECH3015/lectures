@@ -2,7 +2,17 @@
 
 <!-- https://TECH3015.github.io/presents/?lecture-00 -->
 
-This repository holds all lecture and lab material for this module.
+This repository holds all the TECH3015 lectures and module documents.
+
+---
+
+## Module Documents
+
+- [Module Handbook](https://TECH3015.github.io/lectures/module-handbook.html)
+- [Coursework 1 Specification](https://TECH3015.github.io/lectures/coursework-01.html)
+- [Coursework 2 Specification](https://TECH3015.github.io/lectures/coursework-02.html)
+
+---
 
 ## Lecture slides, term 1:
 
@@ -30,17 +40,9 @@ Winter break
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
 
-
-## Module materials
-
-- [Module Handbook](https://TECH3015.github.io/lectures/module-handbook.html)
-- [Coursework 1 Specification](https://TECH3015.github.io/lectures/coursework-01.html)
-- [Coursework 2 Specification](https://TECH3015.github.io/lectures/coursework-02.html)
-
 ---
 
 ## TO DO:
 
-- [ ] remove and redirect layout-rwd.html and layout.html to front-end-materials orgnisation
-- [ ] fix `left-align` and `centre` styles in [github.com/fania/presents](https://github.com/fania/presents)
-- [ ] check through previous lectures after the above
+- [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
+- [x] check through previous lectures after the recent stylesheet update

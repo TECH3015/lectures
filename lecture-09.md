@@ -346,5 +346,5 @@ Now for a demo…
 
 if you're **not here now** see the Panopto recording!
 
-- [see the demo code](https://github.com/DaveEveritt/TECH3015/blob/master/layout.html)
-- [see the demo in a browser](https://tech3015.github.io/lectures/layout.html)
+- [see the demo code](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu)
+- [see the demo in a browser](https://front-end-materials.github.io/menus/js-mobile-menu/)
