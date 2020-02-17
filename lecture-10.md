@@ -34,7 +34,7 @@ midday (12pm) on Friday 13 December 2019
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-[Full marking criteria for Coursework 1](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)  
+[Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)
 
 ===
@@ -92,7 +92,7 @@ Optional—**also good to include**:
 - Accessibility
 - Critical Analaysis
 
-See the [full Marking Criteria](https://daveeveritt.github.io/TECH3015/coursework-01.html#marking-criteria)
+See the [full Marking Criteria](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)
 
 ===
 
@@ -261,6 +261,6 @@ Making the mobile design responsive
 if you're **not here now** see the [Panopto recording](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-10#/)!
 
 - [this week's demo code: responsive](https://github.com/DaveEveritt/TECH3015/blob/master/layout-rwd.html)
-- [this week's demo in a browser](https://daveeveritt.github.io/TECH3015/layout-rwd.html)
+- [this week's demo in a browser](https://tech3015.github.io/lectures/layout-rwd.html)
 - [last week's demo code: mobile-only](https://github.com/DaveEveritt/TECH3015/blob/master/layout.html)
-- [last week's demo in a browser](https://daveeveritt.github.io/TECH3015/layout.html)
+- [last week's demo in a browser](https://tech3015.github.io/lectures/layout.html)

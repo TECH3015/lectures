@@ -32,7 +32,7 @@ Updated and revised [Module Handbook now online](https://tech3015.github.io/lect
 
 No big changes, just cleaner, simpler and (hopefully) easier to understand
 
-The [Assignment 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) is also online
+The [Assignment 1 Specification](https://tech3015.github.io/lectures/coursework-01.html) is also online
 
 Links to these are also on Blackboard
 
@@ -42,7 +42,7 @@ Links to these are also on Blackboard
 
 - **Assignment 1 (40%):**  
 midday (12pm) on Friday 13 December 2019  
-[Coursework 1 Specification](https://daveeveritt.github.io/TECH3015/coursework-01.html) available online  
+[Coursework 1 Specification](https://tech3015.github.io/lectures/coursework-01.html) available online  
 Module Handbook has [general assessment info](https://tech3015.github.io/lectures/module-handbook.html#assessment)
 
 - **Assignment 2 (60%):**  

@@ -2,7 +2,7 @@
 
 <!-- 
 https://thomcorah.github.io/dmu-multimedia/tech3015/module-handbook.html 
-https://daveeveritt.github.io/tech3015/module-handbook.md 
+https://tech3015.github.io/lectures/module-handbook.md 
 
 -->
 

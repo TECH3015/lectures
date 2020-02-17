@@ -31,8 +31,8 @@ Email: deveritt@dmu.ac.uk
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-- [Coursework 2 specification](https://daveeveritt.github.io/TECH3015/coursework-02.html)
-- [Marking criteria](https://daveeveritt.github.io/TECH3015/coursework-02.html#marking-criteria)
+- [Coursework 2 specification](https://tech3015.github.io/lectures/coursework-02.html)
+- [Marking criteria](https://tech3015.github.io/lectures/coursework-02.html#marking-criteria)
 
 ===
 
@@ -83,9 +83,9 @@ You need to hand in:
 
 WEBSITE: 60% of the coursework mark
 
-- [Content](https://daveeveritt.github.io/TECH3015/coursework-02.html#content)
-- [Style](https://daveeveritt.github.io/TECH3015/coursework-02.html#style)
-- [Technical Skills](https://daveeveritt.github.io/TECH3015/coursework-02.html#technical-skills)
+- [Content](https://tech3015.github.io/lectures/coursework-02.html#content)
+- [Style](https://tech3015.github.io/lectures/coursework-02.html#style)
+- [Technical Skills](https://tech3015.github.io/lectures/coursework-02.html#technical-skills)
 
 ---
 
@@ -97,9 +97,9 @@ WEBSITE: 60% of the coursework mark
 
 1500-2000 words, references and appendices not included in word count
 
-- [Design Process](https://daveeveritt.github.io/TECH3015/coursework-02.html#design-process)
-- [Production](https://daveeveritt.github.io/TECH3015/coursework-02.html#production)
-- [Evaluation](https://daveeveritt.github.io/TECH3015/coursework-02.html#evaluation)
+- [Design Process](https://tech3015.github.io/lectures/coursework-02.html#design-process)
+- [Production](https://tech3015.github.io/lectures/coursework-02.html#production)
+- [Evaluation](https://tech3015.github.io/lectures/coursework-02.html#evaluation)
 
 ===
 
