@@ -1,3 +1,7 @@
+## APIs
+
+
+
 ===
 
 ## BAD UI
@@ -8,10 +12,14 @@ https://www.interaction-design.org/literature/article/bad-design-vs-good-design-
 
 ===
 
+## DEMOS
+
 - Dense grid https://codepen.io/faniae/pen/QWWoZem
 - CSS filter https://codepen.io/faniae/pen/xBEZBz
 
 ===
+
+## CAROUSELS?
 
 http://shouldiuseacarousel.com/
 
@@ -39,7 +47,7 @@ http://shouldiuseacarousel.com/
 
 - [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
 
-===
+---
 
 ## TYPOGRAPHY **02**
 <!-- .slide: class="crammed" -->
@@ -50,9 +58,13 @@ http://shouldiuseacarousel.com/
 - [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
 - [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
 
-===
+---
 
 ## TYPOGRAPHY **04**
 <!-- .slide: class="crammed" -->
 
 - [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
+
+===
+
+

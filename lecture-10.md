@@ -261,6 +261,6 @@ Making the mobile design responsive
 if you're **not here now** watch the [Panopto recording](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f7f57a2-8b99-4674-9d95-ab1f00997b76)!
 
 - [demo: responsive layout (code)](https://github.com/front-end-materials/page-layouts/tree/master/responsive-page-outline)
-- [demo: in browser (use Chrome mobile view)](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
+- [demo: (browser, use Chrome mobile view)](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
 - [last week's demo: simple mobile menu (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu)
-- [last week's demo: in browser (use Chrome mobile view)](https://front-end-materials.github.io/menus/js-mobile-menu/)
+- [last week's demo: (browser, use Chrome mobile view)](https://front-end-materials.github.io/menus/js-mobile-menu/)

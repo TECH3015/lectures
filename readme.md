@@ -39,7 +39,22 @@ Winter break
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https:/TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
+<!-- 
+- [Lecture 16: APIs](https://TECH3015.github.io/presents?lecture-16)
 
+---
+
+February break (w/c 24)
+
+---
+
+- [Lecture 17: ](https://TECH3015.github.io/presents?lecture-17)
+- [Lecture 18: ](https://TECH3015.github.io/presents?lecture-18)
+- [Lecture 19: ](https://TECH3015.github.io/presents?lecture-19)
+- [Lecture 20: ](https://TECH3015.github.io/presents?lecture-20)
+- [Lecture 21: ](https://TECH3015.github.io/presents?lecture-21)
+-->
+ 
 ---
 
 ## TO DO:
