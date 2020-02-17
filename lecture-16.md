@@ -117,7 +117,7 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
 ---
 
 # JSON: **06**
-<!-- .slide: class="crammed smalltext smallcode" -->
+<!-- .slide: class="crammed smalltext" -->
 
 ```javascript
 {
@@ -133,14 +133,14 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
     username: "andreasplesch",  
 //... MUCH MORE DATA!
 ```
-"users" is an **array**, so (if we grab and assign this data to `test`) we can get user names from that Discourse forum with [map](https://www.discovermeteor.com/blog/understanding-javascript-map):  
+"users" is an **array**, so (if we grab and assign this data to `test`) we can get user names from that Discourse forum with [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map):  
 `test.users.map(u => u.username)`  
 `// ["fraguada", "andreasplesch", etc...]`
 
 ---
 
 # JSON **07**
-<!-- .slide: class="crammed smallcode" -->
+<!-- .slide: class="crammed smalltext" -->
 
 Rather than the AJAX method, this extract from code for The Guardian API uses `fetch` and **promises**.  
 **Promises wait for a result** and only `.then` **do something**:
@@ -164,7 +164,7 @@ fetch(data-to-fetch)
 ---
 
 # JSON: **08**
-<!-- .slide: class="crammed smallcode" -->
+<!-- .slide: class="crammed" -->
 
 A **JavaScript data object** is assigned to a variable (e.g. `const`) - this contains **objects{}**, **arrays[]** and **functions()**…
 
@@ -182,14 +182,14 @@ A **JavaScript data object** is assigned to a variable (e.g. `const`) - this con
 }
 ```
 
-However, JSON is **just data**! It cannot contain functions…
+However, JSON is **just data**! It *cannot* contain functions…
 
 ---
 
 # JSON: **09**
-<!-- .slide: class="crammed smallcode" -->
+<!-- .slide: class="crammed smalltext" -->
 
-…JSON only stores: `string`, `number`, `array`, `object`, `boolean` (true|false), `null`—it cannot store functions:
+…JSON only stores: `string`, `number`, `array`, `object`, `boolean` (true|false), `null`:
 
 ```javascript
 {
@@ -205,7 +205,7 @@ However, JSON is **just data**! It cannot contain functions…
 }
 ```
 
-…and is **only assigned to a variable** when you set one to **store the JSON** for use on your website. See: [Introducing JSON](http://www.json.org/"ECMA-404 The JSON Data Interchange Standard") and
+…and is **only assigned to a variable** when you **store the JSON** for use on your website. See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange Standard") and
 [JSON Basics: What You Need to Know](https://www.elated.com/articles/json-basics/)
 
 ---
@@ -240,7 +240,7 @@ the `"planetary_k_index"` ([K-index](https://en.wikipedia.org/wiki/K-index)) dat
 and the "dst" ([disturbance storm time](https://en.wikipedia.org/wiki/Disturbance_storm_time_index)) at `[1][2]`
 
 Various other [space weather readings are freely available](https://services.swpc.noaa.gov/) from [noaa.gov](https://www.noaa.gov/)
-
+<!-- 
 ---
 
 <h1>JSON: <strong>12</strong></h1>
@@ -260,13 +260,13 @@ const showDataFunction = () => {
   showData.style.opacity = "1";
 } 
 getData.addEventListener("click", showDataFunction);
-</script>
+</script> -->
 
 ---
 
 # JSON **13**
 
-If we **store the data** in variable called **jsonData**, here is the condensed JavaScript for the above (line breaks for clarity, "showData" is the element that shows… the data!):
+If we **store the data** in variable called **jsonData**, here is a condensed JavaScript example (line breaks for clarity, "showData" is the element that shows… the data!):
 
 ```javascript
 const showDataFunction = () => {
@@ -284,14 +284,12 @@ getData.addEventListener("click", showDataFunction);
 
 ===
 
-## APIs
-
 <!-- APIs -->
 
 # API: **01**
 <!-- .slide: class="crammed" -->
 
-## Using APIs in your project
+**Using APIs in your project**
 
 - **show initiative** by presenting data in an interesting way
 - you may need to apply for an **API key**
