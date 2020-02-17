@@ -1,4 +1,5 @@
-# TECH3015 Lecture 00
+<!-- .slide: class="centre" -->
+# TECH3015 Lecture 15
 
 2019-2020
 
@@ -21,68 +22,39 @@ Email: deveritt@dmu.ac.uk
 
 ## MODULE STRUCTURE
 
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
+- **Term 1, Assignment 1:** DONE!
+- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
 
 ---
 
 ## ASSIGNMENT DEADLINES
 
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
 - **Assignment 2 (60%):**  
 midday (12pm) Friday 3rd April 2020
 
-[Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
-(Assignment 2 criteria to follow)
+[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
 
 ===
 
-## WHERE WE ARE
+## WE ARE STILL HERE
 
-- progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-- web programming refreshers
-
-===
-
-## ASSIGNMENT 1 **01**
-
-What you need to hand in:
-
-- a brief outline explaining what your website is about
-- wireframes (mobile, tablet, desktop)
-- design sketches and finished design
-- evidence of user feedback
-- commentary and/or annotations on images
-- critical analysis
+- progress with making your site:
+  - **validate** your HTML!
+  - test your site at **all widths**
+  - make sure your **breakpoints are in order**
+  - think about **user interaction**
+- use the CodeCademy courses to revise…
 
 ===
 
-## ASSIGNMENT 1 **02**
+## ONLINE RESOURCES
 
-Also:
+**Codecademy** free courses:
 
-- site map
-- content inventory
-- user stories / user profiles
-- moodboard, colour theme, font choices, etc.
-- consistent formatted references
-
-===
-
-## ASSIGNMENT 1 **03**
-
-**5 marking criteria @ 20% each**
-
-- Information Architecture
-- Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ===
 
@@ -105,7 +77,7 @@ then 2 spaces after each for the image slides:
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/IMAGE_NAME" data-background-size="contain" -->
+<!-- .slide: data-background-image="IMG_FOLDER/IMAGE_NAME" data-background-size="contain" -->
 
 ===
 
@@ -113,7 +85,7 @@ then 2 spaces after each for the image slides:
 
 Description: [link to website](URL)
 
-![title text](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/IMAGE_FILENAME)
+![title text](IMG_FOLDER/IMAGE_NAME)
 
 ===
 

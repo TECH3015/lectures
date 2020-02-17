@@ -1,4 +1,60 @@
-## JSON
+<!-- .slide: class="centre" -->
+# TECH3015 Lecture 15
+
+2019-2020
+
+===
+
+## MODULE TUTORS
+
+- **Thom Corah** (Module Leader)  
+Location: GH6.62  
+Email: tcorah@dmu.ac.uk  
+Tel: 0116 207 8088
+
+- **Fania Raczinski** (labs)  
+Email: fania.raczinski@dmu.ac.uk
+
+- **Dave Everitt** (lectures)  
+Email: deveritt@dmu.ac.uk
+
+---
+
+## MODULE STRUCTURE
+
+- **Term 1, Assignment 1:** DONE!
+- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
+
+---
+
+## ASSIGNMENT DEADLINES
+
+- **Assignment 2 (60%):**  
+midday (12pm) Friday 3rd April 2020
+
+[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
+
+===
+
+## WE ARE STILL HERE
+
+- progress with making your site:
+  - **validate** your HTML!
+  - test your site at **all widths**
+  - make sure your **breakpoints are in order**
+  - think about **user interaction**
+- use the CodeCademy courses to revise…
+
+===
+
+## ONLINE RESOURCES
+
+**Codecademy** free courses:
+
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ===
 
@@ -34,10 +90,9 @@ For a more in-depth introduction to APIs in general, see [**"What Are APIs and H
 # JSON: **03**
 <!-- .slide: class="crammed smalltext" -->
 
-
 The [Discourse forum software](https://www.discourse.org/) generates a JSON API, viewable by **simply adding ".json"** to the end of a URL. Here’s a list of [discussions on the Three.js forum](https://discourse.threejs.org/c/discussion)…
 
-![Discourse Three.js forum](images/discourse-three-js-forum.png)
+![Discourse Three.js forum](json-api/discourse-three-js-forum.png)
 
 ---
 
@@ -46,8 +101,8 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
 
 …here’s the **JSON data** for the [Three.js Discourse forum landing page](https://discourse.threejs.org/c/discussion.json)—it’s hard to read so we can use a [JSON beautifier](https://beautifier.io/) (&lt;-that’s a link to one) or…
 
-![Discourse Three.js forum JSON](images/discourse-raw-json.png)
-<!-- ![Discourse Three.js forum JSON](images/solar-raw-json.png) -->
+![Discourse Three.js forum JSON](json-api/discourse-raw-json.png)
+<!-- ![Discourse Three.js forum JSON](json-api/solar-raw-json.png) -->
 
 ---
 
@@ -57,7 +112,7 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
 …a browser plug-in like the [Chrome extension JSONview](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)):
 
 
-![Discourse Three.js forum JSON](images/discourse-three-js-forum-json.png)
+![Discourse Three.js forum JSON](json-api/discourse-three-js-forum-json.png)
 
 ---
 
@@ -87,7 +142,7 @@ Now we can see that "users" is an **array**, so (if we grab and assign this data
 # JSON **07**
 <!-- .slide: class="crammed" -->
 
-Rather than the AJAX method, this extract from next week’s lab code (The Guardian’s API) uses `fetch` and **promises**.  
+Rather than the AJAX method, this extract from code for The Guardian API uses `fetch` and **promises**.  
 **Promises wait for a result** and only `.then` **do something**:
 
 ```JavaScript
@@ -115,15 +170,15 @@ A **JavaScript data object** is assigned to a variable (e.g. `const`) - this con
 
 ```javascript
 "menu": {
-"id": "file",
-"value": "File",
-"popup": {
-"menuitem": [
-  {"label": "New", "url": "/new", "action": createNewDoc()},
-  {"label": "Open", "url": "/open", "action": openDoc()},
-  {"label": "Close", "url": "/close", "action": closeDoc()}
-]
-}
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      {"label": "New", "url": "/new", "action": createNewDoc()},
+      {"label": "Open", "url": "/open", "action": openDoc()},
+      {"label": "Close", "url": "/close", "action": closeDoc()}
+    ]
+  }
 }
 ```
 
@@ -159,7 +214,7 @@ However, JSON is **just data**! It cannot contain functions…
 
 …here’s the raw **JSON data** for the [current solar weather](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)
 
-![Discourse Three.js forum JSON](images/solar-raw-json.png)
+![Discourse Three.js forum JSON](json-api/solar-raw-json.png)
 
 ---
 
@@ -280,71 +335,32 @@ See: [Using CORS](https://www.html5rocks.com/en/tutorials/cors/),
 
 ---
 
-<section title="diagram of Cross Origin Resource Sharing" data-background-image="images/CORS_principle.png" data-background-size="900px"><div>&nbsp;</div></section>					
+<!-- .slide: data-background-image="json-api/CORS_principle.png" data-background-size="contain" -->
+
+<!-- OLD
+<section title="diagram of Cross Origin Resource Sharing" data-background-image="json-api/CORS_principle.png" data-background-size="900px"><div>&nbsp;</div></section>					
+-->
 
 ===
 
-## BAD UI
+<!-- EXAMPLE WITH BACKGROUND IMAGES AS SUBSECTIONS -->
 
-https://www.mockplus.com/blog/post/bad-ui-design-examples
+## TITLE **00**
 
-https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706
+text for initial slide here,
 
-===
-
-## DEMOS
-
-- Dense grid https://codepen.io/faniae/pen/QWWoZem
-- CSS filter https://codepen.io/faniae/pen/xBEZBz
-
-===
-
-## CAROUSELS?
-
-http://shouldiuseacarousel.com/
-
-===
-
-## KINDS OF WEBSITE **01**
-<!-- .slide: class="crammed" -->
-
-- dynamic
-- static
-- responsive (RWD)
-- progressive (PWA)
-
-===
-
-## MOBILE APP ICONS
-<!-- .slide: class="crammed" -->
-
-- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
-
-===
-
-## TYPOGRAPHY **01**
-<!-- .slide: class="crammed" -->
-
-- [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
+then 2 spaces after each for the image slides:
 
 ---
 
-## TYPOGRAPHY **02**
-<!-- .slide: class="crammed" -->
-
-- [Ideal line length for content](http://maxdesign.com.au/articles/em/)
-- [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
-- [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/)
-- [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
-- [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
-
----
-
-## TYPOGRAPHY **04**
-<!-- .slide: class="crammed" -->
-
-- [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
+<!-- .slide: data-background-image="IMG_FOLDER/IMAGE_NAME" data-background-size="contain" -->
 
 ===
 
+<!-- BIG IMAGE EXAMPLE -->
 
+Description: [link to website](URL)
+
+![title text](IMG_FOLDER/IMAGE_NAME)
+
+===

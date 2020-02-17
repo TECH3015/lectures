@@ -41,7 +41,7 @@ Winter break
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
 
 <!--
-- [Lecture 16: APIs](https://TECH3015.github.io/presents?lecture-16)
+- [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16)
 
 ---
 
@@ -60,5 +60,8 @@ February break (w/c 24)
 
 ## TO DO:
 
+- [ ] complete the outline for lectures 17-21
+- [ ] move CTEC3905 styles here and 
+- [ ] change TECH3015 slide bg colour
 - [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
 - [x] check through previous lectures after the recent stylesheet update
