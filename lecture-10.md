@@ -253,6 +253,7 @@ Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/c
 ---
 
 ## RESPONSIVE WEB DESIGN **04**
+<!-- .slide: class="crammed" -->
 
 Now the second demo…
 
