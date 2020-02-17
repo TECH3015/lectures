@@ -69,9 +69,9 @@ midday (12pm) Friday 3rd April 2020
 <!-- .slide: class="left-align smalltext" -->
 
 
-**JavaScript data objects** can contain: strings, numbers, other objects, arrays, boolean values, functions…
+a **JavaScript object** can contain any of these: `string`, `number`, `array`, `object`, `boolean` (true|false), `null` plus (unike JSON) **functions** and **comments**…
 
-They are the basis of the **JSON data format**:
+**JavaScript objects** are the basis of the **JSON data format**:
 
 > JavaScript’s object-literal syntax is so simple, fexible, and concise, it was adapted to become the **dominant standard for client/server communication in the form of JSON**, which is more compact and flexible than the **XML** that it replaced.
 
@@ -123,7 +123,9 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
 # JSON: **06**
 <!-- .slide: class="left-align smalltext" -->
 
-```javascript
+in the JSON data for this forum, "users" is an **array** of **objects**, so if we fetch this data:
+
+```js
 {
   users: [
   {  
@@ -137,7 +139,9 @@ The [Discourse forum software](https://www.discourse.org/) generates a JSON API,
     username: "andreasplesch",  
 //... MUCH MORE DATA!
 ```
-"users" is an **array**, so (if we grab and assign this data to `test`) we can get user names from that Discourse forum with [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map):
+
+…and assign it to a variable `test`,  
+we can get user names from this Discourse forum with [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map):
 
 ```javascript
 test.users.map(u => u.username)
@@ -149,19 +153,25 @@ test.users.map(u => u.username)
 # JSON **07**
 <!-- .slide: class="left-align smalltext" -->
 
-Rather than the AJAX method, this extract from code for The Guardian API uses `fetch`, with **promises**—these **wait for a result** and only `.then` **do something**:
+Rather than the older AJAX method, this code extract for The Guardian API uses `fetch`, with **promises** that **wait for a result** and only `.then` **do something**:
 
-```JavaScript
+```js
 //...
+let theData;
+
 fetch(data-to-fetch)
-.then(function (response) {
-  // checks the response (what was received):
-  console.log(`response: ${response.status}`);
-  return response.json();
-})
-.then(function(data) {
-  // do stuff with the JSON data
-  //...
+  .then(function (response) {
+    // checks the if the response was okay
+    console.log(`response: ${response.status}`);
+    return response.json();
+  })
+  .then(function(data) {
+    // check the raw JSON data in the console
+    console.log(data);
+    // assign it to a variable
+    theData = data;
+    // and do stuff with the data here
+  })
 ```
 
 - [JavaScript Promises: an Introduction (developers.google.com)](https://developers.google.com/web/fundamentals/primers/promises)
@@ -172,10 +182,38 @@ fetch(data-to-fetch)
 # JSON: **08**
 <!-- .slide: class="left-align smalltext" -->
 
-A **JavaScript data object** is assigned to a variable (e.g. `const`) - this contains **objects{}**, **arrays[]** and **functions()**…
+**JSON has no "parent" or variable assignment**—it starts with an opening `{` or `[`.  
+This example of local JSON data (stored within a website in a file called, say, "menu.json") could build a special kind of menu:
 
-```javascript
-"menu": {
+```js
+{
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      {"label": "New", "url": "/new", "action": "createNewDoc()"},
+      {"label": "Open", "url": "/open", "action": "openDoc()"},
+      {"label": "Close", "url": "/close", "action": "closeDoc()"}
+    ]
+  }
+}
+```
+
+however, JSON is **just data**! It *cannot* contain **functions** or **comments** like a JavaScript object…
+
+---
+
+# JSON: **09**
+<!-- .slide: class="left-align smalltext" -->
+
+…but JSON data *can* be assigned to a variable as a **JavaScript object** (e.g. a `const` if you know the type—object or array) to **store the JSON** for use on your website  
+—you’d write code to *remove quotes* from the *function names* in the `action` values:
+
+```js
+const menu = getData() // get the menu.json here using fetch
+removeQuotes(menu.popup.menuitem); // pass menuitem array to removeQuotes()
+console.log(menu); // will then show:
+{
   "id": "file",
   "value": "File",
   "popup": {
@@ -188,37 +226,16 @@ A **JavaScript data object** is assigned to a variable (e.g. `const`) - this con
 }
 ```
 
-However, JSON is **just data**! It *cannot* contain functions and only stores: `string`, `number`, `array`, `object`, `boolean` (true|false), `null`…
-
----
-
-# JSON: **09**
-<!-- .slide: class="left-align smalltext" -->
-
-…and is **only assigned to a variable** when you **store the JSON** for use on your website.
-
-```javascript
-{
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"label": "New", "url": "/new", "action": /*createNewDoc()*/},
-      {"label": "Open", "url": "/open", "action": /*openDoc()*/},
-      {"label": "Close", "url": "/close", "action": /*closeDoc()*/}
-    ]
-  }
-}
-```
-
 See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange Standard") and
 [JSON Basics: What You Need to Know](https://www.elated.com/articles/json-basics/)
+
 ---
 
 # JSON: **10**
 <!-- .slide: class="left-align smalltext" -->
 
-…here’s the raw **JSON data** for the [current solar weather](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)
+for a real-world example, here’s the raw **JSON data** for the [current solar weather](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)  
+This is often used to **predict aurora displays** in the Arctic Circle
 
 ![Solar data raw JSON](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/json-api/solar-raw-json.png)
 
@@ -227,7 +244,7 @@ See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange
 # JSON: **11**
 <!-- .slide: class="left-align crammed smalltext" -->
 
-This JSON data for solar weather is in a **nested array**, with the first array as a **header row**:
+this solar weather data is in a **nested array**, with the first array as a **header row**:
 
 ```json
 [
@@ -241,7 +258,7 @@ This JSON data for solar weather is in a **nested array**, with the first array 
 ]
 ```
 
-So you access the first `"time_tag"` data by starting at `[1][0]`,  
+So you access the first `"time_tag"` date by starting at `[1][0]`,  
 the `"planetary_k_index"` ([K-index](https://en.wikipedia.org/wiki/K-index)) data (`"2.67`) with `[1][1]`  
 and the "dst" ([disturbance storm time](https://en.wikipedia.org/wiki/Disturbance_storm_time_index)) at `[1][2]`
 
@@ -252,48 +269,31 @@ Various other [space weather readings are freely available](https://services.swp
 # JSON **12**
 <!-- .slide: class="left-align smalltext" -->
 
-if the **data is stored** in a variable called `jsonData`, this will get and format it:
+if the **data is stored** in a variable called `jsonData`, this `processData` function will get, format and display it  
+`showData` is the ID of the element that will show… the data!
 
-```javascript
-const showDataFunction = () => {
+```js
+const processData = () => {
   showData.innerHTML =
     <strong>Time:</strong> ${ jsonData[1][0] }
     <br><strong>K index:</strong> ${ jsonData[1][1] }
     <br><strong>distance of solar wind:
     </strong> ${ jsonData[1][2] }`;
-
-  showData.style.opacity = "1"; // fade it in
 }
 
-getData.addEventListener("click", showDataFunction);
+getData.addEventListener("click", processData);
 ```
 
-Line breaks for clarity, `showData` is the ID of the element that will show… the data!
+abbreviated for clarity. 
 
 ---
 
-# ADD DEMO HERE
+# JSON **13**
+<!-- .slide: class="left-align" -->
 
----
-
-<h1>JSON: <strong>12</strong></h1>
-<p id="getData"><strong style="cursor:pointer">Give me some solar data!</strong></p>
-<p id="showData" style="opacity: 0;transition: all 3s"></p>
-<script>
-const jsonData = [
-["time_tag", "planetary_k_index", "dst"],
-  [
-    "2018-11-13 00:00:00",
-    "2.67",
-    "-10.2685003"
-  ]
-];
-const showDataFunction = () => {
-  showData.innerHTML = `<strong>Time:</strong> ${jsonData[1][0]}<br><strong>K index:</strong> ${jsonData[1][1]}<br><strong>distance of solar wind:</strong> ${jsonData[1][2]}`;
-  showData.style.opacity = "1";
-} 
-getData.addEventListener("click", showDataFunction);
-</script>
+- [Get and display live solar data from an API](https://front-end-materials.github.io/json-api/api-solar-data/)
+- [download code](https://github.com/front-end-materials/json-api/tree/master/api-solar-data)
+- [See the raw data here](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)
 
 ===
 
@@ -305,7 +305,7 @@ getData.addEventListener("click", showDataFunction);
 **Using APIs in your project**
 
 - **show initiative** by presenting data in an interesting way
-- you will need to **run your code** on a **server**
+- you may need to **run your code** on a **server**
 - you often need to apply for an **API key**
 - there are good [social media APIs](https://www.programmableweb.com/news/top-10-social-apis-facebook-twitter-and-google-plus/analysis/2015/02/17)
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/) now wants your credit card :-(
