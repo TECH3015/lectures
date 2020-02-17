@@ -40,7 +40,7 @@ Full assignment criteria covered in later lectures
 
 ## Handbook: update coming!
 
-- [Module handbook](https://daveeveritt.github.io/TECH3015/module-handbook.html)
+- [Module handbook](https://tech3015.github.io/lectures/module-handbook.html)
 - see reading/resources list
 
 ===

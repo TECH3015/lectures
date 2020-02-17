@@ -21,7 +21,7 @@ Email: deveritt@dmu.ac.uk
 
 ## Handbook
 
-- [link on BlackBoard](https://daveeveritt.github.io/TECH3015/module-handbook.html)
+- [link on BlackBoard](https://tech3015.github.io/lectures/module-handbook.html)
 - **NOTE:** some details still being updated
 - see reading/resources list
 
