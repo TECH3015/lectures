@@ -159,8 +159,8 @@ localStorage.addEventListener("change", myFunction);
 
 # DEMOS
 
-- [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/js-local-storage-form/)  
-[view code](https://github.com/front-end-materials/local-storage/tree/master/js-local-storage-form)
+- [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/local-storage-form/)  
+[view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-form)
 
 - [store multiple names in localStorage](https://front-end-materials.github.io/local-storage/local-storage-object/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-object)
