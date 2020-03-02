@@ -37,31 +37,4 @@ http://shouldiuseacarousel.com/
 
 - [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
 
-===
-
-## TYPOGRAPHY **01**
-<!-- .slide: class="crammed" -->
-
-- [Typography (Web Style Guide)](https://webstyleguide.com/9-typography.html)
-
----
-
-## TYPOGRAPHY **02**
-<!-- .slide: class="crammed" -->
-
-- [Ideal line length for content](http://maxdesign.com.au/articles/em/)
-- [optimum line length for readablity](https://baymard.com/blog/line-length-readability)
-- [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/)
-- [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
-- [How To Set Perfect Line Lengths For The Web](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344)
-
----
-
-## TYPOGRAPHY **04**
-<!-- .slide: class="crammed" -->
-
-- [How Letterspacing Can Make All Caps Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
-
-===
-
 

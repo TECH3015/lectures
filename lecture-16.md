@@ -63,7 +63,7 @@ midday (12pm) Friday 3rd April 2020
 
 ===
 
-<!-- JSON -->
+<!-- JSON and APIs: REPLACE WITH CTEC3905 Lecture 08 -->
 
 # JSON: **01**
 <!-- .slide: class="left-align smalltext" -->
