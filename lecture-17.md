@@ -122,6 +122,8 @@ recommended **web typography primary sources**:
 
 > Choosing a Typeface Is **Not Typography**
 
+but here's a little inspiration: [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+
 ---
 
 ## TYPOGRAPHY **05**
