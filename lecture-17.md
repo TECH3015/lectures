@@ -64,7 +64,7 @@ midday (12pm) Friday 3rd April 2020
 ===
 
 ## API EXAMPLES
-<!-- .slide: class="left-align smalltext" -->
+<!-- .slide: class="left-align crammed" -->
 
 These are more complete than the previous demo, and hopefully will show what's possible and give you ideas.
 

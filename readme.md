@@ -43,7 +43,7 @@ Winter break
 
 February break (w/c 24)
 
-<!-- - [Lecture 17: ](https://TECH3015.github.io/presents?lecture-17) -->
+- [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
 
 <!--
 
