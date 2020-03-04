@@ -46,7 +46,7 @@ February break (w/c 24)
 - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
 
 <!--
-
+bad UI, PWAs, hetml templates
 - [Lecture 18: ](https://TECH3015.github.io/presents?lecture-18)
 - [Lecture 19: ](https://TECH3015.github.io/presents?lecture-19)
 - [Lecture 20: ](https://TECH3015.github.io/presents?lecture-20)
