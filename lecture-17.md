@@ -91,7 +91,7 @@ It's a bit of a **learning curve**, but programmers text editors (like [VSCode](
 
 > **95%** of the information on the web is **written language**. It is only logical to say that a web designer should get good training in the main discipline of **shaping written information**, in other words: **Typography**.
 > 
-> —Oliver Reichenstein, "[Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)", 2006
+> —Oliver Reichenstein, "[Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)”, 2006
 
 ---
 
@@ -131,7 +131,7 @@ but here's a little inspiration: [Beautiful Web Type](http://hellohappy.org/beau
 
 optimum **line length for readablity** was supposed to be 50-75 characters…
 
-…but [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/) draws on more recent research, although `line-spacing`, `letter-spacing` and `font-family` helps—see [Optimal Text Layoutline Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
+…but [The Line Length Misconception](https://www.viget.com/articles/the-line-length-misconception/) draws on more recent research, although `line-spacing`, `letter-spacing` and `font-family` helps—see [Optimal Text Layout Line Length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
 
 …and the advice continues **in more detail** for **mobile devices** in [How To Set Perfect Line Lengths For The Web](http://www.simon-li.com/design-and-code/how-to-set-perfect-line-lengths-for-your-webpages/)
 
@@ -239,9 +239,9 @@ font-size: 12px;
 …the `rem` or "root em"—typically set on the `body`—allows for 'absolute' size adjustments with the **root** `font-size` **as a base** regardless of any other containing element's `font-size` style:
 
 ```css
-body { font-size: 1em; }
-h1 { font-size: 2em; } /* twice as big */
-small { font-size: .75em; } /* 3/4 size */
+body { font-size: 1em; } /* set the root (em or px) */
+h1 { font-size: 2rem; } /* twice as big */
+small { font-size: .75rem; } /* 3/4 size */
 ```
 
 [Rems, ems, and pixels. What’s the difference? (Abbey Fitzgerald 2015)](https://getflywheel.com/layout/rems-ems-and-pixels-whats-the-difference/)
@@ -319,7 +319,7 @@ there are a few settings: `column-gap`, `column-rule-style`, `column-rule-width`
 column-rule: 1px solid lightblue;
 ```
 
-[CSS Multiple COlumns (W3Schools)](https://www.w3schools.com/Css/css3_multiple_columns.asp)
+[CSS Multiple Columns (W3Schools)](https://www.w3schools.com/Css/css3_multiple_columns.asp)
 
 ---
 
