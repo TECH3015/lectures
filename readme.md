@@ -44,13 +44,13 @@ Winter break
 February break (w/c 24)
 
 - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
+<!-- - [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18) -->
 
 <!--
 bad UI, PWAs, hetml templates
-- [Lecture 18: ](https://TECH3015.github.io/presents?lecture-18)
-- [Lecture 19: ](https://TECH3015.github.io/presents?lecture-19)
-- [Lecture 20: ](https://TECH3015.github.io/presents?lecture-20)
-- [Lecture 21: ](https://TECH3015.github.io/presents?lecture-21)
+- [Lecture 19: (Fania) CSS filter (https://codepen.io/fania/pen/xBEZBz)?](https://TECH3015.github.io/presents?lecture-19)
+- [Lecture 20: Web3D](https://TECH3015.github.io/presents?lecture-20)
+- [Lecture 21: Assignment criteria recap, PWAs future of the web?](https://TECH3015.github.io/presents?lecture-21)
 -->
  
 ---

@@ -12,7 +12,7 @@ https://www.interaction-design.org/literature/article/bad-design-vs-good-design-
 ## DEMOS
 
 - Dense grid https://codepen.io/faniae/pen/QWWoZem
-- CSS filter https://codepen.io/faniae/pen/xBEZBz
+- CSS filter https://codepen.io/fania/pen/xBEZBz
 
 ===
 
