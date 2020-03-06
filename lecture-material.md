@@ -74,19 +74,19 @@ how long does something take?
 add `console.time()` before and `console.timeEnd()` after
 
 ```js
-var items = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const items = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 console.time()
 let count = 0;
 let len = items.length;
-for(i; i < len; i++) {
-  items[i * 10];
+for(count; count < len; count++) {
+  items[count * 10];
 }
-console.timeEnd()
+console.timeEnd() // 55282.25ms
 
 console.time()
-items.map(item, item * 10);
-console.timeEnd()
+items.map(item => item * 10);
+console.timeEnd() // 0.030029296875ms
 ```
 
 <!-- is this in CTEC3905?? -->
