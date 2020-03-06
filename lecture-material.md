@@ -100,7 +100,8 @@ e.g. `console.log($0);`
 - `$0` currently selected element
 - `$1` previous element
 - `$2`, `$3`, `$4` element before previous, etc.
-- `$$('div')` or `$x(‘//element’)` e.g. `$x('//div')` presents an array of every `div` element on the page
+- `$(‘css-selector’)` return the first match for any selector
+- `$$(‘css-selector’)` return all matches for any selector
 
 [A Guide To Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 
@@ -108,16 +109,16 @@ e.g. `console.log($0);`
 
 # JS: DEBUGGER
 
-enables you to add a breakpoint, then step through code, track variable values, etc.
+enables you to add a **breakpoint**, then **step** through code, **track variable values**, etc.
 
 ```js
 function potentiallyBuggyCode() {
   debugger;
-  // do potentially buggy stuff to examine, step through, etc.
+  // do potentially buggy stuff, examine, step through, etc.
 }
 ```
 
-`debugger;` isn't part of the browser console object, but the console will respond to from JavaScript code
+`debugger;` isn't part of the browser console object, but the **console will respond** to it from within JavaScript code
 
 ===
 
