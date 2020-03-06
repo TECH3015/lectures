@@ -1,3 +1,6 @@
+
+# OLD OLD OLD
+
 <!-- .slide: class="centre" -->
 # TECH3015 Lecture 18
 
@@ -36,8 +39,6 @@ Email: deveritt@dmu.ac.uk
 midday (12pm) Friday 3rd April 2020
 
 [Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
-
-===
 
 <style>
 .slides {
@@ -163,7 +164,7 @@ You can also use JavaScript to **add a class** with a transition or animation to
 <!-- BROWSER RENDERING -->
 
 # BROWSER RENDERING **1**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align crammed" -->
 
 To **update the screen** a **web browser** goes through the following processes:
 
@@ -186,7 +187,7 @@ This is known as **reflow**, and it creates **a lot of work for the browser**. W
 ---
 
 # BROWSER RENDERING **3**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align smalltext" -->
 
 For **optimisation**, especially for **mobile** where the CPU is less powerful, it’s best to **avoid layout** or **paint** animations.
 
@@ -200,7 +201,7 @@ CSS `transform` is the best property to animate, because the GPU (Graphics Proce
 ---
 
 # BROWSER RENDERING **4**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align crammed" -->
 
 The above is for your professional reference—**you don’t have to worry too much about optimisation for the assignment**, but it’s still a good idea to know about it.
 
@@ -241,7 +242,7 @@ they work differently
 ---
 
 # CSS TRANSITION **3**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align smallcode" -->
 
 ```css
 .mymenu {
@@ -259,8 +260,8 @@ they work differently
 }
 ```
 
-**DO NOT** use vendor prefixes e.g. `-webkit-transition`  
-—they're **no longer required**.
+**NO** vendor prefixes e.g. `-webkit-transition`  
+—they're **not required**.
 
 ---
 
@@ -312,7 +313,7 @@ they work differently
 <!-- CSS ANIMATION -->
 
 # CSS ANIMATION **1**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align crammed" -->
 
 - Create and **name** a `@keyframes` block for the animations
 - Add an `animation` rule with the **name** of your `@keyframes` to the element
@@ -326,7 +327,7 @@ See [Animation](https://css-tricks.com/almanac/properties/a/animation/) (Chris C
 ---
 
 # CSS ANIMATION **2**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align smalltext" -->
 
 ## THE **ELEMENT**
 
@@ -363,19 +364,20 @@ animation: duration, name, direction, count, timing function
 
 Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
 
-<section>
-  <h1>CSS ANIMATION <strong>4</strong><h1>
+---
 
-  <div class="heart-container">
-    <div class='heart'></div>
-  </div>
-</section>
+<h1>CSS ANIMATION <strong>4</strong><h1>
 
+<div class="heart-container">
+  <div class='heart'></div>
+</div>
+
+===
 
 <!-- SVG GRAPHICS -->
 
 # SVG GRAPHICS **1**
-<!-- .slide: class="left-align crammed" -->
+<!-- .slide: class="left-align crammed smalltext" -->
 
 **SVG (Scalable Vector Graphics)** is an XML-based format for **drawing in the browser**
 
@@ -459,7 +461,7 @@ Because SVG is already a thing (it began in 1999!) here are a few more resources
 
 <p>This SVG is <strong>animated by CSS</strong></p>
 
-</section
+---
 
 # SVG ANIMATION **2**
 <!-- .slide: class="left-align crammed" -->
@@ -493,7 +495,7 @@ The basic **CSS styles** and **animation**:
   animation: move 3s infinite linear alternate;
 }
 ```
-for more complex `animation-timing-function` examples, see [Cubic-bezier CSS visual animation resource](http://cubic-bezier.com/)—(for HTML and SVG)
+[Cubic-bezier CSS visual animation resource](http://cubic-bezier.com/) has more `animation-timing-function` examples, for HTML/SVG
 
 ---
 
@@ -526,7 +528,7 @@ The CSS **animation keyframes**
 
 The two "SVG Sarahs"
 
-- [Sarah Drasner](https://sarahdrasnerdesign.com/): book "[SVG Animations](http://shop.oreilly.com/product/0636920045335.do)"
+- [Sarah Drasner](https://sarahdrasnerdesign.com/): book [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - [Sarah Soueidan](https://www.sarasoueidan.com/): [SVG articles](https://www.sarasoueidan.com/tags/svg/), [codePen](https://codepen.io/SaraSoueidan/)
 
 These two developers have **worked extensively with SVG graphics**
@@ -559,9 +561,12 @@ These two developers have **worked extensively with SVG graphics**
 
 <!-- CODE COMEDY -->
 
-<section data-markdown>
 # **THINK**, DON’T **COPY**
+<!-- .slide: class="left-align" -->
 
 ![](images/google_problems.jpg)
 
 **read** it, **type** it out, **understand** it!
+
+
+# QUESTIONS?
