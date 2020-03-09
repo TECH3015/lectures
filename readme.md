@@ -52,8 +52,8 @@ February break (w/c 24)
 
 <!--
 bad UI, PWAs, html templates
-- [Lecture 19: (Fania) CSS filter (https://codepen.io/fania/pen/xBEZBz)?](https://TECH3015.github.io/presents?lecture-19)
-- [Lecture 20: Web3D](https://TECH3015.github.io/presents?lecture-20)
+- [Lecture 19: CSS filter (Fania https://codepen.io/fania/pen/xBEZBz)?](https://TECH3015.github.io/presents?lecture-19)
+- [Lecture 20: Web3D, JS console methods](https://TECH3015.github.io/presents?lecture-20)
 - [Lecture 21: Assignment criteria recap, PWAs future of the web?](https://TECH3015.github.io/presents?lecture-21)
 -->
  
@@ -61,8 +61,9 @@ bad UI, PWAs, html templates
 
 ## TO DO:
 
-- [ ] complete the outline for lectures 17-21
-- [ ] move CTEC3905 styles here and 
+- [ ] move CTEC3905 styles here 
 - [ ] change TECH3015 slide bg colour
+- [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
+- [x] complete the outline for lectures 17-21
 - [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
 - [x] check through previous lectures after the recent stylesheet update
