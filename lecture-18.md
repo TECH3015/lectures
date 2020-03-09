@@ -709,7 +709,7 @@ See this [Really nice logo example](https://tympanus.net/Tutorials/ResponsiveSVG
 <!-- CODE COMEDY -->
 
 # **THINK**, DON’T **COPY**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="crammed" -->
 
 ![](https://raw.githubusercontent.com/front-end-materials/images/master/comedy/google-problems.jpg)
 
