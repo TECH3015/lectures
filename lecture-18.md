@@ -711,6 +711,6 @@ See this [Really nice logo example](https://tympanus.net/Tutorials/ResponsiveSVG
 # **THINK**, DON’T **COPY**
 <!-- .slide: class="left-align" -->
 
-![](general/google-problems.jpg)
+![](comedy/google-problems.jpg)
 
 **read** it, **type** it out, **understand** it!
