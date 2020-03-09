@@ -93,7 +93,7 @@ console.timeEnd() // 0.030029296875ms
 
 ---
 
-# JS: VARIABLES
+# JS: CONSOLE VARS
 
 e.g. `console.log($0);`
 

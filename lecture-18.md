@@ -581,6 +581,19 @@ max-height: 100vh;
   </g>
 </svg>
 
+---
+
+# **SVG** GRAPHICS **6**
+<!-- .slide: class="left-align crammed" -->
+
+[SVG article on accessibility (that cat example)](https://css-tricks.com/accessible-svgs/)
+
+Some tutorials and examples:
+
+- [SVG on the web: A Practical Guide](https://svgontheweb.com/)
+- [SVG Tutorial (W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
+- [SVG examples (W3Schools)](https://www.w3schools.com/graphics/svg_examples.asp)
+
 ===
 
 <!-- SVG ANIMATION -->
