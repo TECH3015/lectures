@@ -41,10 +41,14 @@ Winter break
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
 - [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16)
 
+---
+
 February break (w/c 24)
 
+---
+
 - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
-<!-- - [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18) -->
+- [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18)
 
 <!--
 bad UI, PWAs, html templates
