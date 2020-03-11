@@ -705,16 +705,17 @@ These two developers have **worked extensively with SVG graphics**
 
 - [Use SVG! presentation](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 - [Sarah Soueidan: CSS vs SVG](https://theblog.adobe.com/css-vs-svg-the-final-roundup/)
-
-[Sarah Soueidan, Making SVG Responsive using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
+- [Sarah Soueidan: articles on SVGs](https://www.sarasoueidan.com/tags/svg/)
 
 ===
 
 # **SVG** RESPONSIVE
 
-Finally, let's examine how SVG grapics can be **responsive**
+Sarah Soueidan also has a nice article on [Making SVG Responsive using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)…
 
-using this [simple logo example](https://tympanus.net/Tutorials/ResponsiveSVGs/index6.html) and media queries
+…so finally, let's examine how her logo example becomes **responsive** with media queries
+
+[Responsive logo example](https://tympanus.net/Tutorials/ResponsiveSVGs/index6.html)
 
 ===
 
