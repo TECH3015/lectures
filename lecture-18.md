@@ -429,9 +429,9 @@ See [SVG vs. HTML5 Canvas](https://www.cs.tufts.edu/comp/150IDS/final_papers/ppa
 # **SVG** GRAPHICS **4**
 <!-- .slide: class="left-align crammed" -->
 
-Why [SVG 1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x) and [SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_2.x)?
+[SVG 1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x) and [SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_2.x)?
 
-SVG is a **huge specification** with a **small group** working on it, and in the past has had little input from browser manufacturers, although this is changing and Microsoft is helping push SVG 2.
+SVG is a **huge specification** with a **small group** working on it, and—although widely-supported in browsers—has had little input from them. **BUT** this is changing and Microsoft is helping push SVG 2.
 
 See:
 
