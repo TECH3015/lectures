@@ -442,13 +442,8 @@ See:
 ---
 
 # **SVG** GRAPHICS **5**
-<!-- .slide: class="left-align crammed" -->
 
-Because SVG is already a thing (it began in 1999!) here are a few more resources for further information and to help get you started—**only if you're interested**
-
-- [Practical SVG, Chris Coyier, 2016](https://alistapart.com/article/practical-svg)
-- [JavaScript in SVG](http://apike.ca/prog_svg_js_create.html)
-- [SVG on W3Schools](https://www.w3schools.com/html/html5_svg.asp)
+SVG graphics also need to take care of accessibilioty requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
 
 ---
 <style>
@@ -582,13 +577,22 @@ max-height: 100vh;
 # **SVG** GRAPHICS **6**
 <!-- .slide: class="left-align crammed" -->
 
-[SVG article on accessibility (that cat example)](https://css-tricks.com/accessible-svgs/)
-
-Some tutorials and examples:
+SVG is already a thing (it began in 1999!) so here are a few more resources for further information and to **help get you started with SVGs**:
 
 - [SVG on the web: A Practical Guide](https://svgontheweb.com/)
 - [SVG Tutorial (W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
 - [SVG examples (W3Schools)](https://www.w3schools.com/graphics/svg_examples.asp)
+
+---
+
+# **SVG** GRAPHICS **7**
+<!-- .slide: class="left-align crammed" -->
+
+…and a few more tutorials and examples:
+
+- [Practical SVG (book, Chris Coyier, 2016)](https://alistapart.com/article/practical-svg)
+- [JavaScript in SVG](http://apike.ca/prog_svg_js_create.html)
+- [SVG on W3Schools](https://www.w3schools.com/html/html5_svg.asp)
 
 ===
 
