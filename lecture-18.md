@@ -407,7 +407,8 @@ Some of the drawing applications that can generate SVG:
 - Adobe Illustrator (expensive)
 
 See: [SVG getting started (MDN)](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started)  
-…and [Cleaning up SVG files manually](https://commons.wikimedia.org/wiki/User:Quibik/Cleaning_up_SVG_files_manually)
+
+Applications produce bloated/messy code! [Cleaning up SVG files manually](https://commons.wikimedia.org/wiki/User:Quibik/Cleaning_up_SVG_files_manually) or online: [SVGito online cleaner](https://sketchmaster.com/svg-optimizer)
 
 ---
 
@@ -588,10 +589,6 @@ Some tutorials and examples:
 - [SVG on the web: A Practical Guide](https://svgontheweb.com/)
 - [SVG Tutorial (W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
 - [SVG examples (W3Schools)](https://www.w3schools.com/graphics/svg_examples.asp)
-
-Clean up SVG files (applicaitions produce bloated/messy code):
-
-- [SVGito online cleaner](https://sketchmaster.com/svg-optimizer)
 
 ===
 
