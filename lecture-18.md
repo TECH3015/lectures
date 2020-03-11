@@ -381,7 +381,7 @@ Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
 
 **SVG (Scalable Vector Graphics)** is an XML-based format for **drawing in the browser**
 
-- SVG **version 1.1** has had support for ages, **version 2** is pending…
+- SVG **version 1** has had support for ages, **version 2** is coming…
 - SVG code is **visible** in the **web inspector** and **view source**
 - SVG **has a DOM** of nested elements that can be **styled** with CSS and **manipulated** with JavaScript
 - **Tiny** file sizes, **massive** functionality, **programmable**
@@ -394,7 +394,7 @@ SVG is ideal for **complex graphics** that **load quickly** (e.g. [maps](https:/
 ---
 
 # **SVG** GRAPHICS **2**
-<!-- .slide: class="left-align crammed smalltext" -->
+<!-- .slide: class="left-align smalltext" -->
 
 The [W3C Recommendation, 2011](https://www.w3.org/TR/SVG11/)
 
@@ -414,13 +414,13 @@ See: [SVG getting started (MDN)](https://developer.mozilla.org/en-US/docs/Web/SV
 # **SVG** GRAPHICS **3**
 <!-- .slide: class="left-align crammed" -->
 
-SVG and HTML Canvas
+SVG VS HTML Canvas
 
 - **SVG** graphics are **retained mode** and do not need to be re-generated on re-sizing
 - **canvas** graphics are **immediate mode**, re-generated each time the element is loaded
 
 [Apple introduced the **canvas** element](https://en.wikipedia.org/wiki/Canvas_element#Intellectual_property_over_canvas),  
-**SVG** has been a [standard since before 2011](https://www.w3.org/standards/techs/svg#w3c_all)
+**SVG** has been a [standard since around 2002](https://www.w3.org/TR/?title=svg)
 
 See [SVG vs. HTML5 Canvas](https://www.cs.tufts.edu/comp/150IDS/final_papers/ppaleo01.1/FinalReport.html) and [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_Scalable_Vector_Graphics_(SVG))
 
@@ -431,7 +431,7 @@ See [SVG vs. HTML5 Canvas](https://www.cs.tufts.edu/comp/150IDS/final_papers/ppa
 
 Why [SVG 1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x) and [SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_2.x)?
 
-SVG is a **huge specification** with a **small group** working on it, and imn the past has had little input from browser manufacturers, although this is changing and Microsoft is helping push SVG 2.
+SVG is a **huge specification** with a **small group** working on it, and in the past has had little input from browser manufacturers, although this is changing and Microsoft is helping push SVG 2.
 
 See:
 
