@@ -442,8 +442,11 @@ See:
 ---
 
 # **SVG** GRAPHICS **5**
+<!-- .slide: class="left-align" -->
 
 SVG graphics also need to take care of accessibilioty requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
+
+We'll **inspect the cat element** to examine how the **SVG DOM** (which is XML) works
 
 ---
 <style>
