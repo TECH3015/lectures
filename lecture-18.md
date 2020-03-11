@@ -710,6 +710,7 @@ These two developers have **worked extensively with SVG graphics**
 ===
 
 # **SVG** RESPONSIVE
+<!-- .slide: class="left-align" -->
 
 Sarah Soueidan also has a nice article on [Making SVG Responsive using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)…
 
