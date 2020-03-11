@@ -279,8 +279,8 @@ there's **NO need** for vendor prefixes
 
 - Create and **name** a `@keyframes` block for the animations
 - Add an `animation` rule with the **name** of your `@keyframes` to the element
-- `@keyframes` can run `from` and `to` or be **timed** e.g. at
- 0%, 25%, 50%, 75%, 100%
+- `@keyframes` can run `from` and `to` a set of styles  
+  or be **timed** (e.g. at 0%, 25%, 50%, 75%, 100%)
 - You can also trigger the animation on e.g.
  `:hover`, `:checked`, `:focus`, etc.
 
@@ -299,7 +299,7 @@ See [Animation](https://css-tricks.com/almanac/properties/a/animation/) (Chris C
   height: 90px;
   margin: 30px;
   transform: scale(1.25);
-  animation: 1.8s pulsate alternate infinite ease-in-out;
+  animation: pulsate 1.8s alternate infinite ease-in-out;
 }
 .heart:before,
 .heart:after { 
@@ -307,14 +307,14 @@ See [Animation](https://css-tricks.com/almanac/properties/a/animation/) (Chris C
 }
 ```
 
-animation: duration, name, direction, count, timing function
+animation: **name**, **duration**, **direction**, **count**, **timing function**
 
 ---
 
 # CSS **ANIMATION** **3**
 <!-- .slide: class="left-align" -->
 
-## THE **KEYFRAMES**
+## THE NAMED **KEYFRAMES**
 
 ```css
 @keyframes pulsate {
@@ -325,12 +325,6 @@ animation: duration, name, direction, count, timing function
 ```
 
 Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
-
-<!--
-  0% { transform: scale(1); }
-  50% { transform: scale(1.3); }
-  100% { transform: scale(1); }
--->
 
 ---
 
@@ -393,14 +387,14 @@ Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
 - **Tiny** file sizes, **massive** functionality, **programmable**
 - full **browser support** (see [caniuse SVG](https://caniuse.com/#search=svg))
 
-Instead of ~~pixels~~, SVGs are a **set of instructions** that **create a vector image** and take far **less memory**
+Instead of ~~pixels~~, SVGs are a **set of instructions** that **create a vector image** from **co-ordinates **and take far **less memory**
 
 SVG is ideal for **complex graphics** that **load quickly** (e.g. [maps](https://simplemaps.com/resources/svg-maps))
 
 ---
 
 # **SVG** GRAPHICS **2**
-<!-- .slide: class="left-align crammed" -->
+<!-- .slide: class="left-align crammed smalltext" -->
 
 The [W3C Recommendation, 2011](https://www.w3.org/TR/SVG11/)
 
@@ -412,7 +406,8 @@ Some of the drawing applications that can generate SVG:
 - [Sketch](https://www.sketchapp.com/) (OS X-only, inexpensive)
 - Adobe Illustrator (expensive)
 
-See: [SVG getting started (MDN)](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started)
+See: [SVG getting started (MDN)](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started)  
+…and [Cleaning up SVG files manually](https://commons.wikimedia.org/wiki/User:Quibik/Cleaning_up_SVG_files_manually)
 
 ---
 
@@ -594,6 +589,10 @@ Some tutorials and examples:
 - [SVG Tutorial (W3Schools)](https://www.w3schools.com/graphics/svg_intro.asp)
 - [SVG examples (W3Schools)](https://www.w3schools.com/graphics/svg_examples.asp)
 
+Clean up SVG files (applicaitions produce bloated/messy code):
+
+- [SVGito online cleaner](https://sketchmaster.com/svg-optimizer)
+
 ===
 
 <!-- SVG ANIMATION -->
@@ -676,6 +675,8 @@ The two "SVG Sarahs"
 
 - [Sarah Drasner](https://sarahdrasnerdesign.com/): book [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - [Sarah Soueidan](https://www.sarasoueidan.com/): [SVG articles](https://www.sarasoueidan.com/tags/svg/), [codePen](https://codepen.io/SaraSoueidan/)
+
+See [SVG can do that?! (talk, Sarah Drasner)](https://www.youtube.com/watch?v=4laPOtTRteI) ([Slides](https://slides.com/sdrasner/svg-can-do-that#/))
 
 These two developers have **worked extensively with SVG graphics**
 
