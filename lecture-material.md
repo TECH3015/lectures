@@ -4,6 +4,8 @@
 
 [X3D Version 4 Overview](https://www.web3d.org/x3d4)
 
+DEMO: show basic primitives
+
 ===
 
 # JS: THE CONSOLE
