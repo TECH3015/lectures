@@ -16,7 +16,7 @@ COVID-19 has meant **all teaching is now online**
 - **Visit** your **public_html folder** in a **browser** to be sure we can **see the web files**
 
 Please **attend online**, even briefly, if only to email later with **anything specific**  
-if you **really need to**—target oony **one or two issues** at a time
+if you **really need to**—target only **one or two issues** at a time
 
 ===
 
@@ -183,7 +183,7 @@ Apply styles to the **images inside the container** by using a class on the **co
 
 ```css
 /* DO THIS! */
-<section>
+<section class="gallery">
   <img alt="brief text" src="images/image1.png">
   <img alt="brief text" src="images/image2.png">
   <img alt="brief text" src="images/image3.png">
