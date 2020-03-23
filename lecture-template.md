@@ -1,6 +1,5 @@
 <!-- .slide: class="centre" -->
-<!-- .slide: class="centre" -->
-# TECH3015 Lecture 17
+# TECH3015 Lecture 00
 
 2019-2020
 
@@ -70,7 +69,5 @@ Description: [link to website](URL)
 ![title text](IMG_FOLDER/IMAGE_NAME)
 
 ===
-
----
 
 

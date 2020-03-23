@@ -49,12 +49,13 @@ February break (w/c 24)
 
 - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
 - [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18)
+- [Lecture 19: Assignment criteria recap, PWAs future of the web?](https://TECH3015.github.io/presents?lecture-19)
 
 <!--
 bad UI, PWAs, html templates
-- [Lecture 19: CSS filter (Fania https://codepen.io/fania/pen/xBEZBz)?](https://TECH3015.github.io/presents?lecture-19)
-- [Lecture 20: Web3D, JS console methods](https://TECH3015.github.io/presents?lecture-20)
-- [Lecture 21: Assignment criteria recap, PWAs future of the web?](https://TECH3015.github.io/presents?lecture-21)
+- [Lecture 20: Progressive Web Apps](https://TECH3015.github.io/presents?lecture-20)
+- [Lecture 21: Web3D, JS console methods, databases/pouch?](https://TECH3015.github.io/presents?lecture-21)
+- us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
 -->
  
 ---

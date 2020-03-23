@@ -1,3 +1,13 @@
+## DEMOS
+
+- CSS filter https://codepen.io/fania/pen/xBEZBz
+
+===
+
+## MOBILE APP ICONS
+
+- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
+
 ===
 
 # Web 3D
@@ -136,20 +146,9 @@ some style guides are extremely long and a little bit too wordy, so…
 
 [W3Schools has a good, brief style guide](https://www.w3schools.com/js/js_conventions.asp)
 
-===
-
-## BAD UI
-
-https://www.mockplus.com/blog/post/bad-ui-design-examples
-
-https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706
-
-===
-
 ## DEMOS
 
 - Dense grid https://codepen.io/faniae/pen/QWWoZem
-- CSS filter https://codepen.io/fania/pen/xBEZBz
 
 ===
 
@@ -168,10 +167,4 @@ http://shouldiuseacarousel.com/
 - progressive (PWA)
 
 ===
-
-## MOBILE APP ICONS
-<!-- .slide: class="crammed" -->
-
-- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
-
 
