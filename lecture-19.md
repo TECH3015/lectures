@@ -279,7 +279,7 @@ You could also use `nav` instead of `p`—this is [one case](https://stackoverfl
 
 **Design** and **Information Architecture 3**
 
-links to previous lectures on **IA** and **design** and:
+links to previous lectures on **IA** and **design**:
 
 - [Lecture 3: Information Architecture](https://tech3015.github.io/presents/?lecture-03#/10)
 - [lecture 4: the PARC design principles](https://tech3015.github.io/presents/?lecture-04#/6)
@@ -374,7 +374,7 @@ body { background: rgb(255, 200, 200); }
 ## MARKING CRITERIA: **TECH 05**
 <!-- .slide: class="left-align smalltext" -->
 
-**Technical Skills 03**
+**Technical Skills 04**
 
 More **usability/accessibility**:
 
