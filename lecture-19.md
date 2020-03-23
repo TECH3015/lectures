@@ -6,14 +6,17 @@
 ===
 
 # CORONA VIRUS
+<!-- .slide: class="left-align smalltext" -->
 
 COVID-19 has meant **all teaching is now online**
 
-- Fania will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)** during the **usual lab time** on Thursdays
-- Please **be patient with emails**, as we are likely to have **many queries** across modules!
-- **Visit your public_html folder in a browser** to be sure we can **see the web files**
+- Fania will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)**  
+  during the **usual lab time on Tuesdays at 4-6pm**
+- Please **be patient with emails**, we have **many queries** across modules!
+- **Visit** your **public_html folder** in a **browser** to be sure we can **see the web files**
 
-Please **attend online**, even if only to follow up with **anything specific**
+Please **attend online**, even briefly, if only to email later with **anything specific**  
+if you **really need to**—target oony **one or two issues** at a time
 
 ===
 
