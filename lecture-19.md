@@ -60,6 +60,8 @@ A **new deadline** allows for two extra weeks…
 **Assignment 2 NOW**  
 midday (12pm) Friday **17th April** 2020
 
+Also, please complete the [NSS Survey 2020](https://www.dmu.ac.uk/current-students/student-experience/lets-talk/nss.aspx)
+
 ---
 
 ## ASSIGNMENT 2
