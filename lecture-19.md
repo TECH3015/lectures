@@ -394,9 +394,10 @@ To **learn more about web accessibility** see the excellent [WebAIM](https://web
 ## DOCUMENTATION **01**
 <!-- .slide: class="left-align" -->
 
-40% of the coursework mark
+**40%** of the coursework mark
 
-1500-2000 words, references and appendices not included in word count
+**1500-2000 words**: *references* and *appendices*  
+are **not included** in **word count**
 
 - [Design Process](https://tech3015.github.io/lectures/coursework-02.html#design-process)
 - [Production](https://tech3015.github.io/lectures/coursework-02.html#production)
@@ -445,9 +446,9 @@ An individual component of your website could be a **slideshow**, **dropdown men
 ===
 
 ## **BAD** VS **GOOD** UI
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align crammed" -->
 
 finally, a couple of links with some **useful examples**:
 
-- [6 Bad UI Design Examples & Common Errors of UI Designers](https://www.mockplus.com/blog/post/bad-ui-design-examples)
-- [Bad Design vs. Good Design: 5 Examples We can Learn From](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706)
+- [6 Bad Design Examples & Common Errors](https://www.mockplus.com/blog/post/bad-ui-design-examples)
+- [Bad vs Good Design: 5 Examples We can Learn From](https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706)
