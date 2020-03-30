@@ -274,7 +274,7 @@ have code telling the device they’re **PROGRESSIVE**, so are “installed” w
 
 ## GOING **FURTHER**
 
-- use **HTTPS** and and **SSL certificate** ([LetsEncrypt](https://letsencrypt.org/) is free)
+- use **HTTPS** and **SSL certificate** ([LetsEncrypt](https://letsencrypt.org/) is free)
 - a [valid **manifest** file](https://manifest-validator.appspot.com/) (replaces `<meta>` tags) for offline use
 - server **config** code for the manifest (e.g. [Apache](https://github.com/h5bp/server-configs-apache/blob/master/src/media_types/media_types.conf))
 - [**service workers**](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers): cache assets, **offline data** and **push notifications**
