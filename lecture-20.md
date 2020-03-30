@@ -275,7 +275,7 @@ have code telling the device they’re **PROGRESSIVE**, so are “installed” w
 ## GOING **FURTHER**
 
 - use **HTTPS** and and **SSL certificate** ([LetsEncrypt](https://letsencrypt.org/) is free)
-- a [valid **manifest** file](https://manifest-validator.appspot.com/) (replaces `&lt;meta>` tags) for offline use
+- a [valid **manifest** file](https://manifest-validator.appspot.com/) (replaces `<meta>` tags) for offline use
 - server **config** code for the manifest (e.g. [Apache](https://github.com/h5bp/server-configs-apache/blob/master/src/media_types/media_types.conf))
 - [**service workers**](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers): cache assets, **offline data** and **push notifications**
 - read up on [IndexedDB](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa) and an [offline data comparison](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
@@ -306,7 +306,7 @@ Two hand-picked guides/tutorials
 ## INFORMATION ARCHITECTURE
 <!-- .slide: class="left-align" -->
 
-A great article and video, so you can **double-check** your site's **Information Arhitecture** (and look clever by using the information **in your report**!):
+A great article and video, so you can **double-check** your site's **Information Architecture** (and look clever by using the information **in your report**!):
 
 [An Excellent Beginner's Guide To Information Architecture](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
 
