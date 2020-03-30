@@ -82,7 +82,7 @@ There a few different parts to setting up a live site, and they **don't always p
 
 - access to a **web server** to host your **website files**
 - a good, memorable **domain name**
-- FTP software to **upload your files** to the server
+- [FTP software](https://cyberduck.io/) to **upload your files** to the server
 - a modest sum of **money to cover costs**
 - an optional **SSL certificate** (for some purposes)
 
@@ -164,6 +164,8 @@ You can also use **GIT** and **GitHub**
 - You can [point your domain name](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site) to GitHub pages
 
 GIT and GitHub **require more detail** than we can cover here!
+
+You also can **simply upload your site** to GitHub without GIT
 
 ===
 
