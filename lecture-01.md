@@ -83,6 +83,14 @@ Some topics on the menu:
 
 ===
 
+## How long does it take to learn…
+
+I often answer questions on web development on Quora, so here's one that might be helpful: [How much time does it takes to learn & master HTML + CSS + Javascript?](https://qr.ae/TUhnL4)
+
+===
+
 ## Questions?
 
-Please contact Thom Corah, module leader
+Please contact Thom Corah, module leader.
+
+If there's anything I can answer too, he'll contact me!
