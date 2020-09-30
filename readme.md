@@ -67,6 +67,6 @@ NOT COVERED: bad UI, PWAs, html templates, databases
 - [ ] move CTEC3905 styles here 
 - [ ] change TECH3015 slide bg colour
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
-- [x] complete the outline for lectures 17-21
+- [x] complete the outline for lectures 17-20
 - [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
 - [x] check through previous lectures after the recent stylesheet update
