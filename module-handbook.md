@@ -15,7 +15,7 @@ https://tech3015.github.io/lectures/module-handbook.md
 
 **Level:** 6
 
-**Session:** 2019/2020
+**Session:** 2020/2021
 
 <div style="page-break-after: always;"></div>
 
@@ -50,9 +50,6 @@ Thom Corah - Module Leader
 Location: GH6.62  
 Email: <tcorah@dmu.ac.uk>   
 Tel: 0116 207 8088  
-
-**Fania Raczinski**  
-Email: <fania.raczinski@dmu.ac.uk>
 
 **Dave Everitt** (lectures only)  
 Email: <deveritt@dmu.ac.uk>

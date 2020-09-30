@@ -12,7 +12,7 @@ date: 2019-10-22
 
 # TECH3015: Multimedia III
 
-**Session:** 2019/20
+**Session:** 2020/21
 
 ## Coursework 1 - Specification
 
