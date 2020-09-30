@@ -51,7 +51,7 @@ A **new deadline** allows for two extra weeks…
 <!-- .slide: class="left-align" -->
 
 **Assignment 2 was**  
-~midday (12pm) Friday 3rd April 2020~  
+~midday (12pm) TBC~  
 
 **Assignment 2 NOW**  
 midday (12pm) Friday **17th April** 2020

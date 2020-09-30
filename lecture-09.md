@@ -29,7 +29,7 @@ Email: deveritt@dmu.ac.uk
 midday (12pm) on Friday 13 December 2019
 
 - **Assignment 2 (60%):**  
-midday (12pm) Friday 3rd April 2020
+midday (12pm) TBC
 
 [Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
 (Assignment 2 criteria to follow)

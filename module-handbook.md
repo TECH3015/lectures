@@ -209,13 +209,13 @@ You will be assessed continuously through the module with formal feedback given 
 
 ### Coursework 1  
 
-**Date and time due: 12pm (midday) on Friday 13th December 2019**
+**Date and time due: 12pm (midday) on TBC**
 
 Worth **40%** of the module total, your first coursework will see you produce an individual piece of work. This will involve planning and designing a responsive website, this should include wireframe sketches, final designs including navigation, mood board, content inventory, testing from card-sorting in the labs and interaction design (what changes, how and why). You also need to explain how you will prepare media types and text content for web delivery.
 
 ### Coursework 2  
 
-**Date and time due: 12pm (midday) on Friday 3rd April 2020**
+**Date and time due: 12pm (midday) on TBC**
 
 Worth **60%** of the module total, this coursework will tackle HTML5, CSS3 and JavaScript ES6 to have you produce the website or web application you designed for coursework 1.
 

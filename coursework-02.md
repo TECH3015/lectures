@@ -35,9 +35,9 @@ This coursework constitutes **60% of the overall module mark**.
 | Key Dates                                                                           ||
 |:-----------------------------------------|----------------------------------------:|
 | This coursework is:                      | **Individual / ~~Group~~**              | 
-| Date set:                                | **6th January 2020**                    |
-| Date and time due:                       | **12pm (midday) Friday 3rd April 2020** |
-| Your marked coursework and feedback due: | **Thursday 7th May 2020**               |
+| Date set:                                | **TBC**                    |
+| Date and time due:                       | **12pm (midday) TBC** |
+| Your marked coursework and feedback due: | **TBC**               |
 
 If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.
 

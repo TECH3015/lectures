@@ -29,7 +29,7 @@ Email: deveritt@dmu.ac.uk
 midday (12pm) on Friday 13 December 2019
 
 - **Assignment 2 (60%):**  
-midday (12pm) Friday 3rd April 2020
+midday (12pm) TBC
 
 Full assignment criteria covered in later lectures
 
