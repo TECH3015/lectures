@@ -12,9 +12,6 @@ Location: GH6.62
 Email: tcorah@dmu.ac.uk  
 Tel: 0116 207 8088
 
-- **Fania Raczinski** (labs)  
-Email: fania.raczinski@dmu.ac.uk
-
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
