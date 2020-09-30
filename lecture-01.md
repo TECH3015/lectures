@@ -36,7 +36,7 @@ Questions for your tutor:
 
 ## Module overview
 
-- **term 1:** design, preparation and planning, recap code basics
+- **term 1:** design, preparation, planning, code basics
 
 - **term 2:** technical skills, building your project
 
@@ -67,12 +67,19 @@ What do you want to learn (term 1 and 2)?
 Some topics on the menu:
 
 - Information Architecture
-- design sketches and wireframes
+- design principles, sketches and wireframes
 - CSS flexbox and grid
-- media queries and Repsonsie Web Design (RWD)
+- media queries and Responsive Web Design (RWD)
 - CSS animation
-- JavaScript ES6 syntax
-- Progressive Web Apps (PWAs)
+- modern JavaScript (ES6) syntax
+- Progressive Web Apps (PWAs) for mobile
+
+===
+
+## Lectures and labs
+
+- the lectures are designed for you to go back to as references, there will be a full list online
+- some labs will have specific exercises, in others you will be focussing on planning creating your project, with guidance from your tutor
 
 ===
 
