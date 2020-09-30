@@ -8,7 +8,7 @@
 
 - **Thom Corah** (Module Leader)  
 Location: GH6.62  
-Email: tcorah@dmu.ac.uk  
+Email: [tcorah@dmu.ac.uk](mailto:tcorah@dmu.ac.uk)  
 Tel: 0116 207 8088
 
 - **Dave Everitt** (lectures only)  
@@ -18,19 +18,19 @@ Email: deveritt@dmu.ac.uk
 
 ## Handbook
 
-- [link on BlackBoard](https://tech3015.github.io/lectures/module-handbook.html)
-- **NOTE:** some details still being updated
-- see reading/resources list
+- [Online module handbook](https://tech3015.github.io/lectures/module-handbook.html)
+- **NOTE:** some details may still be updated
+- for now, please see **reading/resources list**
 
 ===
 
 ## Where we are
 
-Questions:
+Questions for your tutor:
 
 - what you recall from year 2?
-- what could be changed?
-- your expectations?
+- what would you like to learn this year?
+- what are your expectations?
 
 ===
 
@@ -44,7 +44,7 @@ Questions:
 
 ## Module structure
 
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources
+- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, see reading list and resources
 - **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
 
 ===
@@ -52,10 +52,10 @@ Questions:
 ## Assignment deadlines:
 
 - **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
+midday (12pm) TBC
 
 - **Assignment 2 (60%):**  
-midday (12pm) Friday 3rd April 2020
+midday (12pm) TBC
 
 Full assignment criteria covered in later lectures
 
@@ -64,7 +64,7 @@ Full assignment criteria covered in later lectures
 ## What you want
 
 What do you want to learn (term 1 and 2)?  
-Some topics:
+Some topics on the menu:
 
 - Information Architecture
 - design sketches and wireframes
@@ -78,5 +78,4 @@ Some topics:
 
 ## Questions?
 
-Ask now, no crowding around  
-the podium after, please!
+Please contact Thom Corah, module leader
