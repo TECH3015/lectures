@@ -29,9 +29,9 @@ Email: deveritt@dmu.ac.uk
 
 Questions for your tutor:
 
-- what you recall from year 2?
-- what would you like to learn this year?
-- what are your expectations?
+- what you **recall** from year 2?
+- what would you like to **achieve** this year?
+- what are your **expectations**?
 
 ===
 
