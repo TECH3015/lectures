@@ -33,11 +33,11 @@ The learning outcomes that are assessed by this coursework are:
 	
 This coursework constitutes **40% of the overall module mark**.
 
-|                                     |                                             |
-|:------------------------------------|--------------------------------------------:|
-| This coursework is:                 | **Individual / ~~Group~~**                  | 
+|                                     |                                           |
+|:------------------------------------|------------------------------------------:|
+| This coursework is:                 | **Individual / ~~Group~~**                | 
 | Date set:                           | **TBC**                     |
-| Date and time due:                  | **12pm (midday) TBC** |
+| Date and time due:                  | **12pm (midday) on Tuesday 4th May 2021** |
 | Marked coursework and feedback due: | **TBC**                |
 
 If for any reason this is not forthcoming by the due date your module leader will let you know why and when it can be expected. The Associate Professor Student Experience (<a href='mailto:CEMstudentexperience@dmu.ac.uk'>CEMstudentexperience@dmu.ac.uk</a>) should be informed of any issues relating to the return of marked coursework and feedback.

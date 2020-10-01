@@ -43,23 +43,12 @@ For Assignment 2:
 - **Website = 60%**
 - **Documentation = 40%**
 
-A **new deadline** allows for two extra weeks…
-
----
-
-## NEW ASSIGNMENT DEADLINE
-<!-- .slide: class="left-align" -->
-
-**Assignment 2 was**  
-~midday (12pm) TBC~  
-
-**Assignment 2 NOW**  
-midday (12pm) Friday **17th April** 2020
-
 ---
 
 ## ASSIGNMENT 2
 <!-- .slide: class="left-align" -->
+
+**Deadline:** midday (12pm) on Tuesday 4th May 2021
 
 You need to hand in:
 

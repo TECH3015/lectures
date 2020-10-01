@@ -26,7 +26,7 @@ Email: deveritt@dmu.ac.uk
 ## ASSIGNMENT DEADLINES
 
 - **Assignment 2 (60%):**  
-midday (12pm) TBC
+midday (12pm) on Tuesday 4th May 2021
 
 - [Coursework 2 specification](https://tech3015.github.io/lectures/coursework-02.html)
 - [Marking criteria](https://tech3015.github.io/lectures/coursework-02.html#marking-criteria)

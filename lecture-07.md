@@ -32,7 +32,7 @@ midday (12pm) on Friday 13 December 2019
 [Coursework 1 full marking criteria](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
 
 - **Assignment 2 (60%):**  
-midday (12pm) TBC  
+midday (12pm) on Tuesday 4th May 2021  
 (Assignment 2 criteria to follow)
 
 ===

@@ -43,7 +43,7 @@ midday (12pm) on Friday 13 December 2019
 Module Handbook has [general assessment info](https://tech3015.github.io/lectures/module-handbook.html#assessment)
 
 - **Assignment 2 (60%):**  
-midday (12pm) TBC  
+midday (12pm) on Tuesday 4th May 2021  
 Full assignment 2 criteria covered in later lectures
 
 ===
