@@ -18,9 +18,10 @@ Email: deveritt@dmu.ac.uk
 
 ## Handbook
 
-- [Online module handbook](https://tech3015.github.io/lectures/module-handbook.html)
+<!-- https://tech3015.github.io/lectures/module-handbook.html -->
+- [Online module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md)
 - **NOTE:** some details may still be updated
-- for now, please see **reading/resources list**
+- also see the handbook **reading/resources lists**
 
 ===
 
@@ -66,31 +67,31 @@ Full assignment criteria covered in later lectures
 What do you want to learn (term 1 and 2)?  
 Some topics on the menu:
 
-- Information Architecture
-- design principles, sketches and wireframes
-- CSS flexbox and grid
-- media queries and Responsive Web Design (RWD)
-- CSS animation
-- modern JavaScript (ES6) syntax
-- Progressive Web Apps (PWAs) for mobile
+- **Information Architecture**
+- **design principles**, sketches and wireframes
+- CSS **flexbox** and **animation**
+- media queries and **Responsive Web Design** (RWD)
+- local **data storage**
+- **mobile-first** friendliness and **Progressive Web Apps**
+- modern **JavaScript** (ES6) syntax
 
 ===
 
 ## Lectures and labs
 
-- the lectures are designed for you to go back to as references, there will be a full list online
-- some labs will have specific exercises, in others you will be focussing on planning creating your project, with guidance from your tutor
+- the lectures are designed for you to **go back to as references**, there will be a full list online
+- some labs will have **specific exercises**, in others you will be focussing on **planning and creating your project**, with guidance from your tutor
 
 ===
 
 ## How long does it take to learn…
 
-I often answer questions on web development on Quora, so here's one that might be helpful: [How much time does it takes to learn & master HTML + CSS + Javascript?](https://qr.ae/TUhnL4)
+I often answer **questions on web development** on Quora, so here's one that might be helpful: [How much time does it takes to learn & master HTML + CSS + Javascript?](https://qr.ae/TUhnL4)
 
 ===
 
 ## Questions?
 
-Please contact Thom Corah, module leader.
+Please contact **Thom Corah, module leader**
 
 If there's anything I can answer too, he'll contact me!
