@@ -14,54 +14,34 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
-===
-
-## Module structure
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
-===
-
-## Assignment deadlines:
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-Full assignment criteria covered in later lectures
-
-===
-
-## Handbook: update coming!
-
 - [Module handbook](https://tech3015.github.io/lectures/module-handbook.html)
-- see reading/resources list
 
 ===
 
 ## Where we are
 
-- planning your site
-- web programming refreshers
+- **planning** your site
+- **refreshers** for web code 
+
+The **links** within the lecture slides are **important**!
 
 ===
 
 ## HTML5 structure
 
+**Every site** on the web has this **basic structure**!
+
 ```html
 <!doctype>
 <html>
   <head>
-    <title>my page name</title>
-    <!-- get CSS in head section before page load: -->
+    <title>page name here</title>
+    <!-- link to CSS in head section before page load: -->
     <link rel="stylesheet" href="mystyles.css">
   </head>
   <body>
-    <!-- everything you see in in the body tag -->
-    <!-- get JavaScript here after page load: -->
+    <!-- everything you see is inside the body tag -->
+    <!-- add link to JavaScript after page load: -->
     <script src="js/myscripts.js"></script>
   </body>
 </html>
@@ -77,17 +57,15 @@ gather all the **content** for your site:
 - movies
 - text (see [Writing for the Web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html))
 - audio
-- choosing data from APIs
+- possible data from APIs
 
 ===
 
 ## Planning your site 02
 
-arrange your content into *logical groups*
+Arrange your content into *logical groups*
 
-**THINK:** will a group be **limited** or get **more content**?
-
-this is the basis for your site structure, **navigation** and **menu**
+**THINK:** will a section be **limited** or **grow in content**?
 
 Resources from [usability.gov](https://www.usability.gov/):
 
@@ -99,18 +77,19 @@ Resources from [usability.gov](https://www.usability.gov/):
 
 ## Planning your site 03
 
-get input from others with an online tool:
+Collecting and sorting your content will provide the **outline** for your site structure and **navigation**
 
-[Online card sorting software](https://www.optimalworkshop.com/optimalsort): [free plan](https://www.optimalworkshop.com/register)
+[Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html "a good article introducing card sorting from usability.gov") is a method devised to help you arrange your website content
 
-- [Card Sorting (usability.gov)](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+It works best when **other people** are invited—you can use [online card sorting software](https://www.optimalworkshop.com/optimalsort) ([free plan here](https://www.optimalworkshop.com/register))
 
 ===
 
 ## Planning your site 04
 
-at the next stage, you will use **HTML5 tags** to **mark up** the basic areas for:
+At the next stage, you will use **[HTML5 semantic tags](https://www.w3schools.com/html/html5_semantic_elements.asp)** to **mark up** the basic areas for:
 
+- each of your site pages **main areas**
 - each **kind** of page you have or...
 - for one long **scrolling** page
 
@@ -118,34 +97,27 @@ at the next stage, you will use **HTML5 tags** to **mark up** the basic areas fo
 
 ## Planning your site 05
 
-inside the `body` tag, use **HTML5 semantic tags** ([read more at W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)) for **overall structure**
+inside the `body` tag, **HTML5 semantic tags** provide the overall **structure**
 
 - `header` (optional but advised)
 - `nav`
 - `main`
 - `footer` (optional)
 
-*avoid div tags* and don't make up tags!
+**Avoid too many div tags** and **don't** make up tags e.g. ~~heading~~!
 
 HTML5 semantic tags for **content** come later
 
 ===
 
-## HTML5 semantic tags
+## CSS: breakpoints 01
 
-questions?
-
-===
-
-## RWD: breakpoints 01
-
-CSS **media queries** can respond to many factors:
+CSS **media queries** can *respond* to many factors:
 
 - print
 - width/height
 - orientation
 - speech
-- hover
 - light-level
 - many more...
 
@@ -153,7 +125,7 @@ Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/
 
 ===
 
-## RWD: breakpoints 02
+## CSS: breakpoints 02
 
 **However** we only need `screen` and `min-width` e.g.
 
@@ -165,17 +137,19 @@ Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/
 }
 ```
 
-Some [examples of RWD (mediaqueri.es)](https://mediaqueri.es/)
+This is the basis of **Responsive Web Design**
+
+See some [examples of RWD (mediaqueri.es)](https://mediaqueri.es/)
 
 ===
 
-## RWD: breakpoints 03
+## CSS: breakpoints 03
 
-use **one** CSS style sheet for your whole site!
+use **one** CSS style sheet for your **whole site**!
 
-do **general** and **mobile** styles first, at the top
+**general** and **mobile** styles come first, at the top
 
-**above/before any media queries**
+**above** and **before** any **media queries**
 
 ===
 
@@ -201,27 +175,8 @@ a:link, a:visited { color: #003; }
 
 ===
 
-## Media queries and breakpoints
+## Questions
 
-questions?
+Please contact **Thom Corah, module leader**
 
-===
-
-## What you want next
-
-What do you want to cover next week? E.g.
-
-- design sketches and wireframes
-- CSS flexbox and grid
-- more on media queries/Responsive Web Design
-- CSS animation
-- JavaScript ES6 syntax
-- Progressive Web Apps (PWAs)
-- SVGs
-
-===
-
-## Questions?
-
-Ask now, no crowding around  
-the podium after, please!
+If there's anything I can answer too, he'll contact me!
