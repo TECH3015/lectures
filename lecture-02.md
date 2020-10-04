@@ -97,14 +97,14 @@ At the next stage, you will use **[HTML5 semantic tags](https://www.w3schools.co
 
 ## Planning your site 05
 
-inside the `body` tag, **HTML5 semantic tags** provide the overall **structure**
+First, **HTML5 semantic tags** give **structure**:
 
 - `header` (optional but advised)
 - `nav`
 - `main`
 - `footer` (optional)
 
-**Avoid too many div tags** and **don't** make up tags e.g. ~~heading~~!
+**Avoid div tags** and **don't** invent tags e.g. &lt;~~heading~~&gt;!
 
 HTML5 semantic tags for **content** come later
 
@@ -145,33 +145,41 @@ See some [examples of RWD (mediaqueri.es)](https://mediaqueri.es/)
 
 ## CSS: breakpoints 03
 
-use **one** CSS style sheet for your **whole site**!
+Use **one** CSS style sheet for your **whole site**!
 
-**general** and **mobile** styles come first, at the top
-
+Put **general** and **mobile** styles first, at the top,  
 **above** and **before** any **media queries**
 
 ===
 
 ## RWD: breakpoints 04
 
-your CSS file should be arranged like this e.g.:
+**Arrange your CSS file** like this example:
 
 ```css
-/* all general/mobile styles first: */
+/* mobile and general styles come first: */
+main { background: rgb(200,200,160); }
+p { color: #226; }
+/* more styles... */
 
-body { background: rgb(220,230,210); }
-a:link, a:visited { color: #003; }
-/* etc... */
-
-/* first breakpoint above mobile: */
-
+/* above mobile styles go inside 'breakpoints': */
 @media only screen and (min-width: 600px) {
-  a:hover { color: #225; }
-  /* override mobile styles here...
-  and set styles for larger widths */
-}
+  /* override mobile styles and set
+  styles for wider screens e.g. */
+  main { background: rgb(240,240,200); }
+  p { color: #003; }
+} /* DO NOT forget the closing bracket!! */
 ```
+
+===
+
+## SUMMARY
+
+- some code **refreshers**
+- choosing your website **subject**
+- some tools to help **plan your site**
+
+If you **change the idea for your website** later, it's okay although you will need to justify this with your tutor.
 
 ===
 
