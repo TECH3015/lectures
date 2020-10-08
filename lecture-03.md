@@ -23,28 +23,6 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## Assignment deadlines:
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-Full assignment criteria covered in later lectures
-
-===
-
-## Where we are
-
-- web programming refreshers
-- starting last week, planning your site:
-  - gather all the site **content**
-  - arrange your content into *logical groups*
-  - get feedback from others ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-
-===
-
 <!-- ACCESSIBILITY: SHARED CTEC3905.04/MEDS2007.02 -->
 
 ## Accessibility 01
@@ -235,7 +213,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ---
 
 <!-- .slide: class="crammed" -->
-## Building around users
+## Building around users…
 
 > …new residents need **new features**. The architect would design these, augmenting the original design. But the **current residents** would **continue using the house** while it was extended, all the time complaining about the building work.
 >
@@ -244,7 +222,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ---
 
 <!-- .slide: class="crammed" -->
-## Plan from the start
+## …plan from the start
 
 > The key… is **planning for all this from the start**. If thean architect started out by building a huge, complex house, it would be **overkill**. By the time it was ready, the residents **would have gone elsewhere** to live in a smaller house built in a fraction of the time.
 >
@@ -255,19 +233,13 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 ## IA 09
 <!-- .slide: class="crammed" -->
 
-Minimize effort
+### Minimize effort
 
 > You're **not going to get everything right first time**. In the [scaling](https://www.nngroup.com/articles/scaling-user-interfaces/ "Scaling User Interfaces: An Information-Processing Approach to Multi-Device Design") of a typical website, **every aspect and feature** is probably going to be **revisited and [refactored](http://www.refactoring.com/ "a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior")**.
 > 
 > That's fine—the task of an application architect is to **minimize the time it takes to [refactor](https://sourcemaking.com/refactoring "A big site about refactoring") each component**, through **careful initial and ongoing design**.
 
 <!-- INFORMATION ARCHITECTURE END -->
-
-===
-
-## INFORMATION ARCHITECTURE
-
-questions?
 
 ===
 
@@ -334,28 +306,8 @@ Useful wireframe references - view the top one first:
 
 ===
 
-## Wireframes
+## Questions
 
-questions?
+Please contact **Thom Corah, module leader**
 
-===
-
-## What you want next
-
-What do you want to cover next week? E.g.
-
-- assignment 1 marking criteria
-- CSS flexbox
-- CSS grid layout
-- more on media queries/Responsive Web Design
-- CSS animation
-- JavaScript ES6 syntax
-- Progressive Web Apps (PWAs)
-- SVGs
-
-===
-
-## Final Questions?
-
-No crowding around the  
-podium after, please!
+If there's anything I can answer too, he'll contact me!
