@@ -72,7 +72,7 @@ Resources and research
 - [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see rules [1–5](https://www.w3.org/TR/using-aria/#rule1) rules!
 - [How to Use ARIA Effectively with HTML5](https://www.sitepoint.com/how-to-use-aria-effectively-with-html5/)
 
----
+===
 
 <!-- INFORMATION ARCHITECTURE: SHARED CTEC3905.04/MEDS2007.02 -->
 
@@ -81,7 +81,7 @@ Resources and research
 > If you’ve ever tried to use something and thought, “where am I supposed to go next?” or “this doesn’t make any sense,” you are encountering an issue with an information architecture.  
 —[What is Information Architecture?](http://www.iainstitute.org/what-is-ia)
 
-===
+---
 
 ## IA: 02
 <!-- .slide: class="crammed" -->

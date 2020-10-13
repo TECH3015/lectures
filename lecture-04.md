@@ -14,6 +14,8 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
+===
+
 ## Assignment 1: 01
 
 What you need to hand in:
@@ -35,7 +37,7 @@ Also:
 * content inventory
 * user stories / user profiles
 * moodboard, colour theme, font choices, etc.
-* consistent formatted references
+* consistently formatted references
 
 ---
 
@@ -65,7 +67,7 @@ Four basic principles:
 
 (The reverse of ‘**CRAP**’)
 
-===
+---
 
 ## DESIGN: **02**
 <!-- .slide: class="crammed" -->
