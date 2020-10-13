@@ -16,14 +16,7 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## Module structure
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, mention reading list and resources, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
-===
-
-<!-- ACCESSIBILITY: SHARED CTEC3905.04/MEDS2007.02 -->
+<!-- ACCESSIBILITY 13oct2020: SHARED CTEC3905.04/MEDS2007.02-->
 
 ## Accessibility 01
 
@@ -126,7 +119,7 @@ Information Architecture has origins in **library science**
 
 So it's a kind of cognitive and visual **data structure**
 
-…now pick a number from one to 10…
+…now **pick a number** between **one** and **10**…
 
 ===
 
@@ -243,20 +236,9 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 
 ===
 
-<!-- WIREFRAMES: SHARED CTEC3905.04/MEDS2007.02 -->
+<!-- WIREFRAMES 13oct2020: SHARED CTEC3905.04/MEDS2007.02 -->
 
 ## Wireframes 01
-
-Content Preparation
-
-- assemble raw **content** in a separate folder
-- store written content in **plain text files**
-- keep **unsized images** outside your web folder
-- **map your content** onto your wireframes
-
-===
-
-## Wireframes 02
 
 Mobile First Design
 
@@ -264,6 +246,17 @@ Mobile First Design
 - let your content form the **menu structure**
 - how will **users navigate** through your site?
 - **think visually** before diving into code
+
+===
+
+## Wireframes 02
+
+Content Preparation
+
+- assemble raw **content** in a separate folder
+- store written content in **plain text files**
+- keep **unsized images** outside your web folder
+- **map your content** onto your wireframes
 
 ===
 
