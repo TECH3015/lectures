@@ -14,26 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
-(Assignment 2 criteria to follow)
-
 ===
 
 <style>
@@ -332,16 +312,21 @@ The HTML needs a **selector** e.g. `class="my-boxes"` for the CSS to **identify 
 
 ---
 
-
 [![flexbox cheat sheet](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/flexbox-cheat.png)](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
 ===
 
 ## DEMO
 
-Now for a demo…
-
-if you're **not here now** see the Panopto recording!
+Now for a demo… revisit this anytime from the Panopto recording
 
 - [see the demo code](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu)
 - [see the demo in a browser](https://front-end-materials.github.io/menus/js-mobile-menu/)
+
+===
+
+## Questions
+
+Please contact **Thom Corah, module leader**
+
+If there's anything I can answer too, he'll contact me!

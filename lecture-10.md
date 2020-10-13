@@ -14,26 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
-(Assignment 2 criteria to follow)
-
 ===
 
 ## ASSIGNMENT 1 **01**
@@ -105,7 +85,7 @@ See the [full Marking Criteria](https://tech3015.github.io/lectures/coursework-0
 <!-- HTML5 REVISITED -->
 <!-- in: https://github.com/CTEC3905/10-lecture -->
 
-## HTML5 SEMANTIC STRUCTURE **01**
+## SEMANTIC STRUCTURE **01**
 
 - **header, footer**: optional within a **page or section**
 - use footer/header for **complex content** about the containing element e.g. *author*, *copyright*, links to *terms of use*, *contact* info.
@@ -114,7 +94,7 @@ See the [full Marking Criteria](https://tech3015.github.io/lectures/coursework-0
 
 ---
 
-## HTML5 SEMANTIC STRUCTURE **02**
+## SEMANTIC STRUCTURE **02**
 
 Important, because **good semantic structure** addresses:
 
@@ -125,7 +105,7 @@ Important, because **good semantic structure** addresses:
 
 ---
 
-## HTML5 SEMANTIC STRUCTURE **03**
+## SEMANTIC STRUCTURE **03**
 
 the distinction between `figure` and `aside`
 
@@ -138,7 +118,7 @@ the distinction between `figure` and `aside`
 
 ---
 
-## HTML5 SEMANTIC STRUCTURE **04**
+## SEMANTIC STRUCTURE **04**
 
 HTML5 tags for **AUDIO & VIDEO**:
 
@@ -152,7 +132,7 @@ Really want to push things? [Learning How to Capture and Record Audio in HTML5](
 
 ---
 
-## HTML5 SEMANTIC STRUCTURE **05**
+## SEMANTIC STRUCTURE **05**
 
 resources
 
@@ -166,7 +146,7 @@ resources
 <!-- CSS TIPS/REVISITED -->
 <!-- https://ctec3905.github.io/10-lecture/#/6 -->
 
-## QUICK CSS TIPS **01**
+## CSS REVISITED **01**
 
 - **classes are reusable** in an HTML file, **IDs are unique**!
   
@@ -261,3 +241,11 @@ if you're **not here now** watch the [Panopto recording](https://dmureplay.cloud
 - [demo: responsive layout (code)](https://github.com/front-end-materials/page-layouts/tree/master/responsive-page-outline)
 - [demo: (browser, use Chrome mobile view)](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
 - last week's demo: simple mobile menu [(code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu), [(browser)](https://front-end-materials.github.io/menus/js-mobile-menu/)
+
+===
+
+## Questions
+
+Please contact **Thom Corah, module leader**
+
+If there's anything I can answer too, he'll contact me!

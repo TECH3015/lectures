@@ -304,16 +304,8 @@ Google's [Is your web page mobile-friendly?](https://search.google.com/test/mobi
 
 ===
 
-## ANY QUESTIONS?
+## Questions
 
-Any questions about **mobile navigation**?
+Please contact **Thom Corah, module leader**
 
-===
-
-## WHAT YOU WANT NEXT
-
-What do you want to cover next week?
-
-- typography and readability!
-- more on design and UX?
-- a gentle reminder of code?
+If there's anything I can answer too, he'll contact me!

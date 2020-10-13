@@ -334,15 +334,8 @@ Left is *past*, right is *future*:
 
 ===
 
-## DARK UI ??
+## Questions
 
-Any questions about **Dark UI Patterns**?
+Please contact **Thom Corah, module leader**
 
-===
-
-## WHAT'S NEXT
-
-- **laying out** your HTML pages
-- with CSS and HTML **examples**
-
-Anything else you want?
+If there's anything I can answer too, he'll contact me!

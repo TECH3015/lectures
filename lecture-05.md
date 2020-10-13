@@ -16,38 +16,6 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
-===
-
-## MODULE HANDOOK
-
-Updated and revised [Module Handbook now online](https://tech3015.github.io/lectures/module-handbook.html)
-
-No big changes, just cleaner, simpler and (hopefully) easier to understand
-
-The [Assignment 1 Specification](https://tech3015.github.io/lectures/coursework-01.html) is also online
-
-Links to these are also on Blackboard
-
-===
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019  
-[Coursework 1 Specification](https://tech3015.github.io/lectures/coursework-01.html) available online  
-Module Handbook has [general assessment info](https://tech3015.github.io/lectures/module-handbook.html#assessment)
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021  
-Full assignment 2 criteria covered in later lectures
-
-===
-
 ## WHERE WE ARE
 
 planning and designing your site:
@@ -56,7 +24,7 @@ planning and designing your site:
   - revise [accessibility](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/5)
   - draw up your [wireframes](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/21)
   - mock up your [designs](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-04#/6)
-  - get some feedback!
+  - get some **feedback**!
 
 ===
 
@@ -191,27 +159,8 @@ Download PDFs of these three style guides:
 
 ===
 
-## QUESTIONS
+## Questions
 
-Any questions about:
+Please contact **Thom Corah, module leader**
 
-- style guides
-- design For the web
-
-===
-
-## WHAT YOU WANT NEXT
-
-Examples for next week:
-
-- more design resources?
-- typography for the web?
-- more code examples?
-- assignment 2 specification?
-
-===
-
-## FINAL QUESTIONS?
-
-No crowding around the  
-podium after, please!
+If there's anything I can answer too, he'll contact me!

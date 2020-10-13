@@ -14,38 +14,11 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-- [Coursework 2 specification](https://tech3015.github.io/lectures/coursework-02.html)
-- [Marking criteria](https://tech3015.github.io/lectures/coursework-02.html#marking-criteria)
-
 ===
-
-## WHERE WE ARE
-
-- progress with making your site:
-  - mark up the basic structure in HTML5
-  - set up your main CSS styles
-  - think about interaction
-- use the recommended online resources
-
----
 
 ## ONLINE RESOURCES
 
-**Codecademy** has the following free courses:
+**Codecademy** has the following free courses (also listed in the [module handbook](#)):
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -126,3 +99,10 @@ WEBSITE: 60% of the coursework mark
 [Image Modals](https://codepen.io/faniae/pen/EGazKQ)
 [Image Modals with Captions](https://codepen.io/faniae/pen/GRgGVwK)
 
+===
+
+## Questions
+
+Please contact **Thom Corah, module leader**
+
+If there's anything I can answer too, he'll contact me!

@@ -14,26 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 1](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
-(Assignment 2 criteria to follow)
-
 ===
 
 ## TOPICS TODAY
@@ -397,16 +377,11 @@ div svg {
 
 ===
 
-## Next Week
+## Questions
 
-- page layouts
-- `display:flex` (a.k.a. flexbox)
-- `display:grid` (a.k.a. CSS grids)
-- **???**
+Please contact **Thom Corah, module leader**
 
-===
-
-## QUESTIONS?
+If there's anything I can answer too, he'll contact me!
 
 <!-- 
 https://internetingishard.com/html-and-css/

@@ -25,7 +25,7 @@ Email: deveritt@dmu.ac.uk
 Tim Berners-Lee (1997)  
 [Web Accessibility Initiative announcement](https://www.w3.org/Press/IPO-announce)
 
-===
+---
 
 ## Accessibility 02
 
@@ -35,7 +35,7 @@ Tim Berners-Lee (1997)
 
 Mischa Andrews: [The inaccessible web](https://uxdesign.cc/the-inaccessible-web-how-we-got-into-this-mess-7cd3460b8e32)  
 
-===
+---
 
 ## Accessibility 03
 <!-- .slide: class="crammed" -->
@@ -48,7 +48,7 @@ W3C (2005) [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/acce
 
 **Disability Equality Act (2010)**—you can be [sued for discrimination](http://www.seqlegal.com/blog/website-accessibility-and-equality-act-2010) if your website fails [accessibility standards](https://www.abilitynet.org.uk/expert-resources/web-accessibility-resources)
 
-===
+---
 
 ## Accessibility 04
 
@@ -61,7 +61,7 @@ How you can address **web access**:
 - **valid HTML5** code is important
 - use **[form field types](https://www.w3schools.com/html/html_form_input_types.asp)** and the `label` tag
 
-===
+---
 
 ## Accessibility 05
 
@@ -72,7 +72,7 @@ Resources and research
 - [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)—see rules [1–5](https://www.w3.org/TR/using-aria/#rule1) rules!
 - [How to Use ARIA Effectively with HTML5](https://www.sitepoint.com/how-to-use-aria-effectively-with-html5/)
 
-===
+---
 
 <!-- INFORMATION ARCHITECTURE: SHARED CTEC3905.04/MEDS2007.02 -->
 
@@ -95,7 +95,7 @@ Entire university courses cover IA—[search "library science and information ar
 
 More information: [Presenting Information Architecture](https://webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
-===
+---
 
 <h2>IA: 03 - How did <strong>IA</strong> begin?</h2>
 
@@ -108,7 +108,7 @@ More information: [Presenting Information Architecture](https://webstyleguide.co
 <br>
 Known as <em>The Polar Bear Book</em> it is considered to be <strong>the</strong> essential text on the subject.</p>
 
-===
+---
 
 ## IA: 04
 
@@ -121,7 +121,7 @@ So it's a kind of cognitive and visual **data structure**
 
 …now **pick a number** between **one** and **10**…
 
-===
+---
 
 ## IA: 05
 <!-- .slide: class="crammed" -->
@@ -134,7 +134,7 @@ Information Architecture uses **Cognitive Psychology**
 
 [Complete Beginners Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/ "A summary of the above findings")
 
-===
+---
 
 <style>
 	.ia-diagram {
@@ -178,7 +178,7 @@ Information Architecture uses **Cognitive Psychology**
 <!-- .slide class="crammed nopadding" -->
 ![Classic Informaiton Architecture infographic by Louis Rosenfeld](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/rosenfeld-users-content-context.png)<!-- .element: class="nomargin" -->
 
-===
+---
 
 ## IA: 07
 
@@ -194,7 +194,7 @@ the information backbone of a website:
 [The Difference Between IA and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)  
 —Jennifer Cardello
 
-===
+---
 
 ## IA: 08
 <!-- .slide: class="crammed" -->
@@ -221,7 +221,7 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 >
 > If extending our house (website) takes too long, **people might move elsewhere**. We need start at the right scale and design things to be **extended as easily as possible**.
 
-===
+---
 
 ## IA 09
 <!-- .slide: class="crammed" -->
@@ -247,7 +247,7 @@ Mobile First Design
 - how will **users navigate** through your site?
 - **think visually** before diving into code
 
-===
+---
 
 ## Wireframes 02
 
@@ -258,7 +258,7 @@ Content Preparation
 - keep **unsized images** outside your web folder
 - **map your content** onto your wireframes
 
-===
+---
 
 <!-- .slide class="big-pic crammed" -->
 
@@ -282,7 +282,7 @@ To complete **visual mock-ups**…
 
 ![detailed digital mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/mobile-wireframe-userflow-02.jpg)
 
-===
+---
 
 ## Wireframes 03
 <!-- .slide: class="crammed" -->
