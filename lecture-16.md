@@ -16,24 +16,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-<!-- .slide: class="left-align" -->
-
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-<!-- .slide: class="left-align" -->
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
-
 ===
 
 ## WE ARE STILL HERE
@@ -348,12 +330,8 @@ See: [Using CORS](https://www.html5rocks.com/en/tutorials/cors/),
 
 ===
 
-## POSSIBLE NEXT TOPICS
-<!-- .slide: class="left-align" -->
+## Questions
 
-- **bad UI** design examples
-- **typography** for the Web
-- getting your **site live**
-- **CSS grid** layout (possibly)
+Please contact **Thom Corah, module leader**
 
-Anything else you want?
+If there's anything I can answer too, he'll contact me!

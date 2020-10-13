@@ -16,23 +16,19 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
+===
 
-## MODULE STRUCTURE
+## HANDY LINKS
 <!-- .slide: class="left-align" -->
 
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** [HTML5](https://TECH3015.github.io/presents?lecture-02), [CSS3](https://TECH3015.github.io/presents?lecture-09), [JavaScript ES6](https:/TECH3015.github.io/presents?lecture-13), [APIs](https://TECH3015.github.io/presents?lecture-16), animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/), Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-<!-- .slide: class="left-align" -->
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
+- [HTML5](https://TECH3015.github.io/presents?lecture-02)
+- [CSS3](https://TECH3015.github.io/presents?lecture-09)
+- [JavaScript ES6](https:/TECH3015.github.io/presents?lecture-13)
+- [APIs](https://TECH3015.github.io/presents?lecture-16)
+- animation, 
+- [HTML validation](https://validator.w3.org/) and accessibility testing
+- [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/), 
+- Progressive Web Apps
 
 <!-- WEB ANIMATION INTRO -->
 

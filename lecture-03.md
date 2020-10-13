@@ -232,6 +232,15 @@ What is Architecture? (Cal Henderson (2006) [Building Scalable Web Sites](http:/
 > 
 > That's fine—the task of an application architect is to **minimize the time it takes to [refactor](https://sourcemaking.com/refactoring "A big site about refactoring") each component**, through **careful initial and ongoing design**.
 
+---
+
+## IA 10
+<!-- .slide: class="left-align" -->
+
+Good article/video—you can **double-check** your site's **Information Architecture** (and look clever by using this information **in your report**!):
+
+[An Excellent Beginner's Guide To Information Architecture](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
+
 <!-- INFORMATION ARCHITECTURE END -->
 
 ===

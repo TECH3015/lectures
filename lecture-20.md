@@ -30,35 +30,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-<!-- .slide: class="left-align" -->
-
-- **Term 1, Assignment 1 (40%):** DONE!
-- **Term 2, Assignment 2 (60%):** your website here!
-
-For Assignment 2:
-
-- **Website = 60%**
-- **Documentation = 40%**
-
----
-
-## ASSIGNMENT 2
-<!-- .slide: class="left-align" -->
-
-**Deadline:** midday (12pm) on Tuesday 4th May 2021
-
-You need to hand in:
-
-- **the website**, in your public_html folder
-- **the critical report**, as a PDF on Turnitin
-
-It helps us locate your site if it's in **public_html/TECH3015/coursework2/website**
-
-**IMPORTANT!** Use **home.html** rather than the standard **index.html** so we can see the full file listing
-
 ===
 
 ## LIVE WEBSITES **01**
@@ -289,15 +260,6 @@ Two hand-picked guides/tutorials
 
 ===
 
-## INFORMATION ARCHITECTURE
-<!-- .slide: class="left-align" -->
-
-A great article and video, so you can **double-check** your site's **Information Architecture** (and look clever by using the information **in your report**!):
-
-[An Excellent Beginner's Guide To Information Architecture](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
-
-===
-
 ## MOBILE APP ICONS
 <!-- .slide: class="left-align" -->
 
@@ -326,21 +288,10 @@ A great article and video, so you can **double-check** your site's **Information
 
 ===
 
-# STAY SAFE
-<!-- .slide: class="left-align" -->
-
-COVID-19 is a **serious threat** to people of **all ages**
-
-Remember to **help and protect your older relatives and friends**, and anyone with a **pre-existing condition**
-
-===
-
 ## GOODBYE-**ISH**!
 <!-- .slide: class="left-align" -->
 
 If you **attended regularly** you've been **great**!
 
-If not, you're *still great* but we now have  
+If not, you're *still great* but there's  
 **less time** to **help you**!
-
-…although we're around for **awhile longer**…

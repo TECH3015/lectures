@@ -5,21 +5,6 @@
 
 ===
 
-# CORONA VIRUS
-<!-- .slide: class="left-align smalltext" -->
-
-COVID-19 has meant **all teaching is now online**
-
-- Fania will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)**  
-  during the **usual lab time on Tuesdays at 4-6pm**
-- Please **be patient with emails**, we have **many queries** across modules!
-- **Visit** your **public_html folder** in a **browser** to be sure we can **see the web files**
-
-Please **attend online**, even briefly, if only to email later with **anything specific**  
-if you **really need to**—target only **one or two issues** at a time
-
-===
-
 ## MODULE TUTORS
 <!-- .slide: class="left-align" -->
 
@@ -30,39 +15,6 @@ Tel: 0116 207 8088
 
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
-
----
-
-## MODULE STRUCTURE
-<!-- .slide: class="left-align" -->
-
-- **Term 1, Assignment 1 (40%):** DONE!
-- **Term 2, Assignment 2 (60%):** your website here!
-
-For Assignment 2:
-
-- **Website = 60%**
-- **Documentation = 40%**
-
----
-
-## NSS Survey 2020
-
-Please complete the [NSS Survey 2020](https://www.dmu.ac.uk/current-students/student-experience/lets-talk/nss.aspx)
-
----
-
-## ASSIGNMENT 2
-<!-- .slide: class="left-align" -->
-
-You need to hand in:
-
-- **the website**, in your public_html folder
-- **the critical report**, as a PDF on Turnitin
-
-It helps us locate your site if it's in **public_html/TECH3015/coursework2/website**
-
-**IMPORTANT!** Use **home.html** rather than the standard **index.html** so we can see the full file listing
 
 ===
 
@@ -194,22 +146,21 @@ Now apply CSS styles to **images inside the container**:
 **Before:** ~same class on every image or **BAD!** on `img`~
 
 ```css
-/* DON'T DO THIS! */
-.gallery { /* or img */
+/* DON'T use .gallery on every image! */
+.galleryImg {
   width: 100%;
   object-fit: cover;
 }
-/* do not duplicate .gallery on every image
 ```
+
 **After:** **one** `.gallery` class **on the container**
 
 ```css
-/* DO THIS! */
+/* DO add .gallery to the *container* for the images! */
 .gallery img {
   width: 100%;
   object-fit: cover;
 }
-/* add .gallery to the container for the images
 ```
 
 You can also use `figure` and `figcaption` tags for **good semantic markup**

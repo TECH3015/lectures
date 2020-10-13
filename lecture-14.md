@@ -14,22 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
-
 ===
 
 ## WHERE WE ARE
@@ -40,17 +24,6 @@ midday (12pm) on Tuesday 4th May 2021
   - make sure your **breakpoints are in order**
   - think about **user interaction**
 - use the CodeCademy courses to revise…
-
----
-
-## ONLINE RESOURCES
-
-**Codecademy** free courses:
-
-- [Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ===
 
@@ -413,3 +386,11 @@ ANIMATED MOBILE MENU DEMOS
 
 - [animated slide down mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu-anim/)
 - [animated side slide-in mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
+
+===
+
+## Questions
+
+Please contact **Thom Corah, module leader**
+
+If there's anything I can answer too, he'll contact me!

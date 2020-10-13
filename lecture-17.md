@@ -16,24 +16,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-<!-- .slide: class="left-align" -->
-
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-<!-- .slide: class="left-align" -->
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
-
 ===
 
 ## WE ARE STILL HERE
@@ -70,16 +52,21 @@ You can search for an API along your lines of interest on [programmableweb.com](
 - [Show Star Wars film info from an API](https://front-end-materials.github.io/json-api/api-starwars/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-starwars))
 - [User details from the GitHub API](https://front-end-materials.github.io/json-api/api-github/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-github))
 
+<!--
+
 ===
 
 ## GitHub
-<!-- .slide: class="left-align crammed" -->
+
+!-- .slide: class="left-align crammed" --
 
 One way of **getting your site live**… is [GitHub](https://github.com/). GitHub **stores your code** on its servers and can **display your site on the web**. This can be further explored in the labs but, for now if you're interested, just **sign up**
 
 GitHub needs the [GIT version-control software](https://git-scm.com/) which keeps a record of your code changes
 
 It's a bit of a **learning curve**, but programmers text editors (like [VSCode](https://code.visualstudio.com/Docs/editor/versioncontrol) and [Atom](https://github.atom.io/)) can **make it easier**
+
+-->
 
 ===
 
@@ -402,12 +389,8 @@ it's even possible to have vertical text: [writing-mode](https://www.w3schools.c
 
 ===
 
-## POSSIBLE NEXT TOPICS
-<!-- .slide: class="left-align" -->
+## Questions
 
-- **bad UI** design examples
-- getting your **site live**
-- specific things you **want for your site**
-- **CSS grid** layout (possibly)
+Please contact **Thom Corah, module leader**
 
-Anything else you want?
+If there's anything I can answer too, he'll contact me!

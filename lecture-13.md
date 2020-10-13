@@ -14,22 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
----
-
-## MODULE STRUCTURE
-
-- **Term 1, Assignment 1:** DONE!
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, [HTML validation](https://validator.w3.org/), accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
-
 ===
 
 ## WHERE WE ARE
@@ -40,17 +24,6 @@ midday (12pm) on Tuesday 4th May 2021
   - make sure your **breakpoints are in order**
   - think about **user interaction**
 - use the CodeCademy courses to revise…
-
----
-
-## ONLINE RESOURCES
-
-**Codecademy** free courses:
-
-- [Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ===
 
@@ -148,14 +121,6 @@ How is JavaScript used?
 
 ---
 
-## QUESTIONS
-
-Before the demos…
-
-Any **questions about JavaScript**?
-
----
-
 <h2><strong>JS HOW IT WORKS</strong>: 9</h2>
 
 A simple example:
@@ -184,3 +149,11 @@ See a [demo here that fades in link colour changes](https://front-end-materials.
 See the [demo for a simple mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu/)
 
 <!-- TODO: SHARE WITH MEDS2007 LECTURE 04 -->
+
+===
+
+## Questions
+
+Please contact **Thom Corah, module leader**
+
+If there's anything I can answer too, he'll contact me!
