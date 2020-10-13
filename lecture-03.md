@@ -280,7 +280,7 @@ To complete **visual mock-ups**…
 
 …for **complex interfaces** in fine detail
 
-![digital mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/mobile-wireframe-userflow-02.jpg)
+![detailed digital mobile wireframes](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/wireframes/mobile-wireframe-userflow-02.jpg)
 
 ===
 
@@ -295,7 +295,7 @@ Useful wireframe references - view the top one first:
 
 **DO NOT** be tempted by "website template" adverts!! Templates (and "build a responsive website" tutorials) may look fine, but your **own code** will make **a better project**
 
-<!-- WIREFRAMES END -->
+<!-- END WIREFRAMES -->
 
 ===
 

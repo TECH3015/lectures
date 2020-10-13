@@ -1,21 +1,33 @@
-## DEMOS
-
-- CSS filter https://codepen.io/fania/pen/xBEZBz
-
 ===
 
-# JS: THE CONSOLE
+## KINDS OF WEBSITE **01**
+<!-- .slide: class="crammed" -->
 
-there are a few functions to help debug your JavaScript problems
+- dynamic
+- static
+- single page (SPA)
+- responsive (RWD)
+- progressive (PWA)
 
-you can use most of them in your code to print out results in the console
+===
+<!-- JavaScript debugging 13oct2020:  -->
+
+## JS DEBUG 1:
+
+### THE CONSOLE
+
+there are a few functions to help **debug** your **JavaScript problems**
+
+you can use some in your code to print out results in the console
 
 - […JavaScript debugging tips](https://raygun.com/javascript-debugging-tips 'clickbait title abbreviated!')
 - [Console API Reference (Google Developers)](https://developers.google.com/web/tools/chrome-devtools/console/api)
 
 ---
 
-# JS: CONSOLE TESTING
+## JS DEBUG 2:
+
+### CONSOLE TESTING
 
 Instead of `console.log()` You can use `console.assert()` to test whether something came out as you intended
 
@@ -31,9 +43,11 @@ value = 7.01
 
 ---
 
-# JS: CONSOLE TABLE
+## JS DEBUG 3:
 
-If you find an object hard to read in the console, you can use `console.table();`
+### CONSOLE TABLE
+
+To show an object neatly in the console, use `console.table();`
 
 ```js
 var animals = [
@@ -51,9 +65,11 @@ console.table(animals);
 
 ---
 
-# JS: CONSOLE TRACE
+## JS DEBUG 4:
 
-trace which thing called what, and in which order
+### CONSOLE TRACE
+
+trace **which thing called what**, and in **which order**
 
 ```html
 <button onclick="myFunction()">Start Trace</button>
@@ -71,7 +87,9 @@ function myOtherFunction() {
 
 ---
 
-# JS: CONSOLE TIME
+## JS DEBUG 5:
+
+### CONSOLE TIME
 
 how long does something take?
 
@@ -97,7 +115,9 @@ console.timeEnd() // 0.030029296875ms
 
 ---
 
-# JS: CONSOLE VARS
+## JS DEBUG 6:
+
+### CONSOLE VARS
 
 e.g. `console.log($0);`
 
@@ -111,9 +131,11 @@ e.g. `console.log($0);`
 
 ---
 
-# JS: DEBUGGER
+## JS DEBUG 7:
 
-enables you to add a **breakpoint**, then **step** through code, **track variable values**, etc.
+### DEBUGGER
+
+Add a **breakpoint**, then **step** through code, **track variable values**, etc.
 
 ```js
 function potentiallyBuggyCode() {
@@ -124,6 +146,8 @@ function potentiallyBuggyCode() {
 
 `debugger;` isn't part of the browser console object, but the **console will respond** to it from within JavaScript code
 
+<!-- END JavaScript debugging  -->
+
 ===
 
 # JS: STYLE GUIDE
@@ -132,25 +156,23 @@ some style guides are extremely long and a little bit too wordy, so…
 
 [W3Schools has a good, brief style guide](https://www.w3schools.com/js/js_conventions.asp)
 
-## DEMOS
+===
 
-- Dense grid https://codepen.io/faniae/pen/QWWoZem
+## DEMO
+
+- [Dense grid](https://codepen.io/faniae/pen/QWWoZem)
+
+===
+
+## DEMO
+
+- [CSS filter](https://codepen.io/fania/pen/xBEZBz)
 
 ===
 
 ## CAROUSELS?
 
 http://shouldiuseacarousel.com/
-
-===
-
-## KINDS OF WEBSITE **01**
-<!-- .slide: class="crammed" -->
-
-- dynamic
-- static
-- responsive (RWD)
-- progressive (PWA)
 
 ===
 

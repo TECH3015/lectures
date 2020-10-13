@@ -14,37 +14,6 @@ Tel: 0116 207 8088
 - **Dave Everitt** (lectures)  
 Email: deveritt@dmu.ac.uk
 
-===
-
-## Module structure
-
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
-===
-
-## Assignment deadlines:
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
-
-Full assignment criteria covered in later lectures
-
-===
-
-## Where we are
-
-- web programming refreshers
-- progress with planning your site:
-  - gather your site **content**
-  - arrange your content into *logical groups*
-  - use help from feedback ([online card sorting](https://www.optimalworkshop.com/optimalsort))
-
-===
-
 ## Assignment 1: 01
 
 What you need to hand in:
@@ -74,11 +43,11 @@ Also:
 
 **5 marking criteria @ 20% each**
 
-Information Architecture  
-Responsiveness  
-Design & Interaction  
-Accessibility  
-Critical Analaysis  
+- Information Architecture
+- Responsiveness
+- Design & Interaction
+- Accessibility
+- Critical Analaysis  
 
 ===
 
@@ -251,31 +220,11 @@ Online **wireframe** creator: [Figma.com](https://www.figma.com/)
 
 ===
 
-## Design
+## Questions
 
-Any questions about design?
+Please contact **Thom Corah, module leader**
 
-===
-
-## What you want next
-
-What do you want to cover next week? E.g.
-
-- assignment 1 marking criteria
-- CSS flexbox
-- CSS grid layout
-- more on media queries/Responsive Web Design
-- CSS animation
-- JavaScript ES6 syntax
-- Progressive Web Apps (PWAs)
-- SVGs
-
-===
-
-## Final Questions?
-
-No crowding around the  
-podium after, please!
+If there's anything I can answer too, he'll contact me!
 
 <!--
 
