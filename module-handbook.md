@@ -22,7 +22,7 @@ https://tech3015.github.io/lectures/module-handbook.md
 [Welcome to Multimedia III](#welcome-to-multimedia-iii)  
 [Module Tutors](#module-tutors)  
 [Module Description](#module-description)  
-[How the Module Works](how-the-module-works)  
+[How the Module Works](#how-the-module-works)  
 [Learning Outcomes](#learning-outcomes)  
 [Key Topics](#key-topics)  
 [Module Reading](#module-reading)  
@@ -31,7 +31,6 @@ https://tech3015.github.io/lectures/module-handbook.md
 [Assessment](#assessment)  
 [Coursework 1](#coursework-1)  
 [Coursework 2](#coursework-2)  
-[Overview](#overview)
 
 <div style="page-break-after: always;"></div>
 
@@ -67,7 +66,7 @@ Throughout the module you are encouraged to undertake your own research into the
 
 [Contents](#table-of-contents)
 
-## How the Module Works
+## How the module works
 
 These are difficult and unprecedented times. You may have keen worries about your own health, or those you care for, or you may not. We wanted this module to be one which you can tackle in the way in which you feel most safe and comfortable.
 
@@ -411,7 +410,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 - design sketches and finished design
 - user stories / user profiles
 
-[Back to CW1 Marking Criteria](cw1-marking-criteria)
+[Back to CW1 Marking Criteria](#cw1-marking-criteria)
 
 ### Responsiveness
 
@@ -429,7 +428,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 - wireframes (mobile, tablet, desktop)
 - design sketches and finished design
 
-[Back to CW1 Marking Criteria](cw1-marking-criteria)
+[Back to CW1 Marking Criteria](#cw1-marking-criteria)
 
 ### Design and Interaction
 
@@ -450,7 +449,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 - wireframes (mobile, tablet, desktop)
 - design sketches and finished design
 
-[Back to CW1 Marking Criteria](cw1-marking-criteria)
+[Back to CW1 Marking Criteria](#cw1-marking-criteria)
 
 ### Accessibility
 
@@ -475,7 +474,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 
 Consider using the [Web Accessibility Evaluation Tool (WAVE)](https://wave.webaim.org/)
 
-[Back to CW1 Marking Criteria](cw1-marking-criteria)
+[Back to CW1 Marking Criteria](#cw1-marking-criteria)
 
 ### Critical Analysis
 
@@ -492,7 +491,7 @@ To help you meet the criteria above, consider preparing any or all of the follow
 - evidence of user feedback (e.g. card sorting, design feedback, ...)
 - consistent reference formatting
 
-[Back to CW1 Marking Criteria](cw1-marking-criteria)
+[Back to CW1 Marking Criteria](#cw1-marking-criteria)
 
 ### Example website ideas
 
@@ -586,7 +585,7 @@ These include plagiarism, cheating, collusion, copying work and reuse of your ow
 
 40% of the coursework mark (1000-1500 words, with separate references and appendices not included in the word count)
 
-- [Overview of Designs](#overview-of-designs)
+- [Design Process](#design-process)
 - [Production](#production)
 - [Evaluation](#evaluation)
 
@@ -643,6 +642,8 @@ Your website content should be fully functional and robust (valid HTML, no missi
 - Awareness of loading speed and disk space e.g. no huge images
 - Your own original content is credited and any third-party content referenced (media from a single source can have just a single general credit/reference)
 
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
+
 ### Style
 
 Your website should appeal to your intended audience and be consistent with your mockups/designs. You should make efficient use of CSS in order to style and position elements for your site.
@@ -653,6 +654,8 @@ Your website should appeal to your intended audience and be consistent with your
 - Skilful use of CSS to style and arrange site elements
 - No duplicate CSS, classes instead of IDs for selectors
 - Well-ordered CSS: mobile-first followed by `min-width` breakpoints to be fully responsive at any screen width
+
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
 
 ### Technical Skills
 
@@ -668,7 +671,7 @@ Your web site should demonstrate your ability to apply the concepts you have lea
   _ CSS Animation
   _ JavaScript user interaction and/or functionality
 
-[Contents](#table-of-contents)
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
 
 ## CW2 Documentation
 
@@ -687,6 +690,8 @@ Refer back to your mock-ups from assignment 1 and discuss:
 
 This should be written in light of your own evaluation of your design from CW1, with your peer and tutor feedback.
 
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
+
 ### Production
 
 Offer some insight into the development of your website through extensive code comments. All of your code should be commented at a basic level to describe functionality and logic. Where applicable, you should also discuss:
@@ -695,6 +700,8 @@ Offer some insight into the development of your website through extensive code c
 - How you did this
 - Why you chose a certain approach
 - How successful the outcome was
+
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
 
 ### Evaluation
 
@@ -706,6 +713,8 @@ Address the following points:
    _ Any limitations of your website  
    _ Any improvements you would make to the site and why  
    \* Any problems you encountered along the way, referencing any solutions you found or devised
+
+[Back to CW2 Marking Criteria](#cw2-marking-criteria)
 
 [Contents](#table-of-contents)
 
