@@ -1,16 +1,13 @@
 # Welcome to TECH3015
 
-<!-- https://TECH3015.github.io/presents/?lecture-00 -->
+This repository holds all the TECH3015 lectures
 
-This repository holds all the TECH3015 lectures and module documents.
-
----
-
-## Module Documents
+<!-- ## Module Documents
 
 - [Module Handbook](https://TECH3015.github.io/lectures/module-handbook.html)
 - [Coursework 1 Specification](https://TECH3015.github.io/lectures/coursework-01.html)
 - [Coursework 2 Specification](https://TECH3015.github.io/lectures/coursework-02.html)
+-->
 
 ---
 
@@ -53,11 +50,8 @@ February break (w/c 24)
 - [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20)
 
 <!--
-NOT COVERED: bad UI, PWAs, html templates, databases
-
-- [Lecture 21: JS console methods, databases/pouch?](https://TECH3015.github.io/presents?lecture-21)
-- us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
-
+NOT COVERED: bad UI, PWAs, html templates, console methods, databases/pouch
+See: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
 -->
  
 ---
