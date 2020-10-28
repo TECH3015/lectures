@@ -69,7 +69,7 @@ A **style guide document** keeps an organisation’s printed and web materials w
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/dmu-style-guide-2017.png" data-background-size="contain" -->
 
-===
+---
 
 ## STYLE GUIDES **02**
 
@@ -79,7 +79,7 @@ Download PDFs of these three style guides:
 - [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/ug-2012-campaign-guidelines.pdf)
 - [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/dmu-brand-guidelines-june-2017.pdf)
 
-===
+---
 
 <!-- .slide: class="crammed" -->
 ## STYLE GUIDES **03**
@@ -100,7 +100,7 @@ The [Campaign Energy Dashboard](https://switchoff.nus.org.uk/) used NUS guidelin
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/saves-home-screen-amiresponsive-nov2017.png" data-background-size="contain" -->
 
-===
+---
 
 ## STYLE GUIDES **04**
 
@@ -149,7 +149,7 @@ They’re long, detailed and technical so just scan through
 
 (you can by-pass promotional material for the UXPin interface builder)
 
-===
+---
 
 ## DESIGN TRENDS **02**
 
