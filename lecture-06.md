@@ -62,7 +62,7 @@ midday (12pm) on Tuesday 4th May 2021
 
 <small>Clarissa Peterson (2014), [Learning Responsive Web Design](http://www.learningrwd.com/)</small>
 
-===
+---
 
 ## CONTENT STRATEGY **02**
 <!-- .slide: class="crammed" -->
@@ -77,7 +77,7 @@ The infinite "chicken and egg" loop:
 
 Content strategy is the chicken *and* the egg…
 
-===
+---
 
 ## CONTENT STRATEGY **03**
 
@@ -87,7 +87,7 @@ labels, headings and URLs…
 
 <small>—Phil Karlton (Netscape engineer)</small>
 
-===
+---
 
 ## CONTENT STRATEGY **03**
 <!-- .slide: class="crammed" -->
@@ -117,7 +117,7 @@ Simple In-Place Drill Down:
 
 <small>[Appian UX Design Guide](https://docs.appian.com/suite/help/19.3/drilldown-pattern.html)</small>
 
-===
+---
 
 ## CONTENT STRATEGY **04**
 <!-- .slide: class="crammed" -->
@@ -132,7 +132,7 @@ Search Engine Optimisation (**SEO**)
 
 The [Google SEO Starter Guide](https://support.google.com/webmasters/answer/7451184) is excellent!
 
-===
+---
 
 ## CONTENT STRATEGY **05**
 <!-- .slide: class="crammed" -->
@@ -146,7 +146,7 @@ Are your audience:
 
 > Make every design and content decision align with your overall website strategy
 
-===
+---
 
 ## CONTENT STRATEGY **06**
 <!-- .slide: class="crammed" -->
@@ -170,7 +170,7 @@ Getting your message across:
 - What is the precise **call to action wording**?
 - What emotional/mental factors **motivate people** to act?
 
-===
+---
 
 ## CONTENT STRATEGY **08**
 <!-- .slide: class="crammed" -->
@@ -183,7 +183,7 @@ Time to be realistic!
 
 <small>— Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
-===
+---
 
 ## CONTENT STRATEGY **09**
 <!-- .slide: class="crammed" -->
@@ -192,7 +192,7 @@ Time to be realistic!
 
 <small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
-===
+---
 
 ## CONTENT STRATEGY **10**
 <!-- .slide: class="crammed" -->
@@ -205,7 +205,7 @@ Time to be realistic!
 
 <small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
-===
+---
 
 ## CONTENT STRATEGY **11**
 <!-- .slide: class="crammed" -->
@@ -218,12 +218,6 @@ Read more from these articles and sites:
 
 The *Web Style Guide* also has a good section on  
 **Social Media Strategy**
-
-===
-
-## ANY QUESTIONS?
-
-Any questions about **content strategy**?
 
 ===
 
@@ -244,7 +238,7 @@ Tapping, screen size, thumb reach affect mobile navigation
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/mobile-thumb-reach-02.png" data-background-size="contain" -->
 
-===
+---
 
 ## MOBILE NAVIGATION **02**
 <!-- .slide: class="crammed" -->
@@ -255,7 +249,7 @@ Bottom navigation bars (iOS Tab Bar, Android Bottom Nav) stay in place and shoul
 
 <small>[Design for Mobile (DZone 2016)](https://dzone.com/articles/design-for-mobile-app-ui-best-practices-part-2)</small>
 
-===
+---
 
 ## MOBILE NAVIGATION **03**
 <!-- .slide: class="crammed" -->
@@ -274,7 +268,7 @@ Optimal button size:
 
 > The **most preferred button size was 60 pixels**, which is about the middle of the range. The 72 pixel button produced the **highest touch accuracy** and was **preferred by older users**.
 
-===
+---
 
 ## MOBILE NAVIGATION **04**
 <!-- .slide: class="crammed" -->
@@ -285,7 +279,7 @@ Optimal button spacing:
 
 <small>[Optimal Size and Spacing for Mobile Buttons (UX Movement, 2019)](https://uxmovement.com/mobile/optimal-size-and-spacing-for-mobile-buttons/)</small>
 
-===
+---
 
 ## MOBILE NAVIGATION **05**
 
