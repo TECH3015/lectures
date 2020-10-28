@@ -20,10 +20,10 @@ Email: deveritt@dmu.ac.uk
 
 planning and designing your site:
 
-  - gather your site [content](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/20)
-  - revise [accessibility](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/5)
-  - draw up your [wireframes](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/21)
-  - mock up your [designs](https://fania.github.io/presents/?DaveEveritt_TECH3015_lecture-04#/6)
+  - gather your site [content](https://tech3015.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/20)
+  - revise [accessibility](https://tech3015.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/5)
+  - draw up your [wireframes](https://tech3015.github.io/presents/?DaveEveritt_TECH3015_lecture-03#/21)
+  - mock up your [designs](https://tech3015.github.io/presents/?DaveEveritt_TECH3015_lecture-04#/6)
   - get some **feedback**!
 
 ===
@@ -35,12 +35,12 @@ IA, research, wireframes, coding etc. fall into five areas:
 - planning
 - content
 - design
-- development
-- deployment
+- development: coding the site
+- deployment: launching on the web (GitHub pages)
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/website-process.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/website-process.png" data-background-size="contain" -->
 
 ===
 
@@ -57,15 +57,15 @@ A **style guide document** keeps an organisation’s printed and web materials w
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/nus-style-guide.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/nus-style-guide.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-ug-campaign-2012.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/dmu-ug-campaign-2012.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/dmu-style-guide-2017.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/dmu-style-guide-2017.png" data-background-size="contain" -->
 
 ===
 
@@ -73,9 +73,10 @@ A **style guide document** keeps an organisation’s printed and web materials w
 
 Download PDFs of these three style guides:
 
-- [NUS Brand Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/nus-guidelines-oct13.pdf)
-- [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/ug-2012-campaign-guidelines.pdf)
-- [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/dmu-brand-guidelines-june-2017.pdf)
+- [NUS Brand Guidelines](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/nus-guidelines-oct13.pdf)
+- [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/ug-2012-campaign-guidelines.pdf)
+- [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/dmu-brand-guidelines-june-2017.pdf)
+- [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/dmu-brand-guidelines-june-2017.pdf)
 
 ===
 
@@ -84,19 +85,19 @@ Download PDFs of these three style guides:
 
 The [Campaign Energy Dashboard](https://switchoff.nus.org.uk/) used NUS guidelines
 
-![NUS energy dashboard screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-oct2019.png)
+![NUS energy dashboard screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/saves-home-screen-oct2019.png)
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-amiresponsive.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/saves-cambridge-amiresponsive.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-cambridge-bigscreen-amiresponsive.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/saves-cambridge-bigscreen-amiresponsive.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/saves-home-screen-amiresponsive-nov2017.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/saves-home-screen-amiresponsive-nov2017.png" data-background-size="contain" -->
 
 ===
 
@@ -106,7 +107,7 @@ three big tech companies have **interface guidelines**
 
 - [Google Material Design](https://material.io/design/introduction/)
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
+- [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles#the-basic-principles-of-proper-ui)
 
 They’re long, detailed and technical so just scan through
 
@@ -115,21 +116,21 @@ They’re long, detailed and technical so just scan through
 <!-- .slide: class="crammed" -->
 [Google Material Design](https://material.io/design/introduction/)
 
-![Google Material Design, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/google-material-design.png)
+![Google Material Design, screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/google-material-design.png)
 
 ---
 
 <!-- .slide: class="crammed" -->
 [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
-![Apple Human Interface Guidelines, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/apple-interface-guidelines.png)
+![Apple Human Interface Guidelines, screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/apple-interface-guidelines.png)
 
 ---
 
 <!-- .slide: class="crammed" -->
 [Microsoft User Interface Principles](https://docs.microsoft.com/en-us/windows/win32/appuistart/-user-interface-principles)
 
-![Microsoft User Interface Principles, screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/guides/microsoft-ui-principles.png)
+![Microsoft User Interface Principles, screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/design/guides/microsoft-ui-principles.png)
 
 ===
 
@@ -153,9 +154,9 @@ They’re long, detailed and technical so just scan through
 
 Download PDFs of these three style guides:
 
-- [Web design trends 2015-16](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2015-16.pdf)
-- [Web design trends 2018](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2018.pdf)
-- [Web design trends 2019](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/pdf/uxpin-web-design-trends-2019.pdf)
+- [Web design trends 2015-16](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/uxpin-web-design-trends-2015-16.pdf)
+- [Web design trends 2018](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/uxpin-web-design-trends-2018.pdf)
+- [Web design trends 2019](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/uxpin-web-design-trends-2019.pdf)
 
 ===
 
