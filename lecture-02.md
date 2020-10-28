@@ -79,7 +79,7 @@ Resources from [usability.gov](https://www.usability.gov/):
 
 Collecting and sorting your content will provide the **outline** for your site structure and **navigation**
 
-[Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html "a good article introducing card sorting from usability.gov") is a method devised to help you arrange your website content
+[Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html "introducing card sorting from usability.gov") is a method devised to help you arrange your website content
 
 It works best when **other people** are invited—you can use [online card sorting software](https://www.optimalworkshop.com/optimalsort) ([free plan here](https://www.optimalworkshop.com/register))
 
