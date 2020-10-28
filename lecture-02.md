@@ -59,7 +59,7 @@ gather all the **content** for your site:
 - audio
 - possible data from APIs
 
-===
+---
 
 ## Planning your site 02
 
@@ -73,7 +73,7 @@ Resources from [usability.gov](https://www.usability.gov/):
 - [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 - [Information Architecture](https://www.usability.gov/what-and-why/information-architecture.html)
 
-===
+---
 
 ## Planning your site 03
 
@@ -83,7 +83,7 @@ Collecting and sorting your content will provide the **outline** for your site s
 
 It works best when **other people** are invited—you can use [online card sorting software](https://www.optimalworkshop.com/optimalsort) ([free plan here](https://www.optimalworkshop.com/register))
 
-===
+---
 
 ## Planning your site 04
 
@@ -93,7 +93,7 @@ At the next stage, you will use **[HTML5 semantic tags](https://www.w3schools.co
 - each **kind** of page you have or...
 - for one long **scrolling** page
 
-===
+---
 
 ## Planning your site 05
 
@@ -123,7 +123,7 @@ CSS **media queries** can *respond* to many factors:
 
 Full list: [Using media queries (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-===
+---
 
 ## CSS: breakpoints 02
 
@@ -141,7 +141,7 @@ This is the basis of **Responsive Web Design**
 
 See some [examples of RWD (mediaqueri.es)](https://mediaqueri.es/)
 
-===
+---
 
 ## CSS: breakpoints 03
 
@@ -150,7 +150,7 @@ Use **one** CSS style sheet for your **whole site**!
 Put **general** and **mobile** styles first, at the top,  
 **above** and **before** any **media queries**
 
-===
+---
 
 ## RWD: breakpoints 04
 

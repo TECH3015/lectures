@@ -20,11 +20,11 @@ Email: deveritt@dmu.ac.uk
 
 planning and designing your site:
 
-  - gather your site [content](https://tech3015.github.io/presents/?lecture-03#/20)
-  - revise [accessibility](https://tech3015.github.io/presents/?lecture-03#/5)
-  - draw up your [wireframes](https://tech3015.github.io/presents/?lecture-03#/21)
-  - mock up your [designs](https://tech3015.github.io/presents/?lecture-04#/6)
-  - get some **feedback**!
+  - gather and plan site [content](https://tech3015.github.io/presents/?lecture-02#/4)
+  - revise [accessibility](https://tech3015.github.io/presents/?lecture-03#/2)
+  - draw up your [wireframes](https://tech3015.github.io/presents/?lecture-03#/4)
+  - mock up your [designs](https://tech3015.github.io/presents/?lecture-04#/3)
+  - get some **feedback** with [card sorting](https://tech3015.github.io/presents/?lecture-02#/4)!
 
 ===
 
