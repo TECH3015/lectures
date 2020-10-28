@@ -78,7 +78,6 @@ Download PDFs of these three style guides:
 - [NUS Brand Guidelines](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/nus-guidelines-oct13.pdf)
 - [DMU 2012 Undergrad Campaign Guidelines](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/ug-2012-campaign-guidelines.pdf)
 - [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/dmu-brand-guidelines-june-2017.pdf)
-- [DMU Brand Guidelines June 2017](https://raw.githubusercontent.com/TECH3015/lectures/master/pdf/dmu-brand-guidelines-june-2017.pdf)
 
 ===
 
