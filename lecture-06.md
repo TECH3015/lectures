@@ -265,6 +265,13 @@ For **good** and **bad** examples of **mobile navigation**
 
 see [Design for Mobile: App UI Best Practices: Part I](https://dzone.com/articles/design-for-mobile-app-ui-best-practices-part-1)
 
+---
+
+## MOBILE NAVIGATION **06**
+
+- [complex navigation patterns for responsive design](https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design/)
+- [Luke Wroblewski: Mobile First (free to read)](http://mobile-first.abookapart.com/)
+
 ===
 
 ## MOBILE FRIENDLY TEST
