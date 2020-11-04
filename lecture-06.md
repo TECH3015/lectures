@@ -191,7 +191,7 @@ Time to be realistic!
 Read more from these articles and sites:
 
 - [UX Movement has helpful menus](https://uxmovement.com/)
-- [Content Strategy Within The Design Process](https://www.ceros.com/resources/content-strategy-within-design-process/)
+- [Content Strategy Within The Design Process](https://www.business2community.com/brandviews/ceros/content-strategy-within-design-process-01400789)
 - [Web Style Guide, Chapter 1: "Strategy"](https://webstyleguide.com/1-strategy.html)
 
 The *Web Style Guide* also has a good section on  
