@@ -275,7 +275,7 @@ A brief explanation with examples:
 
 **Arrggh… opt out??**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/cookie-overload.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/cookie-overload.png)
 
 ---
 
