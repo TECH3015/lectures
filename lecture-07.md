@@ -316,5 +316,6 @@ Left is *past*, right is *future*:
 ===
 
 **JAVASCRIPT: DON'T BE A BABY!**
+<!-- .slide: class="crammed" -->
 
 ![JavaScript tears](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/javascript-for-kids.jpg)
