@@ -29,7 +29,7 @@ Email: deveritt@dmu.ac.uk
 
 - finished **designs** and **wireframes**
 - **web-prepared** content for your site
-- collect and **edit** images/videos/audio
+- collected and **edited** images/videos/audio
 - exported media to **correct file types**
 - written content in **plain text**
 
@@ -69,21 +69,21 @@ Information **Design** is good *visual presentation*
 ## INFORMATION DESIGN **02**
 <!-- .slide: class="crammed" -->
 
-We **forage** for information like we do for **resources**
+Information Architecture **makes foraging easier**  
+**Information Design** conveys *meaning*
 
-![food/information foraging comparison table](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-foraging.png)
-
-<small>[Information Foraging: A Theory of How People Navigate on the Web](https://www.nngroup.com/articles/information-foraging/)</small>
+> Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
 
 ---
 
 ## INFORMATION DESIGN **03**
 <!-- .slide: class="crammed" -->
 
-Information Architecture **makes foraging easier**  
-**Information Design** conveys *meaning*
+We **forage** for information like we do for **resources**
 
-> Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
+![food/information foraging comparison table](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-foraging.png)
+
+<small>[Information Foraging: A Theory of How People Navigate on the Web](https://www.nngroup.com/articles/information-foraging/)</small>
 
 ---
 
