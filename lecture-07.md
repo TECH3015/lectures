@@ -289,7 +289,7 @@ A brief explanation with examples:
 
 ![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-shame.jpg)
 
-===
+---
 
 ## ~DARK~ LIGHT UI **08**
 <!-- .slide: class="crammed" -->
