@@ -64,14 +64,14 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 
 [Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
 
----
+<!-- ---
 
-## EXTRA RESOURCES **04**
+## EXTRA RESOURCES **04** -->
 <!-- .slide: class="crammed" -->
 
-![Adobe XD screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/adobe-xd.png)
+<!-- ![Adobe XD screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/adobe-xd.png)
 
-[Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll)
+[Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll) -->
 
 ===
 
@@ -285,7 +285,7 @@ A brief explanation with examples:
 
 ---
 
-**SHAME…**
+**EMOTIONAL BLACKMAIL…**
 
 ![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-shame.jpg)
 
@@ -313,6 +313,6 @@ Left is *past*, right is *future*:
 
 ===
 
-## THIS
+## ENOUGH! NOW THIS:
 
 ![JavaScript tears](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/javascript-for-kids.jpg)
