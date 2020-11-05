@@ -279,7 +279,9 @@ A brief explanation with examples:
 
 ---
 
-**PANIC!**
+**FAKE PANIC!**
+
+examination of the JavScript shows numbers calculated at random intervals
 
 ![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-panic.png)
 
