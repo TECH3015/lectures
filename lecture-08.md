@@ -88,32 +88,32 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ### Examples
 
 **Inline**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline2.png)](https://codepen.io/faniae/pen/zYYyMEo)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/inline2.png)](https://codepen.io/faniae/pen/zYYyMEo)
 
 ---
 
 **Block**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/block2.png)](https://codepen.io/faniae/pen/JjjweyN)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/block2.png)](https://codepen.io/faniae/pen/JjjweyN)
 
 ---
 
 **Inline + Block**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/mix.png)](https://codepen.io/faniae/pen/yLLGRMx)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/mix.png)](https://codepen.io/faniae/pen/yLLGRMx)
 
 ---
 
 **Inline-Block**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/inline-block.png)](https://codepen.io/faniae/pen/dyywQBj)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/inline-block.png)](https://codepen.io/faniae/pen/dyywQBj)
 
 ---
 
 **Images**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/wvvRQPO)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/images.png)](https://codepen.io/faniae/pen/wvvRQPO)
 
 ---
 
 **Figures**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/figures.png)](https://codepen.io/faniae/pen/WNNLaYg)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/figures.png)](https://codepen.io/faniae/pen/WNNLaYg)
 
 ===
 
@@ -160,17 +160,17 @@ p {
 ### Examples
 
 **float 2 images right**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/float.png)](https://codepen.io/faniae/pen/PooXXxN)
 
 ---
 
 **float images differentely**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/float2.png)](https://codepen.io/faniae/pen/oNNJmNv)
 
 ---
 
 **clear right floats**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/clear.png)](https://codepen.io/faniae/pen/GRRPzpj)
 
 ===
 
@@ -181,7 +181,7 @@ p {
 - `static, relative, absolute, fixed, sticky`
 - you might need `top, bottom, left, right` too
 
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
 
 [W3Schools The position Property](https://www.w3schools.com/css/css_positioning.asp)  
 [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) + [MDN Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
@@ -275,7 +275,7 @@ nav {
 
 ## Centering Things
 
-***It's complicated, BUT ...***
+***Can be complicated, BUT...***
 
 ```css
 div {
@@ -317,7 +317,7 @@ div {
 <strong class="center">Inline, centered text (ignored)</strong>
 <div class="center">Centered block, centered text</div>
 ```
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
 ```css
 div {
   background: cyan;
@@ -341,7 +341,7 @@ div {
 
 **one** line only `line-height` trick
 
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
 
 ---
 
@@ -352,7 +352,7 @@ div {
   Centered text with inline svg image <svg>cat</svg>
 </div>
 ```
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical-align.png)](https://codepen.io/faniae/pen/MWWdxaQ)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical-align.png)](https://codepen.io/faniae/pen/MWWdxaQ)
 ```css
 div {
   background: cyan;
@@ -373,7 +373,7 @@ div svg {
 ---
 
 **various vertical centering**  
-[![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
+[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
 
 ===
 

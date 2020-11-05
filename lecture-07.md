@@ -35,17 +35,6 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## EXTRA RESOURCES **01**
-<!-- .slide: class="crammed" -->
-
-![Job Stories diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/job-story.png)
-
-Are **Job Stories** the new **User Stories**?
-
-[Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
-
----
-
 ## EXTRA RESOURCES **02**
 <!-- .slide: class="crammed" -->
 
@@ -67,6 +56,17 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 ===
 
 ## INFORMATION DESIGN **01**
+
+Information **Architecture** is *getting around*  
+Information **Design** is good *visual presentation*
+
+![Information Design diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-design.png)
+
+<small>[What is Information Design?](https://online-learning.com/information-design/)</small>
+
+---
+
+## INFORMATION DESIGN **02**
 <!-- .slide: class="crammed" -->
 
 We **forage** for information like we do for **resources**
@@ -77,24 +77,13 @@ We **forage** for information like we do for **resources**
 
 ---
 
-## INFORMATION DESIGN **02**
+## INFORMATION DESIGN **03**
 <!-- .slide: class="crammed" -->
 
 Information Architecture **makes foraging easier**  
 **Information Design** conveys *meaning*
 
 > Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
-
----
-
-## INFORMATION DESIGN **03**
-
-Information **Architecture** is *getting around*  
-Information **Design** is good *visual presentation*
-
-![Information Design diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-design.png)
-
-<small>[What is Information Design?](https://online-learning.com/information-design/)</small>
 
 ---
 

@@ -70,7 +70,18 @@ labels, headings, URLs (CSS classes, JavaScript functions)…
 
 ---
 
-## CONTENT STRATEGY **03**
+## CONTENT STRATEGY **04**
+<!-- .slide: class="crammed" -->
+
+![Job Stories diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/job-story.png)
+
+Are **Job Stories** the new **User Stories**?
+
+[Designing features using Job Stories](https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/)
+
+---
+
+## CONTENT STRATEGY **05**
 <!-- .slide: class="crammed" -->
 
 Writing **text content**:
@@ -97,7 +108,7 @@ Simple In-Place Drill Down:
 
 ---
 
-## CONTENT STRATEGY **04**
+## CONTENT STRATEGY **06**
 <!-- .slide: class="crammed" -->
 
 Search Engine Optimisation (**SEO**)
@@ -112,7 +123,7 @@ The [Google SEO Starter Guide](https://support.google.com/webmasters/answer/7451
 
 ---
 
-## CONTENT STRATEGY **05**
+## CONTENT STRATEGY **07**
 <!-- .slide: class="crammed" -->
 
 Are your audience:
@@ -126,7 +137,7 @@ Are your audience:
 
 ---
 
-## CONTENT STRATEGY **06**
+## CONTENT STRATEGY **08**
 <!-- .slide: class="crammed" -->
 
 Getting your message across:
@@ -138,7 +149,7 @@ Getting your message across:
 
 ---
 
-## CONTENT STRATEGY **07**
+## CONTENT STRATEGY **09**
 <!-- .slide: class="crammed" -->
 
 **Calls to action**—help visitors make a decision
@@ -150,7 +161,7 @@ Getting your message across:
 
 ---
 
-## CONTENT STRATEGY **08**
+## CONTENT STRATEGY **10**
 <!-- .slide: class="crammed" -->
 
 > When Steve Jobs returned to Apple in 1997, there were **sixteen to eighteen models** of computer… even he couldn’t give clear advice to a friend on which Mac model she should buy. He **cut the number of models to four**: two desktop and two laptop computers. The Apple product line then reflected this **strategic focus on real user needs** and a meaningful product differentiation.
@@ -159,14 +170,14 @@ Getting your message across:
 
 ---
 
-## CONTENT STRATEGY **09**
+## CONTENT STRATEGY **11**
 <!-- .slide: class="crammed" -->
 
 > There’s **no such thing as “mobile content”**. What all readers and users need is **good content**, available **wherever and whenever** they need it, **on any device**. If some of your content looks superfluous on a mobile device, it’s certainly superfluous for desktop users as well. **Get rid of the useless fluff!**
 
 ---
 
-## CONTENT STRATEGY **10**
+## CONTENT STRATEGY **12**
 <!-- .slide: class="crammed" -->
 
 > The measure of good editorial style is whether the content is useful… Content should meet real, carefully researched **user needs**. Too often corporate and institutional web teams produce content designed primarily around **internal** goals and **organization** charts, forgetting that **users couldn’t care less** what your mission statement is, or how you are organized.
@@ -175,7 +186,7 @@ Getting your message across:
 
 ---
 
-## CONTENT STRATEGY **11**
+## CONTENT STRATEGY **13**
 <!-- .slide: class="crammed" -->
 
 Read more from these articles and sites:
