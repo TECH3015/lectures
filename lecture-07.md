@@ -35,7 +35,7 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## EXTRA RESOURCES **02**
+## ACCESSIBLE COLOURS
 <!-- .slide: class="crammed" -->
 
 ![toggles with and without icons](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/check-status.png)
