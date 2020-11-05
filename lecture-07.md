@@ -313,6 +313,6 @@ Left is *past*, right is *future*:
 
 ===
 
-## ENOUGH! NOW THIS:
+**JAVASCRIPT: DON'T BE A BABY!**
 
 ![JavaScript tears](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/javascript-for-kids.jpg)
