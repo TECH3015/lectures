@@ -16,43 +16,29 @@ Email: deveritt@dmu.ac.uk
 
 ---
 
-
 ## MODULE STRUCTURE
 
-- **Term 1, Assignment 1:** IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
-- **Term 2, Assignment 2:** HTML5, CSS3, JavaScript ES6, APIs, animation, HTML validation, accessibility testing, Responsive Web Design and code, Progressive Web Apps
-
----
-
-
-## ASSIGNMENT DEADLINES
-
-- **Assignment 1 (40%):**  
-midday (12pm) on Friday 13 December 2019  
-[Coursework 1 full marking criteria](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)  
-
-- **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021  
-(Assignment 2 criteria to follow)
+- **Term 1, Assignment 1:** planning: IA, design and wireframes, accessibility, interaction design, graphic design, **recap web languages**
+- **Term 2, Assignment 2:** building: HTML5 and validation, CSS3, JavaScript ES6, data APIs, animation, accessibility, **Responsive Web Design**
 
 ===
 
 ## WHERE WE ARE
 
-As last week, but more work please on **designs**!
+**preparation** and **planning** to produce:
 
 - finished **designs** and **wireframes**
-- **prepare** your content for the web
-- correct **file types**
+- **web-prepared** content for your site
+- collect and **edit** images/videos/audio
+- exported media to **correct file types**
 - written content in **plain text**
-- collect and **optimise** images/videos/audio
 
 ===
 
 ## EXTRA RESOURCES **01**
 <!-- .slide: class="crammed" -->
 
-![Job Stories diagram](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/job-story.png)
+![Job Stories diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/job-story.png)
 
 Are **Job Stories** the new **User Stories**?
 
@@ -63,7 +49,7 @@ Are **Job Stories** the new **User Stories**?
 ## EXTRA RESOURCES **02**
 <!-- .slide: class="crammed" -->
 
-![toggles with and without icons](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/check-status.png)
+![toggles with and without icons](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/check-status.png)
 
 Accessibility and colour contrast e.g. **icons** help color-blind users distinguish **selected status**
 
@@ -83,15 +69,9 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 ## EXTRA RESOURCES **04**
 <!-- .slide: class="crammed" -->
 
-![Adobe XD screenshot](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/adobe-xd.png)
+![Adobe XD screenshot](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/adobe-xd.png)
 
 [Adobe XD is free for prototypes](https://www.adobe.com/uk/products/xd.html#scroll)
-
-===
-
-## EXTRA RESOURCES ??
-
-Any **Extra Resources** you'd like next?
 
 ===
 
@@ -100,11 +80,11 @@ Any **Extra Resources** you'd like next?
 
 We **forage** for information like we do for **resources**
 
-![food/information foraging comparison table](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-foraging.png)
+![food/information foraging comparison table](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-foraging.png)
 
 <small>[Information Foraging: A Theory of How People Navigate on the Web](https://www.nngroup.com/articles/information-foraging/)</small>
 
-===
+---
 
 ## INFORMATION DESIGN **02**
 <!-- .slide: class="crammed" -->
@@ -114,45 +94,45 @@ Information Architecture **makes foraging easier**
 
 > Information design is the skill and practice of **preparing information** so people can use it with **efficiency** and **effectiveness**. Where data is **complex** or **unstructured**, **visual representation** expresses meaning more clearly
 
-===
+---
 
 ## INFORMATION DESIGN **03**
 
 Information **Architecture** is *getting around*  
 Information **Design** is good *visual presentation*
 
-![Information Design diagram](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design.png)
+![Information Design diagram](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-design.png)
 
 <small>[What is Information Design?](https://online-learning.com/information-design/)</small>
 
-===
+---
 
 ## INFORMATION DESIGN **04**
 <!-- .slide: class="crammed" -->
 
 **Small changes**: give users a brief cue about what's in the text, **before they commit to reading** it, then use a **longer headline**
 
-![Eyebrow headline example](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/eyebrow-headline.png)
+![Eyebrow headline example](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/eyebrow-headline.png)
 
 <small>[Aid User Scanning by Using Eyebrow Headlines](https://uxmovement.com/content/how-you-can-aid-user-scanning-by-using-eyebrow-headlines/)</small>
 
-===
+---
 
 ## INFORMATION DESIGN **05**
 <!-- .slide: class="crammed" -->
 
 **Vast information**: simple surface, drill-down for more
 
-![Periodic table](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/periodic-table.png)
+![Periodic table](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/periodic-table.png)
 
 <small>[Interactive Period Table](https://ptable.com/)</small>
 
-===
+---
 
 ## INFORMATION DESIGN **06**
 <!-- .slide: class="crammed" -->
 
-![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest.png)
+![Information Design examples](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-design-pinterest.png)
 
 [Pinterest: Information Design](https://www.pinterest.com/search/pins/?q=information%20design&rs=typed)
 
@@ -161,24 +141,18 @@ Information **Design** is good *visual presentation*
 ## INFORMATION DESIGN **07**
 <!-- .slide: class="crammed" -->
 
-![Information Design examples](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/information-design-pinterest-daniel.png)
+![Information Design examples](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/information-design-pinterest-daniel.png)
 
 [Pinterest: Daniel Hunley Information Design](https://www.pinterest.com/danielhunley/information-design/)
 
-===
+---
 
 ## INFORMATION DESIGN **08**
 <!-- .slide: class="crammed" -->
 
-![Laws of Simplicity website](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/laws-of-simplicity.png)
+![Laws of Simplicity website](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/laws-of-simplicity.png)
 
 <small>[John Maeda's Laws of Simplicity](http://lawsofsimplicity.com/)</small>
-
-===
-
-## INFORMATION DESIGN ??
-
-Any questions about **Information Design**?
 
 ===
 
@@ -189,7 +163,6 @@ Any questions about **Information Design**?
 
 ---
 
-
 ## DARK UI **02**
 <!-- .slide: class="crammed" -->
 
@@ -198,7 +171,7 @@ Any questions about **Information Design**?
 <small>condensed from Dourish, Paul (2019)  
 [User Experience As Legitimacy Trap](http://interactions.acm.org/archive/view/november-december-2019/user-experience-as-legitimacy-trap)</small>
 
-===
+---
 
 ## DARK UI **03**
 <!-- .slide: class="crammed" -->
@@ -211,7 +184,7 @@ Any questions about **Information Design**?
 
 <small>condensed from [DarkPatterns.org](https://www.darkpatterns.org/), Harry Brignull (2019)</small>
 
-===
+---
 
 ## DARK UI **04**
 
@@ -219,7 +192,7 @@ A brief explanation with examples:
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/kxkrdLI6e6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-===
+---
 
 ## DARK UI **05**
 <!-- .slide: class="crammed" -->
@@ -247,68 +220,74 @@ A brief explanation with examples:
 
 <small>…Adapted from [Types of Dark UI Pattern](https://www.darkpatterns.org/types-of-dark-pattern)</small>
 
-===
+---
 
 ## DARK UI **07**
 <!-- .slide: class="crammed" -->
 
 [@darkpatterns Twitter feed](https://twitter.com/darkpatterns) collects examples!
 
-![DarkPatterns on Twitter](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-patterns-twitter.png)
+![DarkPatterns on Twitter](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-patterns-twitter.png)
 
 ---
 
 **MISDIRECTION 1**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-allow-all.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-allow-all.jpg)
 
 ---
 
 **MISDIRECTION 2**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-buy-now.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-buy-now.jpg)
 
 ---
 
 **PRE-SELECTED CONFUSING OPTIONS**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-confusing-cookies.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-confusing-cookies.jpg)
 
 ---
 
 **ARE YOU SURE?**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-jump-hoops.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-jump-hoops.jpg)
 
 ---
 
 **DON'T MISS OUT!**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-miss-out.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-miss-out.jpg)
 
 ---
 
 **NO MEANS YES**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-no-yes.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-no-yes.jpg)
 
 ---
 
 **shhh… opt out**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-opt-out.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-opt-out.jpg)
+
+---
+
+**Arrggh… opt out??**
+
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/cookie-overload.jpg)
 
 ---
 
 **PANIC!**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-panic.png)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-panic.png)
 
 ---
 
 **SHAME…**
 
-![](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/dark-ui-shame.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-shame.jpg)
 
 ===
 
@@ -317,7 +296,7 @@ A brief explanation with examples:
 
 A good adaptation to user scanning and presumptions:
 
-![left-to-right bias](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/signup-vs-signin.png)
+![left-to-right bias](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/signup-vs-signin.png)
 
 <small>[Why ‘Sign Up’ and ‘Sign In’ Button Labels Confuse Users](https://uxmovement.com/buttons/why-sign-up-and-sign-in-button-labels-confuse-users/)</small>
 
@@ -328,14 +307,12 @@ A good adaptation to user scanning and presumptions:
 
 Left is *past*, right is *future*:
 
-![dialog box buttons](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/ui/left-to-right-mapping.png)
+![dialog box buttons](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/left-to-right-mapping.png)
 
 <small>[Why ‘Ok’ Buttons in Dialog Boxes Work Best on the Right](https://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/)</small>
 
 ===
 
-## Questions
+## THIS
 
-Please contact **Thom Corah, module leader**
-
-If there's anything I can answer too, he'll contact me!
+![JavaScript tears](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/javascript-for-kids.jpg)
