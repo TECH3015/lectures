@@ -18,8 +18,15 @@ This repository holds all the TECH3015 lectures
 - [Lecture 03: accessibility, Information Architecture, wireframes](https://TECH3015.github.io/presents?lecture-03)
 - [Lecture 04: Assignment 1 reminder, design principles](https://TECH3015.github.io/presents?lecture-04)
 - [Lecture 05: style guides, design trends](https://TECH3015.github.io/presents?lecture-05)
-- [Lecture 06: Content Strategy, mobile navigation](https://TECH3015.github.io/presents?lecture-06)
-- [Lecture 07: extra resources, Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
+
+---
+
+November break
+
+---
+
+- [Lecture 06: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06)
+- [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
 - [Lecture 08: HTML natural flow, manipulating and positioning elements](https:/TECH3015.github.io/presents?lecture-08)
 - [Lecture 09: HTML Box Model, CSS Flexbox](https://TECH3015.github.io/presents?lecture-09)
 - [Lecture 10: Assignment 1 details, HTML structure, CSS tips, responsive web design basics](https://TECH3015.github.io/presents?lecture-10)
@@ -40,7 +47,7 @@ Winter break
 
 ---
 
-February break (w/c 24)
+February break
 
 ---
 
@@ -61,6 +68,5 @@ See: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-
 - [ ] move CTEC3905 styles here 
 - [ ] change TECH3015 slide bg colour
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
-- [x] complete the outline for lectures 17-20
 - [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
 - [x] check through previous lectures after the recent stylesheet update
