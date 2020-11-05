@@ -55,15 +55,6 @@ Accessibility and colour contrast e.g. **icons** help color-blind users distingu
 
 [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 
----
-
-## EXTRA RESOURCES **03**
-<!-- .slide: class="crammed" -->
-
-> The measure of good editorial style is whether the content is useful… Content should meet real, carefully researched **user needs**. Too often corporate and institutional web teams produce content designed primarily around **internal** goals and **organization** charts, forgetting that **users couldn’t care less** what your mission statement is, or how you are organized.
-
-[Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
-
 <!-- ---
 
 ## EXTRA RESOURCES **04** -->

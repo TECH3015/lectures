@@ -141,10 +141,10 @@ Getting your message across:
 ## CONTENT STRATEGY **07**
 <!-- .slide: class="crammed" -->
 
-**Call to action**—when visitors make a decision
+**Calls to action**—help visitors make a decision
 
 - What do you **want people to do** when visiting your site?
-- Is your call to action **clearly prominent** on your site?
+- Do you have a **simple and prominent** call to action?
 - What is the precise **call to action wording**?
 - What emotional/mental factors **motivate people** to act?
 
@@ -153,35 +153,25 @@ Getting your message across:
 ## CONTENT STRATEGY **08**
 <!-- .slide: class="crammed" -->
 
-Time to be realistic!
-
-> Strategy is the art of sensible planning to marshal your resources toward their most efficient and effective use, over a significant period of time.
-> 
-> A good strategy is flexible, and shows proper humility in the face of challenges. It does not pretend that miracles are possible or even desirable.
-
-<small>— Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
-
----
-
-## CONTENT STRATEGY **09**
-<!-- .slide: class="crammed" -->
-
 > When Steve Jobs returned to Apple in 1997, there were **sixteen to eighteen models** of computer… even he couldn’t give clear advice to a friend on which Mac model she should buy. He **cut the number of models to four**: two desktop and two laptop computers. The Apple product line then reflected this **strategic focus on real user needs** and a meaningful product differentiation.
 
 <small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
 
 ---
 
-## CONTENT STRATEGY **10**
+## CONTENT STRATEGY **09**
 <!-- .slide: class="crammed" -->
 
-> There’s no such thing as “mobile content.” What all readers and users need is **good content**, available **wherever and whenever** they need it, **on any device**. If some of your content looks superfluous on a mobile device, it’s certainly superfluous for desktop users as well. **Get rid of the useless fluff!**
+> There’s **no such thing as “mobile content”**. What all readers and users need is **good content**, available **wherever and whenever** they need it, **on any device**. If some of your content looks superfluous on a mobile device, it’s certainly superfluous for desktop users as well. **Get rid of the useless fluff!**
 
 ---
 
-> **Do not overwrite**. Small is good. A concise, high-quality site is much better than a big contraption full of broken links. Produce the **minimum necessary** to achieve an **excellent result**.
+## CONTENT STRATEGY **10**
+<!-- .slide: class="crammed" -->
 
-<small>—abbreviated from: Web Style Guide, Patrick J. Lynch and Sarah Horton</small>
+> The measure of good editorial style is whether the content is useful… Content should meet real, carefully researched **user needs**. Too often corporate and institutional web teams produce content designed primarily around **internal** goals and **organization** charts, forgetting that **users couldn’t care less** what your mission statement is, or how you are organized.
+
+[Editorial Style (Web Style Guide)](https://webstyleguide.com/10-editorial-style.html)
 
 ---
 
