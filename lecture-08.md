@@ -134,7 +134,7 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ### Floating Elements
 <!-- .slide: class="crammed" -->
 
-> "places an element on the left or right side of its container, allowing text and inline elements to wrap around it" [*]
+> "places an element on the **left** or **right** side of its **container**, allowing text and inline elements to **wrap around** it" [*]
 
 - intended mainly in **page layout** for images within text
 - turns inline elements into **block**-level elements
@@ -356,14 +356,16 @@ div {
 ---
 
 ### Examples
+<!-- .slide: class="crammed" -->
 
 **one** line only `line-height` trick
 
 [![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/line-height.png)](https://codepen.io/faniae/pen/GRRazag)
 
 ---
+<!-- .slide: class="crammed" -->
 
-`vertical-align` for **inline** image
+`vertical-align` for **inline** image (click example)
 
 ```html
 <div>
