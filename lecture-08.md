@@ -308,7 +308,7 @@ div {
 ### Horizontal **1**
 <!-- .slide: class="crammed" -->
 
-> "When the element to be centered is an inline element we use text-align center on its parent. When the element is a block level element we give it a width and set the left and right margins to a value of auto." [*]
+> "When the element to be centered is an **inline element** we use `text-align: center` on its parent. When the element is a **block level element** we give it a `width` and set the `left` and `right` `margins` to a value of `auto`." [*]
 
 [*]: https://vanseodesign.com/css/vertical-centering/
 
