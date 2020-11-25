@@ -320,7 +320,8 @@ div {
 |                       |                               |
 |:----------------------|------------------------------:|
 | **text alignment**    | **positioning** of blocks     |
-| `text-align: center;` | `width: 50%; margin: 0 auto;` |
+| `text-align: center;` | `width: 50%;  
+|                       |  margin: 0 auto;`             |
 | inline elements       | block elements                |
 | apply to parent       | apply to self                 |
 
