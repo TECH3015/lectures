@@ -30,6 +30,7 @@ Email: deveritt@dmu.ac.uk
 ===
 
 ## Natural/Normal Flow
+<!-- .slide: class="crammed" -->
 
 **How does your <code>HTML</code> look without <code>CSS</code>?**
 
@@ -41,6 +42,7 @@ Email: deveritt@dmu.ac.uk
 ---
 
 ### Block-level elements
+<!-- .slide: class="crammed" -->
 
 > "A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can)." [*]<!-- .element: data-preview-link -->
 
@@ -57,6 +59,7 @@ E.g. `<header>,<nav>,<div>,<section>,<h1>,<p>,<ul>,<form>,<table>,<figure>,<foot
 ---
 
 ### Inline elements
+<!-- .slide: class="crammed" -->
 
 > "An inline element does not start on a new line and only takes up as much width as necessary." [*]
 
@@ -73,6 +76,7 @@ E.g. `<a>,<span>,<code>,<button>,<strong>,<img>,<video>,<input>`
 ---
 
 ### Display Property
+<!-- .slide: class="crammed" -->
 
 There are many different [display types](https://developer.mozilla.org/en-US/docs/Web/CSS/display):
 
@@ -118,6 +122,7 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ===
 
 ## Customising Flow
+<!-- .slide: class="crammed" -->
 
 - by default items are in natural flow of html elements
 - take them out of that flow by **floating** or **positioning**
@@ -127,10 +132,11 @@ There are many different [display types](https://developer.mozilla.org/en-US/doc
 ===
 
 ### Floating Elements
+<!-- .slide: class="crammed" -->
 
 > "places an element on the left or right side of its container, allowing text and inline elements to wrap around it" [*]
 
-- used mainly for **page layout** (images within text)
+- intended mainly in **page layout** for images within text
 - turns inline elements into **block**-level elements
 - `left, right, none`
 
@@ -145,6 +151,7 @@ img {
 ---
 
 ### Clearing Floats
+<!-- .slide: class="crammed" -->
 
 - stops element after float from moving around
 - `left, right, both`
@@ -175,6 +182,7 @@ p {
 ===
 
 ### Positioning Elements
+<!-- .slide: class="crammed" -->
 
 - used for more varied uses than floats
 - elements can be positioned in one of 5 ways
@@ -189,6 +197,7 @@ p {
 ---
 
 ### Static
+<!-- .slide: class="crammed" -->
 
 - default
 - *not* affected by `top, bottom, left, right`
@@ -202,6 +211,7 @@ div {
 ---
 
 ### Relative
+<!-- .slide: class="crammed" -->
 
 - position relative to **original location**
 - affected by `top, bottom, left, right`
@@ -218,6 +228,7 @@ div {
 ---
 
 ### Absolute
+<!-- .slide: class="crammed" -->
 
 - position relative to **nearest positioned ancestor**
 - if no ancestor, then body is used
@@ -236,6 +247,7 @@ button {
 ---
 
 ### Fixed
+<!-- .slide: class="crammed" -->
 
 - position relative to the **viewport**
 - stays fixed even when scrolling
@@ -252,6 +264,7 @@ nav {
 ---
 
 ### Sticky
+<!-- .slide: class="crammed" -->
 
 - position relative to **user's scroll position**
 - stays fixed after scrolling to sticky point
@@ -267,6 +280,8 @@ nav {
 ---
 
 ### Examples
+<!-- .slide: class="crammed" -->
+
 <iframe width="100%" height="400" src="https://interactive-examples.mdn.mozilla.net/pages/css/position.html" style="background:#ccc"></iframe>
 
 [MDN CSS Demo: position](https://interactive-examples.mdn.mozilla.net/pages/css/position.html)
@@ -274,6 +289,7 @@ nav {
 ===
 
 ## Centering Things
+<!-- .slide: class="crammed" -->
 
 ***Can be complicated, BUT...***
 
@@ -289,8 +305,8 @@ div {
 
 ---
 
-
 ### Horizontal **1**
+<!-- .slide: class="crammed" -->
 
 > "When the element to be centered is an inline element we use text-align center on its parent. When the element is a block level element we give it a width and set the left and right margins to a value of auto." [*]
 
@@ -299,6 +315,7 @@ div {
 ---
 
 ### Horizontal **2**
+<!-- .slide: class="crammed" -->
 
 |                       |                               |
 |:----------------------|------------------------------:|
@@ -330,6 +347,7 @@ div {
 ---
 
 ### Vertical **1**
+<!-- .slide: class="crammed" -->
 
 - `line-height` can be used for **one** line of text
 - flexbox's `align-items:center` best for everything
