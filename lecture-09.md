@@ -213,6 +213,8 @@ img {
 }
 ```
 
+See [Flexbox tutorial (but don't use so many `div` tags!)](https://www.internetingishard.com/html-and-css/flexbox/)
+
 ---
 
 ## FLEXBOX **2**

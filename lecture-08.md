@@ -182,17 +182,16 @@ p {
 ===
 
 ### Positioning Elements
-<!-- .slide: class="crammed" -->
+<!-- .slide: class="crammed smalltext" -->
 
-- used for more varied uses than floats
-- elements can be positioned in one of 5 ways
+- more varied than floats, position elements in one of 5 ways
 - `static, relative, absolute, fixed, sticky`
 - you might need `top, bottom, left, right` too
 
 [![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
 
-[W3Schools The position Property](https://www.w3schools.com/css/css_positioning.asp)  
-[MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) + [MDN Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+[W3Schools: Position Property](https://www.w3schools.com/css/css_positioning.asp)  
+[MDN:  position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) and [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 ---
 
@@ -320,8 +319,7 @@ div {
 |                       |                               |
 |:----------------------|------------------------------:|
 | **text alignment**    | **positioning** of blocks     |
-| `text-align: center;` | `width: 50%;  
-|                       |  margin: 0 auto;`             |
+| `text-align: center;` | `width: 50%;`<br>`margin: 0 auto;` |
 | inline elements       | block elements                |
 | apply to parent       | apply to self                 |
 
