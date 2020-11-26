@@ -184,7 +184,8 @@ p {
 ### Positioning Elements
 <!-- .slide: class="crammed" -->
 
-- more varied than floats, position elements in one of 5 ways
+- more varied uses than floats, 
+- can position elements in one of 5 ways
 - `static, relative, absolute, fixed, sticky`
 - you might need `top, bottom, left, right` too
 
