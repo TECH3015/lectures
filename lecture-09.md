@@ -205,7 +205,8 @@ img {
 
 ## FLEXBOX **1**
 
-**CSS flexbox** enables the **arrangement of boxes** inside a container:
+**CSS flexbox** enables the **arrangement of boxes**  
+inside a container:
 
 ```css
 .my-boxes {
@@ -325,10 +326,14 @@ Now for a demo… revisit this anytime from the Panopto recording
 - [see the demo code](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu)
 - [see the demo in a browser](https://front-end-materials.github.io/menus/js-mobile-menu/)
 
+[More mobile menu demos with code](https://github.com/front-end-materials/menus)
+
 ===
 
-## Questions
 
-Please contact **Thom Corah, module leader**
+**CSS: ALIGN CENTER!**
+<!-- .slide: class="crammed" -->
 
-If there's anything I can answer too, he'll contact me!
+Life before flexbox…
+
+![CSS align center to diarm bomb](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/css-disarm-bomb.jpg)
