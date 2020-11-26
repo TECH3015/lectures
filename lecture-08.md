@@ -393,7 +393,7 @@ div svg {
 ---
 
 **various vertical centering**  
-[![Examples of vertical centering](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
+[![Examples of vertical centering](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical.png)](https://codepen.io/fania/pen/KKgKvZr)
 
 ===
 
