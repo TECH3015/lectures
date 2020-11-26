@@ -182,7 +182,7 @@ p {
 ===
 
 ### Positioning Elements
-<!-- .slide: class="crammed smalltext" -->
+<!-- .slide: class="crammed" -->
 
 - more varied than floats, position elements in one of 5 ways
 - `static, relative, absolute, fixed, sticky`
@@ -190,8 +190,7 @@ p {
 
 [![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
 
-[W3Schools: Position Property](https://www.w3schools.com/css/css_positioning.asp)  
-[MDN:  position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) and [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+[W3Schools: Position Property](https://www.w3schools.com/css/css_positioning.asp) | [MDN:  position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) and [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 ---
 
