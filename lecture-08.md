@@ -393,19 +393,18 @@ div svg {
 ---
 
 **various vertical centering**  
-[![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
+[![Examples of vertical centering](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/vertical.png)](https://codepen.io/faniae/pen/YzzMbGB)
 
 ===
 
-## Questions
+**CSS: Z-INDEX**
+<!-- .slide: class="crammed" -->
 
-Please contact **Thom Corah, module leader**
-
-If there's anything I can answer too, he'll contact me!
+![CSS z-index oops](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/eyebrow-z-index.jpg)
 
 <!-- 
 https://internetingishard.com/html-and-css/
 
-https://www.globalreach.com/blog/2018/01/08/5-timeless-website-layouts-and-when-theyre-most-effective
+[5-timeless-website-layouts-and-when-theyre-most-effective](https://www.globalreach.com/blog/2018/01/08/)
 
 https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/ -->
