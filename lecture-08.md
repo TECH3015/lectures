@@ -214,13 +214,14 @@ div {
 
 - position relative to **original location**
 - affected by `top, bottom, left, right`
-- leaves original space empty
+- if moved, leaves original space empty
+- is also used to give a **positioning context**
 
 ```css
-div {
+div:hover {
   position: relative;
-  bottom: 0;
-  right: 0;
+  bottom: 2px; /* e.g. move on hover */
+  right: 2px;
 }
 ```
 
@@ -230,13 +231,13 @@ div {
 <!-- .slide: class="crammed" -->
 
 - position relative to **nearest positioned ancestor**
-- if no ancestor, then body is used
-- **ancestor also needs to be positioned**
+- if no ancestor, then `body` is used as the context (container)
+- **ancestor also needs to be positioned** e.g. `relative`
 - moves with page when scrolling
 - affected by `top, bottom, left, right`
 
 ```css
-button {
+button { /* place in bottom right of a container */
   position: absolute;
   bottom: 0;
   right: 0;
@@ -249,14 +250,14 @@ button {
 <!-- .slide: class="crammed" -->
 
 - position relative to the **viewport**
-- stays fixed even when scrolling
+- stays fixed **when scrolling**
 - affected by `top, bottom, left, right`
 
 ```css
 nav {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 2em;
+  left: 10px;
 }
 ```
 
@@ -272,7 +273,7 @@ nav {
 ```css
 nav {
   position: sticky;
-  top: 0;
+  top: 10px;
 }
 ```
 
@@ -336,7 +337,7 @@ div {
 [![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/center.png)](https://codepen.io/faniae/pen/dyyaOxO)
 ```css
 div {
-  background: cyan;
+  background: silver;
   width: 50%;
   margin: 0 auto;
 }
