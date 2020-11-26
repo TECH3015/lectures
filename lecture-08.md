@@ -191,7 +191,7 @@ p {
 
 [![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/css-positioning-schemes.png)](https://internetingishard.com/html-and-css/advanced-positioning/)
 
-[W3Schools: Position Property](https://www.w3schools.com/css/css_positioning.asp) | [MDN:  position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) and [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+<small>[W3Schools: Position Property](https://www.w3schools.com/css/css_positioning.asp) | [MDN: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)</small>
 
 ---
 
@@ -317,12 +317,12 @@ div {
 ### Horizontal **2**
 <!-- .slide: class="crammed" -->
 
-|                       |                               |
-|:----------------------|------------------------------:|
-| **text alignment**    | **positioning** of blocks     |
+|                       |                                    |
+|:----------------------|-----------------------------------:|
+| **text alignment**    | block **positioning**              |
 | `text-align: center;` | `width: 50%;`<br>`margin: 0 auto;` |
-| inline elements       | block elements                |
-| apply to parent       | apply to self                 |
+| inline elements       | block elements                     |
+| apply to parent       | apply to self                      |
 
 ---
 
