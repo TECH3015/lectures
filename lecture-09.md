@@ -219,11 +219,12 @@ See [Flexbox tutorial (but don't use so many `div` tags!)](https://www.interneti
 ---
 
 ## FLEXBOX **2**
+<!-- .slide: class="crammed" -->
 
-**horizontal alignment**: use `justify-content:`:
+**horizontal alignment**: use `justify-content:`
 
-- `flex-start` group items to **left** (the start) of container
-- `flex-end` group items to **right** of container
+- `flex-start` group items to **left** (start) of container
+- `flex-end` group items to **right** (end) of container
 - `center` group items in the **center** of a container
 - `space-between` **distribute** items: first/last are left/right others are equally between
 - `space-around` **distribute** and space items **evenly**
@@ -231,8 +232,9 @@ See [Flexbox tutorial (but don't use so many `div` tags!)](https://www.interneti
 ---
 
 ## FLEXBOX **3**
+<!-- .slide: class="crammed" -->
 
-**vertical alignment**: use `align-items:`:
+**vertical alignment**: use `align-items:`
 
 - `flex-start` across top
 - `flex-end` across bottom
@@ -243,8 +245,9 @@ See [Flexbox tutorial (but don't use so many `div` tags!)](https://www.interneti
 ---
 
 ## FLEXBOX **4**
+<!-- .slide: class="crammed" -->
 
-**order of boxes**: use `flex-direction:`:
+**order of boxes**: use `flex-direction:`
 
 - `row` flow left to right
 - `row-reverse` flow right to left
