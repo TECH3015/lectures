@@ -27,7 +27,7 @@ November break
 
 - [Lecture 06: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06)
 - [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
-- [Lecture 08: HTML natural flow, manipulating and positioning elements](https:/TECH3015.github.io/presents?lecture-08)
+- [Lecture 08: HTML natural flow, manipulating and positioning elements](https://tech3015.github.io/presents/?lecture-08)
 - [Lecture 09: HTML Box Model, CSS Flexbox](https://TECH3015.github.io/presents?lecture-09)
 - [Lecture 10: Assignment 1 details, HTML structure, CSS tips, responsive web design basics](https://TECH3015.github.io/presents?lecture-10)
 
