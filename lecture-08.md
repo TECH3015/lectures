@@ -52,7 +52,7 @@ div {
 }
 ```
 
-E.g. `<header>,<nav>,<div>,<section>,<h1>,<p>,<ul>,<form>,<table>,<figure>,<footer>`
+E.g. `<header>,<nav>,<div>,<section>,<h1>,<p>,<ul>,<form>,<table>,<figure>,<footer>…`
 
 [*]: https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
 
@@ -69,7 +69,7 @@ span {
 }
 ```
 
-E.g. `<a>,<span>,<code>,<button>,<strong>,<img>,<video>,<input>`
+E.g. `<a>,<span>,<code>,<button>,<strong>,<em>,<img>,<video>,<input>…`
 
 [*]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
 
