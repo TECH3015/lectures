@@ -244,8 +244,9 @@ if you're **not here now** watch the [Panopto recording](https://dmureplay.cloud
 
 ===
 
-## Questions
+**CSS: errr**
+<!-- .slide: class="crammed" -->
 
-Please contact **Thom Corah, module leader**
+CSS chin moustache…
 
-If there's anything I can answer too, he'll contact me!
+![chin moustache CSS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/moustache-css-position.jpg)

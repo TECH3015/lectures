@@ -101,8 +101,9 @@ WEBSITE: 60% of the coursework mark
 
 ===
 
-## Questions
+**CSS: lining things up**
+<!-- .slide: class="crammed" -->
 
-Please contact **Thom Corah, module leader**
+ARRGGH getting things to line up…
 
-If there's anything I can answer too, he'll contact me!
+![getting things to line up with CSS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/humanty-victories-not-css.jpg)

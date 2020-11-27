@@ -333,7 +333,6 @@ Now for a demo… revisit this anytime from the Panopto recording
 
 ===
 
-
 **CSS: ALIGN CENTER!**
 <!-- .slide: class="crammed" -->
 

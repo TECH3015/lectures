@@ -37,6 +37,8 @@ Winter break
 
 ---
 
+<!-- LECTURE 11? -->
+
 ## Lecture slides, term 2:
 
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
