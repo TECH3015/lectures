@@ -68,21 +68,23 @@ Optional—**also good to include**:
 
 **5 marking criteria @ 20% each**
 
-- Information Architecture
-- Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
-
-See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
-
-<!-- flipping direct links NOT WORK!! -->
+<!-- flipping direct links NOT WORK!! And I CBA to update them now -->
 <!-- - [Information Architecture](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#informationarchitecture)
 - [Responsiveness](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#responsiveness)
 - [Design & Interaction](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#designandinteraction)
 - [Accessibility](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#accessibility)
 - [Critical Analaysis](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#criticalanalysis)
  -->
+
+<!-- BUT these do -->
+
+- [Information Architecture](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#informationarchitecture)
+- [Responsiveness](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#responsiveness)
+- [Design & Interaction](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#designandinteraction)
+- [Accessibility](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#accessibility)
+- [Critical Analaysis](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#critical-analysis)
+
+See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
 
 ---
 
