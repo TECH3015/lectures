@@ -41,7 +41,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- LECTURE 11: (TBC - move RWD from lecture 10 and add more JavaScript)
+- LECTURE 11: (TBC - move RWD from lecture 10 and add JavaScript debugging)
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
@@ -60,16 +60,16 @@ February break
 - [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20)
 
 <!--
-NOT COVERED: bad UI, PWAs, html templates, console methods, databases/pouch
-See: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
+NOT COVERED:
+
+- html templates
+- console methods
+- databases/pouch see: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
 -->
  
 ---
 
 ## TO DO:
 
-- [ ] move CTEC3905 styles here 
-- [ ] change TECH3015 slide bg colour
+- [ ] try CTEC3905 styles here?
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
-- [x] remove and redirect demo code "layout-rwd.html" and "layout.html" to front-end-materials orgnisation
-- [x] check through previous lectures after the recent stylesheet update
