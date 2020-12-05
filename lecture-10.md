@@ -34,6 +34,9 @@ finishing assignment 1:
 ---
 
 ## ASSIGNMENT 1 **02**
+<!-- .slide: class="crammed" -->
+
+**Due:** 12pm (midday) on Monday 21/12/2020
 
 Crucial—**you must hand these in**:
 
@@ -47,6 +50,7 @@ Crucial—**you must hand these in**:
 ---
 
 ## ASSIGNMENT 1 **03**
+<!-- .slide: class="crammed" -->
 
 Optional—**also good to include**:
 
@@ -60,16 +64,28 @@ Optional—**also good to include**:
 ---
 
 ## ASSIGNMENT 1 **04**
+<!-- .slide: class="crammed" -->
 
 **5 marking criteria @ 20% each**
 
-- Information Architecture
-- Responsiveness
-- Design & Interaction
-- Accessibility
-- Critical Analaysis
+- [Information Architecture](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#informationarchitecture)
+- [Responsiveness](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#responsiveness)
+- [Design & Interaction](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#designandinteraction)
+- [Accessibility](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#accessibility)
+- [Critical Analaysis](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#criticalanalysis)
 
-See the [full Marking Criteria](https://tech3015.github.io/lectures/coursework-01.html#marking-criteria)
+See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
+
+---
+
+## ASSIGNMENT 1 **05**
+<!-- .slide: class="crammed" -->
+
+**Learning outcomes**
+
+- **Understand and evaluate complex issues** related to browser platforms, accessibility, usability and mobile access when developing dynamic and animated content on the web.
+- **Collect, evaluate, and analyse feedback** from users at various points in the development cycle of a Multimedia application.
+- **Develop strategies** for the effective design and planning of a multimedia production
 
 ===
 
@@ -82,13 +98,13 @@ See the [full Marking Criteria](https://tech3015.github.io/lectures/coursework-0
 
 ===
 
-<!-- HTML5 REVISITED -->
-<!-- in: https://github.com/CTEC3905/10-lecture -->
+<!-- HTML5 REVISITED 05dec2020-->
+<!-- also in: https://github.com/CTEC3905/10-lecture -->
 
 ## SEMANTIC STRUCTURE **01**
 
 - **header, footer**: optional within a **page or section**
-- use footer/header for **complex content** about the containing element e.g. *author*, *copyright*, links to *terms of use*, *contact* info.
+- use header/footer for **complex content** about the containing element e.g. *author*, *copyright*, links to *terms of use*, *contact* info.
 - **nav**: only for **major navigation links** - one only
 - **article, section** can **contain each other** e.g. newspaper: a *games section* can have *game articles* with *technical sections* in each one
 
@@ -180,7 +196,8 @@ resources
 
 ## RESPONSIVE WEB DESIGN **01**
 
-<!-- https://ctec3905.github.io/05-lecture/#/2 -->
+<!-- RWD updated 05dec2020 -->
+<!-- also in https://ctec3905.github.io/05-lecture/#/2 -->
 
 to get started, here’s **all you need**…
 
@@ -189,8 +206,8 @@ to get started, here’s **all you need**…
 - `min-width` up (**not** max-width) for **increasing widths**
 - `<meta name="viewport" content="width=device-width, initial-scale=1.0">` in the HTML `head`
 
-<!-- See the [responsive starter code](https://github.com/CTEC3905/starter-code)! -->
-<!-- See the [responsive starter code](https://github.com/DaveEveritt/starter-code)! -->
+See the [responsive example](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
+See the [responsive example code](https://github.com/front-end-materials/page-layouts/tree/master/responsive-page-outline)
 
 ---
 

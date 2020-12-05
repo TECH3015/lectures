@@ -338,4 +338,4 @@ Now for a demo… revisit this anytime from the Panopto recording
 
 Life before flexbox…
 
-![CSS align center to diarm bomb](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/css-disarm-bomb.jpg)
+![CSS align center to disarm a bomb](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/css-disarm-bomb.jpg)
