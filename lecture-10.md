@@ -138,9 +138,10 @@ Important, because **good semantic structure** addresses:
 
 the distinction between `figure` and `aside`
 
-- `aside`: supplementary content **related** to surroundings e.g. boxout
-- `aside`: for content simply **related** but **not essential**
-- `figure`: for **essential** content where **position** in the flow of related text isn’t important
+- `aside`: extra content **related** to main e.g. boxout, quote
+- `aside`: **non-essential** content in the flow of text
+- `figure`: **essential** content where **position** in the text is optional
+- `figure`: has a **caption** e.g image, graph, diagram…
 
 [The figure & figcaption elements (2010)](http://html5doctor.com/the-figure-figcaption-elements/)  
 [Keep up-to-date: what's arrived/changed in HTML5](https://www.w3.org/TR/html/changes.html "W3C Recommendation, 1 November 2016")
