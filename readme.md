@@ -29,7 +29,7 @@ November break
 - [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
 - [Lecture 08: HTML natural flow, manipulating and positioning elements (+demos)](https://tech3015.github.io/presents/?lecture-08)
 - [Lecture 09: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09)
-- [Lecture 10: Assignment 1 details, HTML structure, CSS tips, responsive web design basics](https://TECH3015.github.io/presents?lecture-10)
+- [Lecture 10: Assignment 1 details, Semantic HTML, CSS tips, Responsive Web Design basics](https://TECH3015.github.io/presents?lecture-10)
 
 ---
 
@@ -41,6 +41,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
+- LECTURE 11: (TBC - stuff omitted from lecture 10 and/or more JavaScript)
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)

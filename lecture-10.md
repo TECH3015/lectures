@@ -29,7 +29,7 @@ finishing assignment 1:
 - **user feedback**:
   - state number of users
   - present in a table
-- **revise** any [lectures you missed](https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_550284_1&handle=announcements_entry&mode=view)
+- **revise** any [lectures you missed](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_562055_1&content_id=_4770346_1&mode=reset)
 
 ---
 
@@ -54,12 +54,12 @@ Crucial—**you must hand these in**:
 
 Optional—**also good to include**:
 
-- *site map*
-- *content* inventory
-- *user/task* stories and/or profiles
-- *moodboard*, colour theme, font choices, etc.
-- consistently-formatted *references*
-- other material that shows your *process*
+- **site map**
+- **content** inventory
+- **user/task** stories and/or profiles
+- **moodboard**, colour theme, font choices, etc.
+- consistently-formatted **references**
+- other material that shows your **process**
 
 ---
 
@@ -68,13 +68,21 @@ Optional—**also good to include**:
 
 **5 marking criteria @ 20% each**
 
-- [Information Architecture](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#informationarchitecture)
+- Information Architecture
+- Responsiveness
+- Design & Interaction
+- Accessibility
+- Critical Analaysis
+
+See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
+
+<!-- flipping direct links NOT WORK!! -->
+<!-- - [Information Architecture](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#informationarchitecture)
 - [Responsiveness](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#responsiveness)
 - [Design & Interaction](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#designandinteraction)
 - [Accessibility](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#accessibility)
 - [Critical Analaysis](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#criticalanalysis)
-
-See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
+ -->
 
 ---
 
@@ -102,6 +110,7 @@ See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.
 <!-- also in: https://github.com/CTEC3905/10-lecture -->
 
 ## SEMANTIC STRUCTURE **01**
+<!-- .slide: class="crammed" -->
 
 - **header, footer**: optional within a **page or section**
 - use header/footer for **complex content** about the containing element e.g. *author*, *copyright*, links to *terms of use*, *contact* info.
@@ -111,6 +120,7 @@ See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.
 ---
 
 ## SEMANTIC STRUCTURE **02**
+<!-- .slide: class="crammed" -->
 
 Important, because **good semantic structure** addresses:
 
@@ -122,6 +132,7 @@ Important, because **good semantic structure** addresses:
 ---
 
 ## SEMANTIC STRUCTURE **03**
+<!-- .slide: class="crammed" -->
 
 the distinction between `figure` and `aside`
 
@@ -135,6 +146,7 @@ the distinction between `figure` and `aside`
 ---
 
 ## SEMANTIC STRUCTURE **04**
+<!-- .slide: class="crammed" -->
 
 HTML5 tags for **AUDIO & VIDEO**:
 
@@ -149,6 +161,7 @@ Really want to push things? [Learning How to Capture and Record Audio in HTML5](
 ---
 
 ## SEMANTIC STRUCTURE **05**
+<!-- .slide: class="crammed" -->
 
 resources
 
@@ -163,6 +176,7 @@ resources
 <!-- https://ctec3905.github.io/10-lecture/#/6 -->
 
 ## CSS REVISITED **01**
+<!-- .slide: class="crammed" -->
 
 - **classes are reusable** in an HTML file, **IDs are unique**!
   
@@ -172,6 +186,7 @@ resources
 ---
 
 ## CSS REVISITED **02**
+<!-- .slide: class="crammed" -->
 
 - **don’t duplicate style rules** or whole **style blocks**…
   
@@ -181,6 +196,7 @@ resources
 ---
 
 ## CSS REVISITED **02**
+<!-- .slide: class="crammed" -->
 
 **styles/my.css** needs a **path to find** images:
 
@@ -195,6 +211,7 @@ resources
 ===
 
 ## RESPONSIVE WEB DESIGN **01**
+<!-- .slide: class="crammed" -->
 
 <!-- RWD updated 05dec2020 -->
 <!-- also in https://ctec3905.github.io/05-lecture/#/2 -->
@@ -212,6 +229,7 @@ See the [responsive example code](https://github.com/front-end-materials/page-la
 ---
 
 ## RESPONSIVE WEB DESIGN **02**
+<!-- .slide: class="crammed" -->
 
 A **mobile-first** CSS example:
 
@@ -234,6 +252,7 @@ main { padding: .75em 10px; }
 ---
 
 ## RESPONSIVE WEB DESIGN **03**
+<!-- .slide: class="crammed" -->
 
 ### **NATURAL** BREAKPOINTS
 
