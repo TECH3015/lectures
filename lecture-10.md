@@ -68,7 +68,7 @@ Optional—**also good to include**:
 
 **5 marking criteria @ 20% each**
 
-<!-- flipping direct links NOT WORK!! And I CBA to update them now -->
+<!-- flipping direct links NOT WORK!! But I CBA to update them in the handbook now -->
 <!-- - [Information Architecture](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#informationarchitecture)
 - [Responsiveness](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#responsiveness)
 - [Design & Interaction](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#designandinteraction)
@@ -104,7 +104,7 @@ See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.
 - [basic HTML structure](#/4)
 - [quick CSS tips](#/5)
 - [responsive web design basics](#/6)
-- [RWD breakpoint demo](#/7)
+- [RWD breakpoint demo](#/6)
 
 ===
 
@@ -270,15 +270,10 @@ Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/c
 ## RESPONSIVE WEB DESIGN **04**
 <!-- .slide: class="crammed" -->
 
-Now the second demo…
+**Mobile menus**: reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lecture-09#/4)
 
-Making the mobile design responsive
-
-if you're **not here now** watch the [Panopto recording](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f7f57a2-8b99-4674-9d95-ab1f00997b76)!
-
-- [demo: responsive layout (code)](https://github.com/front-end-materials/page-layouts/tree/master/responsive-page-outline)
-- [demo: (browser, use Chrome mobile view)](https://front-end-materials.github.io/page-layouts/responsive-page-outline/)
-- last week's demo: simple mobile menu [(code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu), [(browser)](https://front-end-materials.github.io/menus/js-mobile-menu/)
+- [Last week's demo: mobile menu, animated slide-in (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-side), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
+- [Extra demo: mobile menu, accessible, bottom-up (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-bottom), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-bottom/)
 
 ===
 
