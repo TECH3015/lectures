@@ -62,9 +62,9 @@ February break
 <!--
 NOT COVERED:
 
+- SEE front-end-materials readme for some JS
 - html templates
 - console methods
-- SEE front-end-materials readme for some JS
 - databases/pouch see: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
 -->
  
