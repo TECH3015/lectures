@@ -101,9 +101,9 @@ See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.
 
 ## LECTURE 10 CONTENT
 
-- [basic HTML structure](#/4)
-- [quick CSS tips](#/5)
-- [responsive web design basics](#/6)
+- [HTML semantic structure](#/4)
+- [Quick CSS tips](#/5)
+- [Responsive Web Design (RWD) basics](#/6)
 - [RWD breakpoint demo](#/6)
 
 ===
@@ -127,7 +127,7 @@ See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.
 Important, because **good semantic structure** addresses:
 
 - **access needs** for disabled users
-- is **good UI and IA** practice
+- is **good UI** and aids **Information Architecture**
 - enables **machine processing** of web-based content
 - improves **searchability** and [SEO](https://support.google.com/webmasters/answer/40349?hl=en "Search Engine Optimisation")
 
@@ -155,10 +155,10 @@ HTML5 tags for **AUDIO & VIDEO**:
 - `video`: [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/video) and [W3Schools HTML video tag](http://www.w3schools.com/TAgs/tag_video.asp)
 - `audio`: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio) and [W3Schools HTML audio tag](http://www.w3schools.com/TAgs/tag_audio.asp)
 
-The `src` attribute can read media files  
-(e.g. .mpeg, .wav. .mp4…) hosted elsewhere.
+The `src` attribute can also read media files  
+(e.g. .mpeg, .wav, .mp4…) hosted elsewhere.
 
-Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://medium.com/@yushulx/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
+Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://yushulx.medium.com/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
 
 ---
 
@@ -202,7 +202,7 @@ resources
 
 **styles/my.css** needs a **path to find** images:
 
-- **NO**: looks for 'images/' in the CSS folder:  
+- **NO**: looks for 'images/' in the 'styles' folder:  
 	`background: url('images/pic.jpg');`
 
 - **YES**: goes **up and out** of 'styles/' and **into** 'images/'  
@@ -270,16 +270,16 @@ Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/c
 ## RESPONSIVE WEB DESIGN **04**
 <!-- .slide: class="crammed" -->
 
-**Mobile menus**: reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lecture-09#/4)
+### Mobile **menus**
+
+Reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lecture-09#/4)
 
 - [Last week's demo: mobile menu, animated slide-in (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-side), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
 - [Extra demo: mobile menu, accessible, bottom-up (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-bottom), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-bottom/)
 
 ===
 
-**CSS: errr**
+**CSS: chin moustache…**
 <!-- .slide: class="crammed" -->
-
-CSS chin moustache…
 
 ![chin moustache CSS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/moustache-css-position.jpg)
