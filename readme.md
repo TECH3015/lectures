@@ -41,7 +41,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- LECTURE 11: (TBC - stuff omitted from lecture 10 and/or more JavaScript)
+- LECTURE 11: (TBC - move RWD from lecture 10 and add more JavaScript)
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)

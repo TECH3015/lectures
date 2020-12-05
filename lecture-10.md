@@ -197,7 +197,7 @@ resources
 
 ---
 
-## CSS REVISITED **02**
+## CSS REVISITED **03**
 <!-- .slide: class="crammed" -->
 
 **styles/my.css** needs a **path to find** images:
@@ -274,7 +274,7 @@ Use the [Chrome inspector mobile icon](https://developers.google.com/web/tools/c
 
 Reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lecture-09#/4)
 
-- [Last week's demo: mobile menu, animated slide-in (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-side), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
+- [Lecture 09 demo: mobile menu, animated slide-in (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-side), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
 - [Extra demo: mobile menu, accessible, bottom-up (code)](https://github.com/front-end-materials/menus/tree/master/js-mobile-menu-anim-bottom), [(browser demo)](https://front-end-materials.github.io/menus/js-mobile-menu-anim-bottom/)
 
 ===
