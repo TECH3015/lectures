@@ -16,57 +16,11 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## ASSIGNMENT 1 **01**
-<!-- .slide: class="crammed" -->
-
-**Due:** 12pm (midday) on Monday 21/12/2020
-
-Crucial—**you must hand these in**:
-
-- a brief **outline** explaining what your website is about
-- **wireframes** (*mobile*, *tablet*, *desktop*)
-- **design** sketches, finished design/mockup
-- evidence of **user feedback**
-- commentary/annotations for **images**
-- critical **analysis**
-
----
-
-## ASSIGNMENT 1 **03**
-<!-- .slide: class="crammed" -->
-
-Optional—**also good to include**:
-
-- **site map**
-- **content** inventory
-- **user/task** stories and/or profiles
-- **moodboard**, colour theme, font choices, etc.
-- consistently-formatted **references**
-- other material that shows your **process**
-
----
-
-## ASSIGNMENT 1 **04**
-<!-- .slide: class="crammed" -->
-
-**5 marking criteria @ 20% each**
-
-- [Information Architecture](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#information-architecture)
-- [Responsiveness](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#responsiveness)
-- [Design & Interaction](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#design-and-interaction)
-- [Accessibility](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#accessibility)
-- [Critical Analaysis](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#critical-analysis)
-
-See the [module handbook](https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#coursework1) for full details
-
-===
-
 ## LECTURE 10 CONTENT
 
 - [Quick CSS tips](#/5)
 - [Responsive Web Design (RWD) basics](#/6)
 - [RWD breakpoint demo](#/6)
-
 
 ===
 
