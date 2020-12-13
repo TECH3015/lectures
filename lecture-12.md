@@ -101,7 +101,11 @@ WEBSITE: 60% of the coursework mark
 
 ===
 
-**FUNNY_THING**
+**CSS: align-face**
 <!-- .slide: class="crammed" -->
 
-![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING.jpg)
+```css
+.face { text-align: left; }
+```
+
+![Picachu css align face](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/picachu-css-rewrite.jpg)

@@ -144,7 +144,7 @@ Add a **breakpoint**, then **step** through code, **track variable values**, etc
 ```js
 function potentiallyBuggyCode() {
   debugger;
-  // do potentially buggy stuff, examine, step through, etc.
+  // potentially buggy code: examine, step through, etc.
 }
 ```
 

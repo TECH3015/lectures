@@ -137,8 +137,11 @@ localStorage.addEventListener("change", myFunction);
 
 ===
 
-## Questions
+**FUNNY_THING**
+<!-- .slide: class="crammed" -->
 
-Please contact **Thom Corah, module leader**
+```
+FUNNY_THING
+```
 
-If there's anything I can answer too, he'll contact me!
+![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)

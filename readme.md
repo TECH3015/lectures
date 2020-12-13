@@ -41,7 +41,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- LECTURE 11: CSS tips, Responsive Web Design FUNDAMENTALS!
+- Lecture 11: CSS tips, Responsive Web Design… RWD FUNDAMENTALS YAY!
 - Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos
 - Lecture 13: how JavaScript works, demos (change link colours, mobile menu)
 - Lecture 14: JavaScript, demos (animated mobile menus)
