@@ -171,7 +171,8 @@ Really want to push things? [Learning How to Capture and Record Audio in HTML5](
 
 ===
 
-# JS: TWO TIPS
+## JS: TWO TIPS
+<!-- .slide: class="crammed" -->
 
 This is **ALL** you need to get **your JavaScript file**:
 
