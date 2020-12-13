@@ -101,7 +101,7 @@ WEBSITE: 60% of the coursework mark
 
 ===
 
-**CSS: lining things up**
+**FUNNY_THING**
 <!-- .slide: class="crammed" -->
 
 ![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING.jpg)

@@ -139,7 +139,23 @@ the distinction between `figure` and `aside`
 
 ---
 
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/layout/html5-element-flowchart.png" data-background-size="contain" -->
+
+---
+
 ## SEMANTIC STRUCTURE **04**
+<!-- .slide: class="crammed" -->
+
+resources
+
+- [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) 
+- [Avoiding common HTML5 mistakes](http://html5doctor.com/avoiding-common-html5-mistakes/)
+
+<!-- END HTML5 REVISITED -->
+
+---
+
+## SEMANTIC STRUCTURE **05**
 <!-- .slide: class="crammed" -->
 
 HTML5 tags for **AUDIO & VIDEO**:
@@ -152,21 +168,9 @@ The `src` attribute can also read media files
 
 Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://yushulx.medium.com/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
 
----
-
-## SEMANTIC STRUCTURE **05**
-<!-- .slide: class="crammed" -->
-
-resources
-
-- [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) 
-- [Avoiding common HTML5 mistakes](http://html5doctor.com/avoiding-common-html5-mistakes/)
-
-<!-- END HTML5 REVISITED -->
-
 ===
 
-**CSS: chin moustache…**
+**CSS: chinstache…**
 <!-- .slide: class="crammed" -->
 
 ```css
