@@ -168,6 +168,23 @@ The `src` attribute can also read media files
 
 Really want to push things? [Learning How to Capture and Record Audio in HTML5](https://yushulx.medium.com/learning-how-to-capture-and-record-audio-in-html5-6fe68a769bf9) (Patchy browser support)
 
+
+===
+
+# JS: TWO TIPS
+
+This is **ALL** you need to get **your JavaScript file**:
+
+```html
+<script src="myscript.js"></script>
+```
+
+…add it **just before** the closing `</body>` tag!
+
+…and here is a JavaScript style guide—some are way too wordy, so use this one…
+
+[W3Schools has a good, brief style guide](https://www.w3schools.com/js/js_conventions.asp)
+
 ===
 
 **CSS: chinstache…**

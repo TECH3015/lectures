@@ -154,14 +154,6 @@ function potentiallyBuggyCode() {
 
 ===
 
-# JS: STYLE GUIDE
-
-some style guides are extremely long and a little bit too wordy, so…
-
-[W3Schools has a good, brief style guide](https://www.w3schools.com/js/js_conventions.asp)
-
-===
-
 ## DEMO
 
 - [Dense grid](https://codepen.io/faniae/pen/QWWoZem)
