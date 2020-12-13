@@ -29,7 +29,7 @@ November break
 - [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
 - [Lecture 08: HTML natural flow, manipulating and positioning elements (+demos)](https://tech3015.github.io/presents/?lecture-08)
 - [Lecture 09: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09)
-- [Lecture 10: Assignment 1 details, Semantic HTML, CSS tips, Responsive Web Design basics](https://TECH3015.github.io/presents?lecture-10)
+- [Lecture 10: Assignment 1 details, Semantic HTML](https://TECH3015.github.io/presents?lecture-10)
 
 ---
 
@@ -41,12 +41,18 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- LECTURE 11: (TBC - move RWD from lecture 10 and add JavaScript debugging)
-- [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
+- LECTURE 11: CSS tips, Responsive Web Design FUNDAMENTALS!
+- Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos
+- Lecture 13: how JavaScript works, demos (change link colours, mobile menu)
+- Lecture 14: JavaScript, demos (animated mobile menus)
+- Lecture 15: JavaScript and local storage
+- Lecture 16: JSON data and 3rd-party APIs
+
+<!-- - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13)
 - [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
-- [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16)
+- [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) -->
 
 ---
 
@@ -54,10 +60,15 @@ February break
 
 ---
 
-- [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
+- Lecture 17: more API examples, GitHub sign-up, Typography
+- Lecture 18: Web Animation
+- Lecture 19: detailed assignment criteria recap
+- Lecture 20: live websites, Progressive Web Apps, further resources
+
+<!-- - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
 - [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18)
 - [Lecture 19: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19)
-- [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20)
+- [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20) -->
 
 <!--
 NOT COVERED:

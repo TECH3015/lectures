@@ -104,6 +104,4 @@ WEBSITE: 60% of the coursework mark
 **CSS: lining things up**
 <!-- .slide: class="crammed" -->
 
-ARRGGH getting things to line up…
-
-![getting things to line up with CSS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/humanty-victories-not-css.jpg)
+![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING.jpg)

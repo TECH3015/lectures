@@ -16,11 +16,11 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## LECTURE 10 CONTENT
+## LECTURE 11 CONTENT
 
-- [Quick CSS tips](#/5)
-- [Responsive Web Design (RWD) basics](#/6)
-- [RWD breakpoint demo](#/6)
+- [Quick CSS tips](#/3)
+- [Responsive Web Design (RWD) basics](#/4)
+- [RWD breakpoint demo](#/5)
 
 ===
 
@@ -199,4 +199,6 @@ Reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lectur
 **COMEDY SLIDE**
 <!-- .slide: class="crammed" -->
 
-![eyebrow z-index](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/eyebrow-z-index.jpg)
+**ARRGGH** getting things to **line up**…
+
+![getting things to line up with CSS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/humanty-victories-not-css.jpg)

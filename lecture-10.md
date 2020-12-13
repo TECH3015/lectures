@@ -29,7 +29,7 @@ finishing assignment 1:
 - **user feedback**:
   - state number of users
   - present in a table
-- **revise** any [lectures you missed](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_562055_1&content_id=_4770346_1&mode=reset)
+- **watch** any [lectures you missed](https://github.com/TECH3015/lectures#welcome-to-tech3015)
 
 ---
 
@@ -129,9 +129,9 @@ Important, because **good semantic structure** addresses:
 
 the distinction between `figure` and `aside`
 
-- `aside`: extra content **related** to main e.g. boxout, quote
+- [`aside`](https://www.w3resource.com/html5/aside-tutorial.php): extra content **related** to main e.g. boxout, quote
 - `aside`: **non-essential** content in the flow of text
-- `figure`: **essential** content where **position** in the text is optional
+- [`figure`](https://www.w3resource.com/html5/figure-tutorial.php): **essential** content where **position** in the text is optional
 - `figure`: has a **caption** e.g image, graph, diagram…
 
 [The figure & figcaption elements (2010)](http://html5doctor.com/the-figure-figcaption-elements/)  
