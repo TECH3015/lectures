@@ -27,7 +27,7 @@ November break
 
 - [Lecture 06: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e870023-04af-4213-908a-ac6a0128426b))
 - [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=275a63ea-f0a8-4519-b027-ac7e00f55a68))
-- [Lecture 08: HTML natural flow, manipulating and positioning elements (+demos)](https://tech3015.github.io/presents/?lecture-08) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de2f7e54-40c2-4311-90e5-ac80010f44b8))
+- [Lecture 08: HTML natural flow, manipulating and positioning elements +demos](https://tech3015.github.io/presents/?lecture-08) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de2f7e54-40c2-4311-90e5-ac80010f44b8))
 - [Lecture 09: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91b7c413-e490-46da-a37b-ac80012176bd))
 - [Lecture 10: Assignment 1 details, Semantic HTML](https://TECH3015.github.io/presents?lecture-10) or watch ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=917781e7-ecff-4d04-a0d4-ac90013fac55))
 
@@ -41,8 +41,8 @@ Winter break
 
 - Lecture 11: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!
 - Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos
-- Lecture 13: how JavaScript works, demos (change link colours, mobile menu)
-- Lecture 14: JavaScript, demos (animated mobile menus)
+- Lecture 13: how JavaScript works, demos: change link colours, mobile menu
+- Lecture 14: JavaScript, debugging in the browser, mobile menu reminder code
 - Lecture 15: JavaScript and local storage
 - Lecture 16: JSON data and 3rd-party APIs
 
@@ -50,7 +50,7 @@ Winter break
 - [Lecture 11: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!]https://TECH3015.github.io/presents?lecture-11) or watch ([video]())
 - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12) or watch ([video]())
 - [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13) or watch ([video]())
-- [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14) or watch ([video]())
+- [Lecture 14: JavaScript, debugging in the browser, mobile menu reminder code](https://TECH3015.github.io/presents?lecture-14) or watch ([video]())
 - [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15) or watch ([video]())
 - [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) or watch ([video]())
 -->
