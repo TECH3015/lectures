@@ -13,11 +13,11 @@ This repository holds all the TECH3015 lectures
 
 ## Lecture slides, term 1:
 
-- [Lecture 01: introduction, overview and assignments](https://TECH3015.github.io/presents?lecture-01)
-- [Lecture 02: planning your site, refresher of HTML5 and CSS](https://TECH3015.github.io/presents?lecture-02)
-- [Lecture 03: accessibility, Information Architecture, wireframes](https://TECH3015.github.io/presents?lecture-03)
-- [Lecture 04: Assignment 1 reminder, design principles](https://TECH3015.github.io/presents?lecture-04)
-- [Lecture 05: style guides, design trends](https://TECH3015.github.io/presents?lecture-05)
+- [Lecture 01: introduction, overview and assignments](https://TECH3015.github.io/presents?lecture-01) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5900e5e0-d40b-4cfd-9b39-ac4a00b900ee))
+- [Lecture 02: planning your site, refresher of HTML5 and CSS](https://TECH3015.github.io/presents?lecture-02) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9bc6c18a-53b5-4ba4-80bb-ac4e01056fb1))
+- [Lecture 03: accessibility, Information Architecture, wireframes](https://TECH3015.github.io/presents?lecture-03) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22011d37-727b-493a-8c57-ac5300fc8e42))
+- [Lecture 04: Assignment 1 reminder, PARC design principles](https://TECH3015.github.io/presents?lecture-04) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9c997e6c-da6e-4838-bd32-ac5600ce0d87))
+- [Lecture 05: style guides, design trends](https://TECH3015.github.io/presents?lecture-05) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=45a449e4-a011-49b2-bac8-ac62014912ed))
 
 ---
 
@@ -25,11 +25,11 @@ November break
 
 ---
 
-- [Lecture 06: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06)
-- [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07)
-- [Lecture 08: HTML natural flow, manipulating and positioning elements (+demos)](https://tech3015.github.io/presents/?lecture-08)
-- [Lecture 09: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09)
-- [Lecture 10: Assignment 1 details, Semantic HTML](https://TECH3015.github.io/presents?lecture-10)
+- [Lecture 06: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e870023-04af-4213-908a-ac6a0128426b))
+- [Lecture 07: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=275a63ea-f0a8-4519-b027-ac7e00f55a68))
+- [Lecture 08: HTML natural flow, manipulating and positioning elements (+demos)](https://tech3015.github.io/presents/?lecture-08) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de2f7e54-40c2-4311-90e5-ac80010f44b8))
+- [Lecture 09: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91b7c413-e490-46da-a37b-ac80012176bd))
+- [Lecture 10: Assignment 1 details, Semantic HTML](https://TECH3015.github.io/presents?lecture-10) ([video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=917781e7-ecff-4d04-a0d4-ac90013fac55))
 
 ---
 
@@ -37,22 +37,22 @@ Winter break
 
 ---
 
-<!-- LECTURE 11? -->
-
 ## Lecture slides, term 2:
 
-- Lecture 11: CSS tips, Responsive Web Design… RWD FUNDAMENTALS YAY!
+- Lecture 11: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!
 - Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos
 - Lecture 13: how JavaScript works, demos (change link colours, mobile menu)
 - Lecture 14: JavaScript, demos (animated mobile menus)
 - Lecture 15: JavaScript and local storage
 - Lecture 16: JSON data and 3rd-party APIs
 
-<!-- - [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12)
-- [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13)
-- [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14)
-- [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15)
-- [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) -->
+<!--
+- [Lecture 12: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12) ([video]())
+- [Lecture 13: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13) ([video]())
+- [Lecture 14: JavaScript, demos (animated mobile menus)](https://TECH3015.github.io/presents?lecture-14) ([video]())
+- [Lecture 15: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15) ([video]())
+- [Lecture 16: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) ([video]())
+-->
 
 ---
 
@@ -65,10 +65,12 @@ February break
 - Lecture 19: detailed assignment criteria recap
 - Lecture 20: live websites, Progressive Web Apps, further resources
 
-<!-- - [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17)
-- [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18)
-- [Lecture 19: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19)
-- [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20) -->
+<!--
+- [Lecture 17: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17) ([video]())
+- [Lecture 18: Web Animation](https://TECH3015.github.io/presents?lecture-18) ([video]())
+- [Lecture 19: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) ([video]())
+- [Lecture 20: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20) ([video]())
+-->
 
 <!--
 NOT COVERED:
