@@ -61,16 +61,16 @@ February break
 
 ---
 
-- **Lecture 17**: more API examples, GitHub sign-up, Typography
+- **Lecture 17**: more API examples, your site on GitHub, Typography
 - **Lecture 18**: Web Animation
 - **Lecture 19**: detailed assignment criteria recap
-- **Lecture 20**: live websites, Progressive Web Apps, further resources
+- **Lecture 20**: live websites, Progressive Web App extras, further resources
 
 <!--
-- [**Lecture 17**: more API examples, GitHub sign-up, Typography](https://TECH3015.github.io/presents?lecture-17) (or see [the video]())
+- [**Lecture 17**: more API examples, your site on GitHub, Typography](https://TECH3015.github.io/presents?lecture-17) (or see [the video]())
 - [**Lecture 18**: Web Animation](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
-- [**Lecture 20**: live websites, Progressive Web Apps, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
+- [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 -->
 
 <!--
