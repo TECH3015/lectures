@@ -39,7 +39,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- Le**cture **11: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!
+- **Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!
 - **Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS demos
 - **Lecture 13**: how JavaScript works, demos: change link colours, mobile menu
 - **Lecture 14**: JavaScript, debugging in the browser, mobile menu reminder code
