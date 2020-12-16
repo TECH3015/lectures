@@ -53,10 +53,10 @@ Questions for your tutor:
 ## Assignment deadlines:
 
 - **Assignment 1 (40%):**  
-midday (12pm) on Monday 21st December 2020
+12pm (midday) on Monday 11 January 2021
 
 - **Assignment 2 (60%):**  
-midday (12pm) on Tuesday 4th May 2021
+12pm (midday) on Tuesday 04 May 2021
 
 Full assignment criteria covered in later lectures
 

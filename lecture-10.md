@@ -36,7 +36,7 @@ finishing assignment 1:
 ## ASSIGNMENT 1 **02**
 <!-- .slide: class="crammed" -->
 
-**Due:** 12pm (midday) on Monday 21/12/2020
+**Due:** 12pm (midday) on Monday 11 January 2021
 
 Crucial—**you must hand these in**:
 
