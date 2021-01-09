@@ -20,7 +20,6 @@ Email: deveritt@dmu.ac.uk
 
 - [Quick CSS tips](#/3)
 - [Responsive Web Design (RWD) basics](#/4)
-- [RWD breakpoint demo](#/5)
 
 ===
 
@@ -30,7 +29,8 @@ Email: deveritt@dmu.ac.uk
 ## CSS TIPS **01**
 <!-- .slide: class="crammed" -->
 
-- **classes are reusable** in an HTML file, **IDs are unique**!
+- **classes** are **reusable** in your HTML files
+- **ID**s are **unique**!
   
 - you can use **more than one class** on one element:  
   `class="mything myclass anotherclass"`
@@ -57,6 +57,37 @@ Email: deveritt@dmu.ac.uk
 
 - **YES**: goes **up and out** of 'styles/' and **into** 'images/'  
   `background: url('../images/pic.jpg');`
+
+---
+
+## CSS TIPS **04**
+<!-- .slide: class="crammed" -->
+
+Keep your CSS **in order**:
+
+- `@font-face` at the top fo custom fonts
+- set **CSS variables** (custom properties) on `html`
+- set **general styles** on `body`
+- then **utility classes** e.g. links, headings
+- set **menu styles** inside your `nav` tag e.g. `nav a`
+- add **above-mobile** styles in a `@media` breakpoint  
+  around `(min-width: 600px)`-ish
+
+You now have a styled, **responsive page template**. Next…
+
+---
+
+## CSS TIPS **05**
+<!-- .slide: class="crammed" -->
+
+create sections in your CSS for the following:
+
+- general styles for your **page content** `main` tag
+- image/audio/video **gallery** styles
+- **hover** styles in the above-mobile `@media` block
+- styles for **forms** e.g. 'contact', 'search'
+
+When **adding new styles**, keep them in the **order** you’ve made
 
 <!-- END CSS TIPS/REVISITED -->
 
