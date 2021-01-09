@@ -30,8 +30,7 @@ Email: deveritt@dmu.ac.uk
 <!-- .slide: class="crammed" -->
 
 - **classes** are **reusable** in your HTML files
-- **ID**s are **unique**!
-  
+- **ID**s are **unique**! Use them for JavaScript
 - you can use **more than one class** on one element:  
   `class="mything myclass anotherclass"`
 
@@ -40,10 +39,10 @@ Email: deveritt@dmu.ac.uk
 ## CSS TIPS **02**
 <!-- .slide: class="crammed" -->
 
-- **don’t duplicate style rules** or whole **style blocks**…
+**don’t duplicate style rules** or whole **style blocks**…
   
-- CSS rules in **breakpoints** should override  
-  *only* specific **mobile**/**global** styles
+CSS rules in **breakpoints** should override  
+*only* specific **mobile**/**global** styles
 
 ---
 
