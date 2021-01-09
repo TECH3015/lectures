@@ -39,7 +39,7 @@ Winter break
 
 ## Lecture slides, term 2:
 
-- [**Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!]https://TECH3015.github.io/presents?lecture-11) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b36069c5-7e30-44d2-af96-acab0111707b))
+- [**Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!](https://TECH3015.github.io/presents?lecture-11) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b36069c5-7e30-44d2-af96-acab0111707b))
 - **Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS demos
 - **Lecture 13**: how JavaScript works, demos: change link colours, mobile menu
 - **Lecture 14**: JavaScript, debugging in the browser, mobile menu reminder code
