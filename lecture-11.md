@@ -30,7 +30,9 @@ Email: deveritt@dmu.ac.uk
 <!-- .slide: class="crammed" -->
 
 - **classes** are **reusable** in your HTML files
+
 - **ID**s are **unique**! Use them for JavaScript
+
 - you can use **more than one class** on one element:  
   `class="mything myclass anotherclass"`
 
