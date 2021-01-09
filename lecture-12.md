@@ -27,7 +27,7 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-<!-- .slide: class="crammed" -->
+<!-- .slide: class="crammed smalltext" -->
 ## ASSIGNMENT 2 **01**
 
 Where to Start?
@@ -50,6 +50,7 @@ You need to hand in:
 
 ---
 
+<!-- .slide: class="crammed" -->
 ## ASSIGNMENT 2 **03**
 
 ### WEBSITE
@@ -64,6 +65,7 @@ You need to hand in:
 
 ---
 
+<!-- .slide: class="crammed" -->
 ## ASSIGNMENT 2 **04**
 
 ### DOCUMENTATION
