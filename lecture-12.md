@@ -18,7 +18,7 @@ Email: deveritt@dmu.ac.uk
 
 ## ONLINE RESOURCES
 
-**Codecademy** has the following free courses (also listed in the [module handbook](#)):
+**Codecademy** has the following free courses (also listed in the [module handbook](https://tech3015.github.io/lectures/module-handbook.html):
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -35,8 +35,9 @@ Where to Start?
 - think about how your designs will **translate into code**, especially the **main blocks of content**
 - [validate your HTML](https://validator.w3.org/) at each major stage and **fix any errors** early—allow **no broken code**!
 - **maintain notes** about your process and decisions
-- get a basic **responsive and mobile-first structure** up and running that follows your design
-- **upload** to your public_html folder as you go along and get some **feedback from testers**
+- get a basic **responsive and mobile-first template** up and running, following your design
+- **upload** to GitHub and preview live on GitHub pages (it can be delayed)
+- get some people to **test the site** and give you **feedback**
 
 ---
 
@@ -44,32 +45,38 @@ Where to Start?
 
 You need to hand in:
 
-- **the website**, in your public_html folder
+- **the website link**, on your GitHub account
 - **the critical report**, in PDF format
 
 ---
 
 ## ASSIGNMENT 2 **03**
 
-WEBSITE: 60% of the coursework mark
+### WEBSITE
 
-- [Content](https://tech3015.github.io/lectures/coursework-02.html#content)
-- [Style](https://tech3015.github.io/lectures/coursework-02.html#style)
-- [Technical Skills](https://tech3015.github.io/lectures/coursework-02.html#technical-skills)
+60% of the coursework mark
+
+- [Content](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#content)
+- [Style](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#style)
+- [Technical Skills](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#technical-skills)
+
+[Coursework 2](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#coursework-2-1) and [Marking Criteria](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)
 
 ---
 
 ## ASSIGNMENT 2 **04**
 
-### Documentation
+### DOCUMENTATION
 
 40% of the coursework mark
 
 1500-2000 words, references and appendices not included in word count
 
-- [Design Process](https://tech3015.github.io/lectures/coursework-02.html#design-process)
-- [Production](https://tech3015.github.io/lectures/coursework-02.html#production)
-- [Evaluation](https://tech3015.github.io/lectures/coursework-02.html#evaluation)
+- [Design Process](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#design-process)
+- [Production](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#production)
+- [Evaluation](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#evaluation)
+
+[Coursework 2](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#coursework-2-1) and [Marking Criteria](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)
 
 ===
 
@@ -85,6 +92,15 @@ WEBSITE: 60% of the coursework mark
 
 <!-- .slide: class="left-align" -->
 ## LIVE DEMO **02**
+
+**CSS**:
+
+- [Show image caption on hover](https://front-end-materials.github.io/css-animation-transition/image-caption/) ([See code](https://github.com/front-end-materials/css-animation-transition/tree/master/image-caption))
+
+---
+
+<!-- .slide: class="left-align" -->
+## LIVE DEMO **03**
 
 **CSS**:
 

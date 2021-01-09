@@ -66,7 +66,7 @@ CSS rules in **breakpoints** should override
 
 Keep your CSS **in order**:
 
-- `@font-face` at the top fo custom fonts
+- `@font-face` at the top for custom fonts
 - set **CSS variables** (custom properties) on `html`
 - set **general styles** on `body`
 - then **utility classes** e.g. links, headings
@@ -161,7 +161,7 @@ Reminders from the [Lecture 09 demo](https://tech3015.github.io/presents/?lectur
 
 ===
 
-**COMEDY SLIDE**
+**MIS-ALIGN-MENT**
 <!-- .slide: class="crammed" -->
 
 **ARRGGH** getting things to **line up**…
