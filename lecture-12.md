@@ -27,7 +27,7 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-<!-- .slide: class="crammed smalltext" -->
+<!-- .slide: class="crammed" -->
 ## ASSIGNMENT 2 **01**
 
 Where to Start?
