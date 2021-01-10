@@ -36,7 +36,7 @@ Where to Start?
 - [validate your HTML](https://validator.w3.org/) at each major stage and **fix any errors** early—allow **no broken code**!
 - **maintain notes** about your process and decisions
 - get a basic **responsive and mobile-first template** up and running, following your design
-- **upload** to GitHub, preview on GitHub pages: can be delayed
+- **upload** to GitHub (updates can be delayed)
 - get some people to **test the site** and give you **feedback**
 
 ---
