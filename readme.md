@@ -41,14 +41,14 @@ Winter break
 
 - [**Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!](https://TECH3015.github.io/presents?lecture-11) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b36069c5-7e30-44d2-af96-acab0111707b))
 - [**Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12) (or see [the video]())
-- **Lecture 13**: how JavaScript works, demos: change link colours, mobile menu
+- **Lecture 13**: how JavaScript actually works, demos: TBC (change link colours, ?)
 - **Lecture 14**: JavaScript, debugging in the browser, mobile menu reminder code
 - **Lecture 15**: JavaScript and local storage
 - **Lecture 16**: JSON data and 3rd-party APIs
 
 <!--
-- [**Lecture 13**: how JavaScript works, demos (change link colours, mobile menu)](https://TECH3015.github.io/presents?lecture-13) (or see [the video]())
-- [**Lecture 14**: JavaScript, debugging in the browser, mobile menu reminder code](https://TECH3015.github.io/presents?lecture-14) (or see [the video]())
+- [**Lecture 13**: how JavaScript works, demos (change link colours, FIND BETTER EXAMPLE)](https://TECH3015.github.io/presents?lecture-13) (or see [the video]())
+- [**Lecture 14**: JavaScript, debugging in the browser, FIND BETTER EXAMPLE](https://TECH3015.github.io/presents?lecture-14) (or see [the video]())
 - [**Lecture 15**: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
 - [**Lecture 16**: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
 -->
