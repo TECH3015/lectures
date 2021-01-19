@@ -18,7 +18,7 @@ Email: deveritt@dmu.ac.uk
 
 ## ONLINE RESOURCES
 
-**Codecademy** has the following free courses (also listed in the [module handbook](https://tech3015.github.io/lectures/module-handbook.html):
+**Codecademy** has the following free courses (also listed in the [module handbook](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md):
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -85,16 +85,6 @@ You need to hand in:
 <!-- .slide: class="left-align" -->
 ## LIVE DEMO **01**
 
-- JavaScript `forEach()` and string literals with variable interpolation
-- Generating a gallery from data held in a JavaScript object
-
-[Gallery from JS Object List](https://codepen.io/faniae/pen/dyPdpOo)
-
----
-
-<!-- .slide: class="left-align" -->
-## LIVE DEMO **02**
-
 **CSS**:
 
 - [Show image caption on hover](https://front-end-materials.github.io/css-animation-transition/image-caption/) ([See code](https://github.com/front-end-materials/css-animation-transition/tree/master/image-caption))
@@ -102,7 +92,7 @@ You need to hand in:
 ---
 
 <!-- .slide: class="left-align" -->
-## LIVE DEMO **03**
+## LIVE DEMO **02**
 
 **CSS**:
 
@@ -116,6 +106,16 @@ You need to hand in:
 
 [Image Modals](https://codepen.io/faniae/pen/EGazKQ)
 [Image Modals with Captions](https://codepen.io/faniae/pen/GRgGVwK)
+
+---
+
+<!-- .slide: class="left-align" -->
+## LIVE DEMO **03**
+
+- **JavaScript** `forEach()` and string literals with variable interpolation
+- Generating a gallery from data held in a JavaScript object
+
+[Gallery from JS Object List](https://codepen.io/faniae/pen/dyPdpOo)
 
 ===
 
