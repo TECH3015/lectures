@@ -27,6 +27,41 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
+## NEXT LECTURES
+
+The next few lectures will focus on **JavaScript**
+
+This will give you a thorough introduction, some **examples and demos** to help, and hopefully **spark some ideas** about how you can use JavaScript to create some **interactive features** for your project
+
+===
+
+<!-- .slide: class="crammed" -->
+## JAVASCRIPT USE: 1
+
+How is JavaScript used?
+
+- form **validation** of user input
+- handling **data** (e.g. **JSON**)
+- interactive **user interfaces** and feedback
+- web-based **apps** (mobile and desktop)
+- web and mobile **frameworks**
+- **applications** built on web technologies
+- **games** with HTML5 canvas ([HTML5 Games website](http://html5games.com/Best/702b9531-c136-437a-ab97-0b209d893b55))
+- **[3D animations](https://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js)** with canvas and WebGL e.g. [cars](http://carvisualizer.plus360degrees.com/threejs/), [Aquarium](http://webglsamples.org/aquarium/aquarium.html)
+
+---
+
+## JAVASCRIPT USE: 2
+
+There are various ways to use JavaScript:
+
+- use it to access the **Document Object Model** (DOM)
+- **make changes** and **get information** from the DOM
+- to add **user interaction** and **store preferences**
+- to fetch online JSON data (and **style the result**)
+
+===
+
 <!-- JAVASCRIPT: HOW IT WORKS -->
 
 ## JS **HOW IT WORKS**: 1
@@ -59,17 +94,6 @@ Try an empty browser tab (`about:blank` in the address bar) and e.g. type `this.
 
 ## JS **HOW IT WORKS**: 3
 
-Some examples:
-
-- use it to access the **Document Object Model** (DOM)
-- **make changes** and **get information** from the DOM
-- to add **user interaction** and **store preferences**
-- to fetch online JSON data (and **style the result**)
-
----
-
-## JS **HOW IT WORKS**: 4
-
 JavaSript accesses the **Document Object Model** (DOM) tree, just like CSS
 
 There are **parent**, **child** and **sibling** nodes
@@ -78,13 +102,13 @@ There are **parent**, **child** and **sibling** nodes
 
 ---
 
-## JS **HOW IT WORKS**: 5
+## JS **HOW IT WORKS**: 4
 
 ![Document Object Model diagram with hand-drawn annotations](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/javascript/dom.png)
 
 ---
 
-## JS **HOW IT WORKS**: 6
+## JS **HOW IT WORKS**: 5
 
 ## THE BROWSER EVENT LOOP
 
@@ -96,32 +120,17 @@ myElement.addEventListener("click", MyFunction);
 
 ---
 
-## JS **HOW IT WORKS**: 7
+## JS **HOW IT WORKS**: 6
 
 While **CSS** can be triggered by focus/hover/etc.  
 **JavaScript** can listen for **hundreds** of events.
 
 See: [Web Event reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/Events)
 
----
+===
 
-<!-- .slide: class="crammed" -->
-## JS **HOW IT WORKS**: 8
-
-How is JavaScript used?
-
-- form **validation** of user input
-- handling **data** (e.g. **JSON**)
-- interactive **user interfaces** and feedback
-- web-based **apps** (mobile and desktop)
-- web and mobile **frameworks**
-- **applications** built on web technologies
-- **games** with HTML5 canvas ([HTML5 Games website](http://html5games.com/Best/702b9531-c136-437a-ab97-0b209d893b55))
-- **[3D animations](https://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js)** with canvas and WebGL e.g. [cars](http://carvisualizer.plus360degrees.com/threejs/), [Aquarium](http://webglsamples.org/aquarium/aquarium.html)
-
----
-
-<h2><strong>JS HOW IT WORKS</strong>: 9</h2>
+<!-- <h2><strong>JS HOW IT WORKS</strong>: 9</h2> -->
+## JS **EXAMPLE**: 1
 
 A simple example:
 
@@ -138,15 +147,28 @@ for(i=0; i < myLinks.length; i++){
 }
 ```
 
+<!-- FIX DEMO: "Cannot read property 'toggle' of undefined" index.html line 40 -->
+
 See a [demo here that fades in link colour changes](https://front-end-materials.github.io/js-simple-examples/js-change-element/)
 
 <small>MDN: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction "Mozilla Web Docs")</small>
 
 ---
 
-## JS **HOW IT WORKS**: 10
+## JS **EXAMPLE**: 2
 
-See the [demo for a simple mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu/)
+Using `querySelector()` to be more specific
+
+<a href="#" class="showme">
+
+```js
+const myLinks = document.querySelector(".showme");
+
+for(i=0; i < myLinks.length; i++){
+ myLinks[i].classList.add("highlight");
+}
+```
+[W3Schools: querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
 
 <!-- TODO: SHARE WITH MEDS2007 LECTURE 04 -->
 

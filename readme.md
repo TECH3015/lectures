@@ -42,14 +42,14 @@ Winter break
 - [**Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!](https://TECH3015.github.io/presents?lecture-11) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b36069c5-7e30-44d2-af96-acab0111707b))
 - [**Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12) (or see [the video]())
 - **Lecture 13**: how JavaScript actually works, demos: TBC (change link colours, ?)
-- **Lecture 14**: JavaScript, debugging in the browser, mobile menu reminder code
-- **Lecture 15**: JavaScript and local storage
+- **Lecture 14**: JavaScript, debugging in the browser, demos: TBC
+- **Lecture 15**: JavaScript and local data storage
 - **Lecture 16**: JSON data and 3rd-party APIs
 
 <!--
-- [**Lecture 13**: how JavaScript works, demos (change link colours, FIND BETTER EXAMPLE)](https://TECH3015.github.io/presents?lecture-13) (or see [the video]())
-- [**Lecture 14**: JavaScript, debugging in the browser, FIND BETTER EXAMPLE](https://TECH3015.github.io/presents?lecture-14) (or see [the video]())
-- [**Lecture 15**: JavaScript and local storage](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
+- [**Lecture 13**: how JavaScript works, debugging in the browser, SEE lecture-material](https://TECH3015.github.io/presents?lecture-13) (or see [the video]())
+- [**Lecture 14**: JavaScript syntax, demos (change link colours, FIND BETTER DEMO)](https://TECH3015.github.io/presents?lecture-14) (or see [the video]())
+- [**Lecture 15**: JavaScript and local data storage](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
 - [**Lecture 16**: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
 -->
 
@@ -69,17 +69,12 @@ February break
 - [**Lecture 18**: Web Animation](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
 - [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
--->
 
-<!--
-NOT COVERED:
+## NOT COVERED:
 
 - SEE front-end-materials readme for some JS
 - html templates
 - console methods
-- databases/pouch see: us/dmu/webtech-learning-materials/TECH-thom-dave-lectures-2018-19/TECH3015-Wk4-Databases-1.pptx - TECH3015-Wk4-Database-2.pptx
- 
----
 
 ## TO DO:
 

@@ -376,16 +376,37 @@ switch (new Date().getDay()) {
 
 [W3Schools switch statment](http://www.w3schools.com/js/js_switch.asp)
 
+---
+
+## JAVASCRIPT SYNTAX: **18**
+
+**LOOKUP TABLE**
+
+```javascript
+const days = {
+  "0": "Sunday",
+  "1": "Monday",
+  "2": "Tuesday",
+  "3": "Wednesday",
+  "4": "Thursday",
+  "5": "Friday",
+  "6": "Saturday"
+}
+
+const today = new Date().getDay();
+
+console.log(`Today is ${days[today]}`);
+```
+
 ===
 
 <!-- JAVASCRIPT/CSS: ANIMATED MOBILE MENU DEMOS -->
 
-## JAVASCRIPT/CSS
+## JAVASCRIPT HELPERS
 
-ANIMATED MOBILE MENU DEMOS
+To make **selecting elements** easier, you can use JavaScript **helpers**
 
-- [animated slide down mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu-anim/)
-- [animated side slide-in mobile menu](https://front-end-materials.github.io/menus/js-mobile-menu-anim-side/)
+EXAMPLE
 
 ===
 
