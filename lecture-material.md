@@ -160,7 +160,7 @@ function potentiallyBuggyCode() {
 
 ===
 
-## DEMO
+## CSS DEMO
 
 - [CSS filter](https://codepen.io/fania/pen/xBEZBz)
 

@@ -143,13 +143,9 @@ a.highlight {
 const myLinks = document.getElementsByTagName('a');
 
 for(i=0; i < myLinks.length; i++){
- myLinks[i].classList.add("highlight");
+  myLinks[i].classList.add("highlight");
 }
 ```
-
-<!-- FIX DEMO: "Cannot read property 'toggle' of undefined" index.html line 40 -->
-
-See a [demo here that fades in link colour changes](https://front-end-materials.github.io/js-simple-examples/js-change-element/)
 
 <small>MDN: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction "Mozilla Web Docs")</small>
 
@@ -157,7 +153,8 @@ See a [demo here that fades in link colour changes](https://front-end-materials.
 
 ## JS **EXAMPLE**: 2
 
-Using `querySelector()` to be more specific
+[`querySelector()`](https://www.w3schools.com/jsref/met_document_queryselector.asp) enables us to be more specific  
+and to to use *CSS-style selectors*:
 
 <a href="#" class="showme">
 
@@ -165,20 +162,17 @@ Using `querySelector()` to be more specific
 const myLinks = document.querySelector(".showme");
 
 for(i=0; i < myLinks.length; i++){
- myLinks[i].classList.add("highlight");
+  myLinks[i].classList.add("highlight");
 }
 ```
-[W3Schools: querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+
+See a more detailed [demo that fades link colours in/out](https://front-end-materials.github.io/js-simple-examples/js-change-element/)
 
 <!-- TODO: SHARE WITH MEDS2007 LECTURE 04 -->
 
 ===
 
-**FUNNY_THING**
+**JAVASCRIPT IS WEIRD**
 <!-- .slide: class="crammed" -->
 
-```
-FUNNY_THING
-```
-
-![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)
+![Javascript is weird](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/js-banana.png)
