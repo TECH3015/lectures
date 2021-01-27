@@ -323,7 +323,8 @@ for (counter; condition; increment/decrement) {
 ```
 
 ```javascript
-for (let i = 0; i < myArray.length; i += 1) {
+let arrayLen = myArray.length; // store first
+for (let i = 0; i < arrayLen; i += 1) {
   console.log(myArray[i]);
 }
 ```
@@ -406,15 +407,11 @@ console.log(`Today is ${days[today]}`);
 
 To make **selecting elements** easier, you can use JavaScript **helpers**
 
-EXAMPLE
+[JavaScript helpers demo](https://front-end-materials.github.io/js-helpers/) and [source code](https://github.com/front-end-materials/js-helpers)
 
 ===
 
-**FUNNY_THING**
+**JS UNDER ALL**
 <!-- .slide: class="crammed" -->
 
-```
-FUNNY_THING
-```
-
-![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)
+![HTML5 masking JS](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/html5-mask.jpg)

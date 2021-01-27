@@ -113,7 +113,7 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 **ALIGNMENT**: **grids** are the **primary method** for achieving **alignment**.
 
 - **The core text** on the history and use of grids in design is: Khoi Vinh and Mark Boulton (2007) [Grids Are Good](http://www.slideshare.net/huer1278ft/grids-are-good-right)
-- Also see Vitaly Friedman (2007) [Designing With Grid-Based Approach](https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/), Smashing Magazine
+- For web-based grids see Sean Hodge (2008) [Grid-Based Design](https://www.smashingmagazine.com/2008/03/grid-based-design-six-creative-column-techniques/), Smashing Magazine
 
 ---
 
