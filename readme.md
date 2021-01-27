@@ -68,14 +68,9 @@ February break
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
 - [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 
-## NOT COVERED:
-
-- SEE front-end-materials readme for some JS
-- html templates
-- console methods
-
 ## TO DO:
 
-- [ ] try CTEC3905 styles here?
+- [ ] SEE front-end-materials readme for some JS
+- [ ] try CTEC3905 styles here (or the reverse)?
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
 -->
