@@ -213,63 +213,64 @@ A brief explanation with examples:
 
 **MISDIRECTION 1**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-basic-youtube.png)
+![Basic YouTube sign-up](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-basic-youtube.png)
 
 ---
 
 **MISDIRECTION 2**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-buy-now.jpg)
+![buy now, twice](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-buy-now.jpg)
 
 ---
 
 **PRE-SELECTED CONFUSING OPTIONS**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-confusing-cookies.jpg)
+![Confusing cookie options](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-confusing-cookies.jpg)
 
 ---
 
 **ARE YOU SURE?**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-jump-hoops.jpg)
+![We won't let you go](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-jump-hoops.jpg)
 
 ---
 
 **DON'T MISS OUT!**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-miss-out.jpg)
+![We want your audio and video](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-miss-out.jpg)
 
 ---
 
 **NO MEANS YES**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-no-yes.jpg)
+![No or yes?](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-no-yes.jpg)
 
 ---
 
 **shhh… opt out**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-opt-out.jpg)
+![Default opt-in](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-opt-out.jpg)
 
 ---
 
-**Arrggh… opt out??**
+**They all want your data**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/cookie-overload.png)
+![Marketing cookies](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/cookie-overload.png)
 
 ---
 
 **FAKE PANIC!**
 
-examination of the JavScript shows numbers calculated at random intervals
+examination of the JavScript shows numbers  
+**calculated at random intervals**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-panic.png)
+![Book now timer](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-panic.png)
 
 ---
 
 **EMOTIONAL BLACKMAIL…**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-shame.jpg)
+![Wasting your time?](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-shame.jpg)
 
 ---
 
