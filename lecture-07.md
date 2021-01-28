@@ -213,7 +213,7 @@ A brief explanation with examples:
 
 **MISDIRECTION 1**
 
-![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-allow-all.jpg)
+![](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-basic-youtube.png)
 
 ---
 
