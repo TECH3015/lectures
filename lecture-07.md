@@ -261,7 +261,7 @@ A brief explanation with examples:
 
 **FAKE PANIC!**
 
-examination of the JavScript shows numbers  
+examination of the JavaScript shows numbers  
 **calculated at random intervals**
 
 ![Book now timer](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/ui/dark-ui-panic.png)
