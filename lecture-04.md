@@ -182,27 +182,34 @@ There are many ways to create contrast. For example:
 
 <!-- SIMPLICITY QUOTES -->
 
-### SIMPLICITY
-<!-- .slide: class="crammed smalltext" -->
+### SIMPLICITY 01
+<!-- .slide: class="crammed" -->
 
 **“Simplicity is the ultimate form of sophistication.”** —Leonardo da Vinci
 
 **“Don’t make me think.”** —Steve Krug
 
-### COMMUNICATION
+---
 
-**“People react positively when things are clear and understandable.”**  
-—Dieter Rams
+### SIMPLICITY 02
+<!-- .slide: class="crammed" -->
 
-**“The main goal is not to complicate the already difficult life of the consumer.”** —Raymond Loewy
-
-### DESIGN
+#### DESIGN
 
 **“White space is to be regarded as an active element, not a passive background.”** —Jan Tschichold
 
 **“A lot of what we are doing is getting design out of the way.”** —Jonathan Ive
 
-<!-- /NEW -->
+---
+
+### SIMPLICITY 03
+<!-- .slide: class="crammed" -->
+
+#### COMMUNICATION
+
+**“People react positively when things are clear and understandable.”** —Dieter Rams
+
+**“The main goal is not to complicate the already difficult life of the consumer.”** —Raymond Loewy
 
 ===
 
