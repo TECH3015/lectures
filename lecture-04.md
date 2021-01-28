@@ -52,27 +52,26 @@ Also:
 - Critical Analaysis  
 
 ===
-
-<!-- NEW -->
 <!-- DESIGN PRINCIPLES: SHARED MEDS2007.02/CTEC3905.04-->
 
-## DESIGN: **01**
+<!-- check the links below for each lecture -->
+## DESIGN PRINCIPLES
 
 Four basic principles:
 
-- **P**roximity
-- **A**lignment
-- **R**epetition
-- **C**ontrast
+- [**P**roximity](#/3)
+- [**A**lignment](#/4)
+- [**R**epetition](#/5)
+- [**C**ontrast](#/6)
 
 (The reverse of ‘**CRAP**’)
 
----
+===
 
-## DESIGN: **02**
+## DESIGN 01: **PROXIMITY**
 <!-- .slide: class="crammed" -->
 
-**PROXIMITY** sets up *visual cues* that group similar items, suggesting how to ‘read’ content.
+**Proximity** sets up *visual cues* that group similar items, suggesting how to ‘read’ content.
 
 - **Group complex content** for legibility
 - Display **related items** together
@@ -92,25 +91,25 @@ Four basic principles:
 
 ===
 
-## DESIGN: **03**
+## DESIGN 02: ALIGNMENT
 <!-- .slide: class="crammed" -->
 
-**ALIGNMENT** makes page elements seem **part of a whole**, creating a **holistic feel** to the various pieces of information.
+**Alignment** makes page elements seem **part of a whole**, creating a **holistic feel** to the various pieces of information.
 
 - Everything should be **placed thoughtfully** in the layout
 - Every item is **connected visually** with other page elements
 
-A strict use of **alignment** on a former version of the Oslo-based design agency Heydays website gives a pleasing sense of **coherence and simplicity**.
+A strict use of **alignment** on a former version of the Oslo-based design agency [Heydays](https://heydays.no/) website gives a pleasing sense of **coherence and simplicity**…
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/heydays.jpg" data-background-size="contain" -->		
 
-===
+---
 
-## DESIGN: **03a**
+## DESIGN 02: ALIGNMENT
 
-**ALIGNMENT**: **grids** are the **primary method** for achieving **alignment**.
+**Alignment**: **grids** are the **primary method** for achieving **alignment**.
 
 - **The core text** on the history and use of grids in design is: Khoi Vinh and Mark Boulton (2007) [Grids Are Good](http://www.slideshare.net/huer1278ft/grids-are-good-right)
 - For web-based grids see Sean Hodge (2008) [Grid-Based Design](https://www.smashingmagazine.com/2008/03/grid-based-design-six-creative-column-techniques/), Smashing Magazine
@@ -137,9 +136,9 @@ A strict use of **alignment** on a former version of the Oslo-based design agenc
 
 ===
 
-## DESIGN: **04**
+## DESIGN 04: **REPETITION**
 
-**REPETITION** provides visual and cognitive **consistency** across common design elements
+**Repetition** provides visual and cognitive **consistency** across common design elements
 
 - Repeat **design themes** throughout the interface
 - Consistent sizing and proportions strengthen **style**
@@ -156,10 +155,10 @@ Use: global **style rules** at the **top** of your CSS **before `@media` query b
 
 ===
 
-## DESIGN: **05**
+## DESIGN 05: **CONTRAST**
 <!-- .slide: class="crammed" -->
 
-**CONTRAST**
+**Contrast**
 
 - Make **distinctly different** items *look* different
 - Contrast makes content appear **visually inviting**
@@ -178,6 +177,8 @@ There are many ways to create contrast. For example:
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/design/touch-website.png" data-background-size="contain" -->
 
+
+<!-- /DARK UI: SHARED MEDS2007.2, TECH3015.7 -->
 ===
 
 <!-- SIMPLICITY QUOTES -->
