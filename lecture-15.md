@@ -123,8 +123,6 @@ localStorage.addEventListener("change", myFunction);
 
 `myFunction` handles **actions** on the `localStorage` data.
 
-**NOTE** [browser support is still patchy for LocalStorage events](https://stackoverflow.com/a/6846158/123033)
-
 ===
 
 # DEMOS
@@ -137,11 +135,9 @@ localStorage.addEventListener("change", myFunction);
 
 ===
 
-**FUNNY_THING**
+**WISDOM**
 <!-- .slide: class="crammed" -->
 
-```
-FUNNY_THING
-```
+This.
 
-![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)
+![Things aren't always black & white](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/not-black-and-white.jpg)
