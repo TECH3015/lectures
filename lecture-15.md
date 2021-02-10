@@ -125,9 +125,19 @@ localStorage.addEventListener("change", myFunction);
 
 where `myFunction` handles **actions** on `localStorage` data.
 
+---
+
+# LOCAL STORAGE: **6**
+<!-- .slide: class="crammed" -->
+
+Putting data **in** and getting it **out** of `localStorage` needs two **built-in JSON functions**:
+
+- **JSON.stringify** takes a JavaScript data *object* and turns it into a *string* (see [stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify))
+- **JSON.parse** gets a *string* from localStorage and turns it into an *object* (see [parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse))
+
 ===
 
-# DEMOS
+# LOCAL STORAGE: **DEMOS**
 
 - [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/local-storage-form/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-form)
