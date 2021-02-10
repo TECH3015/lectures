@@ -20,7 +20,7 @@ Email: deveritt@dmu.ac.uk
 ## WE ARE STILL HERE
 
 - progress with making your site:
-  - **validate** your HTML!
+  - [**validate** your HTML](https://validator.w3.org/#validate_by_input)!
   - test your site at **all widths**
   - make sure your **breakpoints are in order**
   - think about **user interaction**
@@ -28,7 +28,7 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-# LOCAL STORAGE: **1**
+## LOCAL STORAGE: **1**
 <!-- .slide: class="crammed" -->
 
 Browsers have **their own storage**, similar to cookies.
@@ -45,7 +45,7 @@ However, it’s **fine for non-critical data** like user preferences.
 
 ---
 
-# LOCAL STORAGE: **2**
+## LOCAL STORAGE: **2**
 <!-- .slide: class="crammed" -->
 
 **Setting** and **getting** data:
@@ -64,7 +64,7 @@ console.log(localStorage["name"]); // Fania
 
 ---
 
-# LOCAL STORAGE: **3**
+## LOCAL STORAGE: **3**
 <!-- .slide: class="crammed" -->
 
 Instead of using *cookies*, many websites now use **local storage** to keep small amounts of **data between visits**. It can:
@@ -92,7 +92,7 @@ We don’t know what most of those are for!
 
 ---
 
-# LOCAL STORAGE: **4**
+## LOCAL STORAGE: **4**
 <!-- .slide: class="crammed" -->
 
 Example: set a localStorage item from a **field value**:
@@ -107,7 +107,7 @@ myElementId.innerText = localStorage.getItem("name");
 
 ---
 
-# LOCAL STORAGE: **5**
+## LOCAL STORAGE: **5**
 <!-- .slide: class="crammed" -->
 
 You can **remove** an item from `localStorage` or **clear all**:
@@ -127,7 +127,7 @@ where `myFunction` handles **actions** on `localStorage` data.
 
 ---
 
-# LOCAL STORAGE: **6**
+## LOCAL STORAGE: **6**
 <!-- .slide: class="crammed" -->
 
 Putting data **in** and getting it **out** of `localStorage` needs two **built-in JSON functions**:
