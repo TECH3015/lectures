@@ -33,13 +33,15 @@ Email: deveritt@dmu.ac.uk
 
 Browsers have **their own storage**, similar to cookies.
 
-In this module, we're using one of the storage functions: `localStorage`
+The easiest of these is called: `localStorage`
 
 - it’s for **small amounts** of data (5Mb)
-- it stores data in **key value** pairs
+- it stores data in **key: value** pairs
 
+<small>
 `localStorage` is **insecure** (so not good for ~~sensitive data~~ - see [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)).  
-However, it’s still **good for non-critical data**.
+However, it’s **fine for non-critical data** like user preferences.
+</small>
 
 ---
 
@@ -86,7 +88,7 @@ You can **see what a website stores** in your own browser:
 ![Facebook local storage](https://raw.githubusercontent.com/DaveEveritt/TECH3015/master/imgs/localstorage/local-storage-facebook.png)
 
 You can see stored **objects** (`{…}`) and **arrays** (`[…]`)  
-We don’t know what most of those are!
+We don’t know what most of those are for!
 
 ---
 
@@ -100,7 +102,7 @@ const theName = document.getElementById("name-field");
 
 localStorage.setItem("name", theName.value);
 
-myElement.innerText = localStorage.getItem("name");
+myElementId.innerText = localStorage.getItem("name");
 ```
 
 ---
@@ -121,7 +123,7 @@ Attach an `eventListener` to use the data on **another page**:
 localStorage.addEventListener("change", myFunction);
 ```
 
-`myFunction` handles **actions** on the `localStorage` data.
+where `myFunction` handles **actions** on `localStorage` data.
 
 ===
 
@@ -132,6 +134,9 @@ localStorage.addEventListener("change", myFunction);
 
 - [store multiple names in localStorage](https://front-end-materials.github.io/local-storage/local-storage-object/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-object)
+
+- [Checking Local Storage capacity with `StorageManager`](https://front-end-materials.github.io/local-storage/browser-storage-check/)
+[view code](https://github.com/front-end-materials/local-storage/tree/master/browser-storage-check/)
 
 ===
 

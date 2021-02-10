@@ -27,8 +27,8 @@ November break
 
 - [**Lecture 06**: Content Strategy, mobile navigation research](https://TECH3015.github.io/presents?lecture-06) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e870023-04af-4213-908a-ac6a0128426b))
 - [**Lecture 07**: Information Design, Dark UI examples](https://TECH3015.github.io/presents?lecture-07) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=275a63ea-f0a8-4519-b027-ac7e00f55a68))
-- [**Lecture 08**: HTML natural flow, manipulating and positioning elements +demos](https://tech3015.github.io/presents/?lecture-08) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de2f7e54-40c2-4311-90e5-ac80010f44b8))
-- [**Lecture 09**: HTML Box Model, CSS Flexbox, mobile menu demos](https://TECH3015.github.io/presents?lecture-09) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91b7c413-e490-46da-a37b-ac80012176bd))
+- [**Lecture 08**: HTML natural flow, manipulating and positioning elements (demos)](https://tech3015.github.io/presents/?lecture-08) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de2f7e54-40c2-4311-90e5-ac80010f44b8))
+- [**Lecture 09**: HTML Box Model, CSS Flexbox (demo: mobile menus)](https://TECH3015.github.io/presents?lecture-09) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91b7c413-e490-46da-a37b-ac80012176bd))
 - [**Lecture 10**: Assignment 1 details, Semantic HTML](https://TECH3015.github.io/presents?lecture-10) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=917781e7-ecff-4d04-a0d4-ac90013fac55))
 
 ---
@@ -40,14 +40,14 @@ Winter break
 ## Lecture slides, term 2:
 
 - [**Lecture 11**: CSS tips, Responsive Web Design… RWD ESSENTIALS YAY!](https://TECH3015.github.io/presents?lecture-11) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b36069c5-7e30-44d2-af96-acab0111707b))
-- [**Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS demos](https://TECH3015.github.io/presents?lecture-12) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7bc907-483b-4dba-80dc-acb50157ffa5))
-- [**Lecture 13**: how JavaScript actually works, demo: toggle class](https://TECH3015.github.io/presents?lecture-13) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a44c3f15-4675-4b5b-a46c-acb901449a12))
-- [**Lecture 14**: JavaScript syntax in detail, demo: JS helpers](https://TECH3015.github.io/presents?lecture-14) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c627147-bdbf-40ac-a626-acbd011c2b4d))
-- **Lecture 15**: JavaScript and local data storage
+- [**Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS (demos)](https://TECH3015.github.io/presents?lecture-12) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7bc907-483b-4dba-80dc-acb50157ffa5))
+- [**Lecture 13**: how JavaScript actually works (demo: toggle class)](https://TECH3015.github.io/presents?lecture-13) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a44c3f15-4675-4b5b-a46c-acb901449a12))
+- [**Lecture 14**: JavaScript syntax in detail (demo: JS helpers)](https://TECH3015.github.io/presents?lecture-14) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c627147-bdbf-40ac-a626-acbd011c2b4d))
+- **Lecture 15**: JavaScript and local data storage (demo: store names)
 - **Lecture 16**: JSON data and 3rd-party APIs
 
 <!--
-- [**Lecture 15**: JavaScript and local data storage](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
+- [**Lecture 15**: JavaScript and local data storage (demo: store names)](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
 - [**Lecture 16**: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
 -->
 
