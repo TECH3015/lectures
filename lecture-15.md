@@ -38,10 +38,8 @@ The easiest of these is called: `localStorage`
 - it’s for **small amounts** of data (5Mb)
 - it stores data in **key: value** pairs
 
-<small>
 `localStorage` is **insecure** (so not good for ~~sensitive data~~ - see [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)).  
 However, it’s **fine for non-critical data** like user preferences.
-</small>
 
 ---
 
