@@ -137,7 +137,7 @@ Putting data **in** and getting it **out** of `localStorage` needs two **built-i
 
 ===
 
-# LOCAL STORAGE: **DEMOS**
+# **DEMOS**
 
 - [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/local-storage-form/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-form)
