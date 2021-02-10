@@ -49,7 +49,7 @@ However, it’s **fine for non-critical data** like user preferences.
 **Setting** and **getting** data:
 
 ```javascript
-localStorage.setItem("name", "Dave");
+localStorage.setItem("name", "Dave"); // key, value
 localStorage.getItem("name"); // Dave
 ```
 
