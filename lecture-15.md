@@ -115,13 +115,13 @@ localStorage.removeItem("name");
 localStorage.clear();
 ```
 
-Attach an `eventListener` to use the data on **another page**:
+Attach an `eventListener` to get new data on **another page**:
 
 ```javascript
 localStorage.addEventListener("change", myFunction);
 ```
 
-where `myFunction` handles **actions** on `localStorage` data.
+where `myFunction` handles **actions** when `localStorage` data changes.
 
 ---
 
@@ -140,7 +140,7 @@ Putting data **in** and getting it **out** of `localStorage` needs two **built-i
 - [Store a name with local storage from an input form](https://front-end-materials.github.io/local-storage/local-storage-form/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-form)
 
-- [store multiple names in localStorage](https://front-end-materials.github.io/local-storage/local-storage-object/)  
+- [Store and retrieve multiple names in localStorage](https://front-end-materials.github.io/local-storage/local-storage-object/)  
 [view code](https://github.com/front-end-materials/local-storage/tree/master/local-storage-object)
 
 - [Checking Local Storage capacity with `StorageManager`](https://front-end-materials.github.io/local-storage/browser-storage-check/)
