@@ -238,8 +238,8 @@ getData.addEventListener("click", processData);
 
 <!-- APIs -->
 
-## API: **01**
-<!-- .slide: class="left-align smalltext" -->
+## USING AN API: **01**
+<!-- .slide: class="left-align" -->
 
 **Using APIs in your project**
 
@@ -253,7 +253,7 @@ getData.addEventListener("click", processData);
 
 ---
 
-## API: **02**
+## USING AN API: **02**
 <!-- .slide: class="left-align crammed smalltext" -->
 				
 **API Security**
@@ -271,7 +271,7 @@ and [Securing API Keys in a Client Side JavaScript App](http://billpatrianakos.m
 
 ---
 
-## API: **02**
+## USING AN API: **02**
 <!-- .slide: class="left-align crammed smalltext" -->
 		
 **Accessing APIs**
@@ -287,7 +287,7 @@ See: [Using CORS](https://www.html5rocks.com/en/tutorials/cors/),
 
 ===
 
-## API **DEMO**
+## API **DEMOS**
 <!-- .slide: class="left-align crammed" -->
 
 These are more complete than the previous demo, and hopefully will show what's possible and give you ideas.
