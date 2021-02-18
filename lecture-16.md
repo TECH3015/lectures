@@ -164,7 +164,16 @@ fetch(data-to-fetch)
 **JSON has no "parent" or variable assignment**—it starts with an opening `{` or `[`.  
 This example of local JSON data (stored within a website in a file called, say, "menu.json") could build a special kind of menu:
 
-```js
+however, JSON is **just data**! It *cannot* contain **functions** or **comments** like a JavaScript object…
+
+…but JSON data *can* be assigned to a variable as a **JavaScript object** (e.g. a `const` if you know the type—object or array) to **store the JSON** for use on your website  
+
+See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange Standard") and
+[JSON Basics: What You Need to Know](https://www.elated.com/articles/json-basics/)
+
+===
+
+<!-- ```js
 {
   "id": "file",
   "value": "File",
@@ -178,14 +187,6 @@ This example of local JSON data (stored within a website in a file called, say, 
 }
 ```
 
-however, JSON is **just data**! It *cannot* contain **functions** or **comments** like a JavaScript object…
-
----
-
-# JSON: **09**
-<!-- .slide: class="left-align smalltext" -->
-
-…but JSON data *can* be assigned to a variable as a **JavaScript object** (e.g. a `const` if you know the type—object or array) to **store the JSON** for use on your website  
 —you’d write code to *remove quotes* from the *function names* in the `action` values:
 
 ```js
@@ -203,14 +204,11 @@ console.log(menu); // will then show:
     ]
   }
 }
-```
+``` -->
 
-See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange Standard") and
-[JSON Basics: What You Need to Know](https://www.elated.com/articles/json-basics/)
+===
 
----
-
-# JSON: **10**
+# JSON: **DEMO 1**
 <!-- .slide: class="left-align smalltext" -->
 
 for a real-world example, here’s the raw **JSON data** for the [current solar weather](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)  
@@ -220,7 +218,7 @@ This is often used to **predict aurora displays** in the Arctic Circle
 
 ---
 
-# JSON: **11**
+# JSON: **DEMO 2**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 this solar weather data is in a **nested array**, with the first array as a **header row**:
@@ -245,7 +243,7 @@ Various other [space weather readings are freely available](https://services.swp
 
 ---
 
-# JSON **12**
+# JSON **DEMO 3**
 <!-- .slide: class="left-align smalltext" -->
 
 if the **data is stored** in a variable called `jsonData`, this `processData` function will get, format and display it  
@@ -267,24 +265,12 @@ abbreviated for clarity.
 
 ---
 
-# JSON **13**
+# JSON **DEMO 4**
 <!-- .slide: class="left-align" -->
 
 - [Get and display live solar data from an API](https://front-end-materials.github.io/json-api/api-solar-data/)
 - [download code](https://github.com/front-end-materials/json-api/tree/master/api-solar-data)
 - [See the raw data here](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)
-
-===
-
-## API EXAMPLES
-<!-- .slide: class="left-align crammed" -->
-
-These are more complete than the previous demo, and hopefully will show what's possible and give you ideas.
-
-You can search for an API along your lines of interest on [programmableweb.com](https://www.programmableweb.com/category/all/apis)
-
-- [Show Star Wars film info from an API](https://front-end-materials.github.io/json-api/api-starwars/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-starwars))
-- [User details from the GitHub API](https://front-end-materials.github.io/json-api/api-github/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-github))
 
 ===
 
@@ -336,7 +322,17 @@ Cross-origin resource sharing (CORS) allows restricted resources (e.g. fonts) to
 See: [Using CORS](https://www.html5rocks.com/en/tutorials/cors/), 
 [CORS (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), [CORS in detail (Stack Overflow)](https://stackoverflow.com/a/43881141/123033)  
 
----
+===
+
+## API **DEMO**
+<!-- .slide: class="left-align crammed" -->
+
+These are more complete than the previous demo, and hopefully will show what's possible and give you ideas.
+
+You can search for an API along your lines of interest on [programmableweb.com](https://www.programmableweb.com/category/all/apis)
+
+- [Show Star Wars film info from an API](https://front-end-materials.github.io/json-api/api-starwars/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-starwars))
+- [User details from the GitHub API](https://front-end-materials.github.io/json-api/api-github/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-github))
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/json-api/CORS_principle.png" data-background-size="contain" -->
 
