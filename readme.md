@@ -52,7 +52,7 @@ February break
 
 ---
 
-- **Lecture 17**: your site on GitHub, Typography
+- **Lecture 17**: Web Typography
 - **Lecture 18**: Web Animation
 - **Lecture 19**: detailed assignment criteria recap
 - **Lecture 20**: live websites, Progressive Web App extras, further resources
