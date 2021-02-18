@@ -22,7 +22,7 @@ Email: deveritt@dmu.ac.uk
 <!-- .slide: class="left-align" -->
 
 - progress with making your site:
-  - **validate** your HTML!
+  - [**validate** your HTML](https://validator.w3.org/#validate_by_input)!
   - test your site at **all widths**
   - make sure your **breakpoints are in order**
   - think about **user interaction**
@@ -276,6 +276,10 @@ abbreviated for clarity.
 
 ===
 
+DEMO: GitHub users? Star Trek?
+
+===
+
 <!-- APIs -->
 
 # API: **01**
@@ -333,8 +337,5 @@ See: [Using CORS](https://www.html5rocks.com/en/tutorials/cors/),
 **FUNNY_THING**
 <!-- .slide: class="crammed" -->
 
-```
-FUNNY_THING
-```
 
 ![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)

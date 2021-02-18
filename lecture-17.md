@@ -42,19 +42,8 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## API EXAMPLES
-<!-- .slide: class="left-align crammed" -->
-
-These are more complete than the previous demo, and hopefully will show what's possible and give you ideas.
-
-You can search for an API along your lines of interest on [programmableweb.com](https://www.programmableweb.com/category/all/apis)
-
-- [Show Star Wars film info from an API](https://front-end-materials.github.io/json-api/api-starwars/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-starwars))
-- [User details from the GitHub API](https://front-end-materials.github.io/json-api/api-github/) ([see code](https://github.com/front-end-materials/json-api/tree/master/api-github))
-
-<!--
-
 ===
+<!--
 
 ## GitHub
 
