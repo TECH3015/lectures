@@ -239,7 +239,7 @@ getData.addEventListener("click", processData);
 <!-- APIs -->
 
 ## USING AN API: **01**
-<!-- .slide: class="left-align" -->
+<!-- .slide: class="left-align smalltext" -->
 
 **Using APIs in your project**
 
