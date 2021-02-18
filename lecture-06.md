@@ -198,6 +198,7 @@ Read more from these articles and sites:
 The *Web Style Guide* also has a good section on  
 **Social Media Strategy**
 
+<!-- MOBILE NAVIGATION: shared with CTEC3905 guest lecture 2 -->
 ===
 
 ## MOBILE NAVIGATION **01**
