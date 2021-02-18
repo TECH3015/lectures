@@ -22,7 +22,7 @@ Email: deveritt@dmu.ac.uk
 <!-- .slide: class="left-align" -->
 
 - progress with making your site:
-  - **validate** your HTML!
+  - [**validate** your HTML](https://validator.w3.org/#validate_by_input)!
   - test your site at **all widths**
   - make sure your **breakpoints are in order**
   - think about **user interaction**
@@ -39,23 +39,6 @@ Email: deveritt@dmu.ac.uk
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-
-===
-
-===
-<!--
-
-## GitHub
-
-!-- .slide: class="left-align crammed" --
-
-One way of **getting your site live**… is [GitHub](https://github.com/). GitHub **stores your code** on its servers and can **display your site on the web**. This can be further explored in the labs but, for now if you're interested, just **sign up**
-
-GitHub needs the [GIT version-control software](https://git-scm.com/) which keeps a record of your code changes
-
-It's a bit of a **learning curve**, but programmers text editors (like [VSCode](https://code.visualstudio.com/Docs/editor/versioncontrol) and [Atom](https://github.atom.io/)) can **make it easier**
-
--->
 
 ===
 
@@ -378,11 +361,7 @@ it's even possible to have vertical text: [writing-mode](https://www.w3schools.c
 
 ===
 
-**FUNNY_THING**
+**COOKIES**
 <!-- .slide: class="crammed" -->
 
-```
-FUNNY_THING
-```
-
-![FUNNY_THING](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/FUNNY_THING)
+![No problem, you can track my data](https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/humour/cookies-whatever.jpg)

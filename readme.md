@@ -44,11 +44,7 @@ Winter break
 - [**Lecture 13**: how JavaScript actually works (demo: toggle class)](https://TECH3015.github.io/presents?lecture-13) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a44c3f15-4675-4b5b-a46c-acb901449a12))
 - [**Lecture 14**: JavaScript syntax in detail (demo: JS helpers)](https://TECH3015.github.io/presents?lecture-14) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c627147-bdbf-40ac-a626-acbd011c2b4d))
 - [**Lecture 15**: JavaScript and local data storage (demo: store names)](https://TECH3015.github.io/presents?lecture-15) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9cca9209-88d5-494b-bcbb-accb014ea096))
-- **Lecture 16**: JSON data and using 3rd-party data APIs in websites
-
-<!--
 - [**Lecture 16**: JSON data and using 3rd-party data APIs in websites](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
--->
 
 ---
 
@@ -56,19 +52,20 @@ February break
 
 ---
 
-- **Lecture 17**: more API examples, your site on GitHub, Typography
+- **Lecture 17**: your site on GitHub, Typography
 - **Lecture 18**: Web Animation
 - **Lecture 19**: detailed assignment criteria recap
 - **Lecture 20**: live websites, Progressive Web App extras, further resources
 
 <!--
-- [**Lecture 17**: more API examples, your site on GitHub, Typography](https://TECH3015.github.io/presents?lecture-17) (or see [the video]())
+- [**Lecture 17**: your site on GitHub, Typography](https://TECH3015.github.io/presents?lecture-17) (or see [the video]())
 - [**Lecture 18**: Web Animation](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
 - [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 
 ## TO DO:
 
+- [ ] Move all images to front-end-materials
 - [ ] SEE front-end-materials readme for some JS
 - [ ] try CTEC3905 styles here (or the reverse)?
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags

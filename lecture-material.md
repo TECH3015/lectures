@@ -33,6 +33,17 @@ Related links:
 
 ===
 
+## GitHub
+
+!-- .slide: class="left-align crammed" --
+
+One way of **getting your site live**… is [GitHub](https://github.com/). GitHub **stores your code** on its servers and can **display your site on the web**. This can be further explored in the labs but, for now if you're interested, just **sign up**
+
+GitHub needs the [GIT version-control software](https://git-scm.com/) which keeps a record of your code changes
+
+It's a bit of a **learning curve**, but programmers text editors (like [VSCode](https://code.visualstudio.com/Docs/editor/versioncontrol) and [Atom](https://github.atom.io/)) can **make it easier**
+
+===
 <!-- datalist -->
 
 ## HTML5 tags
