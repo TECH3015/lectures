@@ -15,6 +15,28 @@
 
 ===
 
+## HTML AUDIO: **01**
+
+- [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
+- [Using the Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API) ([source code](https://github.com/mdn/webaudio-examples/tree/master/audio-basics))
+
+Related links:
+
+- [MDN Web Audio Examples](https://github.com/mdn/webaudio-examples)
+- [Ruth Norman, JavaScript VJ and audio repos](https://github.com/Rumyra)
+
+===
+
+===
+
+<!-- datalist -->
+
+## HTML5 tags
+
+- [Can I Use `datalist` (included in MDN example)](https://caniuse.com/?search=datalist) ([Try it example](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_datalist))
+
+===
+
 <!-- JavaScript debugging 13oct2020:  -->
 
 ## LOCAL JSON **01**
