@@ -27,6 +27,10 @@ Related links:
 
 ===
 
+<!-- CORS diagram unused -->
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/TECH3015/lectures/master/imgs/json-api/CORS_principle.png" data-background-size="contain" -->
+
 ===
 
 <!-- datalist -->
