@@ -43,12 +43,11 @@ Winter break
 - [**Lecture 12**: Codecademy courses, Assignment 2 details, CSS and JS (demos)](https://TECH3015.github.io/presents?lecture-12) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7bc907-483b-4dba-80dc-acb50157ffa5))
 - [**Lecture 13**: how JavaScript actually works (demo: toggle class)](https://TECH3015.github.io/presents?lecture-13) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a44c3f15-4675-4b5b-a46c-acb901449a12))
 - [**Lecture 14**: JavaScript syntax in detail (demo: JS helpers)](https://TECH3015.github.io/presents?lecture-14) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c627147-bdbf-40ac-a626-acbd011c2b4d))
-- **Lecture 15**: JavaScript and local data storage (demo: store names)
-- **Lecture 16**: JSON data and 3rd-party APIs
+- [**Lecture 15**: JavaScript and local data storage (demo: store names)](https://TECH3015.github.io/presents?lecture-15) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9cca9209-88d5-494b-bcbb-accb014ea096))
+- **Lecture 16**: JSON data and using 3rd-party data APIs in websites
 
 <!--
-- [**Lecture 15**: JavaScript and local data storage (demo: store names)](https://TECH3015.github.io/presents?lecture-15) (or see [the video]())
-- [**Lecture 16**: JSON data and 3rd-party APIs](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
+- [**Lecture 16**: JSON data and using 3rd-party data APIs in websites](https://TECH3015.github.io/presents?lecture-16) (or see [the video]())
 -->
 
 ---

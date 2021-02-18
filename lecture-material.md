@@ -14,6 +14,53 @@
 - progressive (PWA)
 
 ===
+
+<!-- JavaScript debugging 13oct2020:  -->
+
+## LOCAL JSON **01**
+
+This example of local JSON data (stored within a website in a file called, say, "menu.json") could build a special kind of menu:
+
+```js{
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      {"label": "New", "url": "/new", "action": "createNewDoc()"},
+      {"label": "Open", "url": "/open", "action": "openDoc()"},
+      {"label": "Close", "url": "/close", "action": "closeDoc()"}
+    ]
+  }
+}
+```
+
+---
+
+## LOCAL JSON **02**
+
+—you’d write code to *remove quotes* from the *function names* in the `action` values:
+
+```js
+const menu = getData(); // get the menu.json here using fetch
+removeQuotes(menu.popup.menuitem); // pass menuitem array to removeQuotes()
+console.log(menu); // will then show:
+{
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      {"label": "New", "url": "/new", "action": createNewDoc()},
+      {"label": "Open", "url": "/open", "action": openDoc()},
+      {"label": "Close", "url": "/close", "action": closeDoc()}
+    ]
+  }
+}
+```
+
+<!-- MISSING: how to add to HTML -->
+
+===
+
 <!-- JavaScript debugging 13oct2020:  -->
 
 ## JS DEBUG 1:

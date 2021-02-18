@@ -161,54 +161,18 @@ fetch(data-to-fetch)
 # JSON: **08**
 <!-- .slide: class="left-align smalltext" -->
 
-**JSON has no "parent" or variable assignment**—it starts with an opening `{` or `[`.  
-This example of local JSON data (stored within a website in a file called, say, "menu.json") could build a special kind of menu:
+JSON is **just data**!
 
-however, JSON is **just data**! It *cannot* contain **functions** or **comments** like a JavaScript object…
-
-…but JSON data *can* be assigned to a variable as a **JavaScript object** (e.g. a `const` if you know the type—object or array) to **store the JSON** for use on your website  
+- JSON It *cannot* contain **functions** or **comments** like a JavaScript object
+- JSON has **no "parent" or variable assignment**—it starts with an opening `{` or `[`.  
+- JSON data *can* be stored in a **JavaScript variable** (e.g. `const` of `let`) to become a **JavaScript object** for use on your website  
 
 See: [Introducing JSON](http://www.json.org/ "ECMA-404 The JSON Data Interchange Standard") and
 [JSON Basics: What You Need to Know](https://www.elated.com/articles/json-basics/)
 
 ===
 
-<!-- ```js
-{
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"label": "New", "url": "/new", "action": "createNewDoc()"},
-      {"label": "Open", "url": "/open", "action": "openDoc()"},
-      {"label": "Close", "url": "/close", "action": "closeDoc()"}
-    ]
-  }
-}
-```
-
-—you’d write code to *remove quotes* from the *function names* in the `action` values:
-
-```js
-const menu = getData(); // get the menu.json here using fetch
-removeQuotes(menu.popup.menuitem); // pass menuitem array to removeQuotes()
-console.log(menu); // will then show:
-{
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"label": "New", "url": "/new", "action": createNewDoc()},
-      {"label": "Open", "url": "/open", "action": openDoc()},
-      {"label": "Close", "url": "/close", "action": closeDoc()}
-    ]
-  }
-}
-``` -->
-
-===
-
-# JSON: **DEMO 1**
+# JSON API: **1**
 <!-- .slide: class="left-align smalltext" -->
 
 for a real-world example, here’s the raw **JSON data** for the [current solar weather](https://services.swpc.noaa.gov/products/geospace/planetary-k-index-dst.json)  
@@ -218,7 +182,7 @@ This is often used to **predict aurora displays** in the Arctic Circle
 
 ---
 
-# JSON: **DEMO 2**
+# JSON API: **2**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 this solar weather data is in a **nested array**, with the first array as a **header row**:
@@ -227,11 +191,12 @@ this solar weather data is in a **nested array**, with the first array as a **he
 [
   ["time_tag", "planetary_k_index", "dst"],
   [
-    "2018-11-13 00:00:00",
-    "2.67",
-    "-10.2685003"
+    "2021-01-27 00:00:00",
+    "4.00",
+    "-26.2444992"
   ],
-  [ // much, much more data...
+  [ "2021-01-27 00:01:00",
+  // many more arrays of data in the smae format...
 ]
 ```
 
@@ -243,7 +208,7 @@ Various other [space weather readings are freely available](https://services.swp
 
 ---
 
-# JSON **DEMO 3**
+# JSON API: **3**
 <!-- .slide: class="left-align smalltext" -->
 
 if the **data is stored** in a variable called `jsonData`, this `processData` function will get, format and display it  
@@ -265,7 +230,7 @@ abbreviated for clarity.
 
 ---
 
-# JSON **DEMO 4**
+# JSON API: **4**
 <!-- .slide: class="left-align" -->
 
 - [Get and display live solar data from an API](https://front-end-materials.github.io/json-api/api-solar-data/)
