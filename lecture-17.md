@@ -316,9 +316,13 @@ See [CSS Drop Caps](https://www.abeautifulsite.net/css-drop-caps)
 
 indent the **first line** of a text block with [text-indent](https://www.w3schools.com/cssref/pr_text_text-indent.asp)
 
+```html
+<p class="indent">A long following paragraph…</p>
+```
+
 ```css
 .indentme {
-  text-indent: -2em;
+  indent: -2em;
 }
 ```
 
