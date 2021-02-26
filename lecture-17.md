@@ -354,6 +354,15 @@ it's even possible to have vertical text: [writing-mode](https://www.w3schools.c
 ---
 
 ## TYPOGRAPHY **21**
+
+Two resources:
+
+- [Tips For Setting Up A Baseline Grid (CSS, article)](https://vanseodesign.com/web-design/baseline-grid/)
+- [Typesetting Body Text (loooong video lecture)](https://vimeo.com/156203722)
+
+---
+
+## TYPOGRAPHY **22**
 <!-- .slide: class="left-align" -->
 
 [BONUS DEMO: show an image inside text](https://front-end-materials.github.io/typography/image-as-text/) ([code here](https://github.com/front-end-materials/typography/tree/master/image-as-text))
