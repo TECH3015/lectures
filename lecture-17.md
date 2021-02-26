@@ -161,50 +161,16 @@ Definition lists are great for **title/description content**:
 ```html
 <dl>
   <dt>Cat</dt>
-  <dd>fluff, claws, whiskers, meowing…</dd>
+    <dd>fluff, claws, whiskers, meowing…</dd>
   <dt>Caterpillar</dt>
-  <dd>
-    Middle English catirpel, catirpeller, probably  
-    an alteration of Old North French catepelose
-  </dd>
+    <dd>
+      Middle English catirpel, catirpeller, probably  
+      an alteration of Old North French catepelose
+    </dd>
 <dl>  
 ```
 
----
-
 ## TYPOGRAPHY **10**
-<!-- .slide: class="left-align" -->
-
-type in CSS can be **sized** using several **different measures**, most commonly:
-
-`em`, `%`, and `px` (ems, percentage and pixels).
-
-```css
-font-size: 1.5em;
-font-size: 150%;
-font-size: 12px;
-```
-
-`em`s are adjusted according to their **parent element** which makes for confusing **size variations**, so…
-
----
-
-## TYPOGRAPHY **11**
-<!-- .slide: class="left-align" -->
-
-…the `rem` or "root em"—typically set on the `body`—allows for 'absolute' size adjustments with the **root** `font-size` **as a base** regardless of any other containing element's `font-size` style:
-
-```css
-body { font-size: 1em; } /* set the root (em or px) */
-h1 { font-size: 2rem; } /* twice as big */
-small { font-size: .75rem; } /* 3/4 size */
-```
-
-[Rems, ems, and pixels. What’s the difference? (Abbey Fitzgerald 2015)](https://getflywheel.com/layout/rems-ems-and-pixels-whats-the-difference/)
-
----
-
-## TYPOGRAPHY **12**
 <!-- .slide: class="left-align smalltext" -->
 
 **only a few fonts** are on every computer (see [Typetester](http://classic.typetester.org/)).
@@ -219,7 +185,7 @@ A font on your computer may look fine in your browser **but** your website users
 
 ---
 
-## TYPOGRAPHY **13**
+## TYPOGRAPHY **11**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 To use a specific font **local to your website** (and not depend on a Google fonts download), you also use `@font-face`
@@ -239,6 +205,38 @@ This gives the custom font an **identifier** for the **rest of your CSS** and po
 
 - [Web Font Generator](https://www.web-font-generator.com/)
 - [css @font-face generator (carful: more options!)](https://transfonter.org/)
+
+---
+
+## TYPOGRAPHY **12**
+<!-- .slide: class="left-align" -->
+
+type in CSS can be **sized** using several **different measures**, most commonly:
+
+`em`, `%`, and `px` (ems, percentage and pixels).
+
+```css
+font-size: 1.5em;
+font-size: 150%;
+font-size: 12px;
+```
+
+`em`s are adjusted according to their **parent element** which makes for confusing **size variations**, so…
+
+---
+
+## TYPOGRAPHY **13**
+<!-- .slide: class="left-align" -->
+
+…the `rem` or "root em"—typically set on the `body`—allows for 'absolute' size adjustments with the **root** `font-size` **as a base** regardless of any other containing element's `font-size` style:
+
+```css
+body { font-size: 1em; } /* set the root (em or px) */
+h1 { font-size: 2rem; } /* twice as big */
+small { font-size: .75rem; } /* 3/4 size */
+```
+
+[Rems, ems, and pixels. What’s the difference? (Abbey Fitzgerald 2015)](https://getflywheel.com/layout/rems-ems-and-pixels-whats-the-difference/)
 
 ---
 
