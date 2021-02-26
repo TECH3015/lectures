@@ -169,6 +169,7 @@ Definition lists are great for **title/description content**:
     </dd>
 <dl>  
 ```
+---
 
 ## TYPOGRAPHY **10**
 <!-- .slide: class="left-align smalltext" -->
