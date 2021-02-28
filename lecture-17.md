@@ -170,7 +170,7 @@ Definition lists are great for **title/description content**:
     <dd>First stage of a moth or butterfly</dd>
   <dt>Kittenpillar</dt>
     <dd>Only exists as joke baby caterpillar</dd>
-<dl>  
+</dl>  
 ```
 
 ---
