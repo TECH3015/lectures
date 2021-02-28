@@ -156,8 +156,8 @@ HTML **lists**:
 
 | Semantic meaning | tag |
 | --: | :-- | 
-| [Unordered (bullet point) Lists](https://www.html-5-tutorial.com/ul-ol-tags.htm) |	`<ul>` |
-| [Ordered (numbered) Lists](https://www.html-5-tutorial.com/ul-ol-tags.htm) |	`<ol>` |
+| [Unordered (bullet point) Lists](https://www.w3schools.com/TAGS/tag_ul.asp) |	`<ul>` |
+| [Ordered (numbered) Lists](https://www.w3schools.com/TAGS/tag_ol.asp) |	`<ol>` |
 | [Definition lists (title, description)](https://www.w3schools.com/TAGS/tag_dl.asp) | `<dl>` `<dt>` `<dd>` |
 
 Definition lists are great for **title/description content**:
@@ -165,14 +165,14 @@ Definition lists are great for **title/description content**:
 ```html
 <dl>
   <dt>Cat</dt>
-    <dd>fluff, claws, whiskers, meowing…</dd>
+    <dd>Fluff, claws, whiskers, meowing…</dd>
   <dt>Caterpillar</dt>
-    <dd>
-      Middle English catirpel, catirpeller, probably  
-      an alteration of Old North French catepelose
-    </dd>
+    <dd>First stage of a moth or butterfly</dd>
+  <dt>Kittenpillar</dt>
+    <dd>Only exists as joke baby caterpillar</dd>
 <dl>  
 ```
+
 ---
 
 ## TYPOGRAPHY CODE **06**
@@ -208,8 +208,8 @@ This gives the custom font an **identifier** for the **rest of your CSS** and po
 
 **Best format**: WOFF (OpenType or TrueType with compression and additional metadata) is the [most widely supported](https://www.w3schools.com/css/css3_fonts.asp) but OTF/TTF are also good.
 
-- [Web Font Generator](https://www.web-font-generator.com/)
-- [css @font-face generator (carful: more options!)](https://transfonter.org/)
+- [Web Font Generator (FontSquirrel)](https://www.fontsquirrel.com/tools/webfont-generator)
+- [css @font-face generator (careful: more options!)](https://transfonter.org/)
 
 ---
 
@@ -310,8 +310,6 @@ p::first-line {
 ```
 
 [DEMO: drop capital letter](https://front-end-materials.github.io/typography/drop-cap/) ([code here](https://github.com/front-end-materials/typography/tree/master/drop-cap))
-
-See [CSS Drop Caps](https://www.abeautifulsite.net/css-drop-caps)
 
 ---
 
