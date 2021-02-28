@@ -40,14 +40,15 @@ Email: deveritt@dmu.ac.uk
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
+<!-- TYPOGRAPHY shared: TECH3015 L17, MEDS3109 GL3 sync:28feb2021 -->
 ===
 
 ## TYPOGRAPHY **01**
 <!-- .slide: class="left-align" -->
 
 > **95%** of the information on the web is **written language**. It is only logical to say that a web designer should get good training in the main discipline of **shaping written information**, in other words: **Typography**.
-> 
-> —Oliver Reichenstein, "[Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)”, 2006
+
+<small>Oliver Reichenstein, [Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period), 2006</small>
 
 ---
 
@@ -56,9 +57,9 @@ Email: deveritt@dmu.ac.uk
 
 > our harassed contemporaries simply **cannot take everything** that is printed today.
 > 
-> It is the typographer’s task to **divide up, organize** and **interpret this mass** of printed matter in such a way that **the reader** will have a **good chance of finding what is of interest**
->
-> —Emil Ruder, famous Swiss typographer, 1969
+> It is the typographer’s task to **divide up, organize** and **interpret** this mass of printed matter in such a way that **the reader** will have a good chance of **finding what is of interest**
+
+<small>Emil Ruder, famous Swiss typographer, 1969</small>
 
 ---
 
@@ -69,16 +70,18 @@ recommended **web typography primary sources**:
 
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 - [Typography chapter, Web Style Guide](https://webstyleguide.com/9-typography.html)  
-—Patrick J. Lynch and Sarah Horton, 2016
+
+<small>Patrick J. Lynch and Sarah Horton, 2016</small>
 
 ---
 
 ## TYPOGRAPHY **04**
 <!-- .slide: class="left-align" -->
 
-> Choosing a Typeface Is **Not Typography**
+> **Choosing a typeface** is **not** typography…
 
-but here's a little inspiration: [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+…but here's a little inspiration that uses Google Fonts:  
+[Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 
 ---
 
@@ -93,6 +96,7 @@ optimum **line length for readablity** was supposed to be 50-75 characters…
 
 …and finally [Letterspacing Makes ALL CAPS Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
 
+<!-- END CTEC SHARE -->
 ---
 
 ## TYPOGRAPHY **06**
