@@ -40,10 +40,10 @@ Email: deveritt@dmu.ac.uk
 - [Learn how to build websites](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
-<!-- TYPOGRAPHY shared: TECH3015 L17, MEDS3109 GL3 sync:28feb2021 -->
+<!-- TYPOGRAPHY shared: TECH3015 L17, MEDS3109 L3, CTEC3905 GL3 sync:28feb2021 -->
 ===
 
-## TYPOGRAPHY **01**
+## WEB TYPOGRAPHY **01**
 <!-- .slide: class="left-align" -->
 
 > **95%** of the information on the web is **written language**. It is only logical to say that a web designer should get good training in the main discipline of **shaping written information**, in other words: **Typography**.
@@ -52,7 +52,7 @@ Email: deveritt@dmu.ac.uk
 
 ---
 
-## TYPOGRAPHY **02**
+## WEB TYPOGRAPHY **02**
 <!-- .slide: class="left-align" -->
 
 > our harassed contemporaries simply **cannot take everything** that is printed today.
@@ -63,7 +63,7 @@ Email: deveritt@dmu.ac.uk
 
 ---
 
-## TYPOGRAPHY **03**
+## WEB TYPOGRAPHY **03**
 <!-- .slide: class="left-align crammed" -->
 
 recommended **web typography primary sources**:
@@ -75,7 +75,7 @@ recommended **web typography primary sources**:
 
 ---
 
-## TYPOGRAPHY **04**
+## WEB TYPOGRAPHY **04**
 <!-- .slide: class="left-align" -->
 
 > **Choosing a typeface** is **not** typography…
@@ -85,7 +85,7 @@ recommended **web typography primary sources**:
 
 ---
 
-## TYPOGRAPHY **05**
+## WEB TYPOGRAPHY **05**
 <!-- .slide: class="left-align crammed" -->
 
 optimum **line length for readablity** was supposed to be 50-75 characters…
@@ -97,9 +97,9 @@ optimum **line length for readablity** was supposed to be 50-75 characters…
 …and finally [Letterspacing Makes ALL CAPS Easier to Read](https://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/)
 
 <!-- END CTEC SHARE -->
----
+===
 
-## TYPOGRAPHY **06**
+## TYPOGRAPHY CODE **01**
 <!-- .slide: class="left-align" -->
 
 Use the following CSS properties to aid legibility:
@@ -110,7 +110,7 @@ Use the following CSS properties to aid legibility:
 
 ---
 
-## TYPOGRAPHY **07**
+## TYPOGRAPHY CODE **03**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 how how many `h1` tags can you have?
@@ -130,7 +130,7 @@ condensed from [The Truth About Multiple H1 Tags in the HTML5 Era](https://webde
 
 ---
 
-## TYPOGRAPHY **08**
+## TYPOGRAPHY CODE **04**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 | Semantic Meaning | HTML Tag |
@@ -149,7 +149,7 @@ condensed from [The Truth About Multiple H1 Tags in the HTML5 Era](https://webde
 
 ---
 
-## TYPOGRAPHY **09**
+## TYPOGRAPHY CODE **05**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 HTML **lists**:
@@ -175,7 +175,7 @@ Definition lists are great for **title/description content**:
 ```
 ---
 
-## TYPOGRAPHY **10**
+## TYPOGRAPHY CODE **06**
 <!-- .slide: class="left-align smalltext" -->
 
 **only a few fonts** are on every computer (see [Typetester](http://classic.typetester.org/)).
@@ -190,7 +190,7 @@ A font on your computer may look fine in your browser **but** your website users
 
 ---
 
-## TYPOGRAPHY **11**
+## TYPOGRAPHY CODE **07**
 <!-- .slide: class="left-align crammed smalltext" -->
 
 To use a specific font **local to your website** (and not depend on a Google fonts download), you also use `@font-face`
@@ -213,7 +213,7 @@ This gives the custom font an **identifier** for the **rest of your CSS** and po
 
 ---
 
-## TYPOGRAPHY **12**
+## TYPOGRAPHY CODE **08**
 <!-- .slide: class="left-align" -->
 
 type in CSS can be **sized** using several **different measures**, most commonly:
@@ -230,7 +230,7 @@ font-size: 12px;
 
 ---
 
-## TYPOGRAPHY **13**
+## TYPOGRAPHY CODE **09**
 <!-- .slide: class="left-align" -->
 
 …the `rem` or "root em"—typically set on the `body`—allows for 'absolute' size adjustments with the **root** `font-size` **as a base** regardless of any other containing element's `font-size` style:
@@ -245,7 +245,7 @@ small { font-size: .75rem; } /* 3/4 size */
 
 ---
 
-## TYPOGRAPHY **14**
+## TYPOGRAPHY CODE **10**
 <!-- .slide: class="left-align" -->
 
 the default font for **form fields** as displayed by browsers is usually **smaller** and in a **different font** than the body text,  but you can make them the same using
@@ -261,7 +261,7 @@ or **manually set** the **font** and **font-size**
 
 ---
 
-## TYPOGRAPHY **15**
+## TYPOGRAPHY CODE **11**
 <!-- .slide: class="left-align crammed" -->
 
 You can divide text [into columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns) using CSS:
@@ -282,7 +282,7 @@ column-rule: 1px solid lightblue;
 
 ---
 
-## TYPOGRAPHY **16**
+## TYPOGRAPHY CODE **12**
 <!-- .slide: class="left-align crammed" -->
 
 you can highlight the entire [::first-line](https://www.w3schools.com/cssref/sel_firstline.asp) of a block of text:
@@ -296,7 +296,7 @@ p::first-line {
 
 ---
 
-## TYPOGRAPHY **17**
+## TYPOGRAPHY CODE **13**
 <!-- .slide: class="left-align crammed" -->
 
 … and use [::first-letter](https://www.w3schools.com/cssref/sel_firstletter.asp) to make a CSS `class` you can **apply** to **paragraphs** and **other elements** with **multiple lines of text**:
@@ -315,7 +315,7 @@ See [CSS Drop Caps](https://www.abeautifulsite.net/css-drop-caps)
 
 ---
 
-## TYPOGRAPHY **18**
+## TYPOGRAPHY CODE **14**
 <!-- .slide: class="left-align" -->
 
 indent the **first line** of a text block with [text-indent](https://www.w3schools.com/cssref/pr_text_text-indent.asp)
@@ -332,7 +332,7 @@ indent the **first line** of a text block with [text-indent](https://www.w3schoo
 
 ---
 
-## TYPOGRAPHY **19**
+## TYPOGRAPHY CODE **15**
 <!-- .slide: class="left-align" -->
 
 **hyphenate** large chunks of text with [hyphens: auto;](https://www.w3schools.com/cssref/css3_pr_hyphens.asp) (default is `manual`, which only breaks on the minus `-` character)
@@ -345,7 +345,7 @@ indent the **first line** of a text block with [text-indent](https://www.w3schoo
 
 ---
 
-## TYPOGRAPHY **20**
+## TYPOGRAPHY CODE **16**
 <!-- .slide: class="left-align" -->
 
 it's even possible to have vertical text: [writing-mode](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_writing-mode)
@@ -361,16 +361,16 @@ it's even possible to have vertical text: [writing-mode](https://www.w3schools.c
 
 ---
 
-## TYPOGRAPHY **21**
+## TYPOGRAPHY **17**
 
 Two resources:
 
 - [Tips For Setting Up A Baseline Grid (CSS, article)](https://vanseodesign.com/web-design/baseline-grid/)
 - [Typesetting Body Text (loooong video lecture)](https://vimeo.com/156203722)
 
----
+===
 
-## TYPOGRAPHY **22**
+## TYPOGRAPHY **DEMO**
 <!-- .slide: class="left-align" -->
 
 [BONUS DEMO: show an image inside text](https://front-end-materials.github.io/typography/image-as-text/) ([code here](https://github.com/front-end-materials/typography/tree/master/image-as-text))
