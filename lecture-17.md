@@ -309,7 +309,7 @@ p::first-line {
 }
 ```
 
-[DEMO: drop capital letter](https://front-end-materials.github.io/typography/drop-cap/) ([code here](https://github.com/front-end-materials/typography/tree/master/drop-cap))
+[DEMO: drop capital letter (and CSS columns)](https://front-end-materials.github.io/typography/drop-cap/) ([code here](https://github.com/front-end-materials/typography/tree/master/drop-cap))
 
 ---
 
