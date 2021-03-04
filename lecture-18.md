@@ -444,71 +444,28 @@ We'll **inspect the cat element** to examine how the **SVG DOM** (which is XML) 
 ---
 <style>
 svg {
-max-height: 100vh;
+  max-height: 100vh;
 }
-
-.cls-1 {
-  fill: #e4e3e5;
-}
-
-.cls-2 {
-  fill: #ada6ad;
-}
-
-.cls-3 {
-  fill: #d2d0d3;
-}
-
-.cls-4 {
-  fill: #79bf84;
-}
-
+.cls-1 { fill: #e4e3e5; }
+.cls-2 { fill: #ada6ad; }
+.cls-3 { fill: #d2d0d3; }
+.cls-4 { fill: #79bf84; }
 .cls-10, .cls-11, .cls-13, .cls-5, .cls-8, .cls-9 {
   fill: none;
   stroke-miterlimit: 10;
 }
-
-.cls-5 {
-  stroke: #e4e3e5;
-}
-
-.cls-6 {
-  fill: #ff88b3;
-}
-
-.cls-7 {
-  fill: #d86694;
-}
-
-.cls-8 {
-  stroke: #ff88b3;
-  stroke-width: 2px;
-}
-
-.cls-9 {
-  stroke: #d86694;
-}
-
-.cls-10 {
-  stroke: #6c6d6c;
-}
-
-.cls-11 {
-  stroke: #222322;
-}
-
-.cls-12 {
-  fill: #2f302f;
-}
-
-.cls-13 {
-  stroke: #2f302f;
-}
-
-.cls-14 {
-  fill: #fafcfa;
-}
-/* .eye:hover {scaleY:.01; repeat:3; repeatDelay:.4; yoyo:true; transformOrigin: "50% 70%"; ease:Power2.easeInOut;} */
+.cls-5 { stroke: #e4e3e5; }
+.cls-6 { fill: #ff88b3; }
+.cls-7 { fill: #d86694; }
+.cls-8 { stroke: #ff88b3; stroke-width: 2px;}
+.cls-9 { stroke: #d86694; }
+.cls-10 { stroke: #6c6d6c; }
+.cls-11 { stroke: #222322; }
+.cls-12 { fill: #2f302f; }
+.cls-13 { stroke: #2f302f; }
+.cls-14 { fill: #fafcfa; }
+/* DOES THIS WORK? */
+.eye:hover {scaleY:.01; repeat:3; repeatDelay:.4; yoyo:true; transformOrigin: "50% 70%"; ease:Power2.easeInOut;}
 </style>
 
 <svg version="1" id="cat" viewBox="0 0 720 800" aria-labelledby="catTitle catDesc" role="img">
