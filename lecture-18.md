@@ -280,7 +280,7 @@ See [Animation](https://css-tricks.com/almanac/properties/a/animation/) (Chris C
 }
 .heart:before,
 .heart:after { 
-  /* create heart shape here */
+  /* create heart shape here (see CodePen, next slide) */
 }
 ```
 
