@@ -392,7 +392,7 @@ Applications produce bloated/messy code! [Cleaning up SVG files manually](https:
 # **SVG** GRAPHICS **3**
 <!-- .slide: class="left-align crammed" -->
 
-SVG VS HTML Canvas
+**SVG** VS HTML **Canvas**:
 
 - **SVG** graphics are **retained mode** and do not need to be re-generated on re-sizing
 - **canvas** graphics are **immediate mode**, re-generated each time the element is loaded
@@ -405,11 +405,9 @@ See [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_S
 ---
 
 # **SVG** GRAPHICS **4**
-<!-- .slide: class="left-align crammed" -->
+<!-- .slide: class="left-align crammed smalltext" -->
 
-[SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)…
-
-SVG is a **huge specification** with a **small group** working on it, and—although widely-supported—has had patchy input from browsers. **BUT** this is changing, with Microsoft helping to push SVG 2.
+[SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)… SVG is a **huge specification** with a **small working group** and—although widely-supported—has had patchy input from browsers. This is changing, with Microsoft helping to push SVG 2.
 
 - **Developers**: use features, say what’s wanted, determine what’s actually used
 - **Browsers**: implement features, are corporate gatekeepers with their own ideas
