@@ -405,7 +405,7 @@ See [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_S
 ---
 
 # **SVG** GRAPHICS **4**
-<!-- .slide: class="left-align crammed smalltext" -->
+<!-- .slide: class="left-align crammed" -->
 
 [SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)… SVG is a **huge specification** with a **small working group** and—although widely-supported—has had patchy input from browsers. This is changing, with Microsoft helping to push SVG 2.
 
