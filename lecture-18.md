@@ -256,8 +256,8 @@ there's **NO need** for vendor prefixes
 
 - Create and **name** a `@keyframes` block for the animations
 - Add an `animation` rule with the **name** of your `@keyframes` to the element
-- `@keyframes` can run `from` and `to` a set of styles  
-  or be **timed** (e.g. at 0%, 25%, 50%, 75%, 100%)
+- `@keyframes` can run `from` and `to` two styles,  
+  or be **timed** (e.g. 0%, 25%, 50%, 75%, 100%)
 - You can also trigger the animation on e.g.
  `:hover`, `:checked`, `:focus`, etc.
 
@@ -296,7 +296,7 @@ animation: **name**, **duration**, **direction**, **count**, **timing function**
 ```css
 @keyframes pulsate {
 	0% { transform: scale(1); }
-	25% { transform: scale(1.3); }
+	40% { transform: scale(1.3); }
 	100% { transform: scale(1); }
 }
 ```
@@ -307,39 +307,39 @@ See [CodePen](https://codepen.io/daveeveritt/pen/JjbapGb)
 
 <style>
 .reveal .heart-container {
-	position: relative;
-	margin-left: 40%;
+  display: flex;
+  justify-content: center;
 }
 .reveal .heart {
-	width: 100%;
-	height: 90px;
-	margin: 30px;
-	transform: scale(1.25);
-	animation: 1.8s pulsate alternate infinite ease-in-out;
+  width: 100px;
+  height: 90px;
+  margin: 30px;
+  transform: scale(1);
+  animation: 1600ms pulsate infinite alternate ease-in-out;
 }
 .heart:before,
 .heart:after { 
-	position: absolute;
-	content: "";
-	left: 50px;
-	top: 0;
-	width: 50px;
-	height: 80px;
-	background: red;
-	border-radius: 50px 50px 0 0;
-	transform: rotate(-45deg);
-	transform-origin: 0 100%;
+  position: absolute; 
+  content: "";
+  left: 50px;
+  top: 0;
+  width: 50px;
+  height: 80px;
+  background: red;
+  border-radius: 50px 50px 0 0;
+  transform: rotate(-45deg);
+  transform-origin: 0 100%;
 }
 .heart:after {
-	left: 0;
-	transform: rotate(45deg);
-	transform-origin :100% 100%;
+  left: 0;
+  transform: rotate(45deg);
+  transform-origin :100% 100%;
 }
 
 @keyframes pulsate {
-	0% { transform: scale(1); }
-	25% { transform: scale(1.3); }
-	100% { transform: scale(1); }
+  0% { transform: scale(1); }
+  40% { transform: scale(1.3); }
+  100% { transform: scale(1); }
 }
 </style>
 
