@@ -420,7 +420,7 @@ See [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_S
 
 SVG graphics also need to take care of accessibility requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
 
-Now, we'll **inspect a cat SVG** to examine how the **SVG DOM** (which is XML) works
+Now, we'll inspect a **cat SVG** to examine how the **SVG DOM** (which is XML) works
 
 ---
 <style>
