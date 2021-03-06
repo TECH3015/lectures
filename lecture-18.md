@@ -18,22 +18,6 @@ Email: deveritt@dmu.ac.uk
 
 ===
 
-## HANDY LINKS
-<!-- .slide: class="left-align" -->
-
-- [HTML5](https://TECH3015.github.io/presents?lecture-02)
-- [CSS3](https://TECH3015.github.io/presents?lecture-09)
-- [JavaScript ES6](https:/TECH3015.github.io/presents?lecture-13)
-- [APIs](https://TECH3015.github.io/presents?lecture-16)
-- animation, 
-- [HTML validation](https://validator.w3.org/) and accessibility testing
-- [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/), 
-- Progressive Web Apps
-
-<!-- WEB ANIMATION INTRO -->
-
-===
-
 # WEB ANIMATION
 <!-- .slide: class="left-align" -->
 
@@ -41,7 +25,7 @@ there are **three approaches** (besides HTML5 Canvas):
 
 - **transition** (CSS)
 - **animation** (CSS)
-- **SVG manipulation** (JavaScript and CSS)
+- **SVG manipulation** (CSS/JavaScript)
 
 You can also use JavaScript to **add a class** with a transition or animation to an element according to a user action (eventListener). See [what is animatable](https://www.w3schools.com/CSSref/css_animatable.asp).
 
@@ -64,7 +48,7 @@ To **update the screen** a **web browser** goes through the following processes:
 # BROWSER RENDERING **2**
 <!-- .slide: class="left-align crammed" -->
 
-Changing a **colour** - e.g. transitioning a `background-color` on **hover** triggers the browser "**paint**" process.
+Changing a **colour** - e.g. transitioning a `background-color` on **hover** triggers the browser ‘**paint**’ process.
 
 Changing an element’s `height` triggers **layout** (step 2) of all elements that follow it on the page, then **repaint** (step 3) and **redraw** (step 4) all of the affected content.
 
@@ -75,7 +59,7 @@ This is known as **reflow**, and it creates **a lot of work for the browser**. W
 # BROWSER RENDERING **3**
 <!-- .slide: class="left-align smalltext" -->
 
-For **optimisation**, especially for **mobile** where the CPU is less powerful, it’s best to **avoid layout** or **paint** animations.
+For **optimisation**, especially for less powerful **mobile**CPUs, try to **avoid layout** or **paint** animations.
 
 CSS `transform` is the best property to animate, because the GPU (Graphics Processing Unit) can be used (including mobile GPUs). The following are the **least processor-intensive to animate**, and will not force screen redraw:
 
@@ -317,7 +301,7 @@ animation: **name**, **duration**, **direction**, **count**, **timing function**
 }
 ```
 
-Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
+See [CodePen](https://codepen.io/daveeveritt/pen/JjbapGb)
 
 ---
 
@@ -380,7 +364,7 @@ Adapted from [This Pen](https://codepen.io/Zeaklous/pen/rmDdx)
 - **Tiny** file sizes, **massive** functionality, **programmable**
 - full **browser support** (see [caniuse SVG](https://caniuse.com/#search=svg))
 
-Instead of ~~pixels~~, SVGs are a **set of instructions** that **create a vector image** from **co-ordinates **and take far **less memory**
+Instead of ~~pixels~~, SVGs are a **set of instructions** that **create a vector image** from **co-ordinates** and take far **less memory**
 
 SVG is ideal for **complex graphics** that **load quickly** (e.g. [maps](https://simplemaps.com/resources/svg-maps))
 
@@ -416,30 +400,29 @@ SVG VS HTML Canvas
 [Apple introduced the **canvas** element](https://en.wikipedia.org/wiki/Canvas_element#Intellectual_property_over_canvas),  
 **SVG** has been a [standard since around 2002](https://www.w3.org/TR/?title=svg)
 
-See [SVG vs. HTML5 Canvas](https://www.cs.tufts.edu/comp/150IDS/final_papers/ppaleo01.1/FinalReport.html) and [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_Scalable_Vector_Graphics_(SVG))
+See [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_Scalable_Vector_Graphics_(SVG))
 
 ---
 
 # **SVG** GRAPHICS **4**
 <!-- .slide: class="left-align crammed" -->
 
-[SVG 1](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x) and [SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_2.x)?
+[SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)…
 
-SVG is a **huge specification** with a **small group** working on it, and—although widely-supported in browsers—has had little input from them. **BUT** this is changing and Microsoft is helping push SVG 2.
+SVG is a **huge specification** with a **small group** working on it, and—although widely-supported—has had patchy input from browsers. **BUT** this is changing, with Microsoft helping to push SVG 2.
 
-See:
-
-- [The SVG 2 Conundrum](https://css-tricks.com/svg-2-conundrum/)
-- [SVG 2 Status: Back From the Dead](https://www.patreon.com/posts/svg-2-status-19078074)
+- **Developers**: use features, say what’s wanted, determine what’s actually used
+- **Browsers**: implement features, are corporate gatekeepers with their own ideas
+- **Specifications**: document how features should work and show browsers how to implement them, they also have their own ideas
 
 ---
 
 # **SVG** GRAPHICS **5**
 <!-- .slide: class="left-align" -->
 
-SVG graphics also need to take care of accessibilioty requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
+SVG graphics also need to take care of accessibility requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
 
-We'll **inspect the cat element** to examine how the **SVG DOM** (which is XML) works
+Now, we'll **inspect a cat SVG** to examine how the **SVG DOM** (which is XML) works
 
 ---
 <style>
@@ -545,7 +528,6 @@ SVG is already a thing (it began in 1999!) so here are a few more resources for 
 
 - [Practical SVG (book, Chris Coyier, 2016)](https://alistapart.com/article/practical-svg)
 - [JavaScript in SVG](http://apike.ca/prog_svg_js_create.html)
-- [SVG on W3Schools](https://www.w3schools.com/html/html5_svg.asp)
 
 ===
 
@@ -612,7 +594,7 @@ The CSS **animation keyframes**
     stroke: #9f9;
   }
   to {
-    cx:574;
+    cx: 574;
     cy: 84;
     fill: #9f9;
     stroke: #fc5f8e;
@@ -628,9 +610,9 @@ The CSS **animation keyframes**
 The two "SVG Sarahs"
 
 - [Sarah Drasner](https://sarahdrasnerdesign.com/): book [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
-- [Sarah Soueidan](https://www.sarasoueidan.com/): [SVG articles](https://www.sarasoueidan.com/tags/svg/), [codePen](https://codepen.io/SaraSoueidan/)
+- [Sarah Soueidan](https://www.sarasoueidan.com/tags/svg/), talk: [The \<SVG\> of .SVG](https://www.youtube.com/embed/hhISb-cpFgM)
 
-See [SVG can do that?! (talk, Sarah Drasner)](https://www.youtube.com/watch?v=4laPOtTRteI) ([Slides](https://slides.com/sdrasner/svg-can-do-that#/))
+See [SVG can do that?! (talk, Sarah Drasner)](https://www.youtube.com/watch?v=4laPOtTRteI) ([Slides](https://slides.com/sdrasner/svg-can-do-that#/)) and [USe SVG! (presentation, Sarah Soueidan)](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 
 These two developers have **worked extensively with SVG graphics**
 
@@ -644,29 +626,19 @@ These two developers have **worked extensively with SVG graphics**
 - [Animated gear wheel](https://codepen.io/sdras/pen/NqYGZv)
 - [Global warming solutions](https://codepen.io/sdras/full/JdJgrB)
 
-[Sarah Drasner on CodePen](https://codepen.io/sdras/)
-
----
-
-# **SVG** ANIMATION **6**
-<!-- .slide: class="left-align crammed" -->
-
-**Sarah Soueidan**:
-
-- [Use SVG! presentation](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
-- [Sarah Soueidan: CSS vs SVG](https://theblog.adobe.com/css-vs-svg-the-final-roundup/)
-- [Sarah Soueidan: articles on SVGs](https://www.sarasoueidan.com/tags/svg/)
+<!-- - [Sarah Soueidan: CSS vs SVG](https://theblog.adobe.com/css-vs-svg-the-final-roundup/) -->
 
 ===
 
 # **SVG** RESPONSIVE
 <!-- .slide: class="left-align" -->
 
-Sarah Soueidan also has a nice article on [Making SVG Responsive using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)…
+Sarah Soueidan also has a nice article on  
+[Making SVGs Responsive using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)…
 
-…so finally, let's examine how her logo example becomes **responsive** with media queries
+…so finally, let's examine how her logo example becomes **responsive** with media queries:
 
-[Responsive logo example](https://tympanus.net/Tutorials/ResponsiveSVGs/index6.html)
+[Responsive logo example](https://front-end-materials.github.io/svg/responsive-svg-logo/)
 
 ===
 
