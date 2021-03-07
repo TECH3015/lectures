@@ -53,12 +53,12 @@ February break
 
 ---
 
-- **Lecture 18**: Web Animation
+- **Lecture 18**: Web Animation and SVG graphics
 - **Lecture 19**: detailed assignment criteria recap
 - **Lecture 20**: live websites, Progressive Web App extras, further resources
 
 <!--
-- [**Lecture 18**: Web Animation](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
+- [**Lecture 18**: Web Animation and SVG graphics](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
 - [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 
