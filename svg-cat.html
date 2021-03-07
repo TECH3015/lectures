@@ -32,10 +32,7 @@ svg {
 /* .eye:hover {scaleY:.01; repeat:3; repeatDelay:.4; yoyo:true; transformOrigin: "50% 70%"; ease:Power2.easeInOut; */
 /* Needed updating to CSS, looked like GreenSock */
 .eye:hover {
-  animation-name: catseye;
-  animation-duration: 4s;
-  animation-timing-function: ease-in-out;
-  animation-direction: alternate;
+  animation: catseye 4s ease-in-out infinite alternate;
 }
 @keyframes catseye {
   from { transform: scaleY(1); }
