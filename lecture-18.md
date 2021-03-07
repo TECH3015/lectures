@@ -621,7 +621,7 @@ The two "SVG Sarahs"
 - [Sarah Drasner](https://sarahdrasnerdesign.com/): book [SVG Animations](http://shop.oreilly.com/product/0636920045335.do)
 - [Sarah Soueidan](https://www.sarasoueidan.com/tags/svg/), talk: [The \<SVG\> of .SVG](https://www.youtube.com/embed/hhISb-cpFgM)
 
-See [SVG can do that?! (talk, Sarah Drasner)](https://www.youtube.com/watch?v=4laPOtTRteI) ([Slides](https://slides.com/sdrasner/svg-can-do-that#/)) and [USe SVG! (presentation, Sarah Soueidan)](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
+See [SVG can do that?! (talk, Sarah Drasner)](https://www.youtube.com/watch?v=4laPOtTRteI) ([Slides](https://slides.com/sdrasner/svg-can-do-that#/)) and [Building Better Interfaces with SVG (presentation, Sarah Soueidan)](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 
 These two developers have **worked extensively with SVG graphics**
 
