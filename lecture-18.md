@@ -635,7 +635,9 @@ These two developers have **worked extensively with SVG graphics**
 - [Animated gear wheel](https://codepen.io/sdras/pen/NqYGZv)
 - [Global warming solutions](https://codepen.io/sdras/full/JdJgrB)
 
-<!-- - [Sarah Soueidan: CSS vs SVG](https://theblog.adobe.com/css-vs-svg-the-final-roundup/) -->
+**Sarah Soueidan**:
+
+- [Animated light bulb](https://jsbin.com/haxaqa/1/edit?html,output)
 
 ===
 
