@@ -52,16 +52,16 @@ Changing a **colour** - e.g. transitioning a `background-color` on **hover** tri
 
 Changing an element’s `height` triggers **layout** (step 2) of all elements that follow it on the page, then **repaint** (step 3) and **redraw** (step 4) all of the affected content.
 
-This is known as **reflow**, and it creates **a lot of work for the browser**. While it’s *difficult to avoid reflows entirely*, keeping them to a minimum is *good practice*.
+This is known as **reflow**, and it can create **a lot of work for the browser**. While it’s *difficult to avoid reflows entirely*, keeping them to a minimum is *good professional practice*.
 
 ---
 
 # BROWSER RENDERING **3**
 <!-- .slide: class="left-align smalltext" -->
 
-For **optimisation**, especially for less powerful **mobile**CPUs, try to **avoid layout** or **paint** animations.
+For **optimisation**, especially for less powerful **mobile** CPUs, professional developers try to avoid too many **paint** or especially **layout** animations.
 
-CSS `transform` is the best property to animate, because the GPU (Graphics Processing Unit) can be used (including mobile GPUs). The following are the **least processor-intensive to animate**, and will not force screen redraw:
+CSS `transform` is a good property to animate (e.g. for [mobile menus](https://github.com/front-end-materials/menus)) because the GPU (Graphics Processing Unit) in both mobile and desk/laptops can be used. The following are the **least processor-intensive to animate**, and will not force screen redraw:
 
 - [Opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity): `opacity: 0..1;`
 - [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) `transform: translate(?, ?);` (x, y)
