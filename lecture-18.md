@@ -407,9 +407,11 @@ See [Canvas vs SVG](https://en.wikipedia.org/wiki/Canvas_element#Canvas_versus_S
 ---
 
 # **SVG** GRAPHICS **4**
-<!-- .slide: class="left-align crammed" -->
+<!-- .slide: class="left-align smalltext" -->
 
-[SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)… are **huge specifications** with a **small working group**, widely-supported, but browser manufacturers offered patchy input. This is changing, with Microsoft pushing SVG 2.
+[SVG 1 and SVG 2](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Version_1.x)… are **huge specifications** with a **small working group**, widely-supported in browsers.
+
+However, browser manufacturers have offered patchy input although this is changing, for example, Microsoft are pushing SVG 2.
 
 - **Developers**: use features, say what’s wanted, determine what’s actually used
 - **Browsers**: implement features, are corporate gatekeepers with their own ideas
