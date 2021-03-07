@@ -424,7 +424,7 @@ However, browser manufacturers have offered patchy input although this is changi
 
 SVG graphics also need to take care of accessibility requirements, so the next (slighly cheesy cat) example is from an [SVG article on accessibility](https://css-tricks.com/accessible-svgs/)
 
-Now, we'll inspect a **cat SVG** to examine how the **SVG DOM** (which is XML) works
+Let’s inspect the **cat SVG** to examine how the **SVG DOM** (of XML elements, similar to HTML) works
 
 ---
 <style>
