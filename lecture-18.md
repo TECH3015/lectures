@@ -449,8 +449,18 @@ svg {
 .cls-12 { fill: #2f302f; }
 .cls-13 { stroke: #2f302f; }
 .cls-14 { fill: #fafcfa; }
-/* DOES THIS WORK? */
-.eye:hover {scaleY:.01; repeat:3; repeatDelay:.4; yoyo:true; transformOrigin: "50% 70%"; ease:Power2.easeInOut;}
+/* .eye:hover {scaleY:.01; repeat:3; repeatDelay:.4; yoyo:true; transformOrigin: "50% 70%"; ease:Power2.easeInOut; */
+/* Needed updating to CSS, looked like GreenSock */
+.eye:hover {
+  animation-name: catseye;
+  animation-duration: 4s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+@keyframes catseye {
+  from { transform: scaleY(1); }
+  to { transform: scaleY(.001); transform-origin: center center; }
+}
 </style>
 
 <svg version="1" id="cat" viewBox="0 0 720 800" aria-labelledby="catTitle catDesc" role="img">
