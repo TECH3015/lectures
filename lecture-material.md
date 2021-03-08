@@ -1,5 +1,14 @@
 ===
 
+## WEB 3D
+
+- https://developers.google.com/web/fundamentals/vr/getting-started-with-webvr/
+- https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/
+- https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code
+- [A simple WEb 3d example](https://github.com/DaveEveritt/x3d-example)
+
+===
+
 [Multi-touch Web Development](https://www.html5rocks.com/en/mobile/touch/)
 
 ===
@@ -7,8 +16,8 @@
 ## KINDS OF WEBSITE **01**
 <!-- .slide: class="crammed" -->
 
-- dynamic
-- static
+- dynamic (database)
+- static (generated or hand-coded)
 - single page (SPA)
 - responsive (RWD)
 - progressive (PWA)
@@ -49,52 +58,6 @@ It's a bit of a **learning curve**, but programmers text editors (like [VSCode](
 ## HTML5 tags
 
 - [Can I Use `datalist` (included in MDN example)](https://caniuse.com/?search=datalist) ([Try it example](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_datalist))
-
-===
-
-<!-- JavaScript debugging 13oct2020:  -->
-
-## LOCAL JSON **01**
-
-This example of local JSON data (stored within a website in a file called, say, "menu.json") could build a special kind of menu:
-
-```js{
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"label": "New", "url": "/new", "action": "createNewDoc()"},
-      {"label": "Open", "url": "/open", "action": "openDoc()"},
-      {"label": "Close", "url": "/close", "action": "closeDoc()"}
-    ]
-  }
-}
-```
-
----
-
-## LOCAL JSON **02**
-
-—you’d write code to *remove quotes* from the *function names* in the `action` values:
-
-```js
-const menu = getData(); // get the menu.json here using fetch
-removeQuotes(menu.popup.menuitem); // pass menuitem array to removeQuotes()
-console.log(menu); // will then show:
-{
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"label": "New", "url": "/new", "action": createNewDoc()},
-      {"label": "Open", "url": "/open", "action": openDoc()},
-      {"label": "Close", "url": "/close", "action": closeDoc()}
-    ]
-  }
-}
-```
-
-<!-- MISSING: how to add to HTML -->
 
 ===
 

@@ -54,18 +54,24 @@ February break
 ---
 
 - **Lecture 18**: Web Animation and SVG graphics
-- **Lecture 19**: detailed assignment criteria recap
+- **Lecture 19**: detailed assignment criteria recap (TBC: Web 3D, audio, drawing)
 - **Lecture 20**: live websites, Progressive Web App extras, further resources
 
 <!--
+ADD:
+- X3D
+- audio
+- drawing on the web
+
 - [**Lecture 18**: Web Animation and SVG graphics](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
 - [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
 - [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 
 ## TO DO:
 
-- [ ] Move all images to front-end-materials
+- [ ] Move all images to TECH3015 "githubusercontent.com/TECH3015/lectures/" not "githubusercontent.com/DaveEveritt/TECH3015/master/imgs/"
 - [ ] SEE front-end-materials readme for some JS
 - [ ] try CTEC3905 styles here (or the reverse)?
 - [ ] extend CSS 'crammed' and 'smalltext' to 'ol' tags
+- [ ] use front-end-materials for everything after DMU
 -->
