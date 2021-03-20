@@ -222,9 +222,9 @@ You could also use `nav` instead of `p`—this is [one case](https://stackoverfl
 
 links to previous lectures on **IA** and **design**:
 
-- [Lecture 3: Information Architecture](https://tech3015.github.io/presents/?lecture-03#/10)
-- [lecture 4: the PARC design principles](https://tech3015.github.io/presents/?lecture-04#/6)
-- [Lecture 7: Information Design](https://tech3015.github.io/presents/?lecture-07#/5)
+- [Lecture 3: Information Architecture](https://tech3015.github.io/presents/?lecture-03#/3)
+- [lecture 4: the PARC design principles](https://tech3015.github.io/presents/?lecture-04#/3)
+- [Lecture 7: Information Design](https://tech3015.github.io/presents/?lecture-07#/4)
 
 ===
 
