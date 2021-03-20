@@ -61,7 +61,7 @@ You need to hand in:
 - [Style](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#style)
 - [Technical Skills](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#technical-skills)
 
-[Coursework 2](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#coursework-2-1) and [Marking Criteria](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)
+[Coursework 2 general overview](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#coursework-2-1) and [Marking Criteria](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)
 
 ---
 
