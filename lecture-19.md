@@ -45,7 +45,7 @@ From the [handbook marking criteria](https://github.com/thomcorah/dmu-multimedia
 ## MARKING CRITERIA: **CONTENT 02**
 <!-- .slide: class="left-align smalltext" -->
 
-[Content](https://tech3015.github.io/lectures/coursework-02.html#content) **checklist**:
+[Content](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#content) **checklist**:
 
 **Document** briefly that you've addressed these points (a **table in an appendix** will do)
 
@@ -75,7 +75,7 @@ here are some free online file **compressors** and **converters**…
 ## MARKING CRITERIA: **STYLE 01**
 <!-- .slide: class="left-align smalltext" -->
 
-[Style](https://tech3015.github.io/lectures/coursework-02.html#style) **checklist**:
+[Style](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#style) **checklist**:
 
 Your website should appeal to your **intended audience** and follow on from your **mockups/designs** (or, if not, explain in your documentation **what changed and why**). **CSS** is the **crucial technology** here.
 
@@ -231,7 +231,7 @@ links to previous lectures on **IA** and **design**:
 ## MARKING CRITERIA: **TECH 01**
 <!-- .slide: class="left-align smalltext" -->
 
-[Technical Skills](https://tech3015.github.io/lectures/coursework-02.html#technical-skills) **checklist**:
+[Technical Skills](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#technical-skills) **checklist**:
 
 You need to demonstrate your ability to **apply the concepts learnt** in this module:
 
@@ -245,7 +245,7 @@ You need to demonstrate your ability to **apply the concepts learnt** in this mo
   - CSS **animation** (the `@keyframes` timeline)
   - **JavaScript** user **interaction** and/or **functionality**
 
-look through the [slide index](https://github.com/tech3015/lectures/#lecture-slides-term-1) to **find the presentations** covering these, but here are some further hints on **technical skills** …
+look through the [slide index](https://github.com/tech3015/lectures/#welcome-to-tech3015) to **find the presentations** covering these, but here are some further hints on **technical skills** …
 
 ---
 
@@ -340,9 +340,9 @@ To **learn more about web accessibility** see the excellent [WebAIM](https://web
 **1500-2000 words**: *references* and *appendices*  
 are **not included** in **word count**
 
-- [Design Process](https://tech3015.github.io/lectures/coursework-02.html#design-process)
-- [Production](https://tech3015.github.io/lectures/coursework-02.html#production)
-- [Evaluation](https://tech3015.github.io/lectures/coursework-02.html#evaluation)
+- [Design Process](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#design-process)
+- [Production](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#production)
+- [Evaluation](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#evaluation)
 
 ---
 
