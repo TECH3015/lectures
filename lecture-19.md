@@ -326,7 +326,7 @@ More **usability/accessibility**:
 - Consistently-placed **menu and home link** throughout the site
 - **Good link text**—never ~click here~! Use brief text about the link destination e.g. "more" is okay **once in a section**, but better to use “**more about (whatever)**”
 
-[see Lecture 3: accessibility](https://tech3015.github.io/presents/?lecture-03#/5) and [slide in lecture 7 on colour and accessibility](https://tech3015.github.io/presents/?lecture-07#/3/1)
+[see Lecture 3: accessibility](https://tech3015.github.io/presents/?lecture-03#/2) and [slide in lecture 7 on colour and accessibility](https://tech3015.github.io/presents/?lecture-07#/3)
 
 To **learn more about web accessibility** see the excellent [WebAIM](https://webaim.org/)
 
