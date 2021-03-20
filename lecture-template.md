@@ -32,7 +32,7 @@ Email: deveritt@dmu.ac.uk
 - **Assignment 2 (60%):**  
 midday (12pm) on Tuesday 4th May 2021
 
-[Full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)
+[Full marking criteria for Coursework 2](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)
 
 ===
 

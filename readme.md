@@ -53,9 +53,9 @@ February break
 
 ---
 
-- **Lecture 18**: Web Animation and SVG graphics
-- **Lecture 19**: detailed assignment criteria recap (TBC: Web 3D, audio, drawing)
-- **Lecture 20**: live websites, Progressive Web App extras, further resources
+- [**Lecture 18**: Introduction to Web Animation and SVG graphics](https://TECH3015.github.io/presents?lecture-18) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=549f0490-27b7-4924-b1b3-acef014d8a82))
+- **Lecture 19**: Detailed Assignment Criteria run-through
+- **Lecture 20**: TBC, possibly live websites, Progressive Web App extras, X3D, who knows…
 
 <!--
 ADD:
@@ -63,9 +63,8 @@ ADD:
 - audio
 - drawing on the web
 
-- [**Lecture 18**: Web Animation and SVG graphics](https://TECH3015.github.io/presents?lecture-18) (or see [the video]())
-- [**Lecture 19**: detailed assignment criteria recap](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
-- [**Lecture 20**: live websites, Progressive Web App extras, further resources](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
+- [**Lecture 19**: Detailed Assignment Criteria run-through](https://TECH3015.github.io/presents?lecture-19) (or see [the video]())
+- [**Lecture 20**: TBC, possibly live websites, Progressive Web App extras, X3D](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
 
 ## TO DO:
 
