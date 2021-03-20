@@ -22,7 +22,7 @@ Email: deveritt@dmu.ac.uk
 <!-- .slide: class="left-align" -->
 
 Let's go through a detailed checklist of the  
-[full marking criteria for Coursework 2](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria)  
+[full marking criteria for Coursework 2](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria)  
 with some linked resources to help you
 
 Points mentioned in the handbook are **abbreviated here** because some appear in **multiple criteria**
@@ -32,7 +32,7 @@ Points mentioned in the handbook are **abbreviated here** because some appear in
 ## MARKING CRITERIA: **CONTENT 01**
 <!-- .slide: class="left-align smalltext" -->
 
-From the [handbook marking criteria](https://tech3015.github.io/lectures/coursework-02.md#marking-criteria):
+From the [handbook marking criteria](https://github.com/thomcorah/dmu-multimedia/blob/master/md/TECH3015-Module-Handbook.md#cw2-marking-criteria):
 
 - HTML5 markup uses **semantic tags** appropriately
 - Text content has **semantic structure** e.g. headings, lists etc.
