@@ -27,6 +27,7 @@ with some linked resources to help you
 
 Points mentioned in the handbook are **abbreviated here** because some appear in **multiple criteria**
 
+<!-- direct links fail even when hyphens removed: https://thomcorah.github.io/dmu-multimedia/lab-reader.html?TECH3015-Module-Handbook.md#cw2markingcriteria -->
 ===
 
 ## MARKING CRITERIA: **CONTENT 01**
