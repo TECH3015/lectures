@@ -5,12 +5,12 @@
 
 ===
 
-# CORONA VIRUS
+# CORONA NOSTALGIA…
 <!-- .slide: class="left-align smalltext" -->
 
-COVID-19 has meant **all teaching is now online**
+(March 2020) COVID-19 meant **all teaching is now online**
 
-- Fania will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)**  
+- Your tutor will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)**  
   for the **remaining labs on Tuesdays at 4-6pm**
 - Please **be patient with emails**, we have **many queries** across modules!
 - **Visit** your **public_html folder** in a **browser** to be sure we can **see the web files**
@@ -41,7 +41,7 @@ There a few different parts to setting up a live site, and they **don't always p
 - a good, memorable **domain name**
 - [FTP software](https://cyberduck.io/) to **upload your files** to the server
 - a modest sum of **money to cover costs**
-- an optional **SSL certificate** (for some purposes)
+- an **SSL certificate** (if not on GitHub pages)
 
 ---
 
@@ -55,12 +55,11 @@ are **computers linked to the internet** as part of the **World Wide Web** netwo
 **Shared Hosting** is where people have **separate logins** and **user spaces** on **one server**. Costs range from free to above £50 p.a. Some **domain providers** also offer hosting
 
 - Choose a plan with **24/7 support** - you'll need it
-- Choose a **Linux**—not a Windows—server (trust us on this!)
+- Choose a **Linux**—not a Windows—server like Debian or Ubuntu
 
 You may have some **web space** with your **Internet Service Provider** (ISP) - check if they **allow you** to use **your own domain name**
 
 - [TechRadar review of free and cheap hosting](https://www.techradar.com/uk/web-hosting/best-free-web-hosting)
-- [7 “Best” Free Hosting Sites (some on commission)](https://hostingfacts.com/free-web-hosting-sites/)
 
 ---
 
@@ -131,7 +130,7 @@ You also can **simply upload your site** to GitHub without GIT
 
 ## “WRITE **ONCE** DEPLOY **ANYWHERE**”
 
-Many frameworks *promised* to deliver this idea (e.g. [Meteor](https://www.meteor.com/), [Ionic](http://ionicframework.com), [Appcelerator Titanium](http://www.appcelerator.com/mobile-app-development-products/), [Sencha](https://www.sencha.com/products/extjs/), [React Native](https://facebook.github.io/react-native/) (Adobe [PhoneGap](http://phonegap.com/) is a *distribution* of Apache's [Cordova](https://cordova.apache.org/))
+Many frameworks *promised* to deliver this idea (e.g. [Meteor](https://www.meteor.com/), [Ionic](http://ionicframework.com), [Appcelerator Titanium](http://www.appcelerator.com/mobile-app-development-products/), [Sencha](https://www.sencha.com/products/extjs/), [React Native](https://facebook.github.io/react-native/), Apache's [Cordova](https://cordova.apache.org/)…
 
 - [Swift](https://developer.apple.com/swift/)/[Java](https://developer.android.com/) **vs** HTML5+native wrapper **vs** PWAs
 
@@ -232,8 +231,8 @@ have code telling the device they’re **PROGRESSIVE**, so are “installed” w
 ## GOING **FURTHER**
 
 - use **HTTPS** and **SSL certificate** ([LetsEncrypt](https://letsencrypt.org/) is free)
-- a [valid **manifest** file](https://manifest-validator.appspot.com/) (replaces `<meta>` tags) for offline use
-- server **config** code for the manifest (e.g. [Apache](https://github.com/h5bp/server-configs-apache/blob/master/src/media_types/media_types.conf))
+- a [valid **manifest.json** file](https://manifest-validator.appspot.com/) (replaces `<meta>` tags) for offline use
+- upload the [completed manifest](https://web.dev/add-manifest/) to your server (typically Apache or NGINX)
 - [**service workers**](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers): cache assets, **offline data** and **push notifications**
 - read up on [IndexedDB](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa) and an [offline data comparison](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 
@@ -260,12 +259,12 @@ Two hand-picked guides/tutorials
 
 ===
 
-## MOBILE APP ICONS
-<!-- .slide: class="left-align" -->
+<!-- ## MOBILE APP ICONS
 
 - [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
 
 ===
+-->
 
 # Web 3D
 <!-- .slide: class="left-align smalltext" -->
