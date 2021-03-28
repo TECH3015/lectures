@@ -1,11 +1,9 @@
 ===
 
-## WEB 3D
+# HTML5 CANVAS
 
-- https://developers.google.com/web/fundamentals/vr/getting-started-with-webvr/
-- https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/
-- https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code
-- [A simple WEb 3d example](https://github.com/DaveEveritt/x3d-example)
+- [Ways to draw on the web](https://stackoverflow.blog/2019/11/06/lets-get-graphic-a-few-ways-to-draw-on-the-web/)
+- [Making drawings with code](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code)
 
 ===
 
@@ -21,18 +19,6 @@
 - single page (SPA)
 - responsive (RWD)
 - progressive (PWA)
-
-===
-
-## HTML AUDIO: **01**
-
-- [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
-- [Using the Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API) ([source code](https://github.com/mdn/webaudio-examples/tree/master/audio-basics))
-
-Related links:
-
-- [MDN Web Audio Examples](https://github.com/mdn/webaudio-examples)
-- [Ruth Norman, JavaScript VJ and audio repos](https://github.com/Rumyra)
 
 ===
 

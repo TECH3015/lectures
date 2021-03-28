@@ -10,7 +10,7 @@
 
 (March 2020) COVID-19 meant **all teaching is now online**
 
-- Your tutor will be present in the BlackBoard **[Online Classroom](https://vle.dmu.ac.uk/webapps/collab-ultra/tool/collabultra?course_id=_550284_1&mode=cpview)**  
+- Your tutor will be present in the BlackBoard **Online Classroom**  
   for the **remaining labs on Tuesdays at 4-6pm**
 - Please **be patient with emails**, we have **many queries** across modules!
 - **Visit** your **public_html folder** in a **browser** to be sure we can **see the web files**
@@ -252,24 +252,20 @@ See [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are
 ## WEB AUDIO **01**
 <!-- .slide: class="left-align" -->
 
-Two hand-picked guides/tutorials
-
 - [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
-- [Using the Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API)
+- [Using the Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API) ([source code](https://github.com/mdn/webaudio-examples/tree/master/audio-basics))
+
+Related links:
+
+- [MDN Web Audio Examples](https://github.com/mdn/webaudio-examples)
+- [Ruth Norman, JavaScript VJ and audio repos](https://github.com/Rumyra)
 
 ===
 
-<!-- ## MOBILE APP ICONS
-
-- [50 Beautiful Mobile App Icons for Design Inspiration](https://speckyboy.com/mobile-app-design-inspiration/)
-
-===
--->
-
-# Web 3D
+# Web 3D **01**
 <!-- .slide: class="left-align smalltext" -->
 
-**X3D** is a web standard for **3D in the browser**, with it's **own DOM** (like SVG)
+**X3D** is a long-established web standard for **3D in the browser**, with it's **own DOM** (like SVG)
 
 ```html
 <x3d >
@@ -283,8 +279,29 @@ Two hand-picked guides/tutorials
 <!-- etc. … -->?
 ```
 
-[X3D demo](https://daveeveritt.github.io/x3d-example/) ([code here](https://github.com/DaveEveritt/x3d-example))
+You need [this JavaScript file to run x3D](https://www.x3dom.org/download/1.8.1/x3dom.js)
 
+It's possible to create whole worlds with sound… oh well, another module.
+
+---
+
+# Web 3D **02**
+<!-- .slide: class="left-align smalltext" -->
+
+X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers ([Browser test](https://get.webgl.org/)) The documentation is a bit messy, though, although the tutorial below is good.
+
+- [X3D demo](https://daveeveritt.github.io/x3d-example/) ([code here](https://github.com/DaveEveritt/x3d-example))
+- [X3D Tutorial (first page used for demo)](https://doc.x3dom.org/tutorials/basics/hello/index.html)
+
+===
+
+## WEB GRAPHICS
+
+A couple of extra links:
+
+- [RaphaelJS (SVG)](https://dmitrybaranovskiy.github.io/raphael/)
+- [Web VR (Virtual Reality, canvas)](https://developers.google.com/web/fundamentals/vr/getting-started-with-webvr/)
+- [Audio Visualisation in ProcessingJS (canvas)](https://openprocessing.org/sketch/695618)
 ===
 
 ## GOODBYE-**ISH**!
@@ -293,4 +310,4 @@ Two hand-picked guides/tutorials
 If you **attended regularly** you've been **great**!
 
 If not, you're *still great* but there's  
-**less time** to **help you**!
+**less time** to **get help**!
