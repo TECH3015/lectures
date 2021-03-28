@@ -281,7 +281,7 @@ Related links:
 
 You need [this JavaScript file to run x3D](https://www.x3dom.org/download/1.8.1/x3dom.js)
 
-It's possible to create whole worlds with sound… oh well, another module.
+It's possible to create whole worlds with sound… oh well, another module. Here's [a reindeer](https://doc.x3dom.org/tutorials/models/inline/example.html) instead.
 
 ---
 
@@ -297,11 +297,12 @@ X3D is the modern version of a standard called VRML (Virtual Reality Modelling L
 
 ## WEB GRAPHICS
 
-A couple of extra links:
+A few more links—other ways of drawing on the web:
 
 - [RaphaelJS (SVG)](https://dmitrybaranovskiy.github.io/raphael/)
 - [Web VR (Virtual Reality, canvas)](https://developers.google.com/web/fundamentals/vr/getting-started-with-webvr/)
 - [Audio Visualisation in ProcessingJS (canvas)](https://openprocessing.org/sketch/695618)
+
 ===
 
 ## GOODBYE-**ISH**!
