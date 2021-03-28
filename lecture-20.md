@@ -262,7 +262,7 @@ Related links:
 
 ===
 
-# Web 3D **01**
+## Web 3D **01**
 <!-- .slide: class="left-align smalltext smallcode" -->
 
 **X3D** is a long-established web standard for **3D in the browser**, with it's **own DOM** (like SVG)
@@ -286,7 +286,7 @@ Related links:
 
 ---
 
-# Web 3D **02**
+## Web 3D **02**
 <!-- .slide: class="left-align smalltext" -->
 
 X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers ([Browser test](https://get.webgl.org/)) The [official documentation is a bit messy](https://x3dgraphics.com/examples/X3dForWebAuthors/Chapter02GeometryPrimitives/), although the [X3D tutorial from X3DOM](https://doc.x3dom.org/tutorials/basics/hello/) is good.
@@ -296,6 +296,7 @@ It's possible to create whole worlds, complete with sound… oh well, another mo
 ===
 
 ## WEB GRAPHICS
+<!-- .slide: class="left-align" -->
 
 A few more links—other ways of drawing on the web:
 
