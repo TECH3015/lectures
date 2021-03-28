@@ -279,19 +279,22 @@ Related links:
 <!-- etc. … -->?
 ```
 
-You need [this JavaScript file to run x3D](https://www.x3dom.org/download/1.8.1/x3dom.js)
+- [X3D demo](https://daveeveritt.github.io/x3d-example/) ([code here](https://github.com/DaveEveritt/x3d-example))
+- You need [this JavaScript file to run x3D](https://www.x3dom.org/download/1.8.1/x3dom.js) ([full download page](https://www.x3dom.org/nodes/))
+- X3DOM is the source for easily [running x3D models in the browser](https://www.x3dom.org/) and they have [great x3D tutorials](https://doc.x3dom.org/tutorials/index.html).
 
-It's possible to create whole worlds with sound… oh well, another module. Here's [a reindeer](https://doc.x3dom.org/tutorials/models/inline/example.html) instead.
 
 ---
 
 # Web 3D **02**
 <!-- .slide: class="left-align smalltext" -->
 
-X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers ([Browser test](https://get.webgl.org/)) The documentation is a bit messy, though, although the tutorial below is good.
+X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers ([Browser test](https://get.webgl.org/)) The [official documentation is a bit messy](https://x3dgraphics.com/examples/X3dForWebAuthors/Chapter02GeometryPrimitives/), although the tutorial frm X3DOM below is good.
 
-- [X3D demo](https://daveeveritt.github.io/x3d-example/) ([code here](https://github.com/DaveEveritt/x3d-example))
-- [X3D Tutorial (first page used for demo)](https://doc.x3dom.org/tutorials/basics/hello/index.html)
+- [X3D Tutorial (first page used for basic demo)](https://doc.x3dom.org/tutorials/basics/hello/)
+- [Multiple X3D tutorials](https://doc.x3dom.org/tutorials/)
+
+It's possible to create whole worlds, complete with sound… oh well, another module. Here's [a simple reindeer](https://doc.x3dom.org/tutorials/models/inline/example.html) instead.
 
 ===
 
