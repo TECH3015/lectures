@@ -268,7 +268,7 @@ Related links:
 **X3D** is a long-established web standard for **3D in the browser**, with it's **own DOM** (like SVG)
 
 ```html
-<x3d >
+<x3d>
   <scene>
     <shape>
       <appearance>
@@ -277,7 +277,7 @@ Related links:
       <box></box>
     </shape>
 <!-- more 3D model code… -->
-</x3d >
+</x3d>
 ```
 
 - [X3D demo](https://daveeveritt.github.io/x3d-example/) ([code here](https://github.com/DaveEveritt/x3d-example))
@@ -289,7 +289,7 @@ Related links:
 ## Web 3D **02**
 <!-- .slide: class="left-align smalltext" -->
 
-X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers ([Browser test](https://get.webgl.org/).
+X3D is the modern version of a standard called VRML (Virtual Reality Modelling Language), and gets very little coverage, although the [Web3D Consortium](https://www.web3d.org/) is very active. It's supported in modern browsers: [browser test](https://get.webgl.org/).
 
 The [official documentation is a bit messy](https://x3dgraphics.com/examples/X3dForWebAuthors/Chapter02GeometryPrimitives/), although the [X3D tutorial from X3DOM](https://doc.x3dom.org/tutorials/basics/hello/) is good.
 
