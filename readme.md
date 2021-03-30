@@ -55,16 +55,9 @@ February break
 
 - [**Lecture 18**: Introduction to Web Animation and SVG graphics](https://TECH3015.github.io/presents?lecture-18) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=549f0490-27b7-4924-b1b3-acef014d8a82))
 - [**Lecture 19**: Detailed Assignment Criteria run-through](https://TECH3015.github.io/presents?lecture-19) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=307075da-e1d4-4e51-92bc-acf300b5623e))
-- **Lecture 20**: Live Websites, Progressive Web Apps, Web Audio links, Web 3D
+- [**Lecture 20**: Live Websites, Progressive Web Apps, Web Audio links, Web 3D](https://TECH3015.github.io/presents?lecture-20) (or see [the video](https://dmureplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7d56902-63f1-440d-904b-acfb013b1458))
 
 <!--
-ADD:
-- X3D
-- audio
-- drawing on the web
-
-- [**Lecture 20**: Live Websites, Progressive Web Apps, Web Audio links, Web 3D](https://TECH3015.github.io/presents?lecture-20) (or see [the video]())
-
 ## TO DO:
 
 - [ ] Move all images to TECH3015 "githubusercontent.com/TECH3015/lectures/" not "githubusercontent.com/DaveEveritt/TECH3015/master/imgs/"
