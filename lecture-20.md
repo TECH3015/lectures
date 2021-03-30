@@ -283,6 +283,39 @@ Related links:
 - You need [this JavaScript file to run x3D](https://www.x3dom.org/download/1.8.1/x3dom.js) ([full download page](https://www.x3dom.org/nodes/))
 - X3DOM is the source for easily [running x3D models in the browser](https://www.x3dom.org/) and they have [great x3D tutorials](https://doc.x3dom.org/tutorials/).
 
+---
+  
+  <link rel='stylesheet' type='text/css' href='https://raw.githubusercontent.com/DaveEveritt/x3d-example/master/x3dom.css'></link>
+
+  <x3d style="width: 100%;"><!-- width='600px' height='400px' -->
+    <scene>
+      <shape>
+        <appearance>
+          <!-- emissiveColor='0,.4,0' specularColor='0,.3,0' -->
+          <material diffuseColor='0 .4 .8' shininess='0.7' transparency='.1'></material>
+        </appearance>
+        <box></box>
+      </shape>
+      <transform translation='-3 0 0'>
+      <shape>
+        <appearance>
+          <material diffuseColor='0 .8 .2' shininess='0.7' transparency='.1'></material>
+        </appearance>
+        <cone></cone>
+      </shape>
+      </transform>
+      <transform translation='3 0 0'>
+      <shape>
+        <appearance>
+          <material diffuseColor='.9 0 .1' shininess='0.7' transparency='.1'></material>
+        </appearance>
+        <sphere></sphere>
+      </shape>
+      </transform>
+    </scene>
+  </x3d>
+
+  <script type='text/javascript' src='https://www.x3dom.org/download/x3dom.js'> </script>
 
 ---
 
