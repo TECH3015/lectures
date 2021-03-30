@@ -486,8 +486,6 @@ Related links:
 
 ---
   
-  <link rel='stylesheet' type='text/css' href='https://raw.githubusercontent.com/DaveEveritt/x3d-example/master/x3dom.css'></link>
-
   <x3d style="width: 100%;"><!-- width='600px' height='400px' -->
     <scene>
       <shape>
